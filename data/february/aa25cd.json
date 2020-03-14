@@ -1,0 +1,149 @@
+[
+  {
+    "icao"      : "aa25cd",
+    "callsign"  : "DCM2327 ",
+    "nnumber"   : "N753GJ",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-06 13:40:14+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "13974.999999999998",
+        "latitude"  : "30.85643005371094",
+        "longitude" : "-90.69095387178308"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-06 13:51:55+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "26050.0",
+        "latitude"  : "31.38093566894531",
+        "longitude" : "-91.69668758616727"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "aa25cd",
+    "callsign"  : "DCM2327 ",
+    "nnumber"   : "N753GJ",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-07 22:19:52+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "38000.0",
+        "latitude"  : "30.06436157226562",
+        "longitude" : "-93.9037547392004"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "TX05",
+      "time"                : "2020-02-07 22:59:46+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "500.0",
+        "latitude"  : "30.26049995",
+        "longitude" : "-97.62529755"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1375.0",
+        "latitude"  : "30.24224232819121",
+        "longitude" : "-97.65840454101559"
+      },
+      "horizontal_distance" : "3774.7756355331894",
+      "vertical_distance"   : "875.0"
+    }
+  },
+  {
+    "icao"      : "aa25cd",
+    "callsign"  : "DCM2327 ",
+    "nnumber"   : "N753GJ",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-27 13:46:42+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "36750.0",
+        "latitude"  : "30.072466316869697",
+        "longitude" : "-93.73974609375"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "02XS",
+      "time"                : "2020-02-27 14:30:43+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "510.0",
+        "latitude"  : "30.1476993560791",
+        "longitude" : "-97.66280364990234"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "200.0",
+        "latitude"  : "30.167153568591104",
+        "longitude" : "-97.65692138671876"
+      },
+      "horizontal_distance" : "2229.8029261225493",
+      "vertical_distance"   : "-310.0"
+    }
+  },
+  {
+    "icao"      : "aa25cd",
+    "callsign"  : "DCM2327 ",
+    "nnumber"   : "N753GJ",
+    "departure" :
+    {
+      "airport"             : "KAUS",
+      "time"                : "2020-02-28 01:44:49+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "542.0",
+        "latitude"  : "30.194499969482425",
+        "longitude" : "-97.6698989868164"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1600.0",
+        "latitude"  : "30.16868591308594",
+        "longitude" : "-97.65569350298716"
+      },
+      "horizontal_distance" : "3171.862746992136",
+      "vertical_distance"   : "1058.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-28 02:14:09+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "33625.0",
+        "latitude"  : "30.07232666015625",
+        "longitude" : "-93.87762451171876"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  }
+]

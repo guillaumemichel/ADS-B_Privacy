@@ -1,0 +1,121 @@
+[
+  {
+    "icao"      : "a48070",
+    "callsign"  : "N39A    ",
+    "nnumber"   : "N39A",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-07 18:16:41+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "9175.0",
+        "latitude"  : "33.891860961914055",
+        "longitude" : "-116.2997561084981"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KP52",
+      "time"                : "2020-02-07 18:43:28+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "3550.0",
+        "latitude"  : "34.7299995422",
+        "longitude" : "-112.03500366200001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "24125.0",
+        "latitude"  : "40.73268127441406",
+        "longitude" : "-121.05474853515621"
+      },
+      "horizontal_distance" : "1036326.5634118238",
+      "vertical_distance"   : "20575.0"
+    }
+  },
+  {
+    "icao"      : "a48070",
+    "callsign"  : "DCM6065 ",
+    "nnumber"   : "N39A",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-21 17:50:15+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "9175.0",
+        "latitude"  : "33.891860961914055",
+        "longitude" : "-116.2997561084981"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHIO",
+      "time"                : "2020-02-21 20:54:19+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "208.0",
+        "latitude"  : "45.540401",
+        "longitude" : "-122.949997"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "24125.0",
+        "latitude"  : "40.73268127441406",
+        "longitude" : "-121.05474853515621"
+      },
+      "horizontal_distance" : "555881.9871225953",
+      "vertical_distance"   : "23917.0"
+    }
+  },
+  {
+    "icao"      : "a48070",
+    "callsign"  : "DCM6065 ",
+    "nnumber"   : "N39A",
+    "departure" :
+    {
+      "airport"             : "KHIO",
+      "time"                : "2020-02-24 22:04:29+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "208.0",
+        "latitude"  : "45.540401",
+        "longitude" : "-122.949997"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "874.9999999999999",
+        "latitude"  : "45.56151309255826",
+        "longitude" : "-122.97374725341801"
+      },
+      "horizontal_distance" : "2990.8813869080427",
+      "vertical_distance"   : "666.9999999999999"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHIO",
+      "time"                : "2020-02-24 22:43:32+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "208.0",
+        "latitude"  : "45.540401",
+        "longitude" : "-122.949997"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-300.0",
+        "latitude"  : "45.5307420633607",
+        "longitude" : "-122.93969131097559"
+      },
+      "horizontal_distance" : "1341.791925974316",
+      "vertical_distance"   : "-508.0"
+    }
+  }
+]

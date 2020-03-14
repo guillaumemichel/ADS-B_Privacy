@@ -1,0 +1,121 @@
+[
+  {
+    "icao"      : "aca5a4",
+    "callsign"  : "DCM4084 ",
+    "nnumber"   : "N914BD",
+    "departure" :
+    {
+      "airport"             : "KBUR",
+      "time"                : "2019-11-03 13:44:35+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "778.0",
+        "latitude"  : "34.200698852539055",
+        "longitude" : "-118.35900115966795"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "700.0",
+        "latitude"  : "34.205560199284946",
+        "longitude" : "-118.3586311340332"
+      },
+      "horizontal_distance" : "540.3273390098319",
+      "vertical_distance"   : "-78.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-11-03 16:03:56+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "14850.000000000004",
+        "latitude"  : "34.790176391601555",
+        "longitude" : "-93.28911606146364"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "aca5a4",
+    "callsign"  : "DCM4084 ",
+    "nnumber"   : "N914BD",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-11-03 17:21:01+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "30300.0",
+        "latitude"  : "35.58769226074219",
+        "longitude" : "-91.00181579589844"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHPN",
+      "time"                : "2019-11-03 19:07:09+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "439.0",
+        "latitude"  : "41.06700134277344",
+        "longitude" : "-73.70760345458984"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "300.0",
+        "latitude"  : "41.0566995911679",
+        "longitude" : "-73.69891079989347"
+      },
+      "horizontal_distance" : "1357.4839124080631",
+      "vertical_distance"   : "-139.0"
+    }
+  },
+  {
+    "icao"      : "aca5a4",
+    "callsign"  : "DCM4084 ",
+    "nnumber"   : "N914BD",
+    "departure" :
+    {
+      "airport"             : "KHPN",
+      "time"                : "2019-11-05 23:25:49+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "439.0",
+        "latitude"  : "41.06700134277344",
+        "longitude" : "-73.70760345458984"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "3275.0",
+        "latitude"  : "41.10567254535222",
+        "longitude" : "-73.77881136807531"
+      },
+      "horizontal_distance" : "7365.019547460641",
+      "vertical_distance"   : "2836.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KPDK",
+      "time"                : "2019-11-06 01:06:28+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1003.0",
+        "latitude"  : "33.8755989075",
+        "longitude" : "-84.3020019531"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1875.0",
+        "latitude"  : "33.960323010460804",
+        "longitude" : "-84.26301956176758"
+      },
+      "horizontal_distance" : "10065.343207380074",
+      "vertical_distance"   : "872.0"
+    }
+  }
+]

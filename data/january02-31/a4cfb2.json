@@ -1,0 +1,197 @@
+[
+  {
+    "icao"      : "a4cfb2",
+    "callsign"  : "DCM3329 ",
+    "nnumber"   : "N409ST",
+    "departure" :
+    {
+      "airport"             : "KDWH",
+      "time"                : "2020-01-02 20:15:43+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "152.0",
+        "latitude"  : "30.0618000031",
+        "longitude" : "-95.5528030396"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2000.0",
+        "latitude"  : "30.04051208496094",
+        "longitude" : "-95.58417825137865"
+      },
+      "horizontal_distance" : "3837.1642451240946",
+      "vertical_distance"   : "1848.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-02 20:40:51+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "8300.0",
+        "latitude"  : "31.09168101165254",
+        "longitude" : "-97.1901123046875"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a4cfb2",
+    "callsign"  : "DCM3329 ",
+    "nnumber"   : "N409ST",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-02 21:23:56+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "8899.999999999998",
+        "latitude"  : "31.32302856445312",
+        "longitude" : "-97.44000603170956"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KADS",
+      "time"                : "2020-01-02 21:56:38+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "644.0",
+        "latitude"  : "32.9686012268",
+        "longitude" : "-96.8364028931"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1099.9999999999998",
+        "latitude"  : "32.979607016353285",
+        "longitude" : "-96.8412874182876"
+      },
+      "horizontal_distance" : "1303.196474755175",
+      "vertical_distance"   : "455.9999999999998"
+    }
+  },
+  {
+    "icao"      : "a4cfb2",
+    "callsign"  : "DCM3329 ",
+    "nnumber"   : "N409ST",
+    "departure" :
+    {
+      "airport"             : "KADS",
+      "time"                : "2020-01-02 22:26:01+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "644.0",
+        "latitude"  : "32.9686012268",
+        "longitude" : "-96.8364028931"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1300.0",
+        "latitude"  : "32.96871379270392",
+        "longitude" : "-96.83657899194831"
+      },
+      "horizontal_distance" : "20.660944593966356",
+      "vertical_distance"   : "656.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "TX03",
+      "time"                : "2020-01-02 22:44:11+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "716.0",
+        "latitude"  : "31.875200271606445",
+        "longitude" : "-97.06690216064452"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "50300.0",
+        "latitude"  : "31.85374114472987",
+        "longitude" : "-97.08478032326212"
+      },
+      "horizontal_distance" : "2919.6364017583605",
+      "vertical_distance"   : "49584.0"
+    }
+  },
+  {
+    "icao"      : "a4cfb2",
+    "callsign"  : "DCM3329 ",
+    "nnumber"   : "N409ST",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-08 16:40:10+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "7800.0",
+        "latitude"  : "31.71551513671875",
+        "longitude" : "-97.35863180721508"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "OK12",
+      "time"                : "2020-01-08 17:10:26+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1042.0",
+        "latitude"  : "34.399167",
+        "longitude" : "-98.266389"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "7299.999999999999",
+        "latitude"  : "34.40336065777277",
+        "longitude" : "-98.31207275390624"
+      },
+      "horizontal_distance" : "4226.216869579032",
+      "vertical_distance"   : "6257.999999999999"
+    }
+  },
+  {
+    "icao"      : "a4cfb2",
+    "callsign"  : "DCM3329 ",
+    "nnumber"   : "N409ST",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-08 17:57:01+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "9500.0",
+        "latitude"  : "34.387939453125",
+        "longitude" : "-98.35599938217472"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "04TX",
+      "time"                : "2020-01-08 18:28:59+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "565.0",
+        "latitude"  : "31.7322006226",
+        "longitude" : "-97.36889648440001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5300.0",
+        "latitude"  : "31.71049990896451",
+        "longitude" : "-97.38138427734371"
+      },
+      "horizontal_distance" : "2681.5497681846273",
+      "vertical_distance"   : "4735.0"
+    }
+  }
+]

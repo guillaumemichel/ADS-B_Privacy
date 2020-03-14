@@ -1,0 +1,121 @@
+[
+  {
+    "icao"      : "add303",
+    "callsign"  : "DCM2217 ",
+    "nnumber"   : "N990DW",
+    "departure" :
+    {
+      "airport"             : "KMAE",
+      "time"                : "2020-02-10 17:44:41+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "255.0",
+        "latitude"  : "36.9886016846",
+        "longitude" : "-120.11199951200001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2375.0000000000005",
+        "latitude"  : "37.0089111328125",
+        "longitude" : "-120.164483252992"
+      },
+      "horizontal_distance" : "5187.02299325817",
+      "vertical_distance"   : "2120.0000000000005"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-10 19:24:46+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "28750.0",
+        "latitude"  : "32.22871942035222",
+        "longitude" : "-107.8943182497608"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "add303",
+    "callsign"  : "DCM2217 ",
+    "nnumber"   : "N990DW",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-10 21:32:47+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "33475.0",
+        "latitude"  : "31.95806470967955",
+        "longitude" : "-107.2474701550542"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KMAE",
+      "time"                : "2020-02-10 23:30:54+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "255.0",
+        "latitude"  : "36.9886016846",
+        "longitude" : "-120.11199951200001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1175.0",
+        "latitude"  : "36.94889831542969",
+        "longitude" : "-120.0638531624003"
+      },
+      "horizontal_distance" : "6147.80912006806",
+      "vertical_distance"   : "920.0"
+    }
+  },
+  {
+    "icao"      : "add303",
+    "callsign"  : "DCM2217 ",
+    "nnumber"   : "N990DW",
+    "departure" :
+    {
+      "airport"             : "KMAE",
+      "time"                : "2020-02-22 03:51:33+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "255.0",
+        "latitude"  : "36.9886016846",
+        "longitude" : "-120.11199951200001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2225.0000000000005",
+        "latitude"  : "37.01056528899629",
+        "longitude" : "-120.13961791992192"
+      },
+      "horizontal_distance" : "3461.915258933782",
+      "vertical_distance"   : "1970.0000000000005"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KMOD",
+      "time"                : "2020-02-22 04:06:45+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "97.0",
+        "latitude"  : "37.62580109",
+        "longitude" : "-120.9540024"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "300.0",
+        "latitude"  : "37.61439514160156",
+        "longitude" : "-120.9317730842752"
+      },
+      "horizontal_distance" : "2335.3683635515986",
+      "vertical_distance"   : "203.0"
+    }
+  }
+]

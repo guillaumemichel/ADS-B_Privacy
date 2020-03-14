@@ -1,0 +1,131 @@
+[
+  {
+    "icao"      : "a1c9f5",
+    "callsign"  : "DCM3111 ",
+    "nnumber"   : "N214SG",
+    "departure" :
+    {
+      "airport"             : "KDAL",
+      "time"                : "2019-11-01 23:18:22+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "487.0",
+        "latitude"  : "32.847099",
+        "longitude" : "-96.851799"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "825.0",
+        "latitude"  : "32.83873994471663",
+        "longitude" : "-96.84874242665813"
+      },
+      "horizontal_distance" : "970.1923848055942",
+      "vertical_distance"   : "338.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "TX05",
+      "time"                : "2019-11-01 23:50:37+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "500.0",
+        "latitude"  : "30.26049995",
+        "longitude" : "-97.62529755"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "449.99999999999994",
+        "latitude"  : "30.21393856759799",
+        "longitude" : "-97.6581298828125"
+      },
+      "horizontal_distance" : "6052.2695372726375",
+      "vertical_distance"   : "-50.00000000000006"
+    }
+  },
+  {
+    "icao"      : "a1c9f5",
+    "callsign"  : "DCM3111 ",
+    "nnumber"   : "N214SG",
+    "departure" :
+    {
+      "airport"             : "KAUS",
+      "time"                : "2019-11-03 23:04:29+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "542.0",
+        "latitude"  : "30.194499969482425",
+        "longitude" : "-97.6698989868164"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1325.0",
+        "latitude"  : "30.183837890625",
+        "longitude" : "-97.65687830307905"
+      },
+      "horizontal_distance" : "1723.1785337762992",
+      "vertical_distance"   : "783.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDAL",
+      "time"                : "2019-11-03 23:44:04+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "487.0",
+        "latitude"  : "32.847099",
+        "longitude" : "-96.851799"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "700.0",
+        "latitude"  : "32.864639282226555",
+        "longitude" : "-96.8789794921875"
+      },
+      "horizontal_distance" : "3202.6687464063352",
+      "vertical_distance"   : "213.0"
+    }
+  },
+  {
+    "icao"      : "a1c9f5",
+    "callsign"  : "DCM3111 ",
+    "nnumber"   : "N214SG",
+    "departure" :
+    {
+      "airport"             : "KDAL",
+      "time"                : "2019-11-21 19:46:56+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "487.0",
+        "latitude"  : "32.847099",
+        "longitude" : "-96.851799"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1525.0000000000005",
+        "latitude"  : "32.829574584960945",
+        "longitude" : "-96.837451171875"
+      },
+      "horizontal_distance" : "2362.533625202165",
+      "vertical_distance"   : "1038.0000000000005"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSNA",
+      "time"                : "2019-11-21 22:37:15+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "56.0",
+        "latitude"  : "33.67570114",
+        "longitude" : "-117.86799620000001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "150.0",
+        "latitude"  : "33.7000494488215",
+        "longitude" : "-117.8532028198242"
+      },
+      "horizontal_distance" : "3029.0077298622737",
+      "vertical_distance"   : "94.0"
+    }
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "icao"      : "a1deec",
+    "callsign"  : "DCM2O43 ",
+    "nnumber"   : "N22CT",
+    "departure" :
+    {
+      "airport"             : "KLNK",
+      "time"                : "2020-01-24 17:32:48+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1219.0",
+        "latitude"  : "40.85100173950195",
+        "longitude" : "-96.75920104980469"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2725.0",
+        "latitude"  : "40.87760925292969",
+        "longitude" : "-96.7821044921875"
+      },
+      "horizontal_distance" : "3529.777973919344",
+      "vertical_distance"   : "1506.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "9XS0",
+      "time"                : "2020-01-24 19:03:43+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "170.0",
+        "latitude"  : "29.097999572753906",
+        "longitude" : "-96.9552993774414"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "6875.0",
+        "latitude"  : "29.159111410884535",
+        "longitude" : "-96.95558435776655"
+      },
+      "horizontal_distance" : "6773.56389225168",
+      "vertical_distance"   : "6705.0"
+    }
+  }
+]

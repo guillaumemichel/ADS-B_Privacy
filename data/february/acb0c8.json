@@ -1,0 +1,450 @@
+[
+  {
+    "icao"      : "acb0c8",
+    "callsign"  : "DCM148  ",
+    "nnumber"   : "N917BC",
+    "departure" :
+    {
+      "airport"             : "KFTW",
+      "time"                : "2020-02-04 16:07:14+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "710.0",
+        "latitude"  : "32.819801",
+        "longitude" : "-97.36239599999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2300.0000000000005",
+        "latitude"  : "32.83967098947299",
+        "longitude" : "-97.36476353236607"
+      },
+      "horizontal_distance" : "2214.7323076514563",
+      "vertical_distance"   : "1590.0000000000005"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-04 16:24:53+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "4499.999999999999",
+        "latitude"  : "33.23736675715043",
+        "longitude" : "-99.76544438576212"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "acb0c8",
+    "callsign"  : "DCM148  ",
+    "nnumber"   : "N917BC",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-04 22:56:32+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "29000.0",
+        "latitude"  : "33.778335571289055",
+        "longitude" : "-100.36924401108101"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KFTW",
+      "time"                : "2020-02-04 23:30:58+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "710.0",
+        "latitude"  : "32.819801",
+        "longitude" : "-97.36239599999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1625.0",
+        "latitude"  : "32.75564420021186",
+        "longitude" : "-97.34996562101404"
+      },
+      "horizontal_distance" : "7209.687918860473",
+      "vertical_distance"   : "915.0"
+    }
+  },
+  {
+    "icao"      : "acb0c8",
+    "callsign"  : "DCM148  ",
+    "nnumber"   : "N917BC",
+    "departure" :
+    {
+      "airport"             : "KFTW",
+      "time"                : "2020-02-07 17:24:36+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "710.0",
+        "latitude"  : "32.819801",
+        "longitude" : "-97.36239599999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1850.0",
+        "latitude"  : "32.83711061639301",
+        "longitude" : "-97.36392274194831"
+      },
+      "horizontal_distance" : "1924.976296284341",
+      "vertical_distance"   : "1140.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHND",
+      "time"                : "2020-02-07 20:30:08+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "2492.0",
+        "latitude"  : "35.9728012085",
+        "longitude" : "-115.134002686"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5425.0",
+        "latitude"  : "32.36727905273438",
+        "longitude" : "-100.08896484375"
+      },
+      "horizontal_distance" : "1441923.3633475902",
+      "vertical_distance"   : "2933.0"
+    }
+  },
+  {
+    "icao"      : "acb0c8",
+    "callsign"  : "DCM148  ",
+    "nnumber"   : "N917BC",
+    "departure" :
+    {
+      "airport"             : "KHND",
+      "time"                : "2020-02-10 18:26:41+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "2492.0",
+        "latitude"  : "35.9728012085",
+        "longitude" : "-115.134002686"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2375.0000000000005",
+        "latitude"  : "35.96970380362818",
+        "longitude" : "-115.1354915537732"
+      },
+      "horizontal_distance" : "368.9880103949583",
+      "vertical_distance"   : "-116.99999999999955"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-10 19:39:29+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "6100.0",
+        "latitude"  : "33.44010175284693",
+        "longitude" : "-104.4160803970025"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "acb0c8",
+    "callsign"  : "DCM148  ",
+    "nnumber"   : "N917BC",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-10 23:24:37+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "29000.0",
+        "latitude"  : "32.23053495762711",
+        "longitude" : "-100.19906803053249"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KFTW",
+      "time"                : "2020-02-10 23:50:26+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "710.0",
+        "latitude"  : "32.819801",
+        "longitude" : "-97.36239599999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1424.9999999999998",
+        "latitude"  : "32.74726479740466",
+        "longitude" : "-97.34856430365114"
+      },
+      "horizontal_distance" : "8148.000679572183",
+      "vertical_distance"   : "714.9999999999998"
+    }
+  },
+  {
+    "icao"      : "acb0c8",
+    "callsign"  : "DCM148  ",
+    "nnumber"   : "N917BC",
+    "departure" :
+    {
+      "airport"             : "KFTW",
+      "time"                : "2020-02-19 14:36:45+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "710.0",
+        "latitude"  : "32.819801",
+        "longitude" : "-97.36239599999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1200.0",
+        "latitude"  : "32.831771850585945",
+        "longitude" : "-97.36320190429687"
+      },
+      "horizontal_distance" : "1329.7265938680348",
+      "vertical_distance"   : "490.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "02XS",
+      "time"                : "2020-02-19 15:19:16+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "510.0",
+        "latitude"  : "30.1476993560791",
+        "longitude" : "-97.66280364990234"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "525.0",
+        "latitude"  : "30.16424560546875",
+        "longitude" : "-97.65693215762865"
+      },
+      "horizontal_distance" : "1919.4682796652762",
+      "vertical_distance"   : "15.0"
+    }
+  },
+  {
+    "icao"      : "acb0c8",
+    "callsign"  : "DCM148  ",
+    "nnumber"   : "N917BC",
+    "departure" :
+    {
+      "airport"             : "KAUS",
+      "time"                : "2020-02-19 16:50:53+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "542.0",
+        "latitude"  : "30.194499969482425",
+        "longitude" : "-97.6698989868164"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1050.0",
+        "latitude"  : "30.20202119471663",
+        "longitude" : "-97.6563720703125"
+      },
+      "horizontal_distance" : "1546.556325511248",
+      "vertical_distance"   : "508.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDWH",
+      "time"                : "2020-02-19 17:19:59+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "152.0",
+        "latitude"  : "30.0618000031",
+        "longitude" : "-95.5528030396"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "724.9999999999999",
+        "latitude"  : "29.99491882324219",
+        "longitude" : "-95.54341035730698"
+      },
+      "horizontal_distance" : "7469.127200413602",
+      "vertical_distance"   : "572.9999999999999"
+    }
+  },
+  {
+    "icao"      : "acb0c8",
+    "callsign"  : "DCM148  ",
+    "nnumber"   : "N917BC",
+    "departure" :
+    {
+      "airport"             : "KDWH",
+      "time"                : "2020-02-19 17:45:21+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "152.0",
+        "latitude"  : "30.0618000031",
+        "longitude" : "-95.5528030396"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1124.9999999999998",
+        "latitude"  : "30.03662109375",
+        "longitude" : "-95.56662166819855"
+      },
+      "horizontal_distance" : "3092.9847266762163",
+      "vertical_distance"   : "972.9999999999998"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHOU",
+      "time"                : "2020-02-19 17:58:57+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "46.0",
+        "latitude"  : "29.64539909",
+        "longitude" : "-95.27890015"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "475.0",
+        "latitude"  : "29.60870361328125",
+        "longitude" : "-95.31912583571214"
+      },
+      "horizontal_distance" : "5632.151804685798",
+      "vertical_distance"   : "429.0"
+    }
+  },
+  {
+    "icao"      : "acb0c8",
+    "callsign"  : "DCM148  ",
+    "nnumber"   : "N917BC",
+    "departure" :
+    {
+      "airport"             : "KHOU",
+      "time"                : "2020-02-20 01:41:10+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "46.0",
+        "latitude"  : "29.64539909",
+        "longitude" : "-95.27890015"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1950.0",
+        "latitude"  : "29.6759033203125",
+        "longitude" : "-95.27908912071814"
+      },
+      "horizontal_distance" : "3381.3440804060438",
+      "vertical_distance"   : "1904.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "02XS",
+      "time"                : "2020-02-20 02:10:59+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "510.0",
+        "latitude"  : "30.1476993560791",
+        "longitude" : "-97.66280364990234"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "600.0",
+        "latitude"  : "30.16389491194385",
+        "longitude" : "-97.65703125"
+      },
+      "horizontal_distance" : "1879.507040865821",
+      "vertical_distance"   : "90.0"
+    }
+  },
+  {
+    "icao"      : "acb0c8",
+    "callsign"  : "DCM148  ",
+    "nnumber"   : "N917BC",
+    "departure" :
+    {
+      "airport"             : "KAUS",
+      "time"                : "2020-02-20 02:40:37+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "542.0",
+        "latitude"  : "30.194499969482425",
+        "longitude" : "-97.6698989868164"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "825.0",
+        "latitude"  : "30.19258117675781",
+        "longitude" : "-97.6577938304228"
+      },
+      "horizontal_distance" : "1184.956281322475",
+      "vertical_distance"   : "283.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KFTW",
+      "time"                : "2020-02-20 03:13:03+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "710.0",
+        "latitude"  : "32.819801",
+        "longitude" : "-97.36239599999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "32324.999999999996",
+        "latitude"  : "32.75252520027807",
+        "longitude" : "-97.34946114676336"
+      },
+      "horizontal_distance" : "7558.685586902717",
+      "vertical_distance"   : "31614.999999999996"
+    }
+  },
+  {
+    "icao"      : "acb0c8",
+    "callsign"  : "DCM148  ",
+    "nnumber"   : "N917BC",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-25 20:43:14+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "13400.0",
+        "latitude"  : "34.66827392578125",
+        "longitude" : "-92.41671192402742"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KFTW",
+      "time"                : "2020-02-25 21:33:29+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "710.0",
+        "latitude"  : "32.819801",
+        "longitude" : "-97.36239599999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1550.0",
+        "latitude"  : "32.76141357421875",
+        "longitude" : "-97.33694458007812"
+      },
+      "horizontal_distance" : "6900.170346010243",
+      "vertical_distance"   : "840.0"
+    }
+  }
+]

@@ -1,0 +1,283 @@
+[
+  {
+    "icao"      : "a72791",
+    "callsign"  : "DCM6004 ",
+    "nnumber"   : "N560GS",
+    "departure" :
+    {
+      "airport"             : "KSDL",
+      "time"                : "2020-02-04 15:12:21+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1510.0",
+        "latitude"  : "33.622898101806996",
+        "longitude" : "-111.91100311279"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1500.0",
+        "latitude"  : "33.62356412208686",
+        "longitude" : "-111.9097137451172"
+      },
+      "horizontal_distance" : "140.60979459532777",
+      "vertical_distance"   : "-10.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDAY",
+      "time"                : "2020-02-04 18:37:09+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1009.0",
+        "latitude"  : "39.90240097045898",
+        "longitude" : "-84.21939849853516"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "3350.0",
+        "latitude"  : "39.89273071289062",
+        "longitude" : "-84.25062760062838"
+      },
+      "horizontal_distance" : "2878.5047479054615",
+      "vertical_distance"   : "2341.0"
+    }
+  },
+  {
+    "icao"      : "a72791",
+    "callsign"  : "DCM556  ",
+    "nnumber"   : "N560GS",
+    "departure" :
+    {
+      "airport"             : "KDAY",
+      "time"                : "2020-02-09 12:37:34+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1009.0",
+        "latitude"  : "39.90240097045898",
+        "longitude" : "-84.21939849853516"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "899.9999999999999",
+        "latitude"  : "39.90383342161017",
+        "longitude" : "-84.22998046875"
+      },
+      "horizontal_distance" : "918.7821064360971",
+      "vertical_distance"   : "-109.00000000000011"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-09 15:03:58+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "8775.0",
+        "latitude"  : "31.03244018554688",
+        "longitude" : "-95.86395263671876"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a72791",
+    "callsign"  : "DCM762  ",
+    "nnumber"   : "N560GS",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-15 23:45:33+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "17250.0",
+        "latitude"  : "27.87931823730469",
+        "longitude" : "-98.99407152859669"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDAY",
+      "time"                : "2020-02-16 02:11:34+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1009.0",
+        "latitude"  : "39.90240097045898",
+        "longitude" : "-84.21939849853516"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "874.9999999999999",
+        "latitude"  : "39.92015075683594",
+        "longitude" : "-84.21217545219088"
+      },
+      "horizontal_distance" : "2065.315093096778",
+      "vertical_distance"   : "-134.0000000000001"
+    }
+  },
+  {
+    "icao"      : "a72791",
+    "callsign"  : "DCM308  ",
+    "nnumber"   : "N560GS",
+    "departure" :
+    {
+      "airport"             : "KDAY",
+      "time"                : "2020-02-18 11:01:03+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1009.0",
+        "latitude"  : "39.90240097045898",
+        "longitude" : "-84.21939849853516"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1550.0",
+        "latitude"  : "39.89067077636719",
+        "longitude" : "-84.22352003014606"
+      },
+      "horizontal_distance" : "1349.288924031522",
+      "vertical_distance"   : "541.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KTEB",
+      "time"                : "2020-02-18 12:18:55+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "40.85010147089999",
+        "longitude" : "-74.060798645"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-424.99999999999994",
+        "latitude"  : "40.84565734863281",
+        "longitude" : "-74.0718994140625"
+      },
+      "horizontal_distance" : "1058.2374819128688",
+      "vertical_distance"   : "-433.99999999999994"
+    }
+  },
+  {
+    "icao"      : "a72791",
+    "callsign"  : "DCM223  ",
+    "nnumber"   : "N560GS",
+    "departure" :
+    {
+      "airport"             : "KTEB",
+      "time"                : "2020-02-18 19:37:53+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "40.85010147089999",
+        "longitude" : "-74.060798645"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "75.0",
+        "latitude"  : "40.846330028469275",
+        "longitude" : "-74.07088539817119"
+      },
+      "horizontal_distance" : "948.1157684524456",
+      "vertical_distance"   : "66.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDAY",
+      "time"                : "2020-02-18 21:17:41+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1009.0",
+        "latitude"  : "39.90240097045898",
+        "longitude" : "-84.21939849853516"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "899.9999999999999",
+        "latitude"  : "39.9041748046875",
+        "longitude" : "-84.19748720915419"
+      },
+      "horizontal_distance" : "1884.0493146220088",
+      "vertical_distance"   : "-109.00000000000011"
+    }
+  },
+  {
+    "icao"      : "a72791",
+    "callsign"  : "DCM6004 ",
+    "nnumber"   : "N560GS",
+    "departure" :
+    {
+      "airport"             : "KDAY",
+      "time"                : "2020-02-25 16:36:07+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1009.0",
+        "latitude"  : "39.90240097045898",
+        "longitude" : "-84.21939849853516"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1400.0",
+        "latitude"  : "39.89808654785156",
+        "longitude" : "-84.2090706203295"
+      },
+      "horizontal_distance" : "1004.7675266598463",
+      "vertical_distance"   : "391.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-25 16:51:25+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "13675.0",
+        "latitude"  : "40.47175598144531",
+        "longitude" : "-82.4696044921875"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a72791",
+    "callsign"  : "DCM6004 ",
+    "nnumber"   : "N560GS",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-25 21:12:58+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "8574.999999999998",
+        "latitude"  : "40.99822998046875",
+        "longitude" : "-81.37585726651281"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDAY",
+      "time"                : "2020-02-25 21:52:42+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1009.0",
+        "latitude"  : "39.90240097045898",
+        "longitude" : "-84.21939849853516"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "17000.0",
+        "latitude"  : "39.88902282714844",
+        "longitude" : "-84.22620690387225"
+      },
+      "horizontal_distance" : "1595.4602891058237",
+      "vertical_distance"   : "15991.0"
+    }
+  }
+]

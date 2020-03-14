@@ -1,0 +1,40 @@
+[
+  {
+    "icao"      : "aa11b1",
+    "callsign"  : "DCM6009 ",
+    "nnumber"   : "N748QS",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-22 18:42:23+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "35999.99999999999",
+        "latitude"  : "30.29177390922934",
+        "longitude" : "-84.16219482421877"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KPHX",
+      "time"                : "2020-01-22 22:36:03+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1135.0",
+        "latitude"  : "33.43429946899414",
+        "longitude" : "-112.01200103759766"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "40999.99999999999",
+        "latitude"  : "31.33137848417638",
+        "longitude" : "-90.72520751953122"
+      },
+      "horizontal_distance" : "2013021.7489171266",
+      "vertical_distance"   : "39864.99999999999"
+    }
+  }
+]

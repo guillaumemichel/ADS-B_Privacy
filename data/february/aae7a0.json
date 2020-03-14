@@ -1,0 +1,121 @@
+[
+  {
+    "icao"      : "aae7a0",
+    "callsign"  : "DCM4038 ",
+    "nnumber"   : "N801WZ",
+    "departure" :
+    {
+      "airport"             : "KAPF",
+      "time"                : "2020-02-15 15:18:23+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.1525993347",
+        "longitude" : "-81.7752990723"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "4300.0",
+        "latitude"  : "26.24610900878906",
+        "longitude" : "-81.8463307506633"
+      },
+      "horizontal_distance" : "12559.17904393309",
+      "vertical_distance"   : "4292.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KRSW",
+      "time"                : "2020-02-15 15:45:56+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "30.0",
+        "latitude"  : "26.53619956970215",
+        "longitude" : "-81.75520324707031"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1550.0",
+        "latitude"  : "26.3155517578125",
+        "longitude" : "-81.68656259212854"
+      },
+      "horizontal_distance" : "25387.37546272361",
+      "vertical_distance"   : "1520.0"
+    }
+  },
+  {
+    "icao"      : "aae7a0",
+    "callsign"  : "DCM4038 ",
+    "nnumber"   : "N801WZ",
+    "departure" :
+    {
+      "airport"             : "KAPF",
+      "time"                : "2020-02-19 19:07:53+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.1525993347",
+        "longitude" : "-81.7752990723"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "6025.0",
+        "latitude"  : "26.125581385725628",
+        "longitude" : "-81.91057645357569"
+      },
+      "horizontal_distance" : "13854.887300858003",
+      "vertical_distance"   : "6017.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-19 19:20:50+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "9824.999999999998",
+        "latitude"  : "26.821397684388238",
+        "longitude" : "-80.81014779897836"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "aae7a0",
+    "callsign"  : "DCM4038 ",
+    "nnumber"   : "N801WZ",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-20 19:18:32+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "11899.999999999998",
+        "latitude"  : "26.49083024364407",
+        "longitude" : "-80.59765742375299"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KIMM",
+      "time"                : "2020-02-20 19:29:09+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "37.0",
+        "latitude"  : "26.43320084",
+        "longitude" : "-81.40100098"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1975.0",
+        "latitude"  : "26.26924159163136",
+        "longitude" : "-81.6494927039513"
+      },
+      "horizontal_distance" : "30744.520931465882",
+      "vertical_distance"   : "1938.0"
+    }
+  }
+]

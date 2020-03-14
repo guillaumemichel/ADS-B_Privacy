@@ -1,0 +1,888 @@
+[
+  {
+    "icao"      : "a3db0f",
+    "callsign"  : "DCM6253 ",
+    "nnumber"   : "N348AJ",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-04 17:48:24+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5200.0",
+        "latitude"  : "26.14151000976562",
+        "longitude" : "-80.27435302734375"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KOPF",
+      "time"                : "2020-02-04 18:01:29+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "25.906999999999996",
+        "longitude" : "-80.278397"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "325.0",
+        "latitude"  : "25.92269897460938",
+        "longitude" : "-80.31005859375"
+      },
+      "horizontal_distance" : "3617.678465099896",
+      "vertical_distance"   : "317.0"
+    }
+  },
+  {
+    "icao"      : "a3db0f",
+    "callsign"  : "DCM6253 ",
+    "nnumber"   : "N348AJ",
+    "departure" :
+    {
+      "airport"             : "KOPF",
+      "time"                : "2020-02-04 20:25:06+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "25.906999999999996",
+        "longitude" : "-80.278397"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2075.0",
+        "latitude"  : "25.91693425582627",
+        "longitude" : "-80.22111159104566"
+      },
+      "horizontal_distance" : "5844.120171977432",
+      "vertical_distance"   : "2067.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KTEB",
+      "time"                : "2020-02-04 22:50:31+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "40.85010147089999",
+        "longitude" : "-74.060798645"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "29249.999999999996",
+        "latitude"  : "27.00796508789062",
+        "longitude" : "-79.15509493845816"
+      },
+      "horizontal_distance" : "1605229.488354669",
+      "vertical_distance"   : "29240.999999999996"
+    }
+  },
+  {
+    "icao"      : "a3db0f",
+    "callsign"  : "N348AJ  ",
+    "nnumber"   : "N348AJ",
+    "departure" :
+    {
+      "airport"             : "KTEB",
+      "time"                : "2020-02-05 18:19:57+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "40.85010147089999",
+        "longitude" : "-74.060798645"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "39000.0",
+        "latitude"  : "34.50119018554688",
+        "longitude" : "-77.87165427694515"
+      },
+      "horizontal_distance" : "780539.285709947",
+      "vertical_distance"   : "38991.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KMIA",
+      "time"                : "2020-02-05 20:55:52+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "25.79319953918457",
+        "longitude" : "-80.29060363769531"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "150.0",
+        "latitude"  : "40.864671610169495",
+        "longitude" : "-74.05852577903056"
+      },
+      "horizontal_distance" : "1768165.9767005178",
+      "vertical_distance"   : "142.0"
+    }
+  },
+  {
+    "icao"      : "a3db0f",
+    "callsign"  : "N348AJ  ",
+    "nnumber"   : "N348AJ",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-10 11:27:57+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "22100.0",
+        "latitude"  : "30.414345951403604",
+        "longitude" : "-82.35076904296875"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-10 11:53:25+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "40000.0",
+        "latitude"  : "30.32617601297669",
+        "longitude" : "-91.28660888671877"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a3db0f",
+    "callsign"  : "DCM6253 ",
+    "nnumber"   : "N348AJ",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-10 14:02:01+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "22100.0",
+        "latitude"  : "30.414345951403604",
+        "longitude" : "-82.35076904296875"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "02XS",
+      "time"                : "2020-02-10 16:21:07+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "510.0",
+        "latitude"  : "30.1476993560791",
+        "longitude" : "-97.66280364990234"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "40000.0",
+        "latitude"  : "30.32617601297669",
+        "longitude" : "-91.28660888671877"
+      },
+      "horizontal_distance" : "613986.5738002093",
+      "vertical_distance"   : "39490.0"
+    }
+  },
+  {
+    "icao"      : "a3db0f",
+    "callsign"  : "DCM6253 ",
+    "nnumber"   : "N348AJ",
+    "departure" :
+    {
+      "airport"             : "KAUS",
+      "time"                : "2020-02-11 13:22:05+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "542.0",
+        "latitude"  : "30.194499969482425",
+        "longitude" : "-97.6698989868164"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1099.9999999999998",
+        "latitude"  : "30.20457458496094",
+        "longitude" : "-97.65730913947613"
+      },
+      "horizontal_distance" : "1648.3337266336682",
+      "vertical_distance"   : "557.9999999999998"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KAPA",
+      "time"                : "2020-02-11 15:15:26+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "5885.0",
+        "latitude"  : "39.57009888",
+        "longitude" : "-104.84899899999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5600.0",
+        "latitude"  : "39.58038847325211",
+        "longitude" : "-104.851318359375"
+      },
+      "horizontal_distance" : "1159.6681347905273",
+      "vertical_distance"   : "-285.0"
+    }
+  },
+  {
+    "icao"      : "a3db0f",
+    "callsign"  : "DCM6253 ",
+    "nnumber"   : "N348AJ",
+    "departure" :
+    {
+      "airport"             : "KAPA",
+      "time"                : "2020-02-12 14:31:52+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "5885.0",
+        "latitude"  : "39.57009888",
+        "longitude" : "-104.84899899999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "6300.0",
+        "latitude"  : "39.58314514160156",
+        "longitude" : "-104.85148554262909"
+      },
+      "horizontal_distance" : "1464.1513916044319",
+      "vertical_distance"   : "415.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KPTK",
+      "time"                : "2020-02-12 16:35:53+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "980.0",
+        "latitude"  : "42.665500640869006",
+        "longitude" : "-83.420097351074"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1124.9999999999998",
+        "latitude"  : "42.665771484375",
+        "longitude" : "-83.39447021484375"
+      },
+      "horizontal_distance" : "2101.1719902382592",
+      "vertical_distance"   : "144.99999999999977"
+    }
+  },
+  {
+    "icao"      : "a3db0f",
+    "callsign"  : "DCM6253 ",
+    "nnumber"   : "N348AJ",
+    "departure" :
+    {
+      "airport"             : "KPTK",
+      "time"                : "2020-02-12 20:14:08+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "980.0",
+        "latitude"  : "42.665500640869006",
+        "longitude" : "-83.420097351074"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2200.0000000000005",
+        "latitude"  : "42.66412353515625",
+        "longitude" : "-83.47305991432881"
+      },
+      "horizontal_distance" : "4344.71303857952",
+      "vertical_distance"   : "1220.0000000000005"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KPDK",
+      "time"                : "2020-02-12 21:52:47+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1003.0",
+        "latitude"  : "33.8755989075",
+        "longitude" : "-84.3020019531"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1000.0",
+        "latitude"  : "33.868801310911024",
+        "longitude" : "-84.30428981781006"
+      },
+      "horizontal_distance" : "783.1406211456297",
+      "vertical_distance"   : "-3.0"
+    }
+  },
+  {
+    "icao"      : "a3db0f",
+    "callsign"  : "DCM6253 ",
+    "nnumber"   : "N348AJ",
+    "departure" :
+    {
+      "airport"             : "KPDK",
+      "time"                : "2020-02-13 13:49:54+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1003.0",
+        "latitude"  : "33.8755989075",
+        "longitude" : "-84.3020019531"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1950.0",
+        "latitude"  : "33.848876953125",
+        "longitude" : "-84.31154251098633"
+      },
+      "horizontal_distance" : "3092.6770303420417",
+      "vertical_distance"   : "947.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "6NC3",
+      "time"                : "2020-02-13 14:36:46+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "160.0",
+        "latitude"  : "35.08639907836914",
+        "longitude" : "-78.77220153808594"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1500.0",
+        "latitude"  : "35.05630234540519",
+        "longitude" : "-78.83417129516602"
+      },
+      "horizontal_distance" : "6564.761889030893",
+      "vertical_distance"   : "1340.0"
+    }
+  },
+  {
+    "icao"      : "a3db0f",
+    "callsign"  : "N348AJ  ",
+    "nnumber"   : "N348AJ",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-17 15:50:39+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5749.999999999999",
+        "latitude"  : "26.15785217285156",
+        "longitude" : "-80.12779955594044"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "CYYZ",
+      "time"                : "2020-02-17 18:26:08+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "250.0",
+        "latitude"  : "25.922986046742576",
+        "longitude" : "-80.31100933368391"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a3db0f",
+    "callsign"  : "N348AJ  ",
+    "nnumber"   : "N348AJ",
+    "departure" :
+    {
+      "airport"             : "CYYZ",
+      "time"                : "2020-02-17 20:22:00+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5749.999999999999",
+        "latitude"  : "26.15785217285156",
+        "longitude" : "-80.12779955594044"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KERI",
+      "time"                : "2020-02-17 20:48:14+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "732.0",
+        "latitude"  : "42.0831270134",
+        "longitude" : "-80.1738667488"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "250.0",
+        "latitude"  : "25.922986046742576",
+        "longitude" : "-80.31100933368391"
+      },
+      "horizontal_distance" : "1792611.806381578",
+      "vertical_distance"   : "-482.0"
+    }
+  },
+  {
+    "icao"      : "a3db0f",
+    "callsign"  : "N348AJ  ",
+    "nnumber"   : "N348AJ",
+    "departure" :
+    {
+      "airport"             : "KERI",
+      "time"                : "2020-02-17 21:19:13+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "732.0",
+        "latitude"  : "42.0831270134",
+        "longitude" : "-80.1738667488"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5749.999999999999",
+        "latitude"  : "26.15785217285156",
+        "longitude" : "-80.12779955594044"
+      },
+      "horizontal_distance" : "1766552.2813723774",
+      "vertical_distance"   : "5017.999999999999"
+    },
+    "arrival"   :
+    {
+      "airport"             : "55OI",
+      "time"                : "2020-02-17 21:41:10+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1140.0",
+        "latitude"  : "40.858699798583984",
+        "longitude" : "-80.5353012084961"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "250.0",
+        "latitude"  : "25.922986046742576",
+        "longitude" : "-80.31100933368391"
+      },
+      "horizontal_distance" : "1656708.8571221116",
+      "vertical_distance"   : "-890.0"
+    }
+  },
+  {
+    "icao"      : "a3db0f",
+    "callsign"  : "N348AJ  ",
+    "nnumber"   : "N348AJ",
+    "departure" :
+    {
+      "airport"             : "KBVI",
+      "time"                : "2020-02-19 13:46:27+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1253.0",
+        "latitude"  : "40.7724990845",
+        "longitude" : "-80.39140319820001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5749.999999999999",
+        "latitude"  : "26.15785217285156",
+        "longitude" : "-80.12779955594044"
+      },
+      "horizontal_distance" : "1621168.9137870953",
+      "vertical_distance"   : "4496.999999999999"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KIAD",
+      "time"                : "2020-02-19 14:30:29+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "312.0",
+        "latitude"  : "38.94449997",
+        "longitude" : "-77.45580292"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "250.0",
+        "latitude"  : "25.922986046742576",
+        "longitude" : "-80.31100933368391"
+      },
+      "horizontal_distance" : "1468557.873566009",
+      "vertical_distance"   : "-62.0"
+    }
+  },
+  {
+    "icao"      : "a3db0f",
+    "callsign"  : "N348AJ  ",
+    "nnumber"   : "N348AJ",
+    "departure" :
+    {
+      "airport"             : "KIAD",
+      "time"                : "2020-02-19 18:27:01+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "312.0",
+        "latitude"  : "38.94449997",
+        "longitude" : "-77.45580292"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5749.999999999999",
+        "latitude"  : "26.15785217285156",
+        "longitude" : "-80.12779955594044"
+      },
+      "horizontal_distance" : "1439852.9592606837",
+      "vertical_distance"   : "5437.999999999999"
+    },
+    "arrival"   :
+    {
+      "airport"             : "32PN",
+      "time"                : "2020-02-19 19:09:03+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1150.0",
+        "latitude"  : "40.73400115966797",
+        "longitude" : "-80.2759017944336"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "250.0",
+        "latitude"  : "25.922986046742576",
+        "longitude" : "-80.31100933368391"
+      },
+      "horizontal_distance" : "1642734.5775487414",
+      "vertical_distance"   : "-900.0"
+    }
+  },
+  {
+    "icao"      : "a3db0f",
+    "callsign"  : "N348AJ  ",
+    "nnumber"   : "N348AJ",
+    "departure" :
+    {
+      "airport"             : "KBVI",
+      "time"                : "2020-02-22 13:12:13+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1253.0",
+        "latitude"  : "40.7724990845",
+        "longitude" : "-80.39140319820001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5749.999999999999",
+        "latitude"  : "26.15785217285156",
+        "longitude" : "-80.12779955594044"
+      },
+      "horizontal_distance" : "1621168.9137870953",
+      "vertical_distance"   : "4496.999999999999"
+    },
+    "arrival"   :
+    {
+      "airport"             : "CYYZ",
+      "time"                : "2020-02-22 13:51:14+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "250.0",
+        "latitude"  : "25.922986046742576",
+        "longitude" : "-80.31100933368391"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a3db0f",
+    "callsign"  : "N348AJ  ",
+    "nnumber"   : "N348AJ",
+    "departure" :
+    {
+      "airport"             : "CYYZ",
+      "time"                : "2020-02-22 14:43:33+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5749.999999999999",
+        "latitude"  : "26.15785217285156",
+        "longitude" : "-80.12779955594044"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-22 16:44:15+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "250.0",
+        "latitude"  : "25.922986046742576",
+        "longitude" : "-80.31100933368391"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a3db0f",
+    "callsign"  : "N348AJ  ",
+    "nnumber"   : "N348AJ",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-23 21:28:08+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5749.999999999999",
+        "latitude"  : "26.15785217285156",
+        "longitude" : "-80.12779955594044"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHPN",
+      "time"                : "2020-02-23 23:34:17+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "439.0",
+        "latitude"  : "41.06700134277344",
+        "longitude" : "-73.70760345458984"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "250.0",
+        "latitude"  : "25.922986046742576",
+        "longitude" : "-80.31100933368391"
+      },
+      "horizontal_distance" : "1786830.551218536",
+      "vertical_distance"   : "-189.0"
+    }
+  },
+  {
+    "icao"      : "a3db0f",
+    "callsign"  : "N348AJ  ",
+    "nnumber"   : "N348AJ",
+    "departure" :
+    {
+      "airport"             : "KHPN",
+      "time"                : "2020-02-26 03:28:11+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "439.0",
+        "latitude"  : "41.06700134277344",
+        "longitude" : "-73.70760345458984"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5749.999999999999",
+        "latitude"  : "26.15785217285156",
+        "longitude" : "-80.12779955594044"
+      },
+      "horizontal_distance" : "1756385.3289267728",
+      "vertical_distance"   : "5310.999999999999"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KTEB",
+      "time"                : "2020-02-26 03:47:24+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "40.85010147089999",
+        "longitude" : "-74.060798645"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "250.0",
+        "latitude"  : "25.922986046742576",
+        "longitude" : "-80.31100933368391"
+      },
+      "horizontal_distance" : "1753498.2860021712",
+      "vertical_distance"   : "241.0"
+    }
+  },
+  {
+    "icao"      : "a3db0f",
+    "callsign"  : "N348AJ  ",
+    "nnumber"   : "N348AJ",
+    "departure" :
+    {
+      "airport"             : "KTEB",
+      "time"                : "2020-02-26 05:13:42+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "40.85010147089999",
+        "longitude" : "-74.060798645"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5749.999999999999",
+        "latitude"  : "26.15785217285156",
+        "longitude" : "-80.12779955594044"
+      },
+      "horizontal_distance" : "1723156.1773488342",
+      "vertical_distance"   : "5740.999999999999"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KIAD",
+      "time"                : "2020-02-26 06:03:39+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "312.0",
+        "latitude"  : "38.94449997",
+        "longitude" : "-77.45580292"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "250.0",
+        "latitude"  : "25.922986046742576",
+        "longitude" : "-80.31100933368391"
+      },
+      "horizontal_distance" : "1468557.873566009",
+      "vertical_distance"   : "-62.0"
+    }
+  },
+  {
+    "icao"      : "a3db0f",
+    "callsign"  : "N348AJ  ",
+    "nnumber"   : "N348AJ",
+    "departure" :
+    {
+      "airport"             : "KIAD",
+      "time"                : "2020-02-27 21:54:14+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "312.0",
+        "latitude"  : "38.94449997",
+        "longitude" : "-77.45580292"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5749.999999999999",
+        "latitude"  : "26.15785217285156",
+        "longitude" : "-80.12779955594044"
+      },
+      "horizontal_distance" : "1439852.9592606837",
+      "vertical_distance"   : "5437.999999999999"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KACY",
+      "time"                : "2020-02-27 22:23:05+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "75.0",
+        "latitude"  : "39.45759963989258",
+        "longitude" : "-74.57720184326172"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "250.0",
+        "latitude"  : "25.922986046742576",
+        "longitude" : "-80.31100933368391"
+      },
+      "horizontal_distance" : "1593441.424486093",
+      "vertical_distance"   : "175.0"
+    }
+  },
+  {
+    "icao"      : "a3db0f",
+    "callsign"  : "N348AJ  ",
+    "nnumber"   : "N348AJ",
+    "departure" :
+    {
+      "airport"             : "NJ58",
+      "time"                : "2020-02-28 14:23:52+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "53.0",
+        "latitude"  : "39.3926010131836",
+        "longitude" : "-74.6063003540039"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5749.999999999999",
+        "latitude"  : "26.15785217285156",
+        "longitude" : "-80.12779955594044"
+      },
+      "horizontal_distance" : "1555380.056252671",
+      "vertical_distance"   : "5696.999999999999"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KTPA",
+      "time"                : "2020-02-28 16:51:15+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "26.0",
+        "latitude"  : "27.975500106811523",
+        "longitude" : "-82.533203125"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "250.0",
+        "latitude"  : "25.922986046742576",
+        "longitude" : "-80.31100933368391"
+      },
+      "horizontal_distance" : "316864.7536750353",
+      "vertical_distance"   : "224.0"
+    }
+  },
+  {
+    "icao"      : "a3db0f",
+    "callsign"  : "N348AJ  ",
+    "nnumber"   : "N348AJ",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-29 21:28:13+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5749.999999999999",
+        "latitude"  : "26.15785217285156",
+        "longitude" : "-80.12779955594044"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KBWI",
+      "time"                : "2020-02-29 23:26:58+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "146.0",
+        "latitude"  : "39.1754",
+        "longitude" : "-76.668297"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "250.0",
+        "latitude"  : "25.922986046742576",
+        "longitude" : "-80.31100933368391"
+      },
+      "horizontal_distance" : "1508585.0881470107",
+      "vertical_distance"   : "104.0"
+    }
+  }
+]

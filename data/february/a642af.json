@@ -1,0 +1,121 @@
+[
+  {
+    "icao"      : "a642af",
+    "callsign"  : "DCM6892 ",
+    "nnumber"   : "N502PM",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-07 13:48:08+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "11675.0",
+        "latitude"  : "35.187114133673205",
+        "longitude" : "-80.74155807495117"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDCU",
+      "time"                : "2020-02-07 14:47:46+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "592.0",
+        "latitude"  : "34.6526985168",
+        "longitude" : "-86.94539642330002"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "4475.0",
+        "latitude"  : "34.67633056640625",
+        "longitude" : "-87.2457387496014"
+      },
+      "horizontal_distance" : "27653.670527399492",
+      "vertical_distance"   : "3883.0"
+    }
+  },
+  {
+    "icao"      : "a642af",
+    "callsign"  : "DCM6892 ",
+    "nnumber"   : "N502PM",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-13 18:50:51+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "13825.000000000004",
+        "latitude"  : "34.955004675913656",
+        "longitude" : "-80.60909271240234"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSRQ",
+      "time"                : "2020-02-13 20:15:30+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "30.0",
+        "latitude"  : "27.39539909362793",
+        "longitude" : "-82.55439758300781"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "26200.0",
+        "latitude"  : "34.365371704101555",
+        "longitude" : "-81.03851941167092"
+      },
+      "horizontal_distance" : "786190.7611128628",
+      "vertical_distance"   : "26170.0"
+    }
+  },
+  {
+    "icao"      : "a642af",
+    "callsign"  : "DCM6892 ",
+    "nnumber"   : "N502PM",
+    "departure" :
+    {
+      "airport"             : "KSRQ",
+      "time"                : "2020-02-16 21:19:53+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "30.0",
+        "latitude"  : "27.39539909362793",
+        "longitude" : "-82.55439758300781"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "4150.0",
+        "latitude"  : "27.29969787597656",
+        "longitude" : "-82.47923653080778"
+      },
+      "horizontal_distance" : "12952.453002767414",
+      "vertical_distance"   : "4120.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KCLT",
+      "time"                : "2020-02-16 22:38:47+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "748.0",
+        "latitude"  : "35.2140007019043",
+        "longitude" : "-80.94309997558594"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "40999.99999999999",
+        "latitude"  : "30.737977108712922",
+        "longitude" : "-82.52962646484377"
+      },
+      "horizontal_distance" : "518065.59163774375",
+      "vertical_distance"   : "40251.99999999999"
+    }
+  }
+]

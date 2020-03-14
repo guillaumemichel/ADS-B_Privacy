@@ -1,0 +1,45 @@
+[
+  {
+    "icao"      : "a6592c",
+    "callsign"  : "DCM3182 ",
+    "nnumber"   : "N508RN",
+    "departure" :
+    {
+      "airport"             : "KYKM",
+      "time"                : "2020-01-04 22:39:45+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1099.0",
+        "latitude"  : "46.56819916",
+        "longitude" : "-120.5439987"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1000.0",
+        "latitude"  : "46.57154846191406",
+        "longitude" : "-120.55599305687879"
+      },
+      "horizontal_distance" : "992.0531178548702",
+      "vertical_distance"   : "-99.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KYKM",
+      "time"                : "2020-01-04 23:17:23+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1099.0",
+        "latitude"  : "46.56819916",
+        "longitude" : "-120.5439987"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "849.9999999999999",
+        "latitude"  : "46.56413269042969",
+        "longitude" : "-120.5260486137576"
+      },
+      "horizontal_distance" : "1448.5606286977873",
+      "vertical_distance"   : "-249.0000000000001"
+    }
+  }
+]

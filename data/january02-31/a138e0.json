@@ -1,0 +1,40 @@
+[
+  {
+    "icao"      : "a138e0",
+    "callsign"  : "DCM3767 ",
+    "nnumber"   : "N178WG",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-26 14:40:55+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "14550.0",
+        "latitude"  : "33.49014540850106",
+        "longitude" : "-94.28847955197705"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSDL",
+      "time"                : "2020-01-26 17:17:56+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1510.0",
+        "latitude"  : "33.622898101806996",
+        "longitude" : "-111.91100311279"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "16200.0",
+        "latitude"  : "33.627148644398844",
+        "longitude" : "-111.9056510925293"
+      },
+      "horizontal_distance" : "684.7520457578381",
+      "vertical_distance"   : "14690.0"
+    }
+  }
+]

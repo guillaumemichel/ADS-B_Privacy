@@ -1,0 +1,68 @@
+[
+  {
+    "icao"      : "3ce12d",
+    "callsign"  : "DCMOR   ",
+    "nnumber"   : "D-CMOR",
+    "departure" :
+    {
+      "airport"             : "EDDK",
+      "time"                : "2020-02-17 07:58:25+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1175.0",
+        "latitude"  : "50.864650920286024",
+        "longitude" : "7.1533203125"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "LPBJ",
+      "time"                : "2020-02-17 10:57:45+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1050.0",
+        "latitude"  : "38.14183044433594",
+        "longitude" : "-7.924064473902887"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "3ce12d",
+    "callsign"  : "DCMOR   ",
+    "nnumber"   : "D-CMOR",
+    "departure" :
+    {
+      "airport"             : "LPBJ",
+      "time"                : "2020-02-18 11:51:34+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1600.0",
+        "latitude"  : "38.08836364746094",
+        "longitude" : "-7.929323886303166"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "EDDK",
+      "time"                : "2020-02-18 14:42:13+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "175.0",
+        "latitude"  : "50.87452697753906",
+        "longitude" : "7.17139991554054"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  }
+]

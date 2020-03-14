@@ -1,0 +1,35 @@
+[
+  {
+    "icao"      : "a233e9",
+    "callsign"  : "DCM857  ",
+    "nnumber"   : "N241CA",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-13 08:17:45+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "20800.0",
+        "latitude"  : "35.490541619769594",
+        "longitude" : "-86.6298854097407"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-13 09:15:57+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "14800.0",
+        "latitude"  : "30.210726463188557",
+        "longitude" : "-89.69979858398438"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  }
+]

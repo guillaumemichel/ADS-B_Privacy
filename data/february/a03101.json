@@ -1,0 +1,144 @@
+[
+  {
+    "icao"      : "a03101",
+    "callsign"  : "DCM2244 ",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "CYUL",
+      "time"                : "2020-02-05 21:28:10+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "nan",
+        "latitude"  : "45.471783654164454",
+        "longitude" : "-73.71816123404155"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "CYYZ",
+      "time"                : "2020-02-05 22:36:39+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "400.0",
+        "latitude"  : "43.68515531895524",
+        "longitude" : "-79.64811597551619"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a03101",
+    "callsign"  : "DCM2244 ",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-09 20:14:40+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "35025.0",
+        "latitude"  : "33.389053344726555",
+        "longitude" : "-77.66614379882813"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KPHL",
+      "time"                : "2020-02-09 21:17:59+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "36.0",
+        "latitude"  : "39.87189865112305",
+        "longitude" : "-75.24109649658203"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-400.0",
+        "latitude"  : "39.86965942382812",
+        "longitude" : "-75.22721000339675"
+      },
+      "horizontal_distance" : "1213.789926532406",
+      "vertical_distance"   : "-436.0"
+    }
+  },
+  {
+    "icao"      : "a03101",
+    "callsign"  : "DCM2244 ",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KPHL",
+      "time"                : "2020-02-09 21:54:07+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "36.0",
+        "latitude"  : "39.87189865112305",
+        "longitude" : "-75.24109649658203"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1850.0",
+        "latitude"  : "39.85308837890625",
+        "longitude" : "-75.282679018767"
+      },
+      "horizontal_distance" : "4125.7000977260695",
+      "vertical_distance"   : "1814.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "CYUL",
+      "time"                : "2020-02-09 23:04:35+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-325.0",
+        "latitude"  : "45.47162246704102",
+        "longitude" : "-73.7215151105608"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a03101",
+    "callsign"  : "DCM2244 ",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-16 23:27:09+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "40999.99999999999",
+        "latitude"  : "34.56727108712924",
+        "longitude" : "-76.94120407104492"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "CYUL",
+      "time"                : "2020-02-17 01:06:59+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "75.0",
+        "latitude"  : "45.47197723388672",
+        "longitude" : "-73.72205461774553"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  }
+]

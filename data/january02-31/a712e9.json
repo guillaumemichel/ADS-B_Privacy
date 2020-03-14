@@ -1,0 +1,121 @@
+[
+  {
+    "icao"      : "a712e9",
+    "callsign"  : "DCM2295 ",
+    "nnumber"   : "N555KK",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-13 13:34:33+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "13900.0",
+        "latitude"  : "34.98624122748941",
+        "longitude" : "-96.98083877563477"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-13 14:04:28+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "10850.0",
+        "latitude"  : "37.0693359375",
+        "longitude" : "-97.22099791181849"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a712e9",
+    "callsign"  : "DCM2295 ",
+    "nnumber"   : "N555KK",
+    "departure" :
+    {
+      "airport"             : "KPWA",
+      "time"                : "2020-01-22 02:29:54+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1300.0",
+        "latitude"  : "35.53419876",
+        "longitude" : "-97.64710236"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1900.0",
+        "latitude"  : "35.51266479492188",
+        "longitude" : "-97.63006210327148"
+      },
+      "horizontal_distance" : "2845.5497618054474",
+      "vertical_distance"   : "600.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "TS85",
+      "time"                : "2020-01-22 03:29:50+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "802.0",
+        "latitude"  : "33.81060028076172",
+        "longitude" : "-96.7039031982422"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "7099.999999999999",
+        "latitude"  : "35.29595947265625",
+        "longitude" : "-97.36644744873048"
+      },
+      "horizontal_distance" : "175635.70309029",
+      "vertical_distance"   : "6297.999999999999"
+    }
+  },
+  {
+    "icao"      : "a712e9",
+    "callsign"  : "DCM2295 ",
+    "nnumber"   : "N555KK",
+    "departure" :
+    {
+      "airport"             : "KRVS",
+      "time"                : "2020-01-29 20:59:08+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "638.0",
+        "latitude"  : "36.039600372314",
+        "longitude" : "-95.98459625244101"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "899.9999999999999",
+        "latitude"  : "36.05204772949219",
+        "longitude" : "-95.98291397094728"
+      },
+      "horizontal_distance" : "1389.4512453132413",
+      "vertical_distance"   : "261.9999999999999"
+    },
+    "arrival"   :
+    {
+      "airport"             : "11TX",
+      "time"                : "2020-01-29 22:02:00+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "840.0",
+        "latitude"  : "33.66680145263672",
+        "longitude" : "-96.69059753417969"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1600.0",
+        "latitude"  : "33.65377807617188",
+        "longitude" : "-96.67593196946746"
+      },
+      "horizontal_distance" : "1984.1517053970795",
+      "vertical_distance"   : "760.0"
+    }
+  }
+]

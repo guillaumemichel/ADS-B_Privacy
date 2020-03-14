@@ -1,0 +1,263 @@
+[
+  {
+    "icao"      : "a3d4e0",
+    "callsign"  : "DCM1492 ",
+    "nnumber"   : "N346PC",
+    "departure" :
+    {
+      "airport"             : "KIAH",
+      "time"                : "2020-02-04 18:00:50+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "97.0",
+        "latitude"  : "29.98439979553223",
+        "longitude" : "-95.34140014648438"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1350.0",
+        "latitude"  : "29.95797729492188",
+        "longitude" : "-95.34054026884188"
+      },
+      "horizontal_distance" : "2930.16139864154",
+      "vertical_distance"   : "1253.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "CYYC",
+      "time"                : "2020-02-04 21:31:06+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "40025.0",
+        "latitude"  : "42.40941451767743",
+        "longitude" : "-104.1773454533067"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a3d4e0",
+    "callsign"  : "DCM1492 ",
+    "nnumber"   : "N346PC",
+    "departure" :
+    {
+      "airport"             : "CYYC",
+      "time"                : "2020-02-09 20:05:08+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "3649.9999999999995",
+        "latitude"  : "51.116917497020644",
+        "longitude" : "-114.0213775634766"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-09 20:39:55+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "35000.0",
+        "latitude"  : "50.36123502052436",
+        "longitude" : "-111.94452234216641"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a3d4e0",
+    "callsign"  : "DCM1492 ",
+    "nnumber"   : "N346PC",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-10 20:28:02+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "40999.99999999999",
+        "latitude"  : "42.54290771484375",
+        "longitude" : "-100.828462080522"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "27XS",
+      "time"                : "2020-02-10 22:20:48+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "180.0",
+        "latitude"  : "29.837999",
+        "longitude" : "-95.94981"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "650.0",
+        "latitude"  : "29.8532518289857",
+        "longitude" : "-95.89863496668198"
+      },
+      "horizontal_distance" : "5226.359724369211",
+      "vertical_distance"   : "470.0"
+    }
+  },
+  {
+    "icao"      : "a3d4e0",
+    "callsign"  : "DCM1492 ",
+    "nnumber"   : "N346PC",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-17 21:18:48+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "16025.0",
+        "latitude"  : "33.69180970272775",
+        "longitude" : "-115.6028366088867"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KLAS",
+      "time"                : "2020-02-17 21:47:46+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "2181.0",
+        "latitude"  : "36.08010101",
+        "longitude" : "-115.15200039999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2075.0",
+        "latitude"  : "36.08866882324219",
+        "longitude" : "-115.1626968383789"
+      },
+      "horizontal_distance" : "1353.4967382721884",
+      "vertical_distance"   : "-106.0"
+    }
+  },
+  {
+    "icao"      : "a3d4e0",
+    "callsign"  : "DCM1492 ",
+    "nnumber"   : "N346PC",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-23 19:53:18+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "27949.999999999996",
+        "latitude"  : "37.560114456435386",
+        "longitude" : "-112.2313126273777"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KLAS",
+      "time"                : "2020-02-23 20:22:00+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "2181.0",
+        "latitude"  : "36.08010101",
+        "longitude" : "-115.15200039999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1900.0",
+        "latitude"  : "36.07365417480469",
+        "longitude" : "-115.1445579528809"
+      },
+      "horizontal_distance" : "980.374729942821",
+      "vertical_distance"   : "-281.0"
+    }
+  },
+  {
+    "icao"      : "a3d4e0",
+    "callsign"  : "DCM1492 ",
+    "nnumber"   : "N346PC",
+    "departure" :
+    {
+      "airport"             : "KLAS",
+      "time"                : "2020-02-24 00:51:56+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "2181.0",
+        "latitude"  : "36.08010101",
+        "longitude" : "-115.15200039999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1975.0",
+        "latitude"  : "36.08097839355469",
+        "longitude" : "-115.1636695861816"
+      },
+      "horizontal_distance" : "1055.5651179867125",
+      "vertical_distance"   : "-206.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-24 01:04:53+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "21075.000000000004",
+        "latitude"  : "34.485397338867195",
+        "longitude" : "-115.72420704121491"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a3d4e0",
+    "callsign"  : "DCM1492 ",
+    "nnumber"   : "N346PC",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-24 20:24:56+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "15350.0",
+        "latitude"  : "33.84860229492188",
+        "longitude" : "-115.86736562300699"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KLAS",
+      "time"                : "2020-02-24 20:55:20+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "2181.0",
+        "latitude"  : "36.08010101",
+        "longitude" : "-115.15200039999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1850.0",
+        "latitude"  : "36.087946487685386",
+        "longitude" : "-115.16313268783242"
+      },
+      "horizontal_distance" : "1327.8437852760892",
+      "vertical_distance"   : "-331.0"
+    }
+  }
+]

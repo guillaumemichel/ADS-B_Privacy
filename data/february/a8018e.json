@@ -1,0 +1,336 @@
+[
+  {
+    "icao"      : "a8018e",
+    "callsign"  : "DCM6644 ",
+    "nnumber"   : "N615CL",
+    "departure" :
+    {
+      "airport"             : "TN73",
+      "time"                : "2020-02-18 18:43:28+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "770.0",
+        "latitude"  : "36.32339859008789",
+        "longitude" : "-86.95939636230469"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "4100.0",
+        "latitude"  : "36.33480834960938",
+        "longitude" : "-86.80183410644531"
+      },
+      "horizontal_distance" : "14203.672419474071",
+      "vertical_distance"   : "3330.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KTEB",
+      "time"                : "2020-02-18 20:59:26+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "40.85010147089999",
+        "longitude" : "-74.060798645"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-100.0",
+        "latitude"  : "40.86318193855932",
+        "longitude" : "-74.05852577903056"
+      },
+      "horizontal_distance" : "1465.1879360933003",
+      "vertical_distance"   : "-109.0"
+    }
+  },
+  {
+    "icao"      : "a8018e",
+    "callsign"  : "DCM6644 ",
+    "nnumber"   : "N615CL",
+    "departure" :
+    {
+      "airport"             : "KTEB",
+      "time"                : "2020-02-19 23:26:24+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "40.85010147089999",
+        "longitude" : "-74.060798645"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "150.0",
+        "latitude"  : "40.86355435646186",
+        "longitude" : "-74.05733975497162"
+      },
+      "horizontal_distance" : "1522.1587066671182",
+      "vertical_distance"   : "141.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "TN73",
+      "time"                : "2020-02-20 02:21:58+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "770.0",
+        "latitude"  : "36.32339859008789",
+        "longitude" : "-86.95939636230469"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "57300.0",
+        "latitude"  : "37.6483154296875",
+        "longitude" : "-83.46260882438497"
+      },
+      "horizontal_distance" : "344256.3854283097",
+      "vertical_distance"   : "56530.0"
+    }
+  },
+  {
+    "icao"      : "a8018e",
+    "callsign"  : "N615CL  ",
+    "nnumber"   : "N615CL",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-23 01:31:41+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "9900.0",
+        "latitude"  : "36.18667602539062",
+        "longitude" : "-86.93452835083008"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "TN79",
+      "time"                : "2020-02-23 03:32:54+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "400.0",
+        "latitude"  : "36.17229843139648",
+        "longitude" : "-86.95970153808594"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2675.0",
+        "latitude"  : "34.04197563559322",
+        "longitude" : "-83.4572982788086"
+      },
+      "horizontal_distance" : "397212.63295159425",
+      "vertical_distance"   : "2275.0"
+    }
+  },
+  {
+    "icao"      : "a8018e",
+    "callsign"  : "DCM6644 ",
+    "nnumber"   : "N615CL",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-23 17:59:30+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "9900.0",
+        "latitude"  : "36.18667602539062",
+        "longitude" : "-86.93452835083008"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KAHN",
+      "time"                : "2020-02-23 18:42:47+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "808.0",
+        "latitude"  : "33.94860076904297",
+        "longitude" : "-83.32630157470703"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2675.0",
+        "latitude"  : "34.04197563559322",
+        "longitude" : "-83.4572982788086"
+      },
+      "horizontal_distance" : "15929.587700875969",
+      "vertical_distance"   : "1867.0"
+    }
+  },
+  {
+    "icao"      : "a8018e",
+    "callsign"  : "DCM6644 ",
+    "nnumber"   : "N615CL",
+    "departure" :
+    {
+      "airport"             : "KAHN",
+      "time"                : "2020-02-23 23:09:39+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "808.0",
+        "latitude"  : "33.94860076904297",
+        "longitude" : "-83.32630157470703"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "3475.0",
+        "latitude"  : "33.96106784626589",
+        "longitude" : "-83.40499877929688"
+      },
+      "horizontal_distance" : "7404.547609076501",
+      "vertical_distance"   : "2667.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "TN79",
+      "time"                : "2020-02-24 00:00:50+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "400.0",
+        "latitude"  : "36.17229843139648",
+        "longitude" : "-86.95970153808594"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "11775.0",
+        "latitude"  : "35.29248046875",
+        "longitude" : "-85.44576644897461"
+      },
+      "horizontal_distance" : "168186.56998452204",
+      "vertical_distance"   : "11375.0"
+    }
+  },
+  {
+    "icao"      : "a8018e",
+    "callsign"  : "DCM6644 ",
+    "nnumber"   : "N615CL",
+    "departure" :
+    {
+      "airport"             : "TN79",
+      "time"                : "2020-02-25 16:19:20+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "400.0",
+        "latitude"  : "36.17229843139648",
+        "longitude" : "-86.95970153808594"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "4975.0",
+        "latitude"  : "36.04559326171875",
+        "longitude" : "-86.92388534545898"
+      },
+      "horizontal_distance" : "14424.447794982205",
+      "vertical_distance"   : "4575.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "NC09",
+      "time"                : "2020-02-25 17:41:27+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "820.0",
+        "latitude"  : "35.8838996887207",
+        "longitude" : "-80.77670288085938"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "19000.000000000004",
+        "latitude"  : "36.46966552734375",
+        "longitude" : "-83.67027282714844"
+      },
+      "horizontal_distance" : "268291.26570237",
+      "vertical_distance"   : "18180.000000000004"
+    }
+  },
+  {
+    "icao"      : "a8018e",
+    "callsign"  : "DCM6644 ",
+    "nnumber"   : "N615CL",
+    "departure" :
+    {
+      "airport"             : "KCLT",
+      "time"                : "2020-02-26 03:20:40+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "748.0",
+        "latitude"  : "35.2140007019043",
+        "longitude" : "-80.94309997558594"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5050.0",
+        "latitude"  : "35.206340207891955",
+        "longitude" : "-80.89588165283203"
+      },
+      "horizontal_distance" : "4382.619686968149",
+      "vertical_distance"   : "4302.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "TN73",
+      "time"                : "2020-02-26 04:30:02+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "770.0",
+        "latitude"  : "36.32339859008789",
+        "longitude" : "-86.95939636230469"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1875.0",
+        "latitude"  : "36.2697795286017",
+        "longitude" : "-86.85791015625"
+      },
+      "horizontal_distance" : "10885.836440696785",
+      "vertical_distance"   : "1105.0"
+    }
+  },
+  {
+    "icao"      : "a8018e",
+    "callsign"  : "DCM6644 ",
+    "nnumber"   : "N615CL",
+    "departure" :
+    {
+      "airport"             : "TN73",
+      "time"                : "2020-02-28 20:29:44+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "770.0",
+        "latitude"  : "36.32339859008789",
+        "longitude" : "-86.95939636230469"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "4975.0",
+        "latitude"  : "36.271222647974035",
+        "longitude" : "-86.90506955410568"
+      },
+      "horizontal_distance" : "7571.878363848533",
+      "vertical_distance"   : "4205.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "OH24",
+      "time"                : "2020-02-28 21:57:55+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1040.0",
+        "latitude"  : "41.2248",
+        "longitude" : "-80.579003"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2475.0",
+        "latitude"  : "41.21434020996094",
+        "longitude" : "-80.61517333984375"
+      },
+      "horizontal_distance" : "3247.9183402918584",
+      "vertical_distance"   : "1435.0"
+    }
+  }
+]

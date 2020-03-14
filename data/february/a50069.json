@@ -1,0 +1,111 @@
+[
+  {
+    "icao"      : "a50069",
+    "callsign"  : "DCM2119 ",
+    "nnumber"   : "N421M",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-12 14:05:36+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "31050.0",
+        "latitude"  : "27.87290954589844",
+        "longitude" : "-79.99368343713148"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KFXE",
+      "time"                : "2020-02-12 15:25:04+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "13.0",
+        "latitude"  : "26.1972999573",
+        "longitude" : "-80.1707000732"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "29300.000000000004",
+        "latitude"  : "27.73667907714844",
+        "longitude" : "-79.9534175081073"
+      },
+      "horizontal_distance" : "171926.53596382798",
+      "vertical_distance"   : "29287.000000000004"
+    }
+  },
+  {
+    "icao"      : "a50069",
+    "callsign"  : "DCM2119 ",
+    "nnumber"   : "N421M",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-23 19:53:10+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "21575.0",
+        "latitude"  : "34.25225830078125",
+        "longitude" : "-78.21010044642857"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "0NC1",
+      "time"                : "2020-02-23 20:25:59+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "3608.0",
+        "latitude"  : "35.45709991455078",
+        "longitude" : "-82.37539672851562"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "10125.0",
+        "latitude"  : "35.36622619628906",
+        "longitude" : "-82.08320617675781"
+      },
+      "horizontal_distance" : "28389.853846560087",
+      "vertical_distance"   : "6517.0"
+    }
+  },
+  {
+    "icao"      : "a50069",
+    "callsign"  : "DCM2119 ",
+    "nnumber"   : "N421M",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-26 21:04:07+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "17550.000000000004",
+        "latitude"  : "34.46313373113082",
+        "longitude" : "-77.8670883178711"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-26 22:27:03+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "30000.0",
+        "latitude"  : "43.95704366393008",
+        "longitude" : "-69.70105852399553"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  }
+]
