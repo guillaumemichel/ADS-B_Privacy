@@ -12,8 +12,12 @@ It is clearly not enough to provide anonymity to aircrafts.
 
 ## Callsign privacy
 
-Currently 2 operators are able to provide private: [fltplan.com](https://flttrack.fltplan.com/FltPlanInfo/DCMCallSigns.htm) (DCM####) and [foreflight.com](https://foreflight.com/support/support-center/category/about-foreflight-mobile/360040732274) (FFL###). Those operators are able to change their users callsign for every flight. The owners have to file their flights on the website to have a *random* callsign allocation.
+Currently 2 operators are able to provide private: [fltplan.com](https://flttrack.fltplan.com/FltPlanInfo/DCMCallSigns.htm) (DCM####) and [foreflight.com](https://foreflight.com/support/support-center/category/about-foreflight-mobile/360040732274) (FFL###) and (DAL####) Delta Airlines??????. Those operators are able to change their users callsign for every flight. The owners have to file their flights on the website to have a *random* callsign allocation.
 
 ## Problems
 
 For now, only a few aircrafts are enrolled in this program, thus it is easy to track them by checking the origin and destination airport. Furthermore, the ICAO number only changes at most approximatively every 20 days.
+
+## TODO
+
+remove spaces in callsign (and nnumber?) in json files

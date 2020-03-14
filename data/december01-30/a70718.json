@@ -1,0 +1,45 @@
+[
+  {
+    "icao"      : "a70718",
+    "callsign"  : "DCM4034 ",
+    "nnumber"   : "N552CN",
+    "departure" :
+    {
+      "airport"             : "TE68",
+      "time"                : "2019-12-02 17:37:33+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "725.0",
+        "latitude"  : "33.7440986633",
+        "longitude" : "-96.65989685059999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "3350.0",
+        "latitude"  : "33.73873901367188",
+        "longitude" : "-96.66842090840242"
+      },
+      "horizontal_distance" : "988.5865877582679",
+      "vertical_distance"   : "2625.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KRVS",
+      "time"                : "2019-12-02 18:06:49+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "638.0",
+        "latitude"  : "36.039600372314",
+        "longitude" : "-95.98459625244101"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "574.9999999999999",
+        "latitude"  : "36.020073324947035",
+        "longitude" : "-95.99169792012964"
+      },
+      "horizontal_distance" : "2259.277343853711",
+      "vertical_distance"   : "-63.000000000000114"
+    }
+  }
+]
