@@ -2,6 +2,7 @@ from traffic.data import aircraft, opensky, airports
 from traffic.core import Traffic
 from utils import *
 from flights import *
+
 import pandas as pd
 import math
 import requests

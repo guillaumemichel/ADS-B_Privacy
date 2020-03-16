@@ -1,4 +1,5 @@
 from geopy.distance import geodesic
+import json
 
 align = 2
 
@@ -109,6 +110,9 @@ class Flights:
     def append(self, flight):
         self.elements.append(flight)
 
+    def concat(self, flights):
+        self.elements = self.elements + flights.elements
+
     def remove(self, flight):
         self.elements.remove(flight)
 
@@ -116,6 +120,9 @@ class Flights:
         self.elements = list()
 
     def to_json(self, shift=0):
+        if len(self.elements)==0:
+            return '[]'
+
         json_string = '[\n'
 
         for e in self.elements:
