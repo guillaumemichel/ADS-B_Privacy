@@ -1,0 +1,121 @@
+[
+  {
+    "icao"      : "a63dfb",
+    "callsign"  : "DCM6344 ",
+    "nnumber"   : "N501DJ",
+    "departure" :
+    {
+      "airport"             : "KOCF",
+      "time"                : "2020-02-09 13:38:10+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "90.0",
+        "latitude"  : "29.17259979",
+        "longitude" : "-82.22419739"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1075.0",
+        "latitude"  : "29.19123245497881",
+        "longitude" : "-82.22431856043198"
+      },
+      "horizontal_distance" : "2065.2553375281577",
+      "vertical_distance"   : "985.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-09 14:01:07+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "33000.0",
+        "latitude"  : "26.99226379394531",
+        "longitude" : "-79.26910400390625"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a63dfb",
+    "callsign"  : "DCM6344 ",
+    "nnumber"   : "N501DJ",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-09 16:06:14+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5625.0",
+        "latitude"  : "25.967210672669488",
+        "longitude" : "-79.88925053523137"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KFLL",
+      "time"                : "2020-02-09 16:18:32+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "26.072599",
+        "longitude" : "-80.152702"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-150.0",
+        "latitude"  : "26.06607055664062",
+        "longitude" : "-80.17884452387972"
+      },
+      "horizontal_distance" : "2713.94523578522",
+      "vertical_distance"   : "-159.0"
+    }
+  },
+  {
+    "icao"      : "a63dfb",
+    "callsign"  : "DCM6344 ",
+    "nnumber"   : "N501DJ",
+    "departure" :
+    {
+      "airport"             : "KFLL",
+      "time"                : "2020-02-10 20:11:15+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "26.072599",
+        "longitude" : "-80.152702"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1400.0",
+        "latitude"  : "26.06890869140625",
+        "longitude" : "-80.11427393499413"
+      },
+      "horizontal_distance" : "3866.6978693844317",
+      "vertical_distance"   : "1391.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KOCF",
+      "time"                : "2020-02-10 20:59:23+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "90.0",
+        "latitude"  : "29.17259979",
+        "longitude" : "-82.22419739"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "250.0",
+        "latitude"  : "29.195096290717693",
+        "longitude" : "-82.22302605124082"
+      },
+      "horizontal_distance" : "2496.086735441891",
+      "vertical_distance"   : "160.0"
+    }
+  }
+]

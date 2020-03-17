@@ -40,6 +40,12 @@ def getAicraftPosition(flight, prop):
 
 def getFlightAirports(airportsList, flight, row):
 
+    if airportsList is None and flight is None:
+        dep = TakeoffLanding(airport=row['estDepartureAirport'], time=row['firstSeen'], airport_position=None, aircraft_position=None)
+        arr = TakeoffLanding(airport=row['estArrivalAirport'], time=row['lastSeen'], airport_position=None, aircraft_position=None)
+        return dep, arr
+
+
     if row['estDepartureAirport'] is None:
         dep_ap_pos = None
     else:

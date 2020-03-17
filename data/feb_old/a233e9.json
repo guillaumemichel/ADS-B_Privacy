@@ -1,0 +1,45 @@
+[
+  {
+    "icao"      : "a233e9",
+    "callsign"  : "DCM202  ",
+    "nnumber"   : "N241CA",
+    "departure" :
+    {
+      "airport"             : "8TN6",
+      "time"                : "2020-02-20 19:06:16+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "560.0",
+        "latitude"  : "35.921579",
+        "longitude" : "-86.345034"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "27999.999999999996",
+        "latitude"  : "36.29598843849311",
+        "longitude" : "-89.56773473861368"
+      },
+      "horizontal_distance" : "293115.49165772303",
+      "vertical_distance"   : "27439.999999999996"
+    },
+    "arrival"   :
+    {
+      "airport"             : "MO78",
+      "time"                : "2020-02-20 20:47:39+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "700.0",
+        "latitude"  : "38.31669998168945",
+        "longitude" : "-91.78350067138672"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5799.999999999999",
+        "latitude"  : "38.36416470802436",
+        "longitude" : "-91.89788818359376"
+      },
+      "horizontal_distance" : "11303.349148552385",
+      "vertical_distance"   : "5099.999999999999"
+    }
+  }
+]

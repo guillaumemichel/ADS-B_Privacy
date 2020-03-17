@@ -1,7 +1,7 @@
 from traffic.data import aircraft, opensky, airports
 from traffic.core import Traffic
 from utils import *
-from flights import *
+from flights import Flights, MyFlight
 
 import pandas as pd
 import math
@@ -12,9 +12,9 @@ import json
 # update aircraft db
 #aircraft.download_opensky()
 
-month = 'december01-30'
-start = "2019-12-01"
-end = "2019-12-31"
+month = 'february'
+start = "2020-02-01"
+end = "2020-02-29"
 output_path = '../data/'+month+'/'
 
 
@@ -41,7 +41,7 @@ if __name__ == "__main__":
             continue
 
         try:
-            aicrafts = opensky.api_aircraft(icao24=icao, begin=start+' 00:00', end="2019-12-30"+' 23:59')
+            aicrafts = opensky.api_aircraft(icao24=icao, begin=start+' 00:00', end=end+' 23:59')
         except requests.exceptions.HTTPError as err:
             if err.response.status_code == 404:
                 print("No result for icao "+icao)
@@ -57,12 +57,15 @@ if __name__ == "__main__":
                 if f.icao24 == row['icao24'] and (row['callsign'] in f.callsign or f.callsign in row['callsign'] or (f.registration is not None and f.registration in row['callsign'])) and (flight is None or abs(row['firstSeen']-f.start)<abs(row['firstSeen']-flight.start)):
                     flight = f
             if flight is None:
-                print("Flight not found!")
-                print(row)
+                dep, arr = getFlightAirports(None, None, row)
+                myFlights.append(MyFlight(row['callsign'].strip(), row['icao24'].strip(), None, dep, arr))
             else:
                 dep, arr = getFlightAirports(usAirports, flight, row)
-                myFlights.append(MyFlight(flight.callsign, flight.icao24, flight.registration, dep, arr))
+                f2 = MyFlight(row['callsign'].strip(), row['icao24'].strip(), flight.registration, dep, arr)
+                #myFlights.append(MyFlight(flight.callsign, flight.icao24, flight.registration, dep, arr))
+                myFlights.append(f2)
 
+        print('should be ok')
         myFlights.to_file(output_path+icao+'.json')
         record = open(output_path+'record.txt', 'a')
         record.write(icao+'\n')

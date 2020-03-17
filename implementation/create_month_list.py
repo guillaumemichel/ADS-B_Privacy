@@ -24,9 +24,14 @@ allFlights.to_file(mypath+'/'+full_list_filename)
 d = dict()
 for f in allFlights.elements:
     if f.icao not in d:
-        d[f.icao] = set()
+        d[f.icao] = dict()
 
-    d[f.icao].add(f.callsign)
+    if f.callsign not in d[f.icao]:
+        d[f.icao][f.callsign] = 0
+
+    d[f.icao][f.callsign]+=1
+
+
 
 for e in d:
     print(e+': ',d[e])

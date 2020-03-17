@@ -1,0 +1,121 @@
+[
+  {
+    "icao"      : "a2a43a",
+    "callsign"  : "DCM3227 ",
+    "nnumber"   : "N27AY",
+    "departure" :
+    {
+      "airport"             : "KOPF",
+      "time"                : "2020-02-12 14:30:06+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "25.906999999999996",
+        "longitude" : "-80.278397"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1050.0",
+        "latitude"  : "25.91642218121028",
+        "longitude" : "-80.24767949030951"
+      },
+      "horizontal_distance" : "3249.8661768184675",
+      "vertical_distance"   : "1042.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "NC49",
+      "time"                : "2020-02-12 15:55:42+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "50.0",
+        "latitude"  : "35.527801513671875",
+        "longitude" : "-77.19670104980469"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "30475.0",
+        "latitude"  : "27.07459530587924",
+        "longitude" : "-79.10610492412859"
+      },
+      "horizontal_distance" : "954653.0068159966",
+      "vertical_distance"   : "30425.0"
+    }
+  },
+  {
+    "icao"      : "a2a43a",
+    "callsign"  : "DCM3227 ",
+    "nnumber"   : "N27AY",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-12 21:52:13+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "3900.0",
+        "latitude"  : "35.48886108398438",
+        "longitude" : "-77.02817916870117"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KOPF",
+      "time"                : "2020-02-12 23:32:18+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "25.906999999999996",
+        "longitude" : "-80.278397"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "35999.99999999999",
+        "latitude"  : "33.876663208007805",
+        "longitude" : "-77.9754638671875"
+      },
+      "horizontal_distance" : "910935.0429665252",
+      "vertical_distance"   : "35991.99999999999"
+    }
+  },
+  {
+    "icao"      : "a2a43a",
+    "callsign"  : "DCM3227 ",
+    "nnumber"   : "N27AY",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-18 22:26:41+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "13100.0",
+        "latitude"  : "12.202412233514302",
+        "longitude" : "-62.00168007298521"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KOPF",
+      "time"                : "2020-02-19 01:50:02+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "25.906999999999996",
+        "longitude" : "-80.278397"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "35999.99999999999",
+        "latitude"  : "14.215576171875",
+        "longitude" : "-63.53824483937228"
+      },
+      "horizontal_distance" : "2173536.235953092",
+      "vertical_distance"   : "35991.99999999999"
+    }
+  }
+]
