@@ -20,3 +20,13 @@ for s in onlyfiles:
         allFlights.concat(newFlights)
 
 allFlights.to_file(mypath+'/'+full_list_filename)
+
+d = dict()
+for f in allFlights.elements:
+    if f.icao not in d:
+        d[f.icao] = set()
+
+    d[f.icao].add(f.callsign)
+
+for e in d:
+    print(e+': ',d[e])

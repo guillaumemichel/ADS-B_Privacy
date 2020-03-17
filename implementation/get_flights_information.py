@@ -61,7 +61,7 @@ if __name__ == "__main__":
                 print(row)
             else:
                 dep, arr = getFlightAirports(usAirports, flight, row)
-                myFlights.append(MyFlight(row['callsign'], row['icao24'], flight.registration, dep, arr))
+                myFlights.append(MyFlight(flight.callsign, flight.icao24, flight.registration, dep, arr))
 
         myFlights.to_file(output_path+icao+'.json')
         record = open(output_path+'record.txt', 'a')
