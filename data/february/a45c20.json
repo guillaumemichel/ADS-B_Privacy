@@ -1,0 +1,73 @@
+[
+  {
+    "icao"      : "a45c20",
+    "callsign"  : "DCM2288",
+    "nnumber"   : "N380JP",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-19 13:58:13+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "8350.0",
+        "latitude"  : "31.614462642346396",
+        "longitude" : "-97.54030151367185"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-19 14:43:23+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "37249.99999999999",
+        "latitude"  : "32.66910359010858",
+        "longitude" : "-100.1019287109375"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a45c20",
+    "callsign"  : "DCM2288",
+    "nnumber"   : "N380JP",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-20 00:23:01+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "29000.0",
+        "latitude"  : "32.32635498046875",
+        "longitude" : "-100.2387634277343"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "TX97",
+      "time"                : "2020-02-20 00:48:29+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1160.0",
+        "latitude"  : "31.76490020751953",
+        "longitude" : "-97.79640197753906"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "7199.999999999999",
+        "latitude"  : "31.61521911621094",
+        "longitude" : "-97.71945728975183"
+      },
+      "horizontal_distance" : "18129.362057619626",
+      "vertical_distance"   : "6039.999999999999"
+    }
+  }
+]

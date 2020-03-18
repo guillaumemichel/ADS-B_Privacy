@@ -1,0 +1,354 @@
+[
+  {
+    "icao"      : "a138e0",
+    "callsign"  : "DCM6930",
+    "nnumber"   : "N178WG",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-04 16:48:39+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "15874.999999999998",
+        "latitude"  : "33.5079345703125",
+        "longitude" : "-94.37448120117188"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHND",
+      "time"                : "2020-02-04 19:47:23+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "2492.0",
+        "latitude"  : "35.9728012085",
+        "longitude" : "-115.134002686"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2175.0000000000005",
+        "latitude"  : "35.97012277376854",
+        "longitude" : "-115.1354915537732"
+      },
+      "horizontal_distance" : "326.12686050450765",
+      "vertical_distance"   : "-316.99999999999955"
+    }
+  },
+  {
+    "icao"      : "a138e0",
+    "callsign"  : "DCM3767",
+    "nnumber"   : "N178WG",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-06 16:10:39+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "19600.0",
+        "latitude"  : "33.54652016849841",
+        "longitude" : "-94.41341400146484"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSDL",
+      "time"                : "2020-02-06 18:38:37+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1510.0",
+        "latitude"  : "33.622898101806996",
+        "longitude" : "-111.91100311279"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1250.0",
+        "latitude"  : "33.62530517578125",
+        "longitude" : "-111.9077472297513"
+      },
+      "horizontal_distance" : "403.1766414404081",
+      "vertical_distance"   : "-260.0"
+    }
+  },
+  {
+    "icao"      : "a138e0",
+    "callsign"  : "DCM3767",
+    "nnumber"   : "N178WG",
+    "departure" :
+    {
+      "airport"             : "KSDL",
+      "time"                : "2020-02-08 19:08:20+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1510.0",
+        "latitude"  : "33.622898101806996",
+        "longitude" : "-111.91100311279"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1525.0000000000005",
+        "latitude"  : "33.622307211665785",
+        "longitude" : "-111.9111442565918"
+      },
+      "horizontal_distance" : "66.83472435274514",
+      "vertical_distance"   : "15.000000000000455"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHND",
+      "time"                : "2020-02-08 19:49:50+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "2492.0",
+        "latitude"  : "35.9728012085",
+        "longitude" : "-115.134002686"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2950.0000000000005",
+        "latitude"  : "36.53466176178495",
+        "longitude" : "-121.6909400452959"
+      },
+      "horizontal_distance" : "592468.8295614079",
+      "vertical_distance"   : "458.00000000000045"
+    }
+  },
+  {
+    "icao"      : "a138e0",
+    "callsign"  : "DCM3767",
+    "nnumber"   : "N178WG",
+    "departure" :
+    {
+      "airport"             : "KHND",
+      "time"                : "2020-02-08 20:25:19+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "2492.0",
+        "latitude"  : "35.9728012085",
+        "longitude" : "-115.134002686"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1525.0000000000005",
+        "latitude"  : "33.622307211665785",
+        "longitude" : "-111.9111442565918"
+      },
+      "horizontal_distance" : "393625.81850462384",
+      "vertical_distance"   : "-966.9999999999995"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KMRY",
+      "time"                : "2020-02-08 21:34:25+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "257.0",
+        "latitude"  : "36.58700180053711",
+        "longitude" : "-121.84300231933594"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2950.0000000000005",
+        "latitude"  : "36.53466176178495",
+        "longitude" : "-121.6909400452959"
+      },
+      "horizontal_distance" : "14800.059573094497",
+      "vertical_distance"   : "2693.0000000000005"
+    }
+  },
+  {
+    "icao"      : "a138e0",
+    "callsign"  : "DCM3767",
+    "nnumber"   : "N178WG",
+    "departure" :
+    {
+      "airport"             : "KMRY",
+      "time"                : "2020-02-11 19:32:05+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "257.0",
+        "latitude"  : "36.58700180053711",
+        "longitude" : "-121.84300231933594"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "7099.999999999999",
+        "latitude"  : "36.56730651855469",
+        "longitude" : "-121.6856002807617"
+      },
+      "horizontal_distance" : "14256.343936090883",
+      "vertical_distance"   : "6842.999999999999"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSDL",
+      "time"                : "2020-02-11 21:01:43+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1510.0",
+        "latitude"  : "33.622898101806996",
+        "longitude" : "-111.91100311279"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1424.9999999999998",
+        "latitude"  : "33.62058477886652",
+        "longitude" : "-111.91320419311519"
+      },
+      "horizontal_distance" : "327.94878301102335",
+      "vertical_distance"   : "-85.00000000000023"
+    }
+  },
+  {
+    "icao"      : "a138e0",
+    "callsign"  : "DCM3767",
+    "nnumber"   : "N178WG",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-21 19:59:25+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "39000.0",
+        "latitude"  : "32.621932983398445",
+        "longitude" : "-91.67338256835941"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDTS",
+      "time"                : "2020-02-21 20:43:28+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "23.0",
+        "latitude"  : "30.40010071",
+        "longitude" : "-86.47149658"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-424.99999999999994",
+        "latitude"  : "30.404907485186037",
+        "longitude" : "-86.47687683105471"
+      },
+      "horizontal_distance" : "742.467809607436",
+      "vertical_distance"   : "-447.99999999999994"
+    }
+  },
+  {
+    "icao"      : "a138e0",
+    "callsign"  : "DCM3767",
+    "nnumber"   : "N178WG",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-21 21:50:51+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "12600.0",
+        "latitude"  : "30.63995361328125",
+        "longitude" : "-86.4777508903952"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-21 22:55:36+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "21625.0",
+        "latitude"  : "33.0263671875",
+        "longitude" : "-92.62320556640627"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a138e0",
+    "callsign"  : "DCM3767",
+    "nnumber"   : "N178WG",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-22 17:01:06+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "37000.0",
+        "latitude"  : "32.35804153701006",
+        "longitude" : "-91.41661974848536"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KEGI",
+      "time"                : "2020-02-22 17:39:15+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "191.0",
+        "latitude"  : "30.65040016",
+        "longitude" : "-86.52290344"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "41925.0",
+        "latitude"  : "30.40351091805151",
+        "longitude" : "-86.4763412475586"
+      },
+      "horizontal_distance" : "27732.87359722364",
+      "vertical_distance"   : "41734.0"
+    }
+  },
+  {
+    "icao"      : "a138e0",
+    "callsign"  : "DCM3767",
+    "nnumber"   : "N178WG",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-27 15:07:39+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "27725.0",
+        "latitude"  : "33.1142578125",
+        "longitude" : "-93.26200561523441"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDTS",
+      "time"                : "2020-02-27 16:01:29+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "23.0",
+        "latitude"  : "30.40010071",
+        "longitude" : "-86.47149658"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1099.9999999999998",
+        "latitude"  : "30.28949284957627",
+        "longitude" : "-85.8104736328125"
+      },
+      "horizontal_distance" : "64729.88744119792",
+      "vertical_distance"   : "1076.9999999999998"
+    }
+  }
+]

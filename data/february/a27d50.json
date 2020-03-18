@@ -1,0 +1,174 @@
+[
+  {
+    "icao"      : "a27d50",
+    "callsign"  : "DCM3160",
+    "nnumber"   : "N26GX",
+    "departure" :
+    {
+      "airport"             : "KTUS",
+      "time"                : "2020-02-18 20:18:19+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "2643.0",
+        "latitude"  : "32.116100311279304",
+        "longitude" : "-110.94100189208984"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "6025.0",
+        "latitude"  : "32.056662349377646",
+        "longitude" : "-110.85939368423149"
+      },
+      "horizontal_distance" : "10138.80166654108",
+      "vertical_distance"   : "3382.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSDL",
+      "time"                : "2020-02-18 20:47:42+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1510.0",
+        "latitude"  : "33.622898101806996",
+        "longitude" : "-111.91100311279"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1474.9999999999998",
+        "latitude"  : "33.62603759765625",
+        "longitude" : "-111.9069064393336"
+      },
+      "horizontal_distance" : "515.51291878602",
+      "vertical_distance"   : "-35.00000000000023"
+    }
+  },
+  {
+    "icao"      : "a27d50",
+    "callsign"  : "DCM3160",
+    "nnumber"   : "N26GX",
+    "departure" :
+    {
+      "airport"             : "KSDL",
+      "time"                : "2020-02-24 23:48:16+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1510.0",
+        "latitude"  : "33.622898101806996",
+        "longitude" : "-111.91100311279"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1650.0",
+        "latitude"  : "33.61605834960938",
+        "longitude" : "-111.91828513632021"
+      },
+      "horizontal_distance" : "1015.9438425447449",
+      "vertical_distance"   : "140.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDUJ",
+      "time"                : "2020-02-25 02:59:26+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1817.0",
+        "latitude"  : "41.17829895",
+        "longitude" : "-78.8986969"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2100.0",
+        "latitude"  : "41.171497409626596",
+        "longitude" : "-78.91579367897725"
+      },
+      "horizontal_distance" : "1621.3381607385104",
+      "vertical_distance"   : "283.0"
+    }
+  },
+  {
+    "icao"      : "a27d50",
+    "callsign"  : "DCM3160",
+    "nnumber"   : "N26GX",
+    "departure" :
+    {
+      "airport"             : "KDUJ",
+      "time"                : "2020-02-25 19:11:02+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1817.0",
+        "latitude"  : "41.17829895",
+        "longitude" : "-78.8986969"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "3200.0",
+        "latitude"  : "41.19146831965042",
+        "longitude" : "-78.86641762473369"
+      },
+      "horizontal_distance" : "3077.9095402513904",
+      "vertical_distance"   : "1383.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KU42",
+      "time"                : "2020-02-25 22:39:33+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "4607.0",
+        "latitude"  : "40.61949921",
+        "longitude" : "-111.99299620000001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "38550.0",
+        "latitude"  : "40.257568359375",
+        "longitude" : "-106.723388671875"
+      },
+      "horizontal_distance" : "448834.5646780315",
+      "vertical_distance"   : "33943.0"
+    }
+  },
+  {
+    "icao"      : "a27d50",
+    "callsign"  : "DCM3160",
+    "nnumber"   : "N26GX",
+    "departure" :
+    {
+      "airport"             : "KSLC",
+      "time"                : "2020-02-26 03:29:46+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "4227.0",
+        "latitude"  : "40.78839874267578",
+        "longitude" : "-111.97799682617188"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "8875.0",
+        "latitude"  : "40.83287643173993",
+        "longitude" : "-112.0375130393288"
+      },
+      "horizontal_distance" : "7043.710227519689",
+      "vertical_distance"   : "4648.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSDL",
+      "time"                : "2020-02-26 04:32:40+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1510.0",
+        "latitude"  : "33.622898101806996",
+        "longitude" : "-111.91100311279"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1099.9999999999998",
+        "latitude"  : "33.619857788085945",
+        "longitude" : "-111.91408118423149"
+      },
+      "horizontal_distance" : "441.92331554398953",
+      "vertical_distance"   : "-410.0000000000002"
+    }
+  }
+]

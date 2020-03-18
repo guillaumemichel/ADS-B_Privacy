@@ -1,0 +1,45 @@
+[
+  {
+    "icao"      : "a789fd",
+    "callsign"  : "DCM2627",
+    "nnumber"   : "N585RL",
+    "departure" :
+    {
+      "airport"             : "KPEO",
+      "time"                : "2020-02-10 16:28:37+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "990.0",
+        "latitude"  : "42.63710021972656",
+        "longitude" : "-77.05290222167969"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "3725.0",
+        "latitude"  : "42.59562346894862",
+        "longitude" : "-77.04168985056322"
+      },
+      "horizontal_distance" : "4698.396540569237",
+      "vertical_distance"   : "2735.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KPEO",
+      "time"                : "2020-02-10 16:47:51+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "990.0",
+        "latitude"  : "42.63710021972656",
+        "longitude" : "-77.05290222167969"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2500.0",
+        "latitude"  : "42.72587585449219",
+        "longitude" : "-77.05779335715556"
+      },
+      "horizontal_distance" : "9869.922082214978",
+      "vertical_distance"   : "1510.0"
+    }
+  }
+]

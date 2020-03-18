@@ -1,0 +1,164 @@
+[
+  {
+    "icao"      : "adb2c3",
+    "callsign"  : "DCM4098",
+    "nnumber"   : "N982BZ",
+    "departure" :
+    {
+      "airport"             : "KSWF",
+      "time"                : "2020-02-02 20:32:58+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "491.0",
+        "latitude"  : "41.504101",
+        "longitude" : "-74.10479699999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1600.0",
+        "latitude"  : "41.50328063964844",
+        "longitude" : "-74.11508039994675"
+      },
+      "horizontal_distance" : "863.3966326244173",
+      "vertical_distance"   : "1109.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHPN",
+      "time"                : "2020-02-02 20:47:34+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "439.0",
+        "latitude"  : "41.06700134277344",
+        "longitude" : "-73.70760345458984"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1149.9999999999998",
+        "latitude"  : "41.02294921875",
+        "longitude" : "-73.67225646972656"
+      },
+      "horizontal_distance" : "5724.143012615495",
+      "vertical_distance"   : "710.9999999999998"
+    }
+  },
+  {
+    "icao"      : "adb2c3",
+    "callsign"  : "DCM4098",
+    "nnumber"   : "N982BZ",
+    "departure" :
+    {
+      "airport"             : "KHPN",
+      "time"                : "2020-02-25 14:45:40+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "439.0",
+        "latitude"  : "41.06700134277344",
+        "longitude" : "-73.70760345458984"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2050.0",
+        "latitude"  : "41.08830856064618",
+        "longitude" : "-73.73530301180756"
+      },
+      "horizontal_distance" : "3319.307515817394",
+      "vertical_distance"   : "1611.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-25 16:46:52+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "9475.0",
+        "latitude"  : "33.10334286447299",
+        "longitude" : "-82.96269630899235"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "adb2c3",
+    "callsign"  : "DCM4098",
+    "nnumber"   : "N982BZ",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-26 20:54:40+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "24825.000000000004",
+        "latitude"  : "33.07652877548993",
+        "longitude" : "-82.29942477479274"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KTTN",
+      "time"                : "2020-02-26 22:08:49+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "213.0",
+        "latitude"  : "40.27669906616211",
+        "longitude" : "-74.8134994506836"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "549.9999999999999",
+        "latitude"  : "40.26109313964844",
+        "longitude" : "-74.8336181640625"
+      },
+      "horizontal_distance" : "2435.4196855537175",
+      "vertical_distance"   : "336.9999999999999"
+    }
+  },
+  {
+    "icao"      : "adb2c3",
+    "callsign"  : "DCM4098",
+    "nnumber"   : "N982BZ",
+    "departure" :
+    {
+      "airport"             : "KTTN",
+      "time"                : "2020-02-27 04:12:48+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "213.0",
+        "latitude"  : "40.27669906616211",
+        "longitude" : "-74.8134994506836"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1275.0",
+        "latitude"  : "40.280534130031775",
+        "longitude" : "-74.80634515935725"
+      },
+      "horizontal_distance" : "742.661677792263",
+      "vertical_distance"   : "1062.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHPN",
+      "time"                : "2020-02-27 04:40:28+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "439.0",
+        "latitude"  : "41.06700134277344",
+        "longitude" : "-73.70760345458984"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1075.0",
+        "latitude"  : "41.11665344238281",
+        "longitude" : "-73.74481201171875"
+      },
+      "horizontal_distance" : "6338.686838085868",
+      "vertical_distance"   : "636.0"
+    }
+  }
+]

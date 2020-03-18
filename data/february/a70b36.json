@@ -1,0 +1,149 @@
+[
+  {
+    "icao"      : "a70b36",
+    "callsign"  : "DCM3627",
+    "nnumber"   : "N553GR",
+    "departure" :
+    {
+      "airport"             : "KROC",
+      "time"                : "2020-02-04 13:04:13+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "559.0",
+        "latitude"  : "43.118900299072266",
+        "longitude" : "-77.67240142822266"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "nan",
+        "latitude"  : "43.11754388324285",
+        "longitude" : "-77.66318729945591"
+      },
+      "horizontal_distance" : "764.8778884005768",
+      "vertical_distance"   : "nan"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-04 14:40:59+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "19075.0",
+        "latitude"  : "37.09867858886719",
+        "longitude" : "-85.60050152717753"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a70b36",
+    "callsign"  : "DCM3627",
+    "nnumber"   : "N553GR",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-04 17:48:43+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "7675.0",
+        "latitude"  : "36.43936157226562",
+        "longitude" : "-86.56270980834961"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-04 18:02:35+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "19150.0",
+        "latitude"  : "35.9195204912606",
+        "longitude" : "-87.94649164727394"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a70b36",
+    "callsign"  : "DCM3627",
+    "nnumber"   : "N553GR",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-04 22:25:04+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "28650.0",
+        "latitude"  : "36.419538077661535",
+        "longitude" : "-87.78041109125662"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KROC",
+      "time"                : "2020-02-04 23:45:41+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "559.0",
+        "latitude"  : "43.118900299072266",
+        "longitude" : "-77.67240142822266"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "525.0",
+        "latitude"  : "43.11721801757812",
+        "longitude" : "-77.66209801962209"
+      },
+      "horizontal_distance" : "859.1144798659279",
+      "vertical_distance"   : "-34.0"
+    }
+  },
+  {
+    "icao"      : "a70b36",
+    "callsign"  : "N553GR",
+    "nnumber"   : "N553GR",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-19 23:54:07+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "nan",
+        "latitude"  : "43.11813354492188",
+        "longitude" : "-77.66016583110012"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KROC",
+      "time"                : "2020-02-20 01:37:45+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "559.0",
+        "latitude"  : "43.118900299072266",
+        "longitude" : "-77.67240142822266"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "nan",
+        "latitude"  : "43.11812210083008",
+        "longitude" : "-77.6601817996003"
+      },
+      "horizontal_distance" : "998.2340248051393",
+      "vertical_distance"   : "nan"
+    }
+  }
+]

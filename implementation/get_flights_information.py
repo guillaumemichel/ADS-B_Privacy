@@ -65,7 +65,6 @@ if __name__ == "__main__":
                 #myFlights.append(MyFlight(flight.callsign, flight.icao24, flight.registration, dep, arr))
                 myFlights.append(f2)
 
-        print('should be ok')
         myFlights.to_file(output_path+icao+'.json')
         record = open(output_path+'record.txt', 'a')
         record.write(icao+'\n')

@@ -1,0 +1,131 @@
+[
+  {
+    "icao"      : "a6a6d0",
+    "callsign"  : "DCM2102",
+    "nnumber"   : "N528BS",
+    "departure" :
+    {
+      "airport"             : "KMQY",
+      "time"                : "2020-02-19 19:22:21+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "543.0",
+        "latitude"  : "36.0089988708",
+        "longitude" : "-86.52010345459999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "3350.0",
+        "latitude"  : "36.045397742319906",
+        "longitude" : "-86.48642032704453"
+      },
+      "horizontal_distance" : "5052.614592022945",
+      "vertical_distance"   : "2807.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "FA49",
+      "time"                : "2020-02-19 20:44:51+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "102.0",
+        "latitude"  : "29.096099853515625",
+        "longitude" : "-82.17900085449219"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "775.0",
+        "latitude"  : "29.105017710540253",
+        "longitude" : "-82.22151812385113"
+      },
+      "horizontal_distance" : "4255.212208211031",
+      "vertical_distance"   : "673.0"
+    }
+  },
+  {
+    "icao"      : "a6a6d0",
+    "callsign"  : "DCM2102",
+    "nnumber"   : "N528BS",
+    "departure" :
+    {
+      "airport"             : "KOCF",
+      "time"                : "2020-02-19 21:24:41+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "90.0",
+        "latitude"  : "29.17259979",
+        "longitude" : "-82.22419739"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1700.0000000000005",
+        "latitude"  : "29.2050584696107",
+        "longitude" : "-82.2557157628677"
+      },
+      "horizontal_distance" : "4726.597803403468",
+      "vertical_distance"   : "1610.0000000000005"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KOPF",
+      "time"                : "2020-02-19 22:16:14+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "25.906999999999996",
+        "longitude" : "-80.278397"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "200.0",
+        "latitude"  : "25.91152954101562",
+        "longitude" : "-80.3093330815153"
+      },
+      "horizontal_distance" : "3139.9828418767515",
+      "vertical_distance"   : "192.0"
+    }
+  },
+  {
+    "icao"      : "a6a6d0",
+    "callsign"  : "DCM2102",
+    "nnumber"   : "N528BS",
+    "departure" :
+    {
+      "airport"             : "KOPF",
+      "time"                : "2020-02-24 17:29:03+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "25.906999999999996",
+        "longitude" : "-80.278397"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1175.0",
+        "latitude"  : "25.915398031978285",
+        "longitude" : "-80.25713407076319"
+      },
+      "horizontal_distance" : "2324.6941268882056",
+      "vertical_distance"   : "1167.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KOCF",
+      "time"                : "2020-02-24 18:21:22+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "90.0",
+        "latitude"  : "29.17259979",
+        "longitude" : "-82.22419739"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "375.0",
+        "latitude"  : "29.20706176757812",
+        "longitude" : "-82.22315861628606"
+      },
+      "horizontal_distance" : "3821.063701499503",
+      "vertical_distance"   : "285.0"
+    }
+  }
+]
