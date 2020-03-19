@@ -1,4 +1,4 @@
-from flights import *
+from flights import Flights
 
 from os import listdir
 from os.path import isfile, join
@@ -31,7 +31,31 @@ for f in allFlights.elements:
 
     d[f.icao][f.callsign]+=1
 
-
-
 for e in d:
     print(e+': ',d[e])
+
+print(len(d))
+
+"""
+timerange = dict()
+for f in allFlights.elements:
+    if f.icao not in timerange:
+        timerange[f.icao]= (f, f)
+    else:
+        if f.departure.time < timerange[f.icao][0].departure.time:
+            timerange[f.icao] = (f, timerange[f.icao][1])
+        if f.arrival.time > timerange[f.icao][1].arrival.time:
+            timerange[f.icao] = (timerange[f.icao][0], f)
+
+for e0 in timerange:
+    for e1 in timerange:
+
+        if timerange[e0][1].arrival.time < timerange[e1][0].departure.time:
+            if timerange[e0][1].arrival.aircraft_position is not None and timerange[e1][0].arrival.aircraft_position is not None:
+                dist = timerange[e0][1].arrival.aircraft_position.distance(timerange[e1][0].departure.aircraft_position).km
+                if dist < 100:
+                    print(dist,'km')
+                    print(timerange[e0][1])
+                    print(timerange[e1][0])
+                    print()
+"""

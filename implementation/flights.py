@@ -21,6 +21,9 @@ class Position:
 
         return string
 
+    def distance(self, other):
+        return geodesic((self.latitude, self.longitude), (other.latitude, other.longitude))
+
 class TakeoffLanding:
     def __init__(self, airport=None, time=None, airport_position=None, aircraft_position=None):
         self.airport = airport
