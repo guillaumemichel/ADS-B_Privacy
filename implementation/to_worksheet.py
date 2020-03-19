@@ -106,43 +106,30 @@ feb.column_dimensions[chr(ord('A')-col0+col_arr_time)].width = 19
 for f in allFlights.elements:
     feb.cell(row=row_data, column=col_icao).value = f.icao.strip()
     feb.cell(row=row_data, column=col_callsign).value = f.callsign.strip()
-    feb.cell(row=row_data, column=col_nnumber).value = f.nnumber
+    if 'None' not in f.nnumber:
+        feb.cell(row=row_data, column=col_nnumber).value = f.nnumber
 
-    feb.cell(row=row_data, column=col_dep_ap).value = f.departure.airport
+    if 'None' not in f.departure.airport:
+        feb.cell(row=row_data, column=col_dep_ap).value = f.departure.airport
     feb.cell(row=row_data, column=col_dep_time).value = f.departure.time[:19]
-    if f.departure.airport_position is None:
-        feb.cell(row=row_data, column=col_dep_ap_pos_lat).value = None
-        feb.cell(row=row_data, column=col_dep_ap_pos_lon).value = None
-        feb.cell(row=row_data, column=col_dep_ap_pos_alt).value = None
-    else:
+    if f.departure.airport_position is not None:
         feb.cell(row=row_data, column=col_dep_ap_pos_lat).value = f.departure.airport_position.latitude
         feb.cell(row=row_data, column=col_dep_ap_pos_lon).value = f.departure.airport_position.longitude
         feb.cell(row=row_data, column=col_dep_ap_pos_alt).value = f.departure.airport_position.altitude
-    if f.departure.aircraft_position is None:
-        feb.cell(row=row_data, column=col_dep_ac_pos_lat).value = None
-        feb.cell(row=row_data, column=col_dep_ac_pos_lon).value = None
-        feb.cell(row=row_data, column=col_dep_ac_pos_alt).value = None
-    else:
+    if f.departure.aircraft_position is not None:
         feb.cell(row=row_data, column=col_dep_ac_pos_lat).value = f.departure.aircraft_position.latitude
         feb.cell(row=row_data, column=col_dep_ac_pos_lon).value = f.departure.aircraft_position.longitude
         feb.cell(row=row_data, column=col_dep_ac_pos_alt).value = f.departure.aircraft_position.altitude
 
 
-    feb.cell(row=row_data, column=col_arr_ap).value = f.arrival.airport
+    if 'None' not in f.arrival.airport:
+        feb.cell(row=row_data, column=col_arr_ap).value = f.arrival.airport
     feb.cell(row=row_data, column=col_arr_time).value = f.arrival.time[:19]
-    if f.arrival.airport_position is None:
-        feb.cell(row=row_data, column=col_arr_ap_pos_lat).value = None
-        feb.cell(row=row_data, column=col_arr_ap_pos_lon).value = None
-        feb.cell(row=row_data, column=col_arr_ap_pos_alt).value = None
-    else:
+    if f.arrival.airport_position is not None:
         feb.cell(row=row_data, column=col_arr_ap_pos_lat).value = f.arrival.airport_position.latitude
         feb.cell(row=row_data, column=col_arr_ap_pos_lon).value = f.arrival.airport_position.longitude
         feb.cell(row=row_data, column=col_arr_ap_pos_alt).value = f.arrival.airport_position.altitude
-    if f.arrival.aircraft_position is None:
-        feb.cell(row=row_data, column=col_arr_ac_pos_lat).value = None
-        feb.cell(row=row_data, column=col_arr_ac_pos_lon).value = None
-        feb.cell(row=row_data, column=col_arr_ac_pos_alt).value = None
-    else:
+    if f.arrival.aircraft_position is not None:
         feb.cell(row=row_data, column=col_arr_ac_pos_lat).value = f.arrival.aircraft_position.latitude
         feb.cell(row=row_data, column=col_arr_ac_pos_lon).value = f.arrival.aircraft_position.longitude
         feb.cell(row=row_data, column=col_arr_ac_pos_alt).value = f.arrival.aircraft_position.altitude
