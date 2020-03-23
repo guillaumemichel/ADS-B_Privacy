@@ -24,6 +24,12 @@ class Position:
     def distance(self, other):
         return geodesic((self.latitude, self.longitude), (other.latitude, other.longitude))
 
+    def equal(self, other):
+        return other is not None and \
+             self.altitude == other.altitude and \
+             self.latitude == other.latitude and \
+             self.longitude == other.longitude
+
 class TakeoffLanding:
     def __init__(self, airport=None, time=None, airport_position=None, aircraft_position=None):
         self.airport = airport
@@ -68,7 +74,11 @@ class TakeoffLanding:
         string += align*shift*' ' + '}'
 
         return string
-
+    
+    def equal(self, other):
+        return other is not None and \
+            self.airport == other.airport and \
+            self.time == other.time
 
 class MyFlight:
     def __init__(self, callsign=None, icao=None, nnumber=None, departure=None, arrival=None):
@@ -99,6 +109,12 @@ class MyFlight:
         string += align*shift*' ' + '}'
 
         return string
+
+    def equal(self, other):
+        return other is not None and \
+            self.callsign == other.callsign and \
+            self.icao == other.icao and \
+            self.departure.time == other.departure.time
 
 class Flights:
     def __init__(self):

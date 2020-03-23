@@ -1,17 +1,18 @@
 from flights import Flights
+from datetime import datetime
 
 from os import listdir
 from os.path import isfile, join
 
-month = 'february'
-mypath = '../data/'+month
-onlyfiles = [f for f in listdir(mypath) if isfile(join(mypath, f))]
-
-full_list_filename = 'all_flights.json'
+months = ['november', 'december01-30', 'dec31-jan01', 'january02-31', 'february']
 
 allFlights = Flights()
-for s in onlyfiles:
-    if '.json' in s and full_list_filename not in s:
+
+for month in months:
+    mypath = '../data/'+month
+    onlyfiles = [f for f in listdir(mypath) if isfile(join(mypath, f))]
+
+    for s in onlyfiles:
         newFlights = Flights()
         try:
             newFlights.from_file(mypath+'/'+s)
@@ -19,8 +20,34 @@ for s in onlyfiles:
             continue
         allFlights.concat(newFlights)
 
-allFlights.to_file(mypath+'/'+full_list_filename)
+for f in allFlights.elements:
+    f.departure.time = f.departure.time[:19]
+    f.arrival.time = f.arrival.time[:19]
 
+monthly_lists = dict()
+first_month = datetime.strptime('2030-01-01', '%Y-%m-%d')
+last_month = datetime.strptime('2010-01-01', '%Y-%m-%d')
+for f in allFlights.elements:
+    time = datetime.strptime(f.departure.time, '%Y-%m-%d %H:%M:%S')
+    m = time.strftime("%Y-%m").lower()
+
+    if time < first_month:
+        first_month = time
+    if time > last_month:
+        last_month = time
+
+    if m not in monthly_lists:
+        monthly_lists[m] = Flights()
+    
+    monthly_lists[m].append(f)
+
+allFlightsFilename = first_month.strftime("%Y-%m") + '_' + last_month.strftime("%Y-%m") + '.json'
+allFlights.to_file('../data/flight_lists/'+allFlightsFilename)
+
+for m in monthly_lists:
+    monthly_lists[m].to_file('../data/flight_lists/'+m+'.json')
+
+"""
 d = dict()
 for f in allFlights.elements:
     if f.icao not in d:
@@ -35,27 +62,4 @@ for e in d:
     print(e+': ',d[e])
 
 print(len(d))
-
-"""
-timerange = dict()
-for f in allFlights.elements:
-    if f.icao not in timerange:
-        timerange[f.icao]= (f, f)
-    else:
-        if f.departure.time < timerange[f.icao][0].departure.time:
-            timerange[f.icao] = (f, timerange[f.icao][1])
-        if f.arrival.time > timerange[f.icao][1].arrival.time:
-            timerange[f.icao] = (timerange[f.icao][0], f)
-
-for e0 in timerange:
-    for e1 in timerange:
-
-        if timerange[e0][1].arrival.time < timerange[e1][0].departure.time:
-            if timerange[e0][1].arrival.aircraft_position is not None and timerange[e1][0].arrival.aircraft_position is not None:
-                dist = timerange[e0][1].arrival.aircraft_position.distance(timerange[e1][0].departure.aircraft_position).km
-                if dist < 100:
-                    print(dist,'km')
-                    print(timerange[e0][1])
-                    print(timerange[e1][0])
-                    print()
 """
