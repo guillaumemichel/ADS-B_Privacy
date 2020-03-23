@@ -1,0 +1,665 @@
+[
+  {
+    "icao"      : "a99648",
+    "callsign"  : "DCM2132",
+    "nnumber"   : "N717CH",
+    "departure" :
+    {
+      "airport"             : "KTYR",
+      "time"                : "2019-12-02 18:18:14+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "544.0",
+        "latitude"  : "32.35409927368164",
+        "longitude" : "-95.40239715576172"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5200.0",
+        "latitude"  : "32.39190673828125",
+        "longitude" : "-95.49981079101559"
+      },
+      "horizontal_distance" : "10080.683987282193",
+      "vertical_distance"   : "4656.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-12-02 18:56:43+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "20800.0",
+        "latitude"  : "31.61526489257812",
+        "longitude" : "-99.07029095818018"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a99648",
+    "callsign"  : "DCM2132",
+    "nnumber"   : "N717CH",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-12-02 20:31:01+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "21000.0",
+        "latitude"  : "31.66264343261719",
+        "longitude" : "-99.31942210477942"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDAL",
+      "time"                : "2019-12-02 20:56:44+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "487.0",
+        "latitude"  : "32.847099",
+        "longitude" : "-96.851799"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "500.0",
+        "latitude"  : "32.818771362304695",
+        "longitude" : "-96.82575073242184"
+      },
+      "horizontal_distance" : "3977.1349232412153",
+      "vertical_distance"   : "13.0"
+    }
+  },
+  {
+    "icao"      : "a99648",
+    "callsign"  : "DCM2132",
+    "nnumber"   : "N717CH",
+    "departure" :
+    {
+      "airport"             : "KDAL",
+      "time"                : "2019-12-02 21:39:36+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "487.0",
+        "latitude"  : "32.847099",
+        "longitude" : "-96.851799"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1099.9999999999998",
+        "latitude"  : "32.862016063625525",
+        "longitude" : "-96.86230717873087"
+      },
+      "horizontal_distance" : "1924.6659149060781",
+      "vertical_distance"   : "612.9999999999998"
+    },
+    "arrival"   :
+    {
+      "airport"             : "TA37",
+      "time"                : "2019-12-02 21:55:49+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "nan",
+        "latitude"  : "32.428021",
+        "longitude" : "-95.71258"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1099.9999999999998",
+        "latitude"  : "32.325641179488876",
+        "longitude" : "-95.4433892697704"
+      },
+      "horizontal_distance" : "27759.87304021594",
+      "vertical_distance"   : "nan"
+    }
+  },
+  {
+    "icao"      : "a99648",
+    "callsign"  : "DCM2132",
+    "nnumber"   : "N717CH",
+    "departure" :
+    {
+      "airport"             : "KTYR",
+      "time"                : "2019-12-04 14:51:40+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "544.0",
+        "latitude"  : "32.35409927368164",
+        "longitude" : "-95.40239715576172"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5300.0",
+        "latitude"  : "32.31693591101695",
+        "longitude" : "-95.49361248405614"
+      },
+      "horizontal_distance" : "9525.346145017786",
+      "vertical_distance"   : "4756.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSAT",
+      "time"                : "2019-12-04 15:41:06+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "809.0",
+        "latitude"  : "29.533700942993164",
+        "longitude" : "-98.46980285644531"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "700.0",
+        "latitude"  : "29.51870727539062",
+        "longitude" : "-98.47442040076623"
+      },
+      "horizontal_distance" : "1721.1922550603854",
+      "vertical_distance"   : "-109.0"
+    }
+  },
+  {
+    "icao"      : "a99648",
+    "callsign"  : "DCM2132",
+    "nnumber"   : "N717CH",
+    "departure" :
+    {
+      "airport"             : "XS89",
+      "time"                : "2019-12-04 23:49:26+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "971.0",
+        "latitude"  : "29.6210994720459",
+        "longitude" : "-98.45580291748048"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2900.0000000000005",
+        "latitude"  : "29.56837463378906",
+        "longitude" : "-98.42661930964545"
+      },
+      "horizontal_distance" : "6492.230088301155",
+      "vertical_distance"   : "1929.0000000000005"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDAL",
+      "time"                : "2019-12-05 00:38:53+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "487.0",
+        "latitude"  : "32.847099",
+        "longitude" : "-96.851799"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "600.0",
+        "latitude"  : "32.87262997384799",
+        "longitude" : "-96.8745266661352"
+      },
+      "horizontal_distance" : "3541.544273088702",
+      "vertical_distance"   : "113.0"
+    }
+  },
+  {
+    "icao"      : "a99648",
+    "callsign"  : "DCM2132",
+    "nnumber"   : "N717CH",
+    "departure" :
+    {
+      "airport"             : "KDAL",
+      "time"                : "2019-12-05 14:56:13+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "487.0",
+        "latitude"  : "32.847099",
+        "longitude" : "-96.851799"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1300.0",
+        "latitude"  : "32.840652465820305",
+        "longitude" : "-96.83701171874998"
+      },
+      "horizontal_distance" : "1558.058255564746",
+      "vertical_distance"   : "813.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "TA37",
+      "time"                : "2019-12-05 15:09:15+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "nan",
+        "latitude"  : "32.428021",
+        "longitude" : "-95.71258"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2400.0",
+        "latitude"  : "32.406417846679695",
+        "longitude" : "-95.53573608398438"
+      },
+      "horizontal_distance" : "16806.047166899218",
+      "vertical_distance"   : "nan"
+    }
+  },
+  {
+    "icao"      : "a99648",
+    "callsign"  : "DCM2132",
+    "nnumber"   : "N717CH",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-12-06 19:56:22+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "11699.999999999998",
+        "latitude"  : "32.18380737304688",
+        "longitude" : "-95.78924560546876"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDAL",
+      "time"                : "2019-12-06 20:11:07+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "487.0",
+        "latitude"  : "32.847099",
+        "longitude" : "-96.851799"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "600.0",
+        "latitude"  : "32.82687377929688",
+        "longitude" : "-96.82179565429685"
+      },
+      "horizontal_distance" : "3594.700409032968",
+      "vertical_distance"   : "113.0"
+    }
+  },
+  {
+    "icao"      : "a99648",
+    "callsign"  : "DCM2132",
+    "nnumber"   : "N717CH",
+    "departure" :
+    {
+      "airport"             : "KDAL",
+      "time"                : "2019-12-06 21:24:35+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "487.0",
+        "latitude"  : "32.847099",
+        "longitude" : "-96.851799"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1700.0000000000005",
+        "latitude"  : "32.866997153072035",
+        "longitude" : "-96.86780034279334"
+      },
+      "horizontal_distance" : "2667.0343255857074",
+      "vertical_distance"   : "1213.0000000000005"
+    },
+    "arrival"   :
+    {
+      "airport"             : "XS91",
+      "time"                : "2019-12-06 21:40:31+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "580.0",
+        "latitude"  : "32.086498260498054",
+        "longitude" : "-95.59929656982422"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "6000.0",
+        "latitude"  : "32.13665771484375",
+        "longitude" : "-95.59605102539065"
+      },
+      "horizontal_distance" : "5570.547847453827",
+      "vertical_distance"   : "5420.0"
+    }
+  },
+  {
+    "icao"      : "a99648",
+    "callsign"  : "DCM2132",
+    "nnumber"   : "N717CH",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-12-08 20:53:22+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "10100.0",
+        "latitude"  : "32.193923950195305",
+        "longitude" : "-95.81358032226565"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDAL",
+      "time"                : "2019-12-08 21:14:41+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "487.0",
+        "latitude"  : "32.847099",
+        "longitude" : "-96.851799"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "899.9999999999999",
+        "latitude"  : "32.87228393554688",
+        "longitude" : "-96.87425537109372"
+      },
+      "horizontal_distance" : "3495.612958562855",
+      "vertical_distance"   : "412.9999999999999"
+    }
+  },
+  {
+    "icao"      : "a99648",
+    "callsign"  : "DCM2132",
+    "nnumber"   : "N717CH",
+    "departure" :
+    {
+      "airport"             : "KDAL",
+      "time"                : "2019-12-08 21:44:31+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "487.0",
+        "latitude"  : "32.847099",
+        "longitude" : "-96.851799"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1099.9999999999998",
+        "latitude"  : "32.843488272974035",
+        "longitude" : "-96.84067083864795"
+      },
+      "horizontal_distance" : "1116.0829202619043",
+      "vertical_distance"   : "612.9999999999998"
+    },
+    "arrival"   :
+    {
+      "airport"             : "TX40",
+      "time"                : "2019-12-08 21:59:25+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "450.0",
+        "latitude"  : "32.25429916381836",
+        "longitude" : "-95.65579986572266"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "4900.0",
+        "latitude"  : "32.2854200460143",
+        "longitude" : "-95.55913808394452"
+      },
+      "horizontal_distance" : "9738.969864971592",
+      "vertical_distance"   : "4450.0"
+    }
+  },
+  {
+    "icao"      : "a99648",
+    "callsign"  : "DCM2132",
+    "nnumber"   : "N717CH",
+    "departure" :
+    {
+      "airport"             : "KTYR",
+      "time"                : "2019-12-20 15:07:15+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "544.0",
+        "latitude"  : "32.35409927368164",
+        "longitude" : "-95.40239715576172"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "4700.0",
+        "latitude"  : "32.31963594081038",
+        "longitude" : "-95.49955406967472"
+      },
+      "horizontal_distance" : "9913.228230760204",
+      "vertical_distance"   : "4156.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDAL",
+      "time"                : "2019-12-20 15:28:29+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "487.0",
+        "latitude"  : "32.847099",
+        "longitude" : "-96.851799"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "500.0",
+        "latitude"  : "32.872146606445305",
+        "longitude" : "-96.87403564453128"
+      },
+      "horizontal_distance" : "3471.085587814097",
+      "vertical_distance"   : "13.0"
+    }
+  },
+  {
+    "icao"      : "a99648",
+    "callsign"  : "DCM2132",
+    "nnumber"   : "N717CH",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-12-23 21:13:37+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "21000.0",
+        "latitude"  : "39.174359855005285",
+        "longitude" : "-106.063232421875"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KAPA",
+      "time"                : "2019-12-23 21:31:29+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "5885.0",
+        "latitude"  : "39.57009888",
+        "longitude" : "-104.84899899999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "6000.0",
+        "latitude"  : "39.594493801310904",
+        "longitude" : "-104.85186767578121"
+      },
+      "horizontal_distance" : "2719.675231613372",
+      "vertical_distance"   : "115.0"
+    }
+  },
+  {
+    "icao"      : "a99648",
+    "callsign"  : "DCM2132",
+    "nnumber"   : "N717CH",
+    "departure" :
+    {
+      "airport"             : "KAPA",
+      "time"                : "2019-12-23 22:05:19+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "5885.0",
+        "latitude"  : "39.57009888",
+        "longitude" : "-104.84899899999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "6700.0",
+        "latitude"  : "39.544636354608045",
+        "longitude" : "-104.8494873046875"
+      },
+      "horizontal_distance" : "2827.317351700115",
+      "vertical_distance"   : "815.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDAL",
+      "time"                : "2019-12-23 23:45:29+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "487.0",
+        "latitude"  : "32.847099",
+        "longitude" : "-96.851799"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "700.0",
+        "latitude"  : "32.87444551112288",
+        "longitude" : "-96.87654456313776"
+      },
+      "horizontal_distance" : "3816.0774809809363",
+      "vertical_distance"   : "213.0"
+    }
+  },
+  {
+    "icao"      : "a99648",
+    "callsign"  : "DCM2132",
+    "nnumber"   : "N717CH",
+    "departure" :
+    {
+      "airport"             : "KDAL",
+      "time"                : "2019-12-24 00:06:18+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "487.0",
+        "latitude"  : "32.847099",
+        "longitude" : "-96.851799"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1300.0",
+        "latitude"  : "32.83685302734375",
+        "longitude" : "-96.83344116210935"
+      },
+      "horizontal_distance" : "2060.3221163153776",
+      "vertical_distance"   : "813.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KTYR",
+      "time"                : "2019-12-24 00:22:30+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "544.0",
+        "latitude"  : "32.35409927368164",
+        "longitude" : "-95.40239715576172"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1000.0",
+        "latitude"  : "32.32606014962924",
+        "longitude" : "-95.44624795719068"
+      },
+      "horizontal_distance" : "5168.198761117003",
+      "vertical_distance"   : "456.0"
+    }
+  },
+  {
+    "icao"      : "a99648",
+    "callsign"  : "DCM2132",
+    "nnumber"   : "N717CH",
+    "departure" :
+    {
+      "airport"             : "KTYR",
+      "time"                : "2019-12-25 21:27:10+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "544.0",
+        "latitude"  : "32.35409927368164",
+        "longitude" : "-95.40239715576172"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5200.0",
+        "latitude"  : "32.317794799804695",
+        "longitude" : "-95.49464721679685"
+      },
+      "horizontal_distance" : "9572.785313121101",
+      "vertical_distance"   : "4656.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDAL",
+      "time"                : "2019-12-25 21:48:35+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "487.0",
+        "latitude"  : "32.847099",
+        "longitude" : "-96.851799"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "3475.0",
+        "latitude"  : "32.87174548132945",
+        "longitude" : "-96.87351771763393"
+      },
+      "horizontal_distance" : "3406.4398866161337",
+      "vertical_distance"   : "2988.0"
+    }
+  },
+  {
+    "icao"      : "a99648",
+    "callsign"  : "DCM2132",
+    "nnumber"   : "N717CH",
+    "departure" :
+    {
+      "airport"             : "KDAL",
+      "time"                : "2019-12-25 22:10:46+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "487.0",
+        "latitude"  : "32.847099",
+        "longitude" : "-96.851799"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1000.0",
+        "latitude"  : "32.84445190429688",
+        "longitude" : "-96.84195556640623"
+      },
+      "horizontal_distance" : "967.1296073093399",
+      "vertical_distance"   : "513.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "TA37",
+      "time"                : "2019-12-25 22:25:54+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "nan",
+        "latitude"  : "32.428021",
+        "longitude" : "-95.71258"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2700.0",
+        "latitude"  : "32.40696793895657",
+        "longitude" : "-95.49293985172193"
+      },
+      "horizontal_distance" : "20791.384707798283",
+      "vertical_distance"   : "nan"
+    }
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "icao"      : "a5ec5c",
+    "callsign"  : "N481AM  ",
+    "nnumber"   : "N481AM",
+    "departure" :
+    {
+      "airport"             : "KIWA",
+      "time"                : "2020-01-03 17:57:07+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1382.0",
+        "latitude"  : "33.30780029",
+        "longitude" : "-111.65499879999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "19350.0",
+        "latitude"  : "30.99331613314354",
+        "longitude" : "-87.74807739257812"
+      },
+      "horizontal_distance" : "2264903.7658629296",
+      "vertical_distance"   : "17968.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KPHX",
+      "time"                : "2020-01-03 18:16:38+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1135.0",
+        "latitude"  : "33.43429946899414",
+        "longitude" : "-112.01200103759766"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "50.0",
+        "latitude"  : "35.86271667480469",
+        "longitude" : "-78.79972457885742"
+      },
+      "horizontal_distance" : "3042107.4982324787",
+      "vertical_distance"   : "-1085.0"
+    }
+  },
+  {
+    "icao"      : "a5ec5c",
+    "callsign"  : "N481AM  ",
+    "nnumber"   : "N481AM",
+    "departure" :
+    {
+      "airport"             : "KPHX",
+      "time"                : "2020-01-04 15:53:46+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1135.0",
+        "latitude"  : "33.43429946899414",
+        "longitude" : "-112.01200103759766"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "19350.0",
+        "latitude"  : "30.99331613314354",
+        "longitude" : "-87.74807739257812"
+      },
+      "horizontal_distance" : "2298135.977972743",
+      "vertical_distance"   : "18215.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "CYYZ",
+      "time"                : "2020-01-04 20:00:12+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "50.0",
+        "latitude"  : "35.86271667480469",
+        "longitude" : "-78.79972457885742"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a5ec5c",
+    "callsign"  : "DCM7018 ",
+    "nnumber"   : "N481AM",
+    "departure" :
+    {
+      "airport"             : "KRDU",
+      "time"                : "2020-01-22 02:35:54+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "435.0",
+        "latitude"  : "35.877601623535156",
+        "longitude" : "-78.7874984741211"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "100.0",
+        "latitude"  : "35.874551029528604",
+        "longitude" : "-78.78512118725064"
+      },
+      "horizontal_distance" : "400.82257631588845",
+      "vertical_distance"   : "-335.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-22 03:57:28+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "8200.0",
+        "latitude"  : "30.90609741210938",
+        "longitude" : "-87.60411879595587"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  }
+]

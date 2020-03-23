@@ -12,9 +12,9 @@ import json
 # update aircraft db
 #aircraft.download_opensky()
 
-month = 'february'
-start = "2020-02-01"
-end = "2020-02-29"
+month = 'december01-30'
+start = "2019-12-01"
+end = "2019-12-30"
 output_path = '../data/'+month+'/'
 
 
@@ -52,10 +52,20 @@ if __name__ == "__main__":
         myFlights = Flights()
         for _, row in aicrafts.iterrows():
             flight = None
+            if row['callsign'] is None:
+                print('callsign missing for '+row['icao24'])
+                continue
             for f in flights:
                 # GET CLOSEST FLIGHT TO TIME WITH SAME CALLSIGN AND ICAO
-                if f.icao24 == row['icao24'] and (row['callsign'] in f.callsign or f.callsign in row['callsign'] or (f.registration is not None and f.registration in row['callsign'])) and (flight is None or abs(row['firstSeen']-f.start)<abs(row['firstSeen']-flight.start)):
-                    flight = f
+                if f.callsign is None:
+                    continue
+                #if f.icao24 == row['icao24'] and (row['callsign'] in f.callsign or f.callsign in row['callsign'] or (f.registration is not None and f.registration in row['callsign'])) and (flight is None or abs(row['firstSeen']-f.start)<abs(row['firstSeen']-flight.start)):
+                if f.icao24 == row['icao24']:
+                    a = row['callsign'] in f.callsign
+                    b = f.callsign in row['callsign']
+                    c = f.registration is not None and f.registration in row['callsign']
+                    if (a or b or c) and (flight is None or abs(row['firstSeen']-f.start)<abs(row['firstSeen']-flight.start)):
+                        flight = f
             if flight is None:
                 dep, arr = getFlightAirports(None, None, row)
                 myFlights.append(MyFlight(row['callsign'].strip(), row['icao24'].strip(), None, dep, arr))

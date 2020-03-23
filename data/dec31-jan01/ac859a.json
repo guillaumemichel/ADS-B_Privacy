@@ -1,0 +1,78 @@
+[
+  {
+    "icao"      : "ac859a",
+    "callsign"  : "DCM6657",
+    "nnumber"   : "N906BL",
+    "departure" :
+    {
+      "airport"             : "KFTW",
+      "time"                : "2019-12-31 15:05:37+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "710.0",
+        "latitude"  : "32.819801",
+        "longitude" : "-97.36239599999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1400.0",
+        "latitude"  : "32.83766924324682",
+        "longitude" : "-97.37541354432398"
+      },
+      "horizontal_distance" : "2326.4675311105466",
+      "vertical_distance"   : "690.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-12-31 15:23:19+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "14375.0",
+        "latitude"  : "32.059982299804695",
+        "longitude" : "-99.07437744140623"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "ac859a",
+    "callsign"  : "DCM6657",
+    "nnumber"   : "N906BL",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-12-31 20:04:11+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "21000.0",
+        "latitude"  : "31.80602510096663",
+        "longitude" : "-99.26713593152107"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KFTW",
+      "time"                : "2019-12-31 20:23:58+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "710.0",
+        "latitude"  : "32.819801",
+        "longitude" : "-97.36239599999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1350.0",
+        "latitude"  : "32.766860961914055",
+        "longitude" : "-97.35205078125"
+      },
+      "horizontal_distance" : "5950.526105838527",
+      "vertical_distance"   : "640.0"
+    }
+  }
+]

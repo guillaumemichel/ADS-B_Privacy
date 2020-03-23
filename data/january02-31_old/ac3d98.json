@@ -1,0 +1,402 @@
+[
+  {
+    "icao"      : "ac3d98",
+    "callsign"  : "DCM3185 ",
+    "nnumber"   : "N888WY",
+    "departure" :
+    {
+      "airport"             : "KSDL",
+      "time"                : "2020-01-13 15:20:33+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1510.0",
+        "latitude"  : "33.622898101806996",
+        "longitude" : "-111.91100311279"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1824.9999999999998",
+        "latitude"  : "33.63034057617188",
+        "longitude" : "-111.9021419602997"
+      },
+      "horizontal_distance" : "1165.0929609898963",
+      "vertical_distance"   : "314.9999999999998"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KTEB",
+      "time"                : "2020-01-13 18:59:40+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "40.85010147089999",
+        "longitude" : "-74.060798645"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-175.0",
+        "latitude"  : "40.840836864406775",
+        "longitude" : "-74.07900029962713"
+      },
+      "horizontal_distance" : "1847.877976760472",
+      "vertical_distance"   : "-184.0"
+    }
+  },
+  {
+    "icao"      : "ac3d98",
+    "callsign"  : "DCM3185 ",
+    "nnumber"   : "N888WY",
+    "departure" :
+    {
+      "airport"             : "KTEB",
+      "time"                : "2020-01-16 11:56:44+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "40.85010147089999",
+        "longitude" : "-74.060798645"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1025.0",
+        "latitude"  : "40.83650207519531",
+        "longitude" : "-74.08306884765625"
+      },
+      "horizontal_distance" : "2410.0169822636717",
+      "vertical_distance"   : "1016.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-16 14:05:55+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "38000.0",
+        "latitude"  : "32.95772746457892",
+        "longitude" : "-79.97637690330038"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "ac3d98",
+    "callsign"  : "DCM3185 ",
+    "nnumber"   : "N888WY",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-16 17:00:33+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "18200.000000000004",
+        "latitude"  : "28.68782043457031",
+        "longitude" : "-81.18431678185097"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-16 17:12:18+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "24000.000000000004",
+        "latitude"  : "29.85040283203125",
+        "longitude" : "-81.77044795109674"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "ac3d98",
+    "callsign"  : "DCM3185 ",
+    "nnumber"   : "N888WY",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-16 20:50:05+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "35149.99999999999",
+        "latitude"  : "32.531681384070446",
+        "longitude" : "-82.26444789341518"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KISP",
+      "time"                : "2020-01-16 22:14:26+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "99.0",
+        "latitude"  : "40.79520035",
+        "longitude" : "-73.10019684"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "175.0",
+        "latitude"  : "40.7870224774894",
+        "longitude" : "-73.08754660866475"
+      },
+      "horizontal_distance" : "1401.672485475453",
+      "vertical_distance"   : "76.0"
+    }
+  },
+  {
+    "icao"      : "ac3d98",
+    "callsign"  : "DCM3185 ",
+    "nnumber"   : "N888WY",
+    "departure" :
+    {
+      "airport"             : "KLAS",
+      "time"                : "2020-01-20 15:19:42+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "2181.0",
+        "latitude"  : "36.08010101",
+        "longitude" : "-115.15200039999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1875.0",
+        "latitude"  : "36.08236021914725",
+        "longitude" : "-115.1663467731881"
+      },
+      "horizontal_distance" : "1316.285483759454",
+      "vertical_distance"   : "-306.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSDL",
+      "time"                : "2020-01-20 16:04:34+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1510.0",
+        "latitude"  : "33.622898101806996",
+        "longitude" : "-111.91100311279"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1275.0",
+        "latitude"  : "33.621231079101555",
+        "longitude" : "-111.91251170878509"
+      },
+      "horizontal_distance" : "231.9127086912587",
+      "vertical_distance"   : "-235.0"
+    }
+  },
+  {
+    "icao"      : "ac3d98",
+    "callsign"  : "DCM3185 ",
+    "nnumber"   : "N888WY",
+    "departure" :
+    {
+      "airport"             : "KSDL",
+      "time"                : "2020-01-23 14:50:55+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1510.0",
+        "latitude"  : "33.622898101806996",
+        "longitude" : "-111.91100311279"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1250.0",
+        "latitude"  : "33.62164306640625",
+        "longitude" : "-111.91195118183991"
+      },
+      "horizontal_distance" : "164.67151232642536",
+      "vertical_distance"   : "-260.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KLUK",
+      "time"                : "2020-01-23 18:05:25+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "483.0",
+        "latitude"  : "39.10329819",
+        "longitude" : "-84.41860199"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "37000.0",
+        "latitude"  : "36.67158508300781",
+        "longitude" : "-100.83057403564449"
+      },
+      "horizontal_distance" : "1466578.4706294474",
+      "vertical_distance"   : "36517.0"
+    }
+  },
+  {
+    "icao"      : "ac3d98",
+    "callsign"  : "DCM3185 ",
+    "nnumber"   : "N888WY",
+    "departure" :
+    {
+      "airport"             : "KLUK",
+      "time"                : "2020-01-23 21:16:16+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "483.0",
+        "latitude"  : "39.10329819",
+        "longitude" : "-84.41860199"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1149.9999999999998",
+        "latitude"  : "39.076274289923205",
+        "longitude" : "-84.42669677734375"
+      },
+      "horizontal_distance" : "3080.7750502776544",
+      "vertical_distance"   : "666.9999999999998"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSDL",
+      "time"                : "2020-01-24 00:45:42+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1510.0",
+        "latitude"  : "33.622898101806996",
+        "longitude" : "-111.91100311279"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "38000.0",
+        "latitude"  : "37.62162780761719",
+        "longitude" : "-98.30858595827793"
+      },
+      "horizontal_distance" : "1308176.3830833493",
+      "vertical_distance"   : "36490.0"
+    }
+  },
+  {
+    "icao"      : "ac3d98",
+    "callsign"  : "DCM3185 ",
+    "nnumber"   : "N888WY",
+    "departure" :
+    {
+      "airport"             : "KSDL",
+      "time"                : "2020-01-28 13:16:17+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1510.0",
+        "latitude"  : "33.622898101806996",
+        "longitude" : "-111.91100311279"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1250.0",
+        "latitude"  : "33.622695922851555",
+        "longitude" : "-111.91077407525509"
+      },
+      "horizontal_distance" : "30.895740395507673",
+      "vertical_distance"   : "-260.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-28 15:13:55+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "33000.0",
+        "latitude"  : "30.22453308105469",
+        "longitude" : "-93.4949987074908"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "ac3d98",
+    "callsign"  : "DCM3185 ",
+    "nnumber"   : "N888WY",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-28 20:28:01+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "22525.0",
+        "latitude"  : "30.3680419921875",
+        "longitude" : "-90.58292164522058"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KFTW",
+      "time"                : "2020-01-28 21:36:43+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "710.0",
+        "latitude"  : "32.819801",
+        "longitude" : "-97.36239599999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "35999.99999999999",
+        "latitude"  : "31.172216383077327",
+        "longitude" : "-92.3104248046875"
+      },
+      "horizontal_distance" : "511087.2635995794",
+      "vertical_distance"   : "35289.99999999999"
+    }
+  },
+  {
+    "icao"      : "ac3d98",
+    "callsign"  : "DCM3185 ",
+    "nnumber"   : "N888WY",
+    "departure" :
+    {
+      "airport"             : "KFTW",
+      "time"                : "2020-01-29 18:58:11+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "710.0",
+        "latitude"  : "32.819801",
+        "longitude" : "-97.36239599999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1950.0",
+        "latitude"  : "32.841751098632805",
+        "longitude" : "-97.36501464843748"
+      },
+      "horizontal_distance" : "2446.614480626047",
+      "vertical_distance"   : "1240.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSDL",
+      "time"                : "2020-01-29 21:08:46+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1510.0",
+        "latitude"  : "33.622898101806996",
+        "longitude" : "-111.91100311279"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1525.0000000000005",
+        "latitude"  : "33.63036074880826",
+        "longitude" : "-111.90187454223629"
+      },
+      "horizontal_distance" : "1184.2966271882913",
+      "vertical_distance"   : "15.000000000000455"
+    }
+  }
+]

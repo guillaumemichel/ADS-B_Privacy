@@ -1,0 +1,121 @@
+[
+  {
+    "icao"      : "a308e1",
+    "callsign"  : "DCM1210",
+    "nnumber"   : "N295JM",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-12-27 12:29:11+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "17325.0",
+        "latitude"  : "33.29783811407574",
+        "longitude" : "-82.92827995455995"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KPDK",
+      "time"                : "2019-12-27 12:47:06+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1003.0",
+        "latitude"  : "33.8755989075",
+        "longitude" : "-84.3020019531"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "625.0",
+        "latitude"  : "33.86996511685646",
+        "longitude" : "-84.30341720581055"
+      },
+      "horizontal_distance" : "638.4721078849374",
+      "vertical_distance"   : "-378.0"
+    }
+  },
+  {
+    "icao"      : "a308e1",
+    "callsign"  : "DCM1210",
+    "nnumber"   : "N295JM",
+    "departure" :
+    {
+      "airport"             : "KPDK",
+      "time"                : "2019-12-27 14:28:06+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1003.0",
+        "latitude"  : "33.8755989075",
+        "longitude" : "-84.3020019531"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1400.0",
+        "latitude"  : "33.898269653320305",
+        "longitude" : "-84.29181780133929"
+      },
+      "horizontal_distance" : "2685.3327343142428",
+      "vertical_distance"   : "397.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KABQ",
+      "time"                : "2019-12-27 17:36:12+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "5355.0",
+        "latitude"  : "35.040199",
+        "longitude" : "-106.609001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5375.0",
+        "latitude"  : "35.04424531581038",
+        "longitude" : "-106.607494354248"
+      },
+      "horizontal_distance" : "469.4806462922599",
+      "vertical_distance"   : "20.0"
+    }
+  },
+  {
+    "icao"      : "a308e1",
+    "callsign"  : "DCM1210",
+    "nnumber"   : "N295JM",
+    "departure" :
+    {
+      "airport"             : "KABQ",
+      "time"                : "2019-12-27 18:20:22+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "5355.0",
+        "latitude"  : "35.040199",
+        "longitude" : "-106.609001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5375.0",
+        "latitude"  : "35.03754179356461",
+        "longitude" : "-106.61218643188481"
+      },
+      "horizontal_distance" : "413.98499747013517",
+      "vertical_distance"   : "20.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-12-27 19:58:21+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "10549.999999999998",
+        "latitude"  : "34.96307373046875",
+        "longitude" : "-90.9122576032366"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  }
+]

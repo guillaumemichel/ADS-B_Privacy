@@ -1,2 +1,48 @@
-
+[
+  {
+    "icao"      : "a6a6d0",
+    "callsign"  : "DTCM2102",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KAPA",
+      "time"                : "2020-01-03 03:49:10+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KMQY",
+      "time"                : "2020-01-03 06:07:58+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a6a6d0",
+    "callsign"  : "DTCM2102",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-04 00:06:39+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "FL66",
+      "time"                : "2020-01-04 01:27:49+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  }
 ]

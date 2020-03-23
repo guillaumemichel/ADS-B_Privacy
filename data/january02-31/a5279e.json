@@ -1,7 +1,30 @@
 [
   {
     "icao"      : "a5279e",
-    "callsign"  : "DCM4230 ",
+    "callsign"  : "1D9R931B",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-03 23:17:05+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KPIE",
+      "time"                : "2020-01-03 23:34:09+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a5279e",
+    "callsign"  : "DCM4230",
     "nnumber"   : "N431JA",
     "departure" :
     {
@@ -44,7 +67,7 @@
   },
   {
     "icao"      : "a5279e",
-    "callsign"  : "DCM4230 ",
+    "callsign"  : "DCM4230",
     "nnumber"   : "N431JA",
     "departure" :
     {
@@ -87,7 +110,7 @@
   },
   {
     "icao"      : "a5279e",
-    "callsign"  : "DCM4230 ",
+    "callsign"  : "DCM4230",
     "nnumber"   : "N431JA",
     "departure" :
     {
@@ -130,7 +153,7 @@
   },
   {
     "icao"      : "a5279e",
-    "callsign"  : "DCM4230 ",
+    "callsign"  : "DCM4230",
     "nnumber"   : "N431JA",
     "departure" :
     {

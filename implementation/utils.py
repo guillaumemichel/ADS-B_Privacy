@@ -23,13 +23,13 @@ def getAicraftPosition(flight, prop):
     """
     step = 0.001
     inc = (prop == 0)
-    while math.isnan(flight.at_ratio(prop).latitude) and ((inc and prop<1) or ((not inc) and prop>0)):
+    while ((inc and prop<1) or ((not inc) and prop>0)) and math.isnan(flight.at_ratio(prop).latitude):
         if inc:
             prop += step
         else:
             prop -= step
 
-    if (inc and prop==1) or ((not inc) and prop==0):
+    if (inc and prop>=1) or ((not inc) and prop<=0):
         return None
 
     f = flight.at_ratio(prop)

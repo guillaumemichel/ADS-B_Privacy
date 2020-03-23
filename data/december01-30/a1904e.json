@@ -1,0 +1,121 @@
+[
+  {
+    "icao"      : "a1904e",
+    "callsign"  : "DCM405S",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-12-02 22:10:41+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "40000.0",
+        "latitude"  : "25.34853143207097",
+        "longitude" : "-81.50445902122642"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "II20",
+      "time"                : "2019-12-03 00:44:00+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "845.0",
+        "latitude"  : "40.67369842529297",
+        "longitude" : "-85.26329803466797"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "96300.0",
+        "latitude"  : "40.642896749205505",
+        "longitude" : "-85.15946128151633"
+      },
+      "horizontal_distance" : "9423.92744371835",
+      "vertical_distance"   : "95455.0"
+    }
+  },
+  {
+    "icao"      : "a1904e",
+    "callsign"  : "DCM405S",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KFWA",
+      "time"                : "2019-12-18 20:18:22+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "814.0",
+        "latitude"  : "40.97850037",
+        "longitude" : "-85.19509888"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "3725.0",
+        "latitude"  : "40.99776445809057",
+        "longitude" : "-85.26695251464844"
+      },
+      "horizontal_distance" : "6413.813630483951",
+      "vertical_distance"   : "2911.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "78VA",
+      "time"                : "2019-12-18 21:00:55+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "490.0",
+        "latitude"  : "38.24639892578125",
+        "longitude" : "-78.47530364990234"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "4650.0",
+        "latitude"  : "38.18829345703125",
+        "longitude" : "-78.50397637549868"
+      },
+      "horizontal_distance" : "6921.272249440931",
+      "vertical_distance"   : "4160.0"
+    }
+  },
+  {
+    "icao"      : "a1904e",
+    "callsign"  : "DCM405S",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-12-19 13:22:34+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "11650.0",
+        "latitude"  : "38.09687805175781",
+        "longitude" : "-78.6468570790392"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "IN58",
+      "time"                : "2019-12-19 14:17:12+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "820.0",
+        "latitude"  : "40.90370178222656",
+        "longitude" : "-84.84750366210938"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "975.0",
+        "latitude"  : "41.00825500488281",
+        "longitude" : "-85.154296875"
+      },
+      "horizontal_distance" : "28318.97189568601",
+      "vertical_distance"   : "155.0"
+    }
+  }
+]

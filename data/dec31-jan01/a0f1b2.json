@@ -1,0 +1,40 @@
+[
+  {
+    "icao"      : "a0f1b2",
+    "callsign"  : "DCM2637",
+    "nnumber"   : "N160AD",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-12-31 14:26:48+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "13925.0",
+        "latitude"  : "36.046747757216636",
+        "longitude" : "-97.6920659491356"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KADS",
+      "time"                : "2019-12-31 15:08:44+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "644.0",
+        "latitude"  : "32.9686012268",
+        "longitude" : "-96.8364028931"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "375.0",
+        "latitude"  : "32.956558227539055",
+        "longitude" : "-96.83124389648435"
+      },
+      "horizontal_distance" : "1420.0373331820042",
+      "vertical_distance"   : "-269.0"
+    }
+  }
+]

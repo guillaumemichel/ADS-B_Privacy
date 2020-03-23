@@ -1,0 +1,40 @@
+[
+  {
+    "icao"      : "ac3d5d",
+    "callsign"  : "DCM2748 ",
+    "nnumber"   : "N888UP",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-13 16:24:51+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "10900.0",
+        "latitude"  : "26.85272734043962",
+        "longitude" : "-80.3509404109074"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KTEB",
+      "time"                : "2020-01-13 19:43:09+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "40.85010147089999",
+        "longitude" : "-74.060798645"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "33000.0",
+        "latitude"  : "30.19368834414724",
+        "longitude" : "-81.37754516601562"
+      },
+      "horizontal_distance" : "1354606.86916317",
+      "vertical_distance"   : "32991.0"
+    }
+  }
+]

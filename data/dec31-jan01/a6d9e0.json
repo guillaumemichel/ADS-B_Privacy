@@ -1,0 +1,45 @@
+[
+  {
+    "icao"      : "a6d9e0",
+    "callsign"  : "DCM2277",
+    "nnumber"   : "N540W",
+    "departure" :
+    {
+      "airport"             : "KPHX",
+      "time"                : "2020-01-01 21:29:33+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1135.0",
+        "latitude"  : "33.43429946899414",
+        "longitude" : "-112.01200103759766"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1124.9999999999998",
+        "latitude"  : "33.42888266353284",
+        "longitude" : "-112.01923603914221"
+      },
+      "horizontal_distance" : "902.019425898339",
+      "vertical_distance"   : "-10.000000000000227"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSBA",
+      "time"                : "2020-01-01 22:34:57+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "13.0",
+        "latitude"  : "34.42620087",
+        "longitude" : "-119.8399963"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "724.9999999999999",
+        "latitude"  : "34.424560546875",
+        "longitude" : "-119.80316162109379"
+      },
+      "horizontal_distance" : "3390.793344265514",
+      "vertical_distance"   : "711.9999999999999"
+    }
+  }
+]

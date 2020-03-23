@@ -1,7 +1,7 @@
 [
   {
     "icao"      : "a70718",
-    "callsign"  : "DCM4034 ",
+    "callsign"  : "DCM4034",
     "nnumber"   : "N552CN",
     "departure" :
     {
@@ -44,7 +44,7 @@
   },
   {
     "icao"      : "a70718",
-    "callsign"  : "DCM4034 ",
+    "callsign"  : "DCM4034",
     "nnumber"   : "N552CN",
     "departure" :
     {
@@ -87,7 +87,168 @@
   },
   {
     "icao"      : "a70718",
-    "callsign"  : "DCM4034 ",
+    "callsign"  : "HRF552",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KGYI",
+      "time"                : "2019-11-08 14:12:12+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KADS",
+      "time"                : "2019-11-08 14:32:24+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a70718",
+    "callsign"  : "HRF552",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KADS",
+      "time"                : "2019-11-08 15:11:35+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSAT",
+      "time"                : "2019-11-08 16:03:27+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a70718",
+    "callsign"  : "HRF552",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KSAT",
+      "time"                : "2019-11-08 16:47:13+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KFYV",
+      "time"                : "2019-11-08 17:53:29+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a70718",
+    "callsign"  : "HRF552",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KFYV",
+      "time"                : "2019-11-08 18:28:37+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "K43A",
+      "time"                : "2019-11-08 19:54:51+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a70718",
+    "callsign"  : "HRF552",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-11-10 15:33:28+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KFYV",
+      "time"                : "2019-11-10 17:38:26+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a70718",
+    "callsign"  : "HRF552",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KFYV",
+      "time"                : "2019-11-10 18:12:04+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSAT",
+      "time"                : "2019-11-10 19:22:57+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a70718",
+    "callsign"  : "HRF552",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KSAT",
+      "time"                : "2019-11-10 21:09:11+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KGYI",
+      "time"                : "2019-11-10 21:55:42+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a70718",
+    "callsign"  : "DCM4034",
     "nnumber"   : "N552CN",
     "departure" :
     {
@@ -130,7 +291,7 @@
   },
   {
     "icao"      : "a70718",
-    "callsign"  : "DCM4034 ",
+    "callsign"  : "DCM4034",
     "nnumber"   : "N552CN",
     "departure" :
     {

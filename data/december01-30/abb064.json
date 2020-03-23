@@ -1,0 +1,78 @@
+[
+  {
+    "icao"      : "abb064",
+    "callsign"  : "DCM3021",
+    "nnumber"   : "N852SP",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-12-01 10:29:37+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "17225.0",
+        "latitude"  : "35.059707641601555",
+        "longitude" : "-84.64326819595027"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KATL",
+      "time"                : "2019-12-01 10:56:41+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1026.0",
+        "latitude"  : "33.6367",
+        "longitude" : "-84.428101"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2500.0",
+        "latitude"  : "33.6492919921875",
+        "longitude" : "-84.32197415098851"
+      },
+      "horizontal_distance" : "9943.9019104955",
+      "vertical_distance"   : "1474.0"
+    }
+  },
+  {
+    "icao"      : "abb064",
+    "callsign"  : "DCM3021",
+    "nnumber"   : "N852SP",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-12-05 15:20:14+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "32000.0",
+        "latitude"  : "37.45980834960938",
+        "longitude" : "-86.98144790974068"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KMCI",
+      "time"                : "2019-12-05 16:39:08+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1026.0",
+        "latitude"  : "39.2976",
+        "longitude" : "-94.713898"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "975.0",
+        "latitude"  : "39.32249450683594",
+        "longitude" : "-94.72071772036344"
+      },
+      "horizontal_distance" : "2825.716714494514",
+      "vertical_distance"   : "-51.0"
+    }
+  }
+]

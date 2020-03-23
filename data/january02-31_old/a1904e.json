@@ -1,0 +1,40 @@
+[
+  {
+    "icao"      : "a1904e",
+    "callsign"  : "DCM405S ",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-05 22:09:50+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "40000.0",
+        "latitude"  : "24.90693690413136",
+        "longitude" : "-81.09184984890919"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "II85",
+      "time"                : "2020-01-06 00:34:09+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "800.0",
+        "latitude"  : "40.89619827270508",
+        "longitude" : "-85.04910278320312"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1449.9999999999998",
+        "latitude"  : "41.00967407226562",
+        "longitude" : "-85.14990234375"
+      },
+      "horizontal_distance" : "15193.159025066285",
+      "vertical_distance"   : "649.9999999999998"
+    }
+  }
+]

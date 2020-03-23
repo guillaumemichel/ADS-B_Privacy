@@ -1,0 +1,536 @@
+[
+  {
+    "icao"      : "a3a21d",
+    "callsign"  : "DCM2930 ",
+    "nnumber"   : "N333MX",
+    "departure" :
+    {
+      "airport"             : "KAPA",
+      "time"                : "2020-01-02 18:59:47+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "5885.0",
+        "latitude"  : "39.57009888",
+        "longitude" : "-104.84899899999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "6424.999999999999",
+        "latitude"  : "39.57815551757812",
+        "longitude" : "-104.85100787618879"
+      },
+      "horizontal_distance" : "911.0012104106646",
+      "vertical_distance"   : "539.9999999999991"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KVNY",
+      "time"                : "2020-01-02 20:52:50+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "802.0",
+        "latitude"  : "34.209800720215",
+        "longitude" : "-118.48999786376999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "76800.0",
+        "latitude"  : "37.857536703853285",
+        "longitude" : "-109.17681486710258"
+      },
+      "horizontal_distance" : "931227.5614657155",
+      "vertical_distance"   : "75998.0"
+    }
+  },
+  {
+    "icao"      : "a3a21d",
+    "callsign"  : "DCM2930 ",
+    "nnumber"   : "N333MX",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-03 00:00:15+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "40999.99999999999",
+        "latitude"  : "37.92929077148438",
+        "longitude" : "-108.38217228016951"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KAPA",
+      "time"                : "2020-01-03 00:29:49+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "5885.0",
+        "latitude"  : "39.57009888",
+        "longitude" : "-104.84899899999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "6225.0",
+        "latitude"  : "39.5496826171875",
+        "longitude" : "-104.8499331266984"
+      },
+      "horizontal_distance" : "2268.1609343498635",
+      "vertical_distance"   : "340.0"
+    }
+  },
+  {
+    "icao"      : "a3a21d",
+    "callsign"  : "DCM2930 ",
+    "nnumber"   : "N333MX",
+    "departure" :
+    {
+      "airport"             : "KAPA",
+      "time"                : "2020-01-03 17:48:32+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "5885.0",
+        "latitude"  : "39.57009888",
+        "longitude" : "-104.84899899999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "6200.0",
+        "latitude"  : "39.56076049804688",
+        "longitude" : "-104.8503510848336"
+      },
+      "horizontal_distance" : "1043.2958693338965",
+      "vertical_distance"   : "315.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "CO86",
+      "time"                : "2020-01-03 18:01:28+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "8110.0",
+        "latitude"  : "40.04859924316406",
+        "longitude" : "-105.93800354003906"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "15625.0",
+        "latitude"  : "39.90192477985964",
+        "longitude" : "-105.91265869140621"
+      },
+      "horizontal_distance" : "16429.159480762075",
+      "vertical_distance"   : "7515.0"
+    }
+  },
+  {
+    "icao"      : "a3a21d",
+    "callsign"  : "DCM2930 ",
+    "nnumber"   : "N333MX",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-03 19:09:31+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "28050.000000000004",
+        "latitude"  : "39.99760437011719",
+        "longitude" : "-106.70489501953121"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KUGN",
+      "time"                : "2020-01-03 21:04:12+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "727.0",
+        "latitude"  : "42.422199249268",
+        "longitude" : "-87.86789703369101"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "950.0",
+        "latitude"  : "42.41340637207031",
+        "longitude" : "-87.87938898259944"
+      },
+      "horizontal_distance" : "1359.6503317401118",
+      "vertical_distance"   : "223.0"
+    }
+  },
+  {
+    "icao"      : "a3a21d",
+    "callsign"  : "DCM2930 ",
+    "nnumber"   : "N333MX",
+    "departure" :
+    {
+      "airport"             : "KUGN",
+      "time"                : "2020-01-03 21:45:36+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "727.0",
+        "latitude"  : "42.422199249268",
+        "longitude" : "-87.86789703369101"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1424.9999999999998",
+        "latitude"  : "42.43070983886719",
+        "longitude" : "-87.85292191938919"
+      },
+      "horizontal_distance" : "1553.2182911332684",
+      "vertical_distance"   : "697.9999999999998"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KAPA",
+      "time"                : "2020-01-03 23:58:08+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "5885.0",
+        "latitude"  : "39.57009888",
+        "longitude" : "-104.84899899999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5975.0",
+        "latitude"  : "39.5489501953125",
+        "longitude" : "-104.8499331266984"
+      },
+      "horizontal_distance" : "2349.4296217466494",
+      "vertical_distance"   : "90.0"
+    }
+  },
+  {
+    "icao"      : "a3a21d",
+    "callsign"  : "DCM2930 ",
+    "nnumber"   : "N333MX",
+    "departure" :
+    {
+      "airport"             : "KAPA",
+      "time"                : "2020-01-04 20:20:44+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "5885.0",
+        "latitude"  : "39.57009888",
+        "longitude" : "-104.84899899999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "6075.0",
+        "latitude"  : "39.55860900878906",
+        "longitude" : "-104.85029137652849"
+      },
+      "horizontal_distance" : "1280.5027946598789",
+      "vertical_distance"   : "190.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-04 23:15:29+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "89200.0",
+        "latitude"  : "26.955700890492576",
+        "longitude" : "-81.94105295034552"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a3a21d",
+    "callsign"  : "DCM2930 ",
+    "nnumber"   : "N333MX",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-05 22:56:18+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "39950.0",
+        "latitude"  : "27.56558175814354",
+        "longitude" : "-81.30749042217549"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KAPA",
+      "time"                : "2020-01-06 02:37:18+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "5885.0",
+        "latitude"  : "39.57009888",
+        "longitude" : "-104.84899899999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "40000.0",
+        "latitude"  : "36.59669494628906",
+        "longitude" : "-98.3693504333496"
+      },
+      "horizontal_distance" : "657082.922587891",
+      "vertical_distance"   : "34115.0"
+    }
+  },
+  {
+    "icao"      : "a3a21d",
+    "callsign"  : "DCM2930 ",
+    "nnumber"   : "N333MX",
+    "departure" :
+    {
+      "airport"             : "KAPA",
+      "time"                : "2020-01-07 13:37:19+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "5885.0",
+        "latitude"  : "39.57009888",
+        "longitude" : "-104.84899899999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5925.0",
+        "latitude"  : "39.56263732910156",
+        "longitude" : "-104.8504107931386"
+      },
+      "horizontal_distance" : "837.2644092347571",
+      "vertical_distance"   : "40.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KAPC",
+      "time"                : "2020-01-07 15:51:08+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "35.0",
+        "latitude"  : "38.2132",
+        "longitude" : "-122.280998"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "40000.0",
+        "latitude"  : "39.224170749470346",
+        "longitude" : "-107.8665771484375"
+      },
+      "horizontal_distance" : "1257271.9395743043",
+      "vertical_distance"   : "39965.0"
+    }
+  },
+  {
+    "icao"      : "a3a21d",
+    "callsign"  : "DCM2930 ",
+    "nnumber"   : "N333MX",
+    "departure" :
+    {
+      "airport"             : "KAPC",
+      "time"                : "2020-01-07 20:28:00+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "35.0",
+        "latitude"  : "38.2132",
+        "longitude" : "-122.280998"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "0.0",
+        "latitude"  : "38.211845785884535",
+        "longitude" : "-122.2833849036175"
+      },
+      "horizontal_distance" : "257.4759007740239",
+      "vertical_distance"   : "-35.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KMCC",
+      "time"                : "2020-01-07 20:50:40+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "77.0",
+        "latitude"  : "38.66759872",
+        "longitude" : "-121.40100100000001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-150.0",
+        "latitude"  : "38.668430134401476",
+        "longitude" : "-121.400634765625"
+      },
+      "horizontal_distance" : "97.6432353325519",
+      "vertical_distance"   : "-227.0"
+    }
+  },
+  {
+    "icao"      : "a3a21d",
+    "callsign"  : "DCM2930 ",
+    "nnumber"   : "N333MX",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-08 00:13:57+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "24000.000000000004",
+        "latitude"  : "40.43605041503906",
+        "longitude" : "-105.9969482421875"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KAPA",
+      "time"                : "2020-01-08 00:34:29+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "5885.0",
+        "latitude"  : "39.57009888",
+        "longitude" : "-104.84899899999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5899.999999999999",
+        "latitude"  : "39.550269175384",
+        "longitude" : "-104.8499755859375"
+      },
+      "horizontal_distance" : "2203.2157025229662",
+      "vertical_distance"   : "14.99999999999909"
+    }
+  },
+  {
+    "icao"      : "a3a21d",
+    "callsign"  : "DCM2930 ",
+    "nnumber"   : "N333MX",
+    "departure" :
+    {
+      "airport"             : "KAPA",
+      "time"                : "2020-01-24 19:25:22+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "5885.0",
+        "latitude"  : "39.57009888",
+        "longitude" : "-104.84899899999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "6524.999999999999",
+        "latitude"  : "39.56034851074219",
+        "longitude" : "-104.8502316682235"
+      },
+      "horizontal_distance" : "1087.7174234888407",
+      "vertical_distance"   : "639.9999999999991"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KLAS",
+      "time"                : "2020-01-24 20:54:53+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "2181.0",
+        "latitude"  : "36.08010101",
+        "longitude" : "-115.15200039999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "39699.99999999999",
+        "latitude"  : "38.27833557128906",
+        "longitude" : "-110.1398094664229"
+      },
+      "horizontal_distance" : "507458.3855732099",
+      "vertical_distance"   : "37518.99999999999"
+    }
+  },
+  {
+    "icao"      : "a3a21d",
+    "callsign"  : "DCM2930 ",
+    "nnumber"   : "N333MX",
+    "departure" :
+    {
+      "airport"             : "KAPA",
+      "time"                : "2020-01-26 19:16:05+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "5885.0",
+        "latitude"  : "39.57009888",
+        "longitude" : "-104.84899899999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "6650.0",
+        "latitude"  : "39.55572509765625",
+        "longitude" : "-104.8497540017833"
+      },
+      "horizontal_distance" : "1597.1854545906242",
+      "vertical_distance"   : "765.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KVNY",
+      "time"                : "2020-01-26 21:16:27+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "802.0",
+        "latitude"  : "34.209800720215",
+        "longitude" : "-118.48999786376999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "40000.0",
+        "latitude"  : "37.92526245117188",
+        "longitude" : "-109.0608702314661"
+      },
+      "horizontal_distance" : "943552.7153648408",
+      "vertical_distance"   : "39198.0"
+    }
+  },
+  {
+    "icao"      : "a3a21d",
+    "callsign"  : "DCM2930 ",
+    "nnumber"   : "N333MX",
+    "departure" :
+    {
+      "airport"             : "KVNY",
+      "time"                : "2020-01-26 22:17:29+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "802.0",
+        "latitude"  : "34.209800720215",
+        "longitude" : "-118.48999786376999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1975.0",
+        "latitude"  : "34.179863364009535",
+        "longitude" : "-118.487377166748"
+      },
+      "horizontal_distance" : "3329.6024152510145",
+      "vertical_distance"   : "1173.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KAPA",
+      "time"                : "2020-01-26 23:56:30+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "5885.0",
+        "latitude"  : "39.57009888",
+        "longitude" : "-104.84899899999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5775.0",
+        "latitude"  : "39.57787465240995",
+        "longitude" : "-104.8511962890625"
+      },
+      "horizontal_distance" : "883.7189447342604",
+      "vertical_distance"   : "-110.0"
+    }
+  }
+]

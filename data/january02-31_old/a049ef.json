@@ -1,0 +1,106 @@
+[
+  {
+    "icao"      : "a049ef",
+    "callsign"  : "N118AD  ",
+    "nnumber"   : "N118AD",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-07 21:27:59+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "13274.999999999998",
+        "latitude"  : "30.8961181640625",
+        "longitude" : "-87.8525498334099"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-07 21:41:24+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "7324.999999999999",
+        "latitude"  : "33.284957885742195",
+        "longitude" : "-86.80501098632813"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a049ef",
+    "callsign"  : "DCM7014 ",
+    "nnumber"   : "N118AD",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-24 14:00:52+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "13274.999999999998",
+        "latitude"  : "30.8961181640625",
+        "longitude" : "-87.8525498334099"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KEET",
+      "time"                : "2020-01-24 14:20:46+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "586.0",
+        "latitude"  : "33.17699814",
+        "longitude" : "-86.78279877"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "7324.999999999999",
+        "latitude"  : "33.284957885742195",
+        "longitude" : "-86.80501098632813"
+      },
+      "horizontal_distance" : "12151.3385540313",
+      "vertical_distance"   : "6738.999999999999"
+    }
+  },
+  {
+    "icao"      : "a049ef",
+    "callsign"  : "DCM7014 ",
+    "nnumber"   : "N118AD",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-26 19:57:52+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "28399.999999999996",
+        "latitude"  : "36.324292199086344",
+        "longitude" : "-88.77923194398272"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-26 20:18:51+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "37000.0",
+        "latitude"  : "33.260330200195305",
+        "longitude" : "-88.52860107421877"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  }
+]

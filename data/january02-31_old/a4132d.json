@@ -1,0 +1,131 @@
+[
+  {
+    "icao"      : "a4132d",
+    "callsign"  : "DCM4126 ",
+    "nnumber"   : "N3616",
+    "departure" :
+    {
+      "airport"             : "KROA",
+      "time"                : "2020-01-15 12:17:05+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1175.0",
+        "latitude"  : "37.3255",
+        "longitude" : "-79.975403"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "35275.0",
+        "latitude"  : "37.34371948242188",
+        "longitude" : "-81.5197818837267"
+      },
+      "horizontal_distance" : "136876.4326456679",
+      "vertical_distance"   : "34100.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KTUL",
+      "time"                : "2020-01-15 15:07:27+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "677.0",
+        "latitude"  : "36.19839859008789",
+        "longitude" : "-95.88809967041016"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "40000.0",
+        "latitude"  : "37.16167385295286",
+        "longitude" : "-83.98755280867867"
+      },
+      "horizontal_distance" : "1068353.386919866",
+      "vertical_distance"   : "39323.0"
+    }
+  },
+  {
+    "icao"      : "a4132d",
+    "callsign"  : "DCM4126 ",
+    "nnumber"   : "N3616",
+    "departure" :
+    {
+      "airport"             : "KTUL",
+      "time"                : "2020-01-15 15:45:06+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "677.0",
+        "latitude"  : "36.19839859008789",
+        "longitude" : "-95.88809967041016"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "925.0",
+        "latitude"  : "36.19399248543432",
+        "longitude" : "-95.88253589386636"
+      },
+      "horizontal_distance" : "699.6007450929377",
+      "vertical_distance"   : "248.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSDL",
+      "time"                : "2020-01-15 18:35:17+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1510.0",
+        "latitude"  : "33.622898101806996",
+        "longitude" : "-111.91100311279"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "6250.0",
+        "latitude"  : "33.61578369140625",
+        "longitude" : "-111.9187896105708"
+      },
+      "horizontal_distance" : "1069.9300987903919",
+      "vertical_distance"   : "4740.0"
+    }
+  },
+  {
+    "icao"      : "a4132d",
+    "callsign"  : "DCM4126 ",
+    "nnumber"   : "N3616",
+    "departure" :
+    {
+      "airport"             : "KSDL",
+      "time"                : "2020-01-16 15:24:12+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1510.0",
+        "latitude"  : "33.622898101806996",
+        "longitude" : "-111.91100311279"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1799.9999999999998",
+        "latitude"  : "33.61624145507812",
+        "longitude" : "-111.917948820153"
+      },
+      "horizontal_distance" : "980.0692989558153",
+      "vertical_distance"   : "289.9999999999998"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KROA",
+      "time"                : "2020-01-16 18:47:31+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1175.0",
+        "latitude"  : "37.3255",
+        "longitude" : "-79.975403"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "25550.0",
+        "latitude"  : "37.07033836235435",
+        "longitude" : "-82.35638162364131"
+      },
+      "horizontal_distance" : "213266.71830006014",
+      "vertical_distance"   : "24375.0"
+    }
+  }
+]

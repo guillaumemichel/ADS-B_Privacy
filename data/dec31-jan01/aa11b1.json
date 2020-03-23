@@ -1,0 +1,45 @@
+[
+  {
+    "icao"      : "aa11b1",
+    "callsign"  : "DCM6009",
+    "nnumber"   : "N748QS",
+    "departure" :
+    {
+      "airport"             : "FD81",
+      "time"                : "2019-12-31 18:37:05+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "170.0",
+        "latitude"  : "29.702699661254886",
+        "longitude" : "-82.42569732666016"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2925.0000000000005",
+        "latitude"  : "29.71568298339844",
+        "longitude" : "-82.35367408165564"
+      },
+      "horizontal_distance" : "7116.468162820364",
+      "vertical_distance"   : "2755.0000000000005"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KTEB",
+      "time"                : "2019-12-31 20:25:02+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "40.85010147089999",
+        "longitude" : "-74.060798645"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "22700.0",
+        "latitude"  : "30.649201991194378",
+        "longitude" : "-81.93405761718752"
+      },
+      "horizontal_distance" : "1335844.1532590713",
+      "vertical_distance"   : "22691.0"
+    }
+  }
+]

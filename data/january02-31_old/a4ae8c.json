@@ -1,0 +1,255 @@
+[
+  {
+    "icao"      : "a4ae8c",
+    "callsign"  : "DCM4000 ",
+    "nnumber"   : "N400VR",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-08 01:04:51+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "10674.999999999998",
+        "latitude"  : "39.65121459960938",
+        "longitude" : "-86.43117490022081"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KAFW",
+      "time"                : "2020-01-08 02:57:39+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "722.0",
+        "latitude"  : "32.9875984192",
+        "longitude" : "-97.3188018799"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "325.0",
+        "latitude"  : "33.00269692631091",
+        "longitude" : "-97.32098637794962"
+      },
+      "horizontal_distance" : "1686.8904288077658",
+      "vertical_distance"   : "-397.0"
+    }
+  },
+  {
+    "icao"      : "a4ae8c",
+    "callsign"  : "DCM4000 ",
+    "nnumber"   : "N400VR",
+    "departure" :
+    {
+      "airport"             : "KAFW",
+      "time"                : "2020-01-15 22:58:06+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "722.0",
+        "latitude"  : "32.9875984192",
+        "longitude" : "-97.3188018799"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2350.0000000000005",
+        "latitude"  : "33.02362060546875",
+        "longitude" : "-97.32551879882813"
+      },
+      "horizontal_distance" : "4044.0327866314688",
+      "vertical_distance"   : "1628.0000000000005"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDWH",
+      "time"                : "2020-01-15 23:37:29+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "152.0",
+        "latitude"  : "30.0618000031",
+        "longitude" : "-95.5528030396"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1175.0",
+        "latitude"  : "30.12950134277344",
+        "longitude" : "-95.56295955882355"
+      },
+      "horizontal_distance" : "7568.555565230993",
+      "vertical_distance"   : "1023.0"
+    }
+  },
+  {
+    "icao"      : "a4ae8c",
+    "callsign"  : "DCM4000 ",
+    "nnumber"   : "N400VR",
+    "departure" :
+    {
+      "airport"             : "KDWH",
+      "time"                : "2020-01-16 02:18:46+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "152.0",
+        "latitude"  : "30.0618000031",
+        "longitude" : "-95.5528030396"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1424.9999999999998",
+        "latitude"  : "30.02462768554688",
+        "longitude" : "-95.56199017693018"
+      },
+      "horizontal_distance" : "4214.854328956137",
+      "vertical_distance"   : "1272.9999999999998"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSDL",
+      "time"                : "2020-01-16 04:44:28+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1510.0",
+        "latitude"  : "33.622898101806996",
+        "longitude" : "-111.91100311279"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1400.0",
+        "latitude"  : "33.62589173397775",
+        "longitude" : "-111.9070816040039"
+      },
+      "horizontal_distance" : "492.60085032315743",
+      "vertical_distance"   : "-110.0"
+    }
+  },
+  {
+    "icao"      : "a4ae8c",
+    "callsign"  : "DCM4000 ",
+    "nnumber"   : "N400VR",
+    "departure" :
+    {
+      "airport"             : "KSDL",
+      "time"                : "2020-01-16 05:55:42+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1510.0",
+        "latitude"  : "33.622898101806996",
+        "longitude" : "-111.91100311279"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1575.0",
+        "latitude"  : "33.62258652509269",
+        "longitude" : "-111.9108009338379"
+      },
+      "horizontal_distance" : "39.32249161000813",
+      "vertical_distance"   : "65.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KT67",
+      "time"                : "2020-01-16 07:30:59+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "855.0",
+        "latitude"  : "32.93119812",
+        "longitude" : "-97.41169739"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "925.0",
+        "latitude"  : "32.94492559917902",
+        "longitude" : "-97.30915925940687"
+      },
+      "horizontal_distance" : "9709.308452323066",
+      "vertical_distance"   : "70.0"
+    }
+  },
+  {
+    "icao"      : "a4ae8c",
+    "callsign"  : "DCM4000 ",
+    "nnumber"   : "N400VR",
+    "departure" :
+    {
+      "airport"             : "0TS2",
+      "time"                : "2020-01-20 20:21:21+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "820.0",
+        "latitude"  : "32.948699951171875",
+        "longitude" : "-97.3289031982422"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1975.0",
+        "latitude"  : "32.96356201171875",
+        "longitude" : "-97.31332397460938"
+      },
+      "horizontal_distance" : "2199.676525176449",
+      "vertical_distance"   : "1155.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSDL",
+      "time"                : "2020-01-20 22:28:52+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1510.0",
+        "latitude"  : "33.622898101806996",
+        "longitude" : "-111.91100311279"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1375.0",
+        "latitude"  : "33.62814331054688",
+        "longitude" : "-111.90449617346941"
+      },
+      "horizontal_distance" : "838.4496617017791",
+      "vertical_distance"   : "-135.0"
+    }
+  },
+  {
+    "icao"      : "a4ae8c",
+    "callsign"  : "DCM4000 ",
+    "nnumber"   : "N400VR",
+    "departure" :
+    {
+      "airport"             : "KSDL",
+      "time"                : "2020-01-28 21:33:47+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1510.0",
+        "latitude"  : "33.622898101806996",
+        "longitude" : "-111.91100311279"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1375.0",
+        "latitude"  : "33.6240234375",
+        "longitude" : "-111.9092606525032"
+      },
+      "horizontal_distance" : "204.25706156803176",
+      "vertical_distance"   : "-135.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDWH",
+      "time"                : "2020-01-28 23:29:49+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "152.0",
+        "latitude"  : "30.0618000031",
+        "longitude" : "-95.5528030396"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1749.9999999999998",
+        "latitude"  : "30.13728332519531",
+        "longitude" : "-95.56392894071688"
+      },
+      "horizontal_distance" : "8436.080132217661",
+      "vertical_distance"   : "1597.9999999999998"
+    }
+  }
+]

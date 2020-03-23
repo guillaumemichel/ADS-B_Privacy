@@ -1,0 +1,40 @@
+[
+  {
+    "icao"      : "a233e9",
+    "callsign"  : "DCM3288 ",
+    "nnumber"   : "N241CA",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-11-15 01:12:18+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "35000.0",
+        "latitude"  : "36.63015747070312",
+        "longitude" : "-105.82551956176759"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KBNA",
+      "time"                : "2019-11-15 03:14:08+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "599.0",
+        "latitude"  : "36.1245002746582",
+        "longitude" : "-86.6781997680664"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "35000.0",
+        "latitude"  : "36.789395607123936",
+        "longitude" : "-101.25631129488029"
+      },
+      "horizontal_distance" : "1307606.025066381",
+      "vertical_distance"   : "34401.0"
+    }
+  }
+]

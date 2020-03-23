@@ -1,0 +1,101 @@
+[
+  {
+    "icao"      : "3ce12d",
+    "callsign"  : "DCMOR   ",
+    "nnumber"   : "D-CMOR",
+    "departure" :
+    {
+      "airport"             : "LPCS",
+      "time"                : "2019-12-01 14:39:07+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "925.0",
+        "latitude"  : "38.73462741657839",
+        "longitude" : "-9.3597412109375"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "EDDK",
+      "time"                : "2019-12-01 17:20:18+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "75.0",
+        "latitude"  : "50.86451126357256",
+        "longitude" : "7.1335792541503915"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "3ce12d",
+    "callsign"  : "DCMOR   ",
+    "nnumber"   : "D-CMOR",
+    "departure" :
+    {
+      "airport"             : "EDDK",
+      "time"                : "2019-12-10 09:22:58+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "950.0",
+        "latitude"  : "50.86376953125",
+        "longitude" : "7.151134594066723"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "LSMD",
+      "time"                : "2019-12-10 10:04:41+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1025.0",
+        "latitude"  : "47.39782333374023",
+        "longitude" : "8.631322860717772"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "3ce12d",
+    "callsign"  : "DCMOR   ",
+    "nnumber"   : "D-CMOR",
+    "departure" :
+    {
+      "airport"             : "LSMD",
+      "time"                : "2019-12-11 10:49:16+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "nan",
+        "latitude"  : "47.39785766601562",
+        "longitude" : "8.631391525268555"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "EDDK",
+      "time"                : "2019-12-11 11:35:52+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "500.0",
+        "latitude"  : "50.884901143736755",
+        "longitude" : "7.122650146484375"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  }
+]

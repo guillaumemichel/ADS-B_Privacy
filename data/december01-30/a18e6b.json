@@ -1,0 +1,45 @@
+[
+  {
+    "icao"      : "a18e6b",
+    "callsign"  : "DCM316O",
+    "nnumber"   : "N2MG",
+    "departure" :
+    {
+      "airport"             : "KSDL",
+      "time"                : "2019-12-09 15:24:35+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1510.0",
+        "latitude"  : "33.622898101806996",
+        "longitude" : "-111.91100311279"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1600.0",
+        "latitude"  : "33.62118530273438",
+        "longitude" : "-111.91251170878509"
+      },
+      "horizontal_distance" : "235.9806589518778",
+      "vertical_distance"   : "90.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KAVQ",
+      "time"                : "2019-12-09 15:47:54+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "2031.0",
+        "latitude"  : "32.4095993042",
+        "longitude" : "-111.21800231899999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "4925.0",
+        "latitude"  : "32.337295532226555",
+        "longitude" : "-111.21668701171872"
+      },
+      "horizontal_distance" : "8018.964028912594",
+      "vertical_distance"   : "2894.0"
+    }
+  }
+]

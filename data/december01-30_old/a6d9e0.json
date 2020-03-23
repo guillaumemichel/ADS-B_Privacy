@@ -1,0 +1,430 @@
+[
+  {
+    "icao"      : "a6d9e0",
+    "callsign"  : "N540W   ",
+    "nnumber"   : "N540W",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-12-02 07:12:50+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-100.0",
+        "latitude"  : "40.83883666992188",
+        "longitude" : "-74.08111572265625"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "FALA",
+      "time"                : "2019-12-02 07:35:57+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2625.0",
+        "latitude"  : "34.377456665039055",
+        "longitude" : "-119.8078139947385"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a6d9e0",
+    "callsign"  : "N540W   ",
+    "nnumber"   : "N540W",
+    "departure" :
+    {
+      "airport"             : "FALA",
+      "time"                : "2019-12-07 08:15:38+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-100.0",
+        "latitude"  : "40.83883666992188",
+        "longitude" : "-74.08111572265625"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "LSZH",
+      "time"                : "2019-12-07 18:06:27+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2625.0",
+        "latitude"  : "34.377456665039055",
+        "longitude" : "-119.8078139947385"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a6d9e0",
+    "callsign"  : "N540W   ",
+    "nnumber"   : "N540W",
+    "departure" :
+    {
+      "airport"             : "LSZH",
+      "time"                : "2019-12-09 09:09:56+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-100.0",
+        "latitude"  : "40.83883666992188",
+        "longitude" : "-74.08111572265625"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-12-09 11:50:59+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2625.0",
+        "latitude"  : "34.377456665039055",
+        "longitude" : "-119.8078139947385"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a6d9e0",
+    "callsign"  : "N540W   ",
+    "nnumber"   : "N540W",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-12-10 18:40:11+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-100.0",
+        "latitude"  : "40.83883666992188",
+        "longitude" : "-74.08111572265625"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KTEB",
+      "time"                : "2019-12-10 19:56:28+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "40.85010147089999",
+        "longitude" : "-74.060798645"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2625.0",
+        "latitude"  : "34.377456665039055",
+        "longitude" : "-119.8078139947385"
+      },
+      "horizontal_distance" : "4055624.5158180185",
+      "vertical_distance"   : "2616.0"
+    }
+  },
+  {
+    "icao"      : "a6d9e0",
+    "callsign"  : "DCM2277 ",
+    "nnumber"   : "N540W",
+    "departure" :
+    {
+      "airport"             : "KTEB",
+      "time"                : "2019-12-12 21:40:50+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "40.85010147089999",
+        "longitude" : "-74.060798645"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-100.0",
+        "latitude"  : "40.83883666992188",
+        "longitude" : "-74.08111572265625"
+      },
+      "horizontal_distance" : "2121.469332281092",
+      "vertical_distance"   : "-109.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDPA",
+      "time"                : "2019-12-12 23:42:11+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "759.0",
+        "latitude"  : "41.90779877",
+        "longitude" : "-88.24859619"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2625.0",
+        "latitude"  : "34.377456665039055",
+        "longitude" : "-119.8078139947385"
+      },
+      "horizontal_distance" : "2871585.2902599834",
+      "vertical_distance"   : "1866.0"
+    }
+  },
+  {
+    "icao"      : "a6d9e0",
+    "callsign"  : "DCM2277 ",
+    "nnumber"   : "N540W",
+    "departure" :
+    {
+      "airport"             : "KDPA",
+      "time"                : "2019-12-12 23:56:17+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "759.0",
+        "latitude"  : "41.90779877",
+        "longitude" : "-88.24859619"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-100.0",
+        "latitude"  : "40.83883666992188",
+        "longitude" : "-74.08111572265625"
+      },
+      "horizontal_distance" : "1189790.0144630452",
+      "vertical_distance"   : "-859.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSBA",
+      "time"                : "2019-12-13 03:38:49+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "13.0",
+        "latitude"  : "34.42620087",
+        "longitude" : "-119.8399963"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2625.0",
+        "latitude"  : "34.377456665039055",
+        "longitude" : "-119.8078139947385"
+      },
+      "horizontal_distance" : "6163.906715965941",
+      "vertical_distance"   : "2612.0"
+    }
+  },
+  {
+    "icao"      : "a6d9e0",
+    "callsign"  : "DCM2277 ",
+    "nnumber"   : "N540W",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-12-13 04:46:43+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "8400.0",
+        "latitude"  : "34.260165974245226",
+        "longitude" : "-119.8550033569336"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KVNY",
+      "time"                : "2019-12-13 05:03:07+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "802.0",
+        "latitude"  : "34.209800720215",
+        "longitude" : "-118.48999786376999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "724.9999999999999",
+        "latitude"  : "34.18852208024364",
+        "longitude" : "-118.48840713500981"
+      },
+      "horizontal_distance" : "2364.9033495419853",
+      "vertical_distance"   : "-77.00000000000011"
+    }
+  },
+  {
+    "icao"      : "a6d9e0",
+    "callsign"  : "DCM2277 ",
+    "nnumber"   : "N540W",
+    "departure" :
+    {
+      "airport"             : "KVNY",
+      "time"                : "2019-12-18 00:41:16+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "802.0",
+        "latitude"  : "34.209800720215",
+        "longitude" : "-118.48999786376999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1225.0",
+        "latitude"  : "34.212868900622354",
+        "longitude" : "-118.4908103942871"
+      },
+      "horizontal_distance" : "348.4814074075337",
+      "vertical_distance"   : "423.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSBA",
+      "time"                : "2019-12-18 00:54:26+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "13.0",
+        "latitude"  : "34.42620087",
+        "longitude" : "-119.8399963"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5799.999999999999",
+        "latitude"  : "34.27450561523438",
+        "longitude" : "-119.08305265465559"
+      },
+      "horizontal_distance" : "71645.6096801569",
+      "vertical_distance"   : "5786.999999999999"
+    }
+  },
+  {
+    "icao"      : "a6d9e0",
+    "callsign"  : "N540W   ",
+    "nnumber"   : "N540W",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-12-18 05:35:33+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1225.0",
+        "latitude"  : "34.212868900622354",
+        "longitude" : "-118.4908103942871"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSAN",
+      "time"                : "2019-12-18 06:06:46+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "17.0",
+        "latitude"  : "32.7336006165",
+        "longitude" : "-117.190002441"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5799.999999999999",
+        "latitude"  : "34.27450561523438",
+        "longitude" : "-119.08305265465559"
+      },
+      "horizontal_distance" : "245243.71268447724",
+      "vertical_distance"   : "5782.999999999999"
+    }
+  },
+  {
+    "icao"      : "a6d9e0",
+    "callsign"  : "N540W   ",
+    "nnumber"   : "N540W",
+    "departure" :
+    {
+      "airport"             : "KSAN",
+      "time"                : "2019-12-19 23:12:54+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "17.0",
+        "latitude"  : "32.7336006165",
+        "longitude" : "-117.190002441"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1225.0",
+        "latitude"  : "34.212868900622354",
+        "longitude" : "-118.4908103942871"
+      },
+      "horizontal_distance" : "203805.04848555755",
+      "vertical_distance"   : "1208.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSBA",
+      "time"                : "2019-12-19 23:45:39+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "13.0",
+        "latitude"  : "34.42620087",
+        "longitude" : "-119.8399963"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5799.999999999999",
+        "latitude"  : "34.27450561523438",
+        "longitude" : "-119.08305265465559"
+      },
+      "horizontal_distance" : "71645.6096801569",
+      "vertical_distance"   : "5786.999999999999"
+    }
+  },
+  {
+    "icao"      : "a6d9e0",
+    "callsign"  : "N540W   ",
+    "nnumber"   : "N540W",
+    "departure" :
+    {
+      "airport"             : "KSBA",
+      "time"                : "2019-12-20 00:32:26+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "13.0",
+        "latitude"  : "34.42620087",
+        "longitude" : "-119.8399963"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1225.0",
+        "latitude"  : "34.212868900622354",
+        "longitude" : "-118.4908103942871"
+      },
+      "horizontal_distance" : "126409.33645251919",
+      "vertical_distance"   : "1212.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KPHX",
+      "time"                : "2019-12-20 01:32:58+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1135.0",
+        "latitude"  : "33.43429946899414",
+        "longitude" : "-112.01200103759766"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5799.999999999999",
+        "latitude"  : "34.27450561523438",
+        "longitude" : "-119.08305265465559"
+      },
+      "horizontal_distance" : "660831.786228996",
+      "vertical_distance"   : "4664.999999999999"
+    }
+  }
+]

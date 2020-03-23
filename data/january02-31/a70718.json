@@ -1,7 +1,7 @@
 [
   {
     "icao"      : "a70718",
-    "callsign"  : "DCM4034 ",
+    "callsign"  : "DCM4034",
     "nnumber"   : "N552CN",
     "departure" :
     {
@@ -44,7 +44,53 @@
   },
   {
     "icao"      : "a70718",
-    "callsign"  : "DCM4034 ",
+    "callsign"  : "HRF552",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KGYI",
+      "time"                : "2020-01-14 15:18:39+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "2KS0",
+      "time"                : "2020-01-14 21:00:51+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a70718",
+    "callsign"  : "HRF552",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-14 21:53:39+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "TS85",
+      "time"                : "2020-01-14 22:28:04+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a70718",
+    "callsign"  : "DCM4034",
     "nnumber"   : "N552CN",
     "departure" :
     {
@@ -82,7 +128,7 @@
   },
   {
     "icao"      : "a70718",
-    "callsign"  : "DCM4034 ",
+    "callsign"  : "DCM4034",
     "nnumber"   : "N552CN",
     "departure" :
     {

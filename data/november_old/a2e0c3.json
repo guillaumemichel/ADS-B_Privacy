@@ -1,0 +1,597 @@
+[
+  {
+    "icao"      : "a2e0c3",
+    "callsign"  : "N285CC  ",
+    "nnumber"   : "N285CC",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-11-01 18:49:45+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1975.0",
+        "latitude"  : "32.799179077148445",
+        "longitude" : "-97.35721435546871"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSDL",
+      "time"                : "2019-11-01 19:56:08+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1510.0",
+        "latitude"  : "33.622898101806996",
+        "longitude" : "-111.91100311279"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "14750.0",
+        "latitude"  : "32.052705409163124",
+        "longitude" : "-99.10688127790178"
+      },
+      "horizontal_distance" : "1210540.7710471076",
+      "vertical_distance"   : "13240.0"
+    }
+  },
+  {
+    "icao"      : "a2e0c3",
+    "callsign"  : "N285CC  ",
+    "nnumber"   : "N285CC",
+    "departure" :
+    {
+      "airport"             : "KSDL",
+      "time"                : "2019-11-03 19:05:53+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1510.0",
+        "latitude"  : "33.622898101806996",
+        "longitude" : "-111.91100311279"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1975.0",
+        "latitude"  : "32.799179077148445",
+        "longitude" : "-97.35721435546871"
+      },
+      "horizontal_distance" : "1358799.940722273",
+      "vertical_distance"   : "465.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-11-03 19:57:39+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "14750.0",
+        "latitude"  : "32.052705409163124",
+        "longitude" : "-99.10688127790178"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a2e0c3",
+    "callsign"  : "N285CC  ",
+    "nnumber"   : "N285CC",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-11-04 11:31:01+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1975.0",
+        "latitude"  : "32.799179077148445",
+        "longitude" : "-97.35721435546871"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDAL",
+      "time"                : "2019-11-04 11:58:18+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "487.0",
+        "latitude"  : "32.847099",
+        "longitude" : "-96.851799"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "14750.0",
+        "latitude"  : "32.052705409163124",
+        "longitude" : "-99.10688127790178"
+      },
+      "horizontal_distance" : "229607.09290559328",
+      "vertical_distance"   : "14263.0"
+    }
+  },
+  {
+    "icao"      : "a2e0c3",
+    "callsign"  : "N285CC  ",
+    "nnumber"   : "N285CC",
+    "departure" :
+    {
+      "airport"             : "KDAL",
+      "time"                : "2019-11-04 13:38:47+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "487.0",
+        "latitude"  : "32.847099",
+        "longitude" : "-96.851799"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1975.0",
+        "latitude"  : "32.799179077148445",
+        "longitude" : "-97.35721435546871"
+      },
+      "horizontal_distance" : "47624.09720954005",
+      "vertical_distance"   : "1488.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KLZU",
+      "time"                : "2019-11-04 15:09:34+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1061.0",
+        "latitude"  : "33.97809982",
+        "longitude" : "-83.96240234"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "14750.0",
+        "latitude"  : "32.052705409163124",
+        "longitude" : "-99.10688127790178"
+      },
+      "horizontal_distance" : "1429710.61826573",
+      "vertical_distance"   : "13689.0"
+    }
+  },
+  {
+    "icao"      : "a2e0c3",
+    "callsign"  : "N285CC  ",
+    "nnumber"   : "N285CC",
+    "departure" :
+    {
+      "airport"             : "KLZU",
+      "time"                : "2019-11-04 15:43:15+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1061.0",
+        "latitude"  : "33.97809982",
+        "longitude" : "-83.96240234"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1975.0",
+        "latitude"  : "32.799179077148445",
+        "longitude" : "-97.35721435546871"
+      },
+      "horizontal_distance" : "1252203.5260106279",
+      "vertical_distance"   : "914.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KTEB",
+      "time"                : "2019-11-04 17:27:12+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "40.85010147089999",
+        "longitude" : "-74.060798645"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "14750.0",
+        "latitude"  : "32.052705409163124",
+        "longitude" : "-99.10688127790178"
+      },
+      "horizontal_distance" : "2437126.0501453774",
+      "vertical_distance"   : "14741.0"
+    }
+  },
+  {
+    "icao"      : "a2e0c3",
+    "callsign"  : "N285CC  ",
+    "nnumber"   : "N285CC",
+    "departure" :
+    {
+      "airport"             : "KTEB",
+      "time"                : "2019-11-05 16:19:03+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "40.85010147089999",
+        "longitude" : "-74.060798645"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1975.0",
+        "latitude"  : "32.799179077148445",
+        "longitude" : "-97.35721435546871"
+      },
+      "horizontal_distance" : "2253292.7082572514",
+      "vertical_distance"   : "1966.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-11-05 18:15:54+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "14750.0",
+        "latitude"  : "32.052705409163124",
+        "longitude" : "-99.10688127790178"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a2e0c3",
+    "callsign"  : "N285CC  ",
+    "nnumber"   : "N285CC",
+    "departure" :
+    {
+      "airport"             : "KLZU",
+      "time"                : "2019-11-05 21:13:24+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1061.0",
+        "latitude"  : "33.97809982",
+        "longitude" : "-83.96240234"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1975.0",
+        "latitude"  : "32.799179077148445",
+        "longitude" : "-97.35721435546871"
+      },
+      "horizontal_distance" : "1252203.5260106279",
+      "vertical_distance"   : "914.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDAL",
+      "time"                : "2019-11-05 23:17:14+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "487.0",
+        "latitude"  : "32.847099",
+        "longitude" : "-96.851799"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "14750.0",
+        "latitude"  : "32.052705409163124",
+        "longitude" : "-99.10688127790178"
+      },
+      "horizontal_distance" : "229607.09290559328",
+      "vertical_distance"   : "14263.0"
+    }
+  },
+  {
+    "icao"      : "a2e0c3",
+    "callsign"  : "N285CC  ",
+    "nnumber"   : "N285CC",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-11-16 13:12:55+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1975.0",
+        "latitude"  : "32.799179077148445",
+        "longitude" : "-97.35721435546871"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDTO",
+      "time"                : "2019-11-16 13:45:59+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "642.0",
+        "latitude"  : "33.2006988525",
+        "longitude" : "-97.19799804690001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "14750.0",
+        "latitude"  : "32.052705409163124",
+        "longitude" : "-99.10688127790178"
+      },
+      "horizontal_distance" : "219761.8142819344",
+      "vertical_distance"   : "14108.0"
+    }
+  },
+  {
+    "icao"      : "a2e0c3",
+    "callsign"  : "N285CC  ",
+    "nnumber"   : "N285CC",
+    "departure" :
+    {
+      "airport"             : "KDTO",
+      "time"                : "2019-11-16 14:31:28+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "642.0",
+        "latitude"  : "33.2006988525",
+        "longitude" : "-97.19799804690001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1975.0",
+        "latitude"  : "32.799179077148445",
+        "longitude" : "-97.35721435546871"
+      },
+      "horizontal_distance" : "46950.41659298346",
+      "vertical_distance"   : "1333.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-11-16 15:02:23+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "14750.0",
+        "latitude"  : "32.052705409163124",
+        "longitude" : "-99.10688127790178"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a2e0c3",
+    "callsign"  : "N285CC  ",
+    "nnumber"   : "N285CC",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-11-17 01:36:34+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1975.0",
+        "latitude"  : "32.799179077148445",
+        "longitude" : "-97.35721435546871"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDTO",
+      "time"                : "2019-11-17 02:03:29+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "642.0",
+        "latitude"  : "33.2006988525",
+        "longitude" : "-97.19799804690001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "14750.0",
+        "latitude"  : "32.052705409163124",
+        "longitude" : "-99.10688127790178"
+      },
+      "horizontal_distance" : "219761.8142819344",
+      "vertical_distance"   : "14108.0"
+    }
+  },
+  {
+    "icao"      : "a2e0c3",
+    "callsign"  : "N285CC  ",
+    "nnumber"   : "N285CC",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-11-20 00:42:06+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1975.0",
+        "latitude"  : "32.799179077148445",
+        "longitude" : "-97.35721435546871"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDAL",
+      "time"                : "2019-11-20 01:14:36+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "487.0",
+        "latitude"  : "32.847099",
+        "longitude" : "-96.851799"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "14750.0",
+        "latitude"  : "32.052705409163124",
+        "longitude" : "-99.10688127790178"
+      },
+      "horizontal_distance" : "229607.09290559328",
+      "vertical_distance"   : "14263.0"
+    }
+  },
+  {
+    "icao"      : "a2e0c3",
+    "callsign"  : "N285CC  ",
+    "nnumber"   : "N285CC",
+    "departure" :
+    {
+      "airport"             : "KDAL",
+      "time"                : "2019-11-20 14:25:30+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "487.0",
+        "latitude"  : "32.847099",
+        "longitude" : "-96.851799"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1975.0",
+        "latitude"  : "32.799179077148445",
+        "longitude" : "-97.35721435546871"
+      },
+      "horizontal_distance" : "47624.09720954005",
+      "vertical_distance"   : "1488.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "6GA0",
+      "time"                : "2019-11-20 15:59:37+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1150.0",
+        "latitude"  : "34.132598876953125",
+        "longitude" : "-84.19940185546875"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "14750.0",
+        "latitude"  : "32.052705409163124",
+        "longitude" : "-99.10688127790178"
+      },
+      "horizontal_distance" : "1409349.8581262582",
+      "vertical_distance"   : "13600.0"
+    }
+  },
+  {
+    "icao"      : "a2e0c3",
+    "callsign"  : "N285CC  ",
+    "nnumber"   : "N285CC",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-11-21 00:24:05+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1975.0",
+        "latitude"  : "32.799179077148445",
+        "longitude" : "-97.35721435546871"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KGZS",
+      "time"                : "2019-11-21 00:56:06+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "685.0",
+        "latitude"  : "35.153701782226555",
+        "longitude" : "-87.05680084228516"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "14750.0",
+        "latitude"  : "32.052705409163124",
+        "longitude" : "-99.10688127790178"
+      },
+      "horizontal_distance" : "1169178.3032815533",
+      "vertical_distance"   : "14065.0"
+    }
+  },
+  {
+    "icao"      : "a2e0c3",
+    "callsign"  : "N285CC  ",
+    "nnumber"   : "N285CC",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-11-21 17:08:31+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1975.0",
+        "latitude"  : "32.799179077148445",
+        "longitude" : "-97.35721435546871"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDAL",
+      "time"                : "2019-11-21 18:37:51+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "487.0",
+        "latitude"  : "32.847099",
+        "longitude" : "-96.851799"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "14750.0",
+        "latitude"  : "32.052705409163124",
+        "longitude" : "-99.10688127790178"
+      },
+      "horizontal_distance" : "229607.09290559328",
+      "vertical_distance"   : "14263.0"
+    }
+  },
+  {
+    "icao"      : "a2e0c3",
+    "callsign"  : "N285CC  ",
+    "nnumber"   : "N285CC",
+    "departure" :
+    {
+      "airport"             : "KDAL",
+      "time"                : "2019-11-21 19:29:44+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "487.0",
+        "latitude"  : "32.847099",
+        "longitude" : "-96.851799"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1975.0",
+        "latitude"  : "32.799179077148445",
+        "longitude" : "-97.35721435546871"
+      },
+      "horizontal_distance" : "47624.09720954005",
+      "vertical_distance"   : "1488.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KFTW",
+      "time"                : "2019-11-21 19:41:16+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "710.0",
+        "latitude"  : "32.819801",
+        "longitude" : "-97.36239599999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "14750.0",
+        "latitude"  : "32.052705409163124",
+        "longitude" : "-99.10688127790178"
+      },
+      "horizontal_distance" : "184795.62913787793",
+      "vertical_distance"   : "14040.0"
+    }
+  }
+]

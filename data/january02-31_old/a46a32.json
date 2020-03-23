@@ -1,0 +1,45 @@
+[
+  {
+    "icao"      : "a46a32",
+    "callsign"  : "DCM2028 ",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "OK23",
+      "time"                : "2020-01-26 20:20:34+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "930.0",
+        "latitude"  : "34.19829941",
+        "longitude" : "-97.23120117"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "3100.0",
+        "latitude"  : "34.13647667836334",
+        "longitude" : "-97.26402282714844"
+      },
+      "horizontal_distance" : "7495.763413261521",
+      "vertical_distance"   : "2170.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "TA80",
+      "time"                : "2020-01-26 20:37:18+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "740.0",
+        "latitude"  : "33.893199920654304",
+        "longitude" : "-96.9281005859375"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5400.0",
+        "latitude"  : "34.02009608381886",
+        "longitude" : "-96.88465118408205"
+      },
+      "horizontal_distance" : "14637.263606211274",
+      "vertical_distance"   : "4660.0"
+    }
+  }
+]
