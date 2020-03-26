@@ -12,6 +12,7 @@ import json
 # update aircraft db
 #aircraft.download_opensky()
 
+callsign = "FFL"
 month = 'december01-30'
 start = "2019-12-01"
 end = "2019-12-30"
@@ -23,7 +24,7 @@ if __name__ == "__main__":
 
     usAirports = getUSAirports()
 
-    flights = loadFlights(start, end)
+    flights = loadFlights(start, end, callsign)
     icaos = set()
     for f in flights:
         icaos.add(f.icao24)

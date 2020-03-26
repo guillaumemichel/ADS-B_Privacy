@@ -95,8 +95,8 @@ def parseAirportsICAO():
 
     return icaos    
 
-def getFlightsFilename(start_day, end_day):
-    return start_day + "_" + end_day + "_DCM_recordings.parquet"
+def getFlightsFilename(start_day, end_day, callsign):
+    return start_day + "_" + end_day + "_"+callsign+"_recordings.parquet"
 
 def loadFlights(start_day, end_day):
     filename = recordings_folder+getFlightsFilename(start_day, end_day)

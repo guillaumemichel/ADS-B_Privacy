@@ -199,3 +199,8 @@ class Flights:
             self.append(f)
         
         return str(self)
+
+def flightsFromFile(filename):
+    f = Flights()
+    f.from_file(filename)
+    return f
