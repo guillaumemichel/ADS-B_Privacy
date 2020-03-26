@@ -3,6 +3,8 @@ from datetime import datetime
 
 allFlights = flightsFromFile('../data/flight_lists/2019-11_2020-02.json')
 
+"""
+# Print frequencies of callsigns for icaos that were not observed before 2020-01-01
 date = datetime.strptime('2020-01-01', '%Y-%m-%d')
 
 icaos = set()
@@ -10,12 +12,57 @@ for f in allFlights.elements:
     icaos.add(f.icao)
 
 for f in allFlights.elements:
-    if f.departure.time > date:
+    if f.icao in icaos and datetime.strptime(f.departure.time, '%Y-%m-%d %H:%M:%S') < date:
+        icaos.remove(f.icao)
+
+d = dict()
+for f in allFlights.elements:
+    if f.icao in icaos:
+        if f.icao not in d:
+            d[f.icao] = dict()
+
+        if f.callsign not in d[f.icao]:
+            d[f.icao][f.callsign] = 0
+
+        d[f.icao][f.callsign]+=1
+
+for e in d:
+    print(e+' ',d[e])
+"""
+
+"""
+# All flights that icao did not appear before 2020-01-01 
+date = datetime.strptime('2020-01-01', '%Y-%m-%d')
+
+icaos = set()
+for f in allFlights.elements:
+    icaos.add(f.icao)
+
+for f in allFlights.elements:
+    if f.icao in icaos and datetime.strptime(f.departure.time, '%Y-%m-%d %H:%M:%S') < date:
         icaos.remove(f.icao)
 
 print(icaos)
+"""
 
 """
+# All flights that icao did not appear after 2020-01-01 
+date = datetime.strptime('2020-01-01', '%Y-%m-%d')
+
+icaos = set()
+for f in allFlights.elements:
+    icaos.add(f.icao)
+
+for f in allFlights.elements:
+    if f.icao in icaos and datetime.strptime(f.departure.time, '%Y-%m-%d %H:%M:%S') > date:
+        icaos.remove(f.icao)
+
+print(icaos)
+"""
+
+
+"""
+# For each icao print all callsigns it is associated with and frequencies
 d = dict()
 for f in allFlights.elements:
     if f.icao not in d:
