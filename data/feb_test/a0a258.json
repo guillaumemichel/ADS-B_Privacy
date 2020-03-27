@@ -1,0 +1,142 @@
+[
+  {
+    "icao"      : "a0a258",
+    "callsign"  : "DCM2255",
+    "nnumber"   : "N14WN",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-09 20:29:13+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "10200.0",
+        "latitude"  : "31.36759612519862",
+        "longitude" : "-97.22087402343747"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-09 20:59:53+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "11675.0",
+        "latitude"  : "29.326327049126057",
+        "longitude" : "-99.91526884191177"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a0a258",
+    "callsign"  : "DCM2255",
+    "nnumber"   : "N14WN",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-14 20:11:40+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "7124.999999999999",
+        "latitude"  : "31.39557402012712",
+        "longitude" : "-97.22883911132813"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "XS89",
+      "time"                : "2020-02-14 20:38:03+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "971.0",
+        "latitude"  : "29.6210994720459",
+        "longitude" : "-98.45580291748048"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1600.0",
+        "latitude"  : "29.57597351074219",
+        "longitude" : "-98.52354196401743"
+      },
+      "horizontal_distance" : "8251.090622391555",
+      "vertical_distance"   : "629.0"
+    }
+  },
+  {
+    "icao"      : "a0a258",
+    "callsign"  : "00000000",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-25 12:27:45+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-25 14:40:43+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a0a258",
+    "callsign"  : "00000000",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-26 21:07:56+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "XA15",
+      "time"                : "2020-02-27 00:33:55+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a0a258",
+    "callsign"  : "00000000",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-29 20:11:14+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KAPA",
+      "time"                : "2020-02-29 22:08:10+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  }
+]

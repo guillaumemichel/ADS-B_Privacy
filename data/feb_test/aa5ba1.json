@@ -1,0 +1,88 @@
+[
+  {
+    "icao"      : "aa5ba1",
+    "callsign"  : "DCM5600",
+    "nnumber"   : "N767AZ",
+    "departure" :
+    {
+      "airport"             : "KSDL",
+      "time"                : "2020-02-18 12:57:04+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1510.0",
+        "latitude"  : "33.622898101806996",
+        "longitude" : "-111.91100311279"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1700.0000000000005",
+        "latitude"  : "33.62548828125",
+        "longitude" : "-111.9076351243622"
+      },
+      "horizontal_distance" : "424.50155971749143",
+      "vertical_distance"   : "190.00000000000045"
+    },
+    "arrival"   :
+    {
+      "airport"             : "00KS",
+      "time"                : "2020-02-18 14:58:18+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1100.0",
+        "latitude"  : "38.72779846191406",
+        "longitude" : "-94.93049621582031"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1774.9999999999998",
+        "latitude"  : "38.76910400390625",
+        "longitude" : "-94.89166259765624"
+      },
+      "horizontal_distance" : "5694.046319770726",
+      "vertical_distance"   : "674.9999999999998"
+    }
+  },
+  {
+    "icao"      : "aa5ba1",
+    "callsign"  : "DCM5600",
+    "nnumber"   : "N767AZ",
+    "departure" :
+    {
+      "airport"             : "SN59",
+      "time"                : "2020-02-18 23:27:10+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1060.0",
+        "latitude"  : "38.85279846191406",
+        "longitude" : "-94.91000366210938"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2600.0",
+        "latitude"  : "38.871677204713976",
+        "longitude" : "-94.89459228515624"
+      },
+      "horizontal_distance" : "2486.267558201878",
+      "vertical_distance"   : "1540.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSDL",
+      "time"                : "2020-02-19 03:05:24+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1510.0",
+        "latitude"  : "33.622898101806996",
+        "longitude" : "-111.91100311279"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1449.9999999999998",
+        "latitude"  : "33.62472792803231",
+        "longitude" : "-111.9083976745605"
+      },
+      "horizontal_distance" : "315.65571938791487",
+      "vertical_distance"   : "-60.00000000000023"
+    }
+  }
+]

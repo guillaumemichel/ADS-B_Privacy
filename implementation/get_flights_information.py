@@ -12,10 +12,10 @@ import json
 # update aircraft db
 #aircraft.download_opensky()
 
-callsign = "FFL"
-month = 'december01-30'
-start = "2019-12-01"
-end = "2019-12-30"
+callsigns = ['FFL', 'DCM']
+month = 'feb_test'
+start = "2020-02-01"
+end = "2020-02-29"
 output_path = '../data/'+month+'/'
 
 
@@ -24,10 +24,11 @@ if __name__ == "__main__":
 
     usAirports = getUSAirports()
 
-    flights = loadFlights(start, end, callsign)
     icaos = set()
-    for f in flights:
-        icaos.add(f.icao24)
+    for c in callsigns:
+        flights = loadFlights(start, end, c)
+        for f in flights:
+            icaos.add(f.icao24)
     total = len(icaos)
     print("Found "+str(total)+" distinct icaos")
 

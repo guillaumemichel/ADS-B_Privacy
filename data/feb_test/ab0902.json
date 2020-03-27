@@ -1,0 +1,111 @@
+[
+  {
+    "icao"      : "ab0902",
+    "callsign"  : "DCM7017",
+    "nnumber"   : "N81WL",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-11 15:52:13+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "25025.0",
+        "latitude"  : "30.5412007994571",
+        "longitude" : "-88.78293457031248"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSGR",
+      "time"                : "2020-02-11 17:15:21+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "82.0",
+        "latitude"  : "29.622299194335998",
+        "longitude" : "-95.65650177001999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "34000.0",
+        "latitude"  : "30.045838436837922",
+        "longitude" : "-90.62693481445315"
+      },
+      "horizontal_distance" : "488310.8834129405",
+      "vertical_distance"   : "33918.0"
+    }
+  },
+  {
+    "icao"      : "ab0902",
+    "callsign"  : "DCM7017",
+    "nnumber"   : "N81WL",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-19 13:39:54+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "13725.0",
+        "latitude"  : "30.76597595214844",
+        "longitude" : "-87.73412367876841"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-19 14:00:42+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "14300.0",
+        "latitude"  : "31.22149658203125",
+        "longitude" : "-85.1018748563879"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "ab0902",
+    "callsign"  : "DCM7017",
+    "nnumber"   : "N81WL",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-20 19:49:00+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "11899.999999999998",
+        "latitude"  : "31.70018005371094",
+        "longitude" : "-86.2115478515625"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KNUN",
+      "time"                : "2020-02-20 20:11:31+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "85.0",
+        "latitude"  : "30.46969985961914",
+        "longitude" : "-87.33809661865234"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "3924.9999999999995",
+        "latitude"  : "30.43569946289062",
+        "longitude" : "-87.71349738625919"
+      },
+      "horizontal_distance" : "36251.9663440222",
+      "vertical_distance"   : "3839.9999999999995"
+    }
+  }
+]

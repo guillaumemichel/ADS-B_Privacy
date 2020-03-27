@@ -98,8 +98,8 @@ def parseAirportsICAO():
 def getFlightsFilename(start_day, end_day, callsign):
     return start_day + "_" + end_day + "_"+callsign+"_recordings.parquet"
 
-def loadFlights(start_day, end_day):
-    filename = recordings_folder+getFlightsFilename(start_day, end_day)
+def loadFlights(start_day, end_day, callsign):
+    filename = recordings_folder+getFlightsFilename(start_day, end_day, callsign)
     flights = Traffic.from_file(filename)
 
     print("Loaded "+str(len(flights))+" flights")

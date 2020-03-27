@@ -3,6 +3,18 @@ from datetime import datetime
 
 allFlights = flightsFromFile('../data/flight_lists/2019-11_2020-02.json')
 
+date0 = datetime.strptime('2019-12-30', '%Y-%m-%d')
+date1 = datetime.strptime('2020-01-02', '%Y-%m-%d')
+icao = 'ad8471'
+
+l = list()
+for f in allFlights.elements:
+    if f.icao == icao:# and date0 < datetime.strptime(f.departure.time, '%Y-%m-%d %H:%M:%S') < date1:
+        print(f.departure.time)
+
+for e in l:
+    print(e)
+
 """
 # Print frequencies of callsigns for icaos that were not observed before 2020-01-01
 date = datetime.strptime('2020-01-01', '%Y-%m-%d')

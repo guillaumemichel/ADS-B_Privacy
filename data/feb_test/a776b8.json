@@ -1,0 +1,288 @@
+[
+  {
+    "icao"      : "a776b8",
+    "callsign"  : "DCM4218",
+    "nnumber"   : "N580JH",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-02 12:33:59+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "8075.0",
+        "latitude"  : "33.82498168945312",
+        "longitude" : "-95.0361103914222"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KADS",
+      "time"                : "2020-02-02 13:00:06+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "644.0",
+        "latitude"  : "32.9686012268",
+        "longitude" : "-96.8364028931"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "600.0",
+        "latitude"  : "32.978164672851555",
+        "longitude" : "-96.84069213867184"
+      },
+      "horizontal_distance" : "1133.8853736040662",
+      "vertical_distance"   : "-44.0"
+    }
+  },
+  {
+    "icao"      : "a776b8",
+    "callsign"  : "DCM4218",
+    "nnumber"   : "N580JH",
+    "departure" :
+    {
+      "airport"             : "KADS",
+      "time"                : "2020-02-02 13:32:40+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "644.0",
+        "latitude"  : "32.9686012268",
+        "longitude" : "-96.8364028931"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "675.0",
+        "latitude"  : "32.96615341962394",
+        "longitude" : "-96.83540188536352"
+      },
+      "horizontal_distance" : "287.14843447815156",
+      "vertical_distance"   : "31.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "48OK",
+      "time"                : "2020-02-02 14:06:21+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "620.0",
+        "latitude"  : "35.318246",
+        "longitude" : "-95.51843000000001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "3649.9999999999995",
+        "latitude"  : "35.34759521484375",
+        "longitude" : "-95.34255981445312"
+      },
+      "horizontal_distance" : "16317.753299974744",
+      "vertical_distance"   : "3029.9999999999995"
+    }
+  },
+  {
+    "icao"      : "a776b8",
+    "callsign"  : "DCM4218",
+    "nnumber"   : "N580JH",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-08 23:19:20+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "24474.999999999996",
+        "latitude"  : "38.31737970901748",
+        "longitude" : "-106.9084366508152"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KMKO",
+      "time"                : "2020-02-09 00:39:58+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "611.0",
+        "latitude"  : "35.656502",
+        "longitude" : "-95.366699"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "37000.0",
+        "latitude"  : "37.0059814453125",
+        "longitude" : "-100.509416296127"
+      },
+      "horizontal_distance" : "485335.83349056606",
+      "vertical_distance"   : "36389.0"
+    }
+  },
+  {
+    "icao"      : "a776b8",
+    "callsign"  : "DCM4218",
+    "nnumber"   : "N580JH",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-02-09 01:13:31+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "7024.999999999999",
+        "latitude"  : "35.54869079589844",
+        "longitude" : "-95.40098190307616"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KADS",
+      "time"                : "2020-02-09 01:52:52+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "644.0",
+        "latitude"  : "32.9686012268",
+        "longitude" : "-96.8364028931"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "675.0",
+        "latitude"  : "32.979080200195305",
+        "longitude" : "-96.84113159179684"
+      },
+      "horizontal_distance" : "1243.3894598053055",
+      "vertical_distance"   : "31.0"
+    }
+  },
+  {
+    "icao"      : "a776b8",
+    "callsign"  : "DCM4218",
+    "nnumber"   : "N580JH",
+    "departure" :
+    {
+      "airport"             : "KADS",
+      "time"                : "2020-02-09 02:22:10+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "644.0",
+        "latitude"  : "32.9686012268",
+        "longitude" : "-96.8364028931"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "950.0",
+        "latitude"  : "32.962848210738876",
+        "longitude" : "-96.83444898955672"
+      },
+      "horizontal_distance" : "663.6658465977326",
+      "vertical_distance"   : "306.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KPRX",
+      "time"                : "2020-02-09 02:38:38+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "547.0",
+        "latitude"  : "33.636600494385",
+        "longitude" : "-95.45079803466801"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5799.999999999999",
+        "latitude"  : "33.64398193359375",
+        "longitude" : "-95.27220434072065"
+      },
+      "horizontal_distance" : "16588.77427731094",
+      "vertical_distance"   : "5252.999999999999"
+    }
+  },
+  {
+    "icao"      : "a776b8",
+    "callsign"  : "DCM4218",
+    "nnumber"   : "N580JH",
+    "departure" :
+    {
+      "airport"             : "KMKO",
+      "time"                : "2020-02-10 16:28:21+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "611.0",
+        "latitude"  : "35.656502",
+        "longitude" : "-95.366699"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1774.9999999999998",
+        "latitude"  : "35.66678839214777",
+        "longitude" : "-95.38610580119679"
+      },
+      "horizontal_distance" : "2095.3377110983565",
+      "vertical_distance"   : "1163.9999999999998"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHOU",
+      "time"                : "2020-02-10 17:59:49+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "46.0",
+        "latitude"  : "29.64539909",
+        "longitude" : "-95.27890015"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "350.0",
+        "latitude"  : "29.66094453456038",
+        "longitude" : "-95.29745662913601"
+      },
+      "horizontal_distance" : "2489.4157673109357",
+      "vertical_distance"   : "304.0"
+    }
+  },
+  {
+    "icao"      : "a776b8",
+    "callsign"  : "DCM4218",
+    "nnumber"   : "N580JH",
+    "departure" :
+    {
+      "airport"             : "KHOU",
+      "time"                : "2020-02-11 18:38:54+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "46.0",
+        "latitude"  : "29.64539909",
+        "longitude" : "-95.27890015"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1275.0",
+        "latitude"  : "29.66661071777344",
+        "longitude" : "-95.28748732346752"
+      },
+      "horizontal_distance" : "2493.897653608273",
+      "vertical_distance"   : "1229.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KMKO",
+      "time"                : "2020-02-11 19:40:08+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "611.0",
+        "latitude"  : "35.656502",
+        "longitude" : "-95.366699"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1525.0000000000005",
+        "latitude"  : "35.63749694824219",
+        "longitude" : "-95.41168212890624"
+      },
+      "horizontal_distance" : "4587.224665903301",
+      "vertical_distance"   : "914.0000000000005"
+    }
+  }
+]
