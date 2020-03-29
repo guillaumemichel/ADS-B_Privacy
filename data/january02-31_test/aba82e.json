@@ -1,0 +1,164 @@
+[
+  {
+    "icao"      : "aba82e",
+    "callsign"  : "N850JP",
+    "nnumber"   : "N850JP",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-02 21:41:13+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "6200.0",
+        "latitude"  : "31.638856014962922",
+        "longitude" : "-97.16522827148435"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KAPA",
+      "time"                : "2020-01-02 23:10:38+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "5885.0",
+        "latitude"  : "39.57009888",
+        "longitude" : "-104.84899899999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-300.0",
+        "latitude"  : "28.070208016088447",
+        "longitude" : "-97.04342112821688"
+      },
+      "horizontal_distance" : "1464551.860855316",
+      "vertical_distance"   : "-6185.0"
+    }
+  },
+  {
+    "icao"      : "aba82e",
+    "callsign"  : "N850JP",
+    "nnumber"   : "N850JP",
+    "departure" :
+    {
+      "airport"             : "KAPA",
+      "time"                : "2020-01-04 21:39:54+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "5885.0",
+        "latitude"  : "39.57009888",
+        "longitude" : "-104.84899899999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "6200.0",
+        "latitude"  : "31.638856014962922",
+        "longitude" : "-97.16522827148435"
+      },
+      "horizontal_distance" : "1121122.6471346235",
+      "vertical_distance"   : "315.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "04TX",
+      "time"                : "2020-01-04 22:59:44+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "565.0",
+        "latitude"  : "31.7322006226",
+        "longitude" : "-97.36889648440001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-300.0",
+        "latitude"  : "28.070208016088447",
+        "longitude" : "-97.04342112821688"
+      },
+      "horizontal_distance" : "407149.93401872506",
+      "vertical_distance"   : "-865.0"
+    }
+  },
+  {
+    "icao"      : "aba82e",
+    "callsign"  : "N850JP",
+    "nnumber"   : "N850JP",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-11 14:38:37+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "6200.0",
+        "latitude"  : "31.638856014962922",
+        "longitude" : "-97.16522827148435"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "2KS9",
+      "time"                : "2020-01-11 15:42:48+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "990.0",
+        "latitude"  : "38.900001525878906",
+        "longitude" : "-95.58360290527344"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-300.0",
+        "latitude"  : "28.070208016088447",
+        "longitude" : "-97.04342112821688"
+      },
+      "horizontal_distance" : "1208765.6717923018",
+      "vertical_distance"   : "-1290.0"
+    }
+  },
+  {
+    "icao"      : "aba82e",
+    "callsign"  : "N850JP",
+    "nnumber"   : "N850JP",
+    "departure" :
+    {
+      "airport"             : "KFOE",
+      "time"                : "2020-01-11 21:46:35+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1078.0",
+        "latitude"  : "38.9509010315",
+        "longitude" : "-95.6635971069"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "6200.0",
+        "latitude"  : "31.638856014962922",
+        "longitude" : "-97.16522827148435"
+      },
+      "horizontal_distance" : "822625.0926450257",
+      "vertical_distance"   : "5122.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "75TE",
+      "time"                : "2020-01-11 22:52:03+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "500.0",
+        "latitude"  : "31.74740028381348",
+        "longitude" : "-97.24610137939452"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-300.0",
+        "latitude"  : "28.070208016088447",
+        "longitude" : "-97.04342112821688"
+      },
+      "horizontal_distance" : "408090.1818029682",
+      "vertical_distance"   : "-800.0"
+    }
+  }
+]

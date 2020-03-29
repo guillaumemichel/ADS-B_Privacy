@@ -1,0 +1,116 @@
+[
+  {
+    "icao"      : "a7d7ac",
+    "callsign"  : "DCM2241",
+    "nnumber"   : "N604SA",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-12-02 20:31:17+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "29900.0",
+        "latitude"  : "27.54849243164062",
+        "longitude" : "-80.91617224351415"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-12-02 21:06:34+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "8100.0",
+        "latitude"  : "29.981782557600628",
+        "longitude" : "-83.85655517578125"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a7d7ac",
+    "callsign"  : "DCM2241",
+    "nnumber"   : "N604SA",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-12-09 17:09:48+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "22175.000000000004",
+        "latitude"  : "26.972692457296077",
+        "longitude" : "-81.19403545673076"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSDM",
+      "time"                : "2019-12-09 22:06:11+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "526.0",
+        "latitude"  : "32.572299957275",
+        "longitude" : "-116.98000335693001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "35999.99999999999",
+        "latitude"  : "27.95108083951271",
+        "longitude" : "-85.36290785845588"
+      },
+      "horizontal_distance" : "3073866.462776033",
+      "vertical_distance"   : "35473.99999999999"
+    }
+  },
+  {
+    "icao"      : "a7d7ac",
+    "callsign"  : "DCM2241",
+    "nnumber"   : "N604SA",
+    "departure" :
+    {
+      "airport"             : "KSDM",
+      "time"                : "2019-12-12 17:43:19+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "526.0",
+        "latitude"  : "32.572299957275",
+        "longitude" : "-116.98000335693001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "275.00000000000006",
+        "latitude"  : "32.57297321901483",
+        "longitude" : "-116.9835429288903"
+      },
+      "horizontal_distance" : "340.6526620442365",
+      "vertical_distance"   : "-250.99999999999994"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDWH",
+      "time"                : "2019-12-12 20:11:27+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "152.0",
+        "latitude"  : "30.0618000031",
+        "longitude" : "-95.5528030396"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1175.0",
+        "latitude"  : "30.12213755462129",
+        "longitude" : "-95.56193847656247"
+      },
+      "horizontal_distance" : "6746.381498065674",
+      "vertical_distance"   : "1023.0"
+    }
+  }
+]

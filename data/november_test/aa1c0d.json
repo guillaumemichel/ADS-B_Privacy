@@ -1,0 +1,126 @@
+[
+  {
+    "icao"      : "aa1c0d",
+    "callsign"  : "DCM6474",
+    "nnumber"   : "N750WR",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-11-10 16:23:39+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "25050.000000000004",
+        "latitude"  : "38.91590183064089",
+        "longitude" : "-106.94989013671879"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDTO",
+      "time"                : "2019-11-10 17:36:59+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "642.0",
+        "latitude"  : "33.2006988525",
+        "longitude" : "-97.19799804690001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "650.0",
+        "latitude"  : "33.21524047851562",
+        "longitude" : "-97.19769287109376"
+      },
+      "horizontal_distance" : "1613.0359916869702",
+      "vertical_distance"   : "8.0"
+    }
+  },
+  {
+    "icao"      : "aa1c0d",
+    "callsign"  : "DCM6474",
+    "nnumber"   : "N750WR",
+    "departure" :
+    {
+      "airport"             : "KDTO",
+      "time"                : "2019-11-12 19:12:11+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "642.0",
+        "latitude"  : "33.2006988525",
+        "longitude" : "-97.19799804690001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "200.0",
+        "latitude"  : "33.203057757878696",
+        "longitude" : "-97.197894660794"
+      },
+      "horizontal_distance" : "261.79913828572523",
+      "vertical_distance"   : "-442.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KAPA",
+      "time"                : "2019-11-12 20:37:19+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "5885.0",
+        "latitude"  : "39.57009888",
+        "longitude" : "-104.84899899999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5875.0",
+        "latitude"  : "39.595458984375",
+        "longitude" : "-104.8520229173743"
+      },
+      "horizontal_distance" : "2827.6062588324444",
+      "vertical_distance"   : "-10.0"
+    }
+  },
+  {
+    "icao"      : "aa1c0d",
+    "callsign"  : "DCM6474",
+    "nnumber"   : "N750WR",
+    "departure" :
+    {
+      "airport"             : "KAPA",
+      "time"                : "2019-11-14 02:48:59+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "5885.0",
+        "latitude"  : "39.57009888",
+        "longitude" : "-104.84899899999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5899.999999999999",
+        "latitude"  : "39.57494186142743",
+        "longitude" : "-104.85107421875"
+      },
+      "horizontal_distance" : "566.4935696624556",
+      "vertical_distance"   : "14.99999999999909"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDTO",
+      "time"                : "2019-11-14 04:00:11+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "642.0",
+        "latitude"  : "33.2006988525",
+        "longitude" : "-97.19799804690001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "549.9999999999999",
+        "latitude"  : "33.21487426757812",
+        "longitude" : "-97.19769287109376"
+      },
+      "horizontal_distance" : "1572.4266462551848",
+      "vertical_distance"   : "-92.00000000000011"
+    }
+  }
+]

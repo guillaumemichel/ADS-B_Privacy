@@ -1,0 +1,283 @@
+[
+  {
+    "icao"      : "a5b0af",
+    "callsign"  : "DCM4220",
+    "nnumber"   : "N466JB",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-08 00:21:36+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "40000.0",
+        "latitude"  : "30.52922058105469",
+        "longitude" : "-94.17028090533093"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KLAS",
+      "time"                : "2020-01-08 01:54:11+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "2181.0",
+        "latitude"  : "36.08010101",
+        "longitude" : "-115.15200039999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2025.0",
+        "latitude"  : "36.08543266684322",
+        "longitude" : "-115.1645936357214"
+      },
+      "horizontal_distance" : "1279.2777751581373",
+      "vertical_distance"   : "-156.0"
+    }
+  },
+  {
+    "icao"      : "a5b0af",
+    "callsign"  : "DCM4220",
+    "nnumber"   : "N466JB",
+    "departure" :
+    {
+      "airport"             : "KLAS",
+      "time"                : "2020-01-09 23:57:56+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "2181.0",
+        "latitude"  : "36.08010101",
+        "longitude" : "-115.15200039999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2250.0000000000005",
+        "latitude"  : "36.08354187011719",
+        "longitude" : "-115.16572952270509"
+      },
+      "horizontal_distance" : "1294.187676503466",
+      "vertical_distance"   : "69.00000000000045"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KPIE",
+      "time"                : "2020-01-10 03:36:07+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "11.0",
+        "latitude"  : "27.91020012",
+        "longitude" : "-82.68740082"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "40999.99999999999",
+        "latitude"  : "30.76739501953125",
+        "longitude" : "-93.9422607421875"
+      },
+      "horizontal_distance" : "1137401.510743174",
+      "vertical_distance"   : "40988.99999999999"
+    }
+  },
+  {
+    "icao"      : "a5b0af",
+    "callsign"  : "DCM4220",
+    "nnumber"   : "N466JB",
+    "departure" :
+    {
+      "airport"             : "KPIE",
+      "time"                : "2020-01-13 13:14:41+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "11.0",
+        "latitude"  : "27.91020012",
+        "longitude" : "-82.68740082"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "nan",
+        "latitude"  : "27.92168426513672",
+        "longitude" : "-82.69198003804911"
+      },
+      "horizontal_distance" : "1350.1236811499352",
+      "vertical_distance"   : "nan"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-13 14:03:55+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "40000.0",
+        "latitude"  : "27.61064432435116",
+        "longitude" : "-88.9271956223708"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a5b0af",
+    "callsign"  : "DCM4220",
+    "nnumber"   : "N466JB",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-14 17:46:46+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "40000.0",
+        "latitude"  : "29.31207275390625",
+        "longitude" : "-111.65051386906549"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KBFI",
+      "time"                : "2020-01-14 20:56:04+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "21.0",
+        "latitude"  : "47.52999877929688",
+        "longitude" : "-122.302001953125"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-25.0",
+        "latitude"  : "47.53376770019531",
+        "longitude" : "-122.3056411743164"
+      },
+      "horizontal_distance" : "500.67852418748026",
+      "vertical_distance"   : "-46.0"
+    }
+  },
+  {
+    "icao"      : "a5b0af",
+    "callsign"  : "DCM4220",
+    "nnumber"   : "N466JB",
+    "departure" :
+    {
+      "airport"             : "KBFI",
+      "time"                : "2020-01-15 21:45:12+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "21.0",
+        "latitude"  : "47.52999877929688",
+        "longitude" : "-122.302001953125"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "375.0",
+        "latitude"  : "47.537841796875",
+        "longitude" : "-122.30910081129808"
+      },
+      "horizontal_distance" : "1022.7792738490789",
+      "vertical_distance"   : "354.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KPIE",
+      "time"                : "2020-01-16 02:11:50+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "11.0",
+        "latitude"  : "27.91020012",
+        "longitude" : "-82.68740082"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "40975.0",
+        "latitude"  : "45.8734130859375",
+        "longitude" : "-114.40454864501949"
+      },
+      "horizontal_distance" : "3422676.688188243",
+      "vertical_distance"   : "40964.0"
+    }
+  },
+  {
+    "icao"      : "a5b0af",
+    "callsign"  : "DCM4220",
+    "nnumber"   : "N466JB",
+    "departure" :
+    {
+      "airport"             : "KPIE",
+      "time"                : "2020-01-23 11:56:33+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "11.0",
+        "latitude"  : "27.91020012",
+        "longitude" : "-82.68740082"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "375.0",
+        "latitude"  : "27.91891479492188",
+        "longitude" : "-82.68999783497934"
+      },
+      "horizontal_distance" : "999.0078195772015",
+      "vertical_distance"   : "364.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSJC",
+      "time"                : "2020-01-23 17:06:52+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "62.0",
+        "latitude"  : "37.362598",
+        "longitude" : "-121.929001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "40000.0",
+        "latitude"  : "31.0169677734375",
+        "longitude" : "-92.77232450597427"
+      },
+      "horizontal_distance" : "2766073.2403326486",
+      "vertical_distance"   : "39938.0"
+    }
+  },
+  {
+    "icao"      : "a5b0af",
+    "callsign"  : "DCM4220",
+    "nnumber"   : "N466JB",
+    "departure" :
+    {
+      "airport"             : "KPIE",
+      "time"                : "2020-01-31 01:16:52+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "11.0",
+        "latitude"  : "27.91020012",
+        "longitude" : "-82.68740082"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "150.0",
+        "latitude"  : "27.91497802734375",
+        "longitude" : "-82.68927232274467"
+      },
+      "horizontal_distance" : "560.6148859254923",
+      "vertical_distance"   : "139.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-31 01:36:44+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "13200.0",
+        "latitude"  : "29.99444476628707",
+        "longitude" : "-82.10560913085938"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  }
+]

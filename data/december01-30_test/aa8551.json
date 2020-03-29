@@ -1,0 +1,45 @@
+[
+  {
+    "icao"      : "aa8551",
+    "callsign"  : "DCM702",
+    "nnumber"   : "N777ZK",
+    "departure" :
+    {
+      "airport"             : "KPIE",
+      "time"                : "2019-12-11 15:52:36+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "11.0",
+        "latitude"  : "27.91020012",
+        "longitude" : "-82.68740082"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "150.0",
+        "latitude"  : "27.92367553710938",
+        "longitude" : "-82.69118974793632"
+      },
+      "horizontal_distance" : "1539.1923735440967",
+      "vertical_distance"   : "139.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KFLL",
+      "time"                : "2019-12-11 16:37:19+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "26.072599",
+        "longitude" : "-80.152702"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "200.0",
+        "latitude"  : "26.066162109375",
+        "longitude" : "-80.19123005417156"
+      },
+      "horizontal_distance" : "3920.4776599966367",
+      "vertical_distance"   : "191.0"
+    }
+  }
+]

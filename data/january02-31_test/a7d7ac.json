@@ -1,0 +1,121 @@
+[
+  {
+    "icao"      : "a7d7ac",
+    "callsign"  : "DCM2241",
+    "nnumber"   : "N604SA",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-14 21:37:42+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "37000.0",
+        "latitude"  : "34.158279418945305",
+        "longitude" : "-77.90702352718432"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KIAD",
+      "time"                : "2020-01-14 22:28:06+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "312.0",
+        "latitude"  : "38.94449997",
+        "longitude" : "-77.45580292"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "100.0",
+        "latitude"  : "38.96884336309918",
+        "longitude" : "-77.4541015625"
+      },
+      "horizontal_distance" : "2706.4941194168287",
+      "vertical_distance"   : "-212.0"
+    }
+  },
+  {
+    "icao"      : "a7d7ac",
+    "callsign"  : "DCM2241",
+    "nnumber"   : "N604SA",
+    "departure" :
+    {
+      "airport"             : "KIAD",
+      "time"                : "2020-01-15 17:24:59+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "312.0",
+        "latitude"  : "38.94449997",
+        "longitude" : "-77.45580292"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "nan",
+        "latitude"  : "38.97030258178711",
+        "longitude" : "-77.4546880307405"
+      },
+      "horizontal_distance" : "2866.0980126422546",
+      "vertical_distance"   : "nan"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KFXE",
+      "time"                : "2020-01-15 19:30:35+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "13.0",
+        "latitude"  : "26.1972999573",
+        "longitude" : "-80.1707000732"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "38000.0",
+        "latitude"  : "33.22638042902543",
+        "longitude" : "-80.82344522281568"
+      },
+      "horizontal_distance" : "781711.3229296858",
+      "vertical_distance"   : "37987.0"
+    }
+  },
+  {
+    "icao"      : "a7d7ac",
+    "callsign"  : "DCM2241",
+    "nnumber"   : "N604SA",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-26 21:17:04+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "30499.999999999996",
+        "latitude"  : "29.06071472167969",
+        "longitude" : "-87.97524085411658"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KFXE",
+      "time"                : "2020-01-26 22:16:26+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "13.0",
+        "latitude"  : "26.1972999573",
+        "longitude" : "-80.1707000732"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1075.0",
+        "latitude"  : "26.19140625",
+        "longitude" : "-80.24217137750587"
+      },
+      "horizontal_distance" : "7173.508313719282",
+      "vertical_distance"   : "1062.0"
+    }
+  }
+]

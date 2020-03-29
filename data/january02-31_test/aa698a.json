@@ -1,0 +1,121 @@
+[
+  {
+    "icao"      : "aa698a",
+    "callsign"  : "N770FF",
+    "nnumber"   : "N770FF",
+    "departure" :
+    {
+      "airport"             : "KFRG",
+      "time"                : "2020-01-09 02:08:21+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "82.0",
+        "latitude"  : "40.7288017273",
+        "longitude" : "-73.41339874270001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1925.0",
+        "latitude"  : "25.915072166313557",
+        "longitude" : "-80.16026423527644"
+      },
+      "horizontal_distance" : "1757554.2122625103",
+      "vertical_distance"   : "1843.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KEWR",
+      "time"                : "2020-01-09 02:47:46+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "18.0",
+        "latitude"  : "40.69250106811523",
+        "longitude" : "-74.168701171875"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "33000.0",
+        "latitude"  : "24.188232421875",
+        "longitude" : "-80.7135009765625"
+      },
+      "horizontal_distance" : "1929458.3039001273",
+      "vertical_distance"   : "32982.0"
+    }
+  },
+  {
+    "icao"      : "aa698a",
+    "callsign"  : "N770FF",
+    "nnumber"   : "N770FF",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-14 21:33:09+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1925.0",
+        "latitude"  : "25.915072166313557",
+        "longitude" : "-80.16026423527644"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KTEB",
+      "time"                : "2020-01-14 22:41:41+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "40.85010147089999",
+        "longitude" : "-74.060798645"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "33000.0",
+        "latitude"  : "24.188232421875",
+        "longitude" : "-80.7135009765625"
+      },
+      "horizontal_distance" : "1949042.0592834128",
+      "vertical_distance"   : "32991.0"
+    }
+  },
+  {
+    "icao"      : "aa698a",
+    "callsign"  : "N770FF",
+    "nnumber"   : "N770FF",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-26 16:33:56+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1925.0",
+        "latitude"  : "25.915072166313557",
+        "longitude" : "-80.16026423527644"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KOPF",
+      "time"                : "2020-01-26 18:38:15+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "25.906999999999996",
+        "longitude" : "-80.278397"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "33000.0",
+        "latitude"  : "24.188232421875",
+        "longitude" : "-80.7135009765625"
+      },
+      "horizontal_distance" : "195390.64800222262",
+      "vertical_distance"   : "32992.0"
+    }
+  }
+]

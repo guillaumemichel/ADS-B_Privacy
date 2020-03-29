@@ -1,0 +1,172 @@
+[
+  {
+    "icao"      : "a70718",
+    "callsign"  : "DCM4034",
+    "nnumber"   : "N552CN",
+    "departure" :
+    {
+      "airport"             : "KRVS",
+      "time"                : "2020-01-06 22:05:10+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "638.0",
+        "latitude"  : "36.039600372314",
+        "longitude" : "-95.98459625244101"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1050.0",
+        "latitude"  : "36.05094909667969",
+        "longitude" : "-95.98262786865234"
+      },
+      "horizontal_distance" : "1271.6836054688545",
+      "vertical_distance"   : "412.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "11TX",
+      "time"                : "2020-01-06 22:38:12+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "840.0",
+        "latitude"  : "33.66680145263672",
+        "longitude" : "-96.69059753417969"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1225.0",
+        "latitude"  : "33.671652583752646",
+        "longitude" : "-96.6694450378418"
+      },
+      "horizontal_distance" : "2034.1651836137933",
+      "vertical_distance"   : "385.0"
+    }
+  },
+  {
+    "icao"      : "a70718",
+    "callsign"  : "HRF552",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KGYI",
+      "time"                : "2020-01-14 15:18:39+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "2KS0",
+      "time"                : "2020-01-14 21:00:51+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a70718",
+    "callsign"  : "HRF552",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-14 21:53:39+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "TS85",
+      "time"                : "2020-01-14 22:28:04+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a70718",
+    "callsign"  : "DCM4034",
+    "nnumber"   : "N552CN",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-24 16:34:34+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "8474.999999999998",
+        "latitude"  : "33.92330932617188",
+        "longitude" : "-96.30901103117027"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHOU",
+      "time"                : "2020-01-24 17:22:45+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "46.0",
+        "latitude"  : "29.64539909",
+        "longitude" : "-95.27890015"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "275.00000000000006",
+        "latitude"  : "29.61434574450477",
+        "longitude" : "-95.31264361213238"
+      },
+      "horizontal_distance" : "4746.246322899719",
+      "vertical_distance"   : "229.00000000000006"
+    }
+  },
+  {
+    "icao"      : "a70718",
+    "callsign"  : "DCM4034",
+    "nnumber"   : "N552CN",
+    "departure" :
+    {
+      "airport"             : "KSAT",
+      "time"                : "2020-01-26 23:50:37+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "809.0",
+        "latitude"  : "29.533700942993164",
+        "longitude" : "-98.46980285644531"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2974.9999999999995",
+        "latitude"  : "29.54796225337659",
+        "longitude" : "-98.44433952780331"
+      },
+      "horizontal_distance" : "2930.9359328049513",
+      "vertical_distance"   : "2165.9999999999995"
+    },
+    "arrival"   :
+    {
+      "airport"             : "2XS4",
+      "time"                : "2020-01-27 00:36:14+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "665.0",
+        "latitude"  : "33.661399841308594",
+        "longitude" : "-96.40640258789062"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2475.0",
+        "latitude"  : "33.72308349609375",
+        "longitude" : "-96.49303202726401"
+      },
+      "horizontal_distance" : "10550.945619232518",
+      "vertical_distance"   : "1810.0"
+    }
+  }
+]

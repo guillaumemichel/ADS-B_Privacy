@@ -1,0 +1,144 @@
+[
+  {
+    "icao"      : "a03101",
+    "callsign"  : "DCM2244",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-13 00:00:04+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "37000.0",
+        "latitude"  : "35.25617980957031",
+        "longitude" : "-77.36274719238281"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "CYUL",
+      "time"                : "2020-01-13 00:47:06+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-449.99999999999994",
+        "latitude"  : "45.47195434570312",
+        "longitude" : "-73.72202192034041"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a03101",
+    "callsign"  : "DCM2244",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "CYUL",
+      "time"                : "2020-01-15 21:43:59+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "75.0",
+        "latitude"  : "45.46513366699219",
+        "longitude" : "-73.73140607561385"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "CYYZ",
+      "time"                : "2020-01-15 22:50:08+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "424.99999999999994",
+        "latitude"  : "43.68057632446289",
+        "longitude" : "-79.62753295898438"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a03101",
+    "callsign"  : "DCM2244",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-29 18:05:24+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "38975.0",
+        "latitude"  : "34.53156552072299",
+        "longitude" : "-77.45899200439453"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KPHL",
+      "time"                : "2020-01-29 19:11:44+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "36.0",
+        "latitude"  : "39.87189865112305",
+        "longitude" : "-75.24109649658203"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-25.0",
+        "latitude"  : "39.86874389648438",
+        "longitude" : "-75.22673233695652"
+      },
+      "horizontal_distance" : "1277.8732159826322",
+      "vertical_distance"   : "-61.0"
+    }
+  },
+  {
+    "icao"      : "a03101",
+    "callsign"  : "DCM2244",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KPHL",
+      "time"                : "2020-01-29 20:05:10+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "36.0",
+        "latitude"  : "39.87189865112305",
+        "longitude" : "-75.24109649658203"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2175.0000000000005",
+        "latitude"  : "39.84782409667969",
+        "longitude" : "-75.2860823921535"
+      },
+      "horizontal_distance" : "4686.442477447416",
+      "vertical_distance"   : "2139.0000000000005"
+    },
+    "arrival"   :
+    {
+      "airport"             : "CYUL",
+      "time"                : "2020-01-29 21:18:03+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-200.0",
+        "latitude"  : "45.47193145751953",
+        "longitude" : "-73.72238159179688"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  }
+]

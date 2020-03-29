@@ -1,0 +1,169 @@
+[
+  {
+    "icao"      : "a95132",
+    "callsign"  : "DCM2320",
+    "nnumber"   : "N7PS",
+    "departure" :
+    {
+      "airport"             : "KGVT",
+      "time"                : "2020-01-07 17:03:44+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "535.0",
+        "latitude"  : "33.0677986145",
+        "longitude" : "-96.0652999878"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "24075.0",
+        "latitude"  : "33.457232976363876",
+        "longitude" : "-95.16273342833229"
+      },
+      "horizontal_distance" : "94539.65096057252",
+      "vertical_distance"   : "23540.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KJWN",
+      "time"                : "2020-01-07 18:06:06+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "495.0",
+        "latitude"  : "36.18239974975586",
+        "longitude" : "-86.88670349121094"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "3499.9999999999995",
+        "latitude"  : "36.06257551807468",
+        "longitude" : "-86.89349884682514"
+      },
+      "horizontal_distance" : "13309.915117617955",
+      "vertical_distance"   : "3004.9999999999995"
+    }
+  },
+  {
+    "icao"      : "a95132",
+    "callsign"  : "DCM2320",
+    "nnumber"   : "N7PS",
+    "departure" :
+    {
+      "airport"             : "KJWN",
+      "time"                : "2020-01-07 21:18:33+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "495.0",
+        "latitude"  : "36.18239974975586",
+        "longitude" : "-86.88670349121094"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "12375.0",
+        "latitude"  : "36.20828247070312",
+        "longitude" : "-87.03357696533203"
+      },
+      "horizontal_distance" : "13518.51968806767",
+      "vertical_distance"   : "11880.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "0TX8",
+      "time"                : "2020-01-07 22:39:14+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "570.0",
+        "latitude"  : "33.18040084838867",
+        "longitude" : "-96.04329681396484"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1250.0",
+        "latitude"  : "33.13690702793961",
+        "longitude" : "-96.05397127112565"
+      },
+      "horizontal_distance" : "4925.487963334188",
+      "vertical_distance"   : "680.0"
+    }
+  },
+  {
+    "icao"      : "a95132",
+    "callsign"  : "DCM2320",
+    "nnumber"   : "N7PS",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-22 00:05:54+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1650.0",
+        "latitude"  : "33.04450083587129",
+        "longitude" : "-96.0611460160236"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KBFI",
+      "time"                : "2020-01-22 02:59:58+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "21.0",
+        "latitude"  : "47.52999877929688",
+        "longitude" : "-122.302001953125"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "40025.0",
+        "latitude"  : "40.743403030654136",
+        "longitude" : "-107.0793082497337"
+      },
+      "horizontal_distance" : "1428861.798712628",
+      "vertical_distance"   : "40004.0"
+    }
+  },
+  {
+    "icao"      : "a95132",
+    "callsign"  : "DCM2320",
+    "nnumber"   : "N7PS",
+    "departure" :
+    {
+      "airport"             : "KBFI",
+      "time"                : "2020-01-22 19:14:15+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "21.0",
+        "latitude"  : "47.52999877929688",
+        "longitude" : "-122.302001953125"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-75.0",
+        "latitude"  : "47.53541564941406",
+        "longitude" : "-122.3070831298828"
+      },
+      "horizontal_distance" : "713.5054399893879",
+      "vertical_distance"   : "-96.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "0TX8",
+      "time"                : "2020-01-22 22:18:48+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "570.0",
+        "latitude"  : "33.18040084838867",
+        "longitude" : "-96.04329681396484"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "37024.99999999999",
+        "latitude"  : "45.24046325683594",
+        "longitude" : "-115.1471819196429"
+      },
+      "horizontal_distance" : "2115362.330943614",
+      "vertical_distance"   : "36454.99999999999"
+    }
+  }
+]

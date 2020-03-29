@@ -1,0 +1,121 @@
+[
+  {
+    "icao"      : "a789fd",
+    "callsign"  : "DCM2627",
+    "nnumber"   : "N585RL",
+    "departure" :
+    {
+      "airport"             : "KPEO",
+      "time"                : "2020-01-07 13:45:51+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "990.0",
+        "latitude"  : "42.63710021972656",
+        "longitude" : "-77.05290222167969"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "3225.0",
+        "latitude"  : "42.5863037109375",
+        "longitude" : "-77.06409801136363"
+      },
+      "horizontal_distance" : "5717.027999890228",
+      "vertical_distance"   : "2235.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-07 16:06:39+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "40000.0",
+        "latitude"  : "32.86927821272511",
+        "longitude" : "-80.98089724170919"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a789fd",
+    "callsign"  : "DCM2627",
+    "nnumber"   : "N585RL",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-07 17:09:53+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "16750.000000000004",
+        "latitude"  : "27.58131408691406",
+        "longitude" : "-80.57538878242924"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KROC",
+      "time"                : "2020-01-07 19:17:26+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "559.0",
+        "latitude"  : "43.118900299072266",
+        "longitude" : "-77.67240142822266"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "40999.99999999999",
+        "latitude"  : "30.23251291048729",
+        "longitude" : "-81.37974243164062"
+      },
+      "horizontal_distance" : "1467509.850811308",
+      "vertical_distance"   : "40440.99999999999"
+    }
+  },
+  {
+    "icao"      : "a789fd",
+    "callsign"  : "DCM2627",
+    "nnumber"   : "N585RL",
+    "departure" :
+    {
+      "airport"             : "KROC",
+      "time"                : "2020-01-07 19:50:20+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "559.0",
+        "latitude"  : "43.118900299072266",
+        "longitude" : "-77.67240142822266"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "nan",
+        "latitude"  : "43.11943817138672",
+        "longitude" : "-77.65871269758355"
+      },
+      "horizontal_distance" : "1115.6342284261923",
+      "vertical_distance"   : "nan"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KPEO",
+      "time"                : "2020-01-07 20:00:41+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "990.0",
+        "latitude"  : "42.63710021972656",
+        "longitude" : "-77.05290222167969"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2075.0",
+        "latitude"  : "42.71159362792969",
+        "longitude" : "-77.0607272061435"
+      },
+      "horizontal_distance" : "8300.025161635298",
+      "vertical_distance"   : "1085.0"
+    }
+  }
+]

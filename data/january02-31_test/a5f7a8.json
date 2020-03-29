@@ -1,0 +1,121 @@
+[
+  {
+    "icao"      : "a5f7a8",
+    "callsign"  : "N484CA",
+    "nnumber"   : "N484CA",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-05 20:55:48+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1025.0",
+        "latitude"  : "26.07958777476165",
+        "longitude" : "-80.12366074782149"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KFLL",
+      "time"                : "2020-01-05 21:07:20+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "26.072599",
+        "longitude" : "-80.152702"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "103800.0",
+        "latitude"  : "30.07982157044491",
+        "longitude" : "-81.62704467773438"
+      },
+      "horizontal_distance" : "467114.0526633334",
+      "vertical_distance"   : "103791.0"
+    }
+  },
+  {
+    "icao"      : "a5f7a8",
+    "callsign"  : "DCM3530",
+    "nnumber"   : "N484CA",
+    "departure" :
+    {
+      "airport"             : "KFLL",
+      "time"                : "2020-01-10 14:29:21+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "26.072599",
+        "longitude" : "-80.152702"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1025.0",
+        "latitude"  : "26.07958777476165",
+        "longitude" : "-80.12366074782149"
+      },
+      "horizontal_distance" : "3007.0612268954787",
+      "vertical_distance"   : "1016.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KUWL",
+      "time"                : "2020-01-10 16:51:43+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1088.0",
+        "latitude"  : "39.8759",
+        "longitude" : "-85.3265"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "103800.0",
+        "latitude"  : "30.07982157044491",
+        "longitude" : "-81.62704467773438"
+      },
+      "horizontal_distance" : "1137770.1369453873",
+      "vertical_distance"   : "102712.0"
+    }
+  },
+  {
+    "icao"      : "a5f7a8",
+    "callsign"  : "DCM3530",
+    "nnumber"   : "N484CA",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-10 21:15:55+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "12224.999999999998",
+        "latitude"  : "39.86732482910156",
+        "longitude" : "-85.52474312160325"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KFLL",
+      "time"                : "2020-01-10 23:59:02+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "26.072599",
+        "longitude" : "-80.152702"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "75.0",
+        "latitude"  : "26.077027401681672",
+        "longitude" : "-80.18440246582031"
+      },
+      "horizontal_distance" : "3209.4861493640587",
+      "vertical_distance"   : "66.0"
+    }
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "icao"      : "a98576",
+    "callsign"  : "DCM3720",
+    "nnumber"   : "N712WG",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-12-02 16:46:40+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "12424.999999999998",
+        "latitude"  : "36.31484209480932",
+        "longitude" : "-92.85749719498007"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KPWA",
+      "time"                : "2019-12-02 17:40:47+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1300.0",
+        "latitude"  : "35.53419876",
+        "longitude" : "-97.64710236"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1175.0",
+        "latitude"  : "35.55296817068326",
+        "longitude" : "-97.64554936835108"
+      },
+      "horizontal_distance" : "2087.232861339198",
+      "vertical_distance"   : "-125.0"
+    }
+  },
+  {
+    "icao"      : "a98576",
+    "callsign"  : "DCM3720",
+    "nnumber"   : "N712WG",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-12-18 20:04:16+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "14175.0",
+        "latitude"  : "36.13221766585011",
+        "longitude" : "-92.17605266165224"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-12-18 22:23:39+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "24525.0",
+        "latitude"  : "35.70463536149364",
+        "longitude" : "-91.58062874002657"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a98576",
+    "callsign"  : "DCM3720",
+    "nnumber"   : "N712WG",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-12-19 19:54:33+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "35999.99999999999",
+        "latitude"  : "28.485826395325738",
+        "longitude" : "-81.83037252987133"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KECP",
+      "time"                : "2019-12-19 20:41:18+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "69.0",
+        "latitude"  : "30.357105999999998",
+        "longitude" : "-85.79541400000001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "19200.0",
+        "latitude"  : "29.89905923099841",
+        "longitude" : "-83.72034409466914"
+      },
+      "horizontal_distance" : "206300.75711918747",
+      "vertical_distance"   : "19131.0"
+    }
+  }
+]

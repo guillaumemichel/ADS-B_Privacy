@@ -1,0 +1,45 @@
+[
+  {
+    "icao"      : "a233e9",
+    "callsign"  : "DCM926",
+    "nnumber"   : "N241CA",
+    "departure" :
+    {
+      "airport"             : "KBNA",
+      "time"                : "2019-12-16 20:16:11+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "599.0",
+        "latitude"  : "36.1245002746582",
+        "longitude" : "-86.6781997680664"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1300.0",
+        "latitude"  : "36.13515045683263",
+        "longitude" : "-86.69060240400597"
+      },
+      "horizontal_distance" : "1625.722752567131",
+      "vertical_distance"   : "701.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KTPA",
+      "time"                : "2019-12-16 21:40:00+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "26.0",
+        "latitude"  : "27.975500106811523",
+        "longitude" : "-82.533203125"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-100.0",
+        "latitude"  : "27.98832262976695",
+        "longitude" : "-82.52811207490811"
+      },
+      "horizontal_distance" : "1506.6642337762596",
+      "vertical_distance"   : "-126.0"
+    }
+  }
+]

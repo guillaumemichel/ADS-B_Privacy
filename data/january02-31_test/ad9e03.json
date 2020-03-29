@@ -1,0 +1,164 @@
+[
+  {
+    "icao"      : "ad9e03",
+    "callsign"  : "DCM2790",
+    "nnumber"   : "N977DT",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-15 15:41:26+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "39974.99999999999",
+        "latitude"  : "31.88520812988281",
+        "longitude" : "-105.6537048339844"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSDL",
+      "time"                : "2020-01-15 16:45:39+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1510.0",
+        "latitude"  : "33.622898101806996",
+        "longitude" : "-111.91100311279"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1350.0",
+        "latitude"  : "33.6202589132018",
+        "longitude" : "-111.9135475158691"
+      },
+      "horizontal_distance" : "376.07580358204444",
+      "vertical_distance"   : "-160.0"
+    }
+  },
+  {
+    "icao"      : "ad9e03",
+    "callsign"  : "DCM2790",
+    "nnumber"   : "N977DT",
+    "departure" :
+    {
+      "airport"             : "KADS",
+      "time"                : "2020-01-23 18:00:54+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "644.0",
+        "latitude"  : "32.9686012268",
+        "longitude" : "-96.8364028931"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1325.0",
+        "latitude"  : "32.97453282243114",
+        "longitude" : "-96.83921346859057"
+      },
+      "horizontal_distance" : "708.3665342221215",
+      "vertical_distance"   : "681.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-23 18:31:48+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "6374.999999999999",
+        "latitude"  : "32.38330078125",
+        "longitude" : "-100.08248291015622"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "ad9e03",
+    "callsign"  : "DCM2790",
+    "nnumber"   : "N977DT",
+    "departure" :
+    {
+      "airport"             : "32TE",
+      "time"                : "2020-01-23 20:48:07+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "860.0",
+        "latitude"  : "30.589399",
+        "longitude" : "-98.3703"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "6000.0",
+        "latitude"  : "30.584680589578923",
+        "longitude" : "-98.34043579101565"
+      },
+      "horizontal_distance" : "2911.7482303643783",
+      "vertical_distance"   : "5140.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KADS",
+      "time"                : "2020-01-23 21:23:17+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "644.0",
+        "latitude"  : "32.9686012268",
+        "longitude" : "-96.8364028931"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "650.0",
+        "latitude"  : "32.95697021484375",
+        "longitude" : "-96.83146362304687"
+      },
+      "horizontal_distance" : "1370.0901705864412",
+      "vertical_distance"   : "6.0"
+    }
+  },
+  {
+    "icao"      : "ad9e03",
+    "callsign"  : "DCM2790",
+    "nnumber"   : "N977DT",
+    "departure" :
+    {
+      "airport"             : "KADS",
+      "time"                : "2020-01-27 15:53:33+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "644.0",
+        "latitude"  : "32.9686012268",
+        "longitude" : "-96.8364028931"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "750.0",
+        "latitude"  : "32.968460083007805",
+        "longitude" : "-96.83640747070315"
+      },
+      "horizontal_distance" : "15.659245255200686",
+      "vertical_distance"   : "106.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "86TA",
+      "time"                : "2020-01-27 16:27:38+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "890.0",
+        "latitude"  : "30.61269950866699",
+        "longitude" : "-98.29750061035156"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "32400.0",
+        "latitude"  : "30.67048645019531",
+        "longitude" : "-98.29220042509188"
+      },
+      "horizontal_distance" : "6426.567692984324",
+      "vertical_distance"   : "31510.0"
+    }
+  }
+]

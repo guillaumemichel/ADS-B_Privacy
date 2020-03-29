@@ -1,0 +1,334 @@
+[
+  {
+    "icao"      : "c022e9",
+    "callsign"  : "DCM2092",
+    "nnumber"   : "C-FNFS",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-12-03 18:02:04+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "9850.0",
+        "latitude"  : "41.519335730601156",
+        "longitude" : "-83.10850631359011"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "IN69",
+      "time"                : "2019-12-03 18:27:15+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "860.0",
+        "latitude"  : "41.665601",
+        "longitude" : "-85.832197"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2900.0000000000005",
+        "latitude"  : "41.7154541015625",
+        "longitude" : "-85.84523287686434"
+      },
+      "horizontal_distance" : "5642.399328130264",
+      "vertical_distance"   : "2040.0000000000005"
+    }
+  },
+  {
+    "icao"      : "c022e9",
+    "callsign"  : "DCM2092",
+    "nnumber"   : "C-FNFS",
+    "departure" :
+    {
+      "airport"             : "69II",
+      "time"                : "2019-12-03 22:50:07+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "840.0",
+        "latitude"  : "41.36940002441406",
+        "longitude" : "-84.87889862060547"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5725.0",
+        "latitude"  : "41.31976318359375",
+        "longitude" : "-84.9456787109375"
+      },
+      "horizontal_distance" : "7850.40620322234",
+      "vertical_distance"   : "4885.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-12-03 23:07:44+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "11125.0",
+        "latitude"  : "42.19732252217955",
+        "longitude" : "-82.95239825581395"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "c022e9",
+    "callsign"  : "DCM2092",
+    "nnumber"   : "C-FNFS",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-12-04 13:45:03+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "14025.000000000004",
+        "latitude"  : "42.31100463867188",
+        "longitude" : "-81.72760703346944"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KTEB",
+      "time"                : "2019-12-04 14:44:15+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "40.85010147089999",
+        "longitude" : "-74.060798645"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "350.0",
+        "latitude"  : "40.85595703125",
+        "longitude" : "-74.05914306640625"
+      },
+      "horizontal_distance" : "665.0824846985648",
+      "vertical_distance"   : "341.0"
+    }
+  },
+  {
+    "icao"      : "c022e9",
+    "callsign"  : "DCM2092",
+    "nnumber"   : "C-FNFS",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-12-06 15:27:43+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "13625.000000000004",
+        "latitude"  : "42.03263854980469",
+        "longitude" : "-82.10070523348725"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KOPF",
+      "time"                : "2019-12-06 18:16:28+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "25.906999999999996",
+        "longitude" : "-80.278397"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "16125.000000000004",
+        "latitude"  : "26.09111022949219",
+        "longitude" : "-81.3886361751916"
+      },
+      "horizontal_distance" : "113011.05283686573",
+      "vertical_distance"   : "16117.000000000004"
+    }
+  },
+  {
+    "icao"      : "c022e9",
+    "callsign"  : "DCM2092",
+    "nnumber"   : "C-FNFS",
+    "departure" :
+    {
+      "airport"             : "KOPF",
+      "time"                : "2019-12-08 17:45:24+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "25.906999999999996",
+        "longitude" : "-80.278397"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "975.0",
+        "latitude"  : "25.914839405124468",
+        "longitude" : "-80.25634178748498"
+      },
+      "horizontal_distance" : "2374.32575167133",
+      "vertical_distance"   : "967.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KPDK",
+      "time"                : "2019-12-08 19:20:52+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1003.0",
+        "latitude"  : "33.8755989075",
+        "longitude" : "-84.3020019531"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "700.0",
+        "latitude"  : "33.87623803090241",
+        "longitude" : "-84.3005847930908"
+      },
+      "horizontal_distance" : "149.05210420450868",
+      "vertical_distance"   : "-303.0"
+    }
+  },
+  {
+    "icao"      : "c022e9",
+    "callsign"  : "DCM2092",
+    "nnumber"   : "C-FNFS",
+    "departure" :
+    {
+      "airport"             : "KPDK",
+      "time"                : "2019-12-08 19:45:44+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1003.0",
+        "latitude"  : "33.8755989075",
+        "longitude" : "-84.3020019531"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "nan",
+        "latitude"  : "33.86887113926774",
+        "longitude" : "-84.30391788482666"
+      },
+      "horizontal_distance" : "767.0102742067708",
+      "vertical_distance"   : "nan"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-12-08 21:05:51+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "6600.0",
+        "latitude"  : "41.999941033832094",
+        "longitude" : "-82.07349200581395"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "c022e9",
+    "callsign"  : "DCM2092",
+    "nnumber"   : "C-FNFS",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-12-22 16:10:07+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "8725.0",
+        "latitude"  : "42.35392425019862",
+        "longitude" : "-82.04225761945855"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "CPU6",
+      "time"                : "2019-12-22 16:45:00+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "6700.0",
+        "latitude"  : "44.13990783691406",
+        "longitude" : "-76.91809365915697"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "c022e9",
+    "callsign"  : "DCM2092",
+    "nnumber"   : "C-FNFS",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-12-29 15:12:21+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "10025.0",
+        "latitude"  : "42.499306888903604",
+        "longitude" : "-82.47238514035244"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "CYVR",
+      "time"                : "2019-12-29 20:58:43+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "3475.0",
+        "latitude"  : "51.10602427337129",
+        "longitude" : "-114.0213775634766"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "c022e9",
+    "callsign"  : "DCM2092",
+    "nnumber"   : "C-FNFS",
+    "departure" :
+    {
+      "airport"             : "CYVR",
+      "time"                : "2019-12-29 21:32:45+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "26000.0",
+        "latitude"  : "49.88882291114936",
+        "longitude" : "-120.5401363888302"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "CYYC",
+      "time"                : "2019-12-29 22:38:35+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "27000.0",
+        "latitude"  : "49.61700439453125",
+        "longitude" : "-119.5056634200247"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  }
+]

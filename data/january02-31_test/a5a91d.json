@@ -1,0 +1,111 @@
+[
+  {
+    "icao"      : "a5a91d",
+    "callsign"  : "N464GR",
+    "nnumber"   : "N464GR",
+    "departure" :
+    {
+      "airport"             : "KAPF",
+      "time"                : "2020-01-03 16:38:24+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.1525993347",
+        "longitude" : "-81.7752990723"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "45025.0",
+        "latitude"  : "33.26486206054688",
+        "longitude" : "-83.20995483398434"
+      },
+      "horizontal_distance" : "800481.1825042317",
+      "vertical_distance"   : "45017.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-03 16:51:47+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "47000.0",
+        "latitude"  : "36.49635314941406",
+        "longitude" : "-84.71609115600586"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a5a91d",
+    "callsign"  : "N464GR",
+    "nnumber"   : "N464GR",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-04 18:25:56+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "45025.0",
+        "latitude"  : "33.26486206054688",
+        "longitude" : "-83.20995483398434"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-04 20:58:50+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "47000.0",
+        "latitude"  : "36.49635314941406",
+        "longitude" : "-84.71609115600586"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a5a91d",
+    "callsign"  : "N464GR",
+    "nnumber"   : "N464GR",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-24 18:09:17+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "3549.9999999999995",
+        "latitude"  : "26.18687438964844",
+        "longitude" : "-81.72169811320755"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KAPF",
+      "time"                : "2020-01-24 18:45:46+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.1525993347",
+        "longitude" : "-81.7752990723"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "775.0",
+        "latitude"  : "44.947265625",
+        "longitude" : "-93.07355608258928"
+      },
+      "horizontal_distance" : "2317971.932397639",
+      "vertical_distance"   : "767.0"
+    }
+  }
+]

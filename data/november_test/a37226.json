@@ -1,0 +1,116 @@
+[
+  {
+    "icao"      : "a37226",
+    "callsign"  : "DCM3901",
+    "nnumber"   : "N321BF",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-11-06 18:53:48+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "7324.999999999999",
+        "latitude"  : "29.21104431152344",
+        "longitude" : "-95.03179110013521"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSGR",
+      "time"                : "2019-11-06 19:08:37+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "82.0",
+        "latitude"  : "29.622299194335998",
+        "longitude" : "-95.65650177001999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "100.0",
+        "latitude"  : "29.64115983348782",
+        "longitude" : "-95.65838982077207"
+      },
+      "horizontal_distance" : "2098.6113616499038",
+      "vertical_distance"   : "18.0"
+    }
+  },
+  {
+    "icao"      : "a37226",
+    "callsign"  : "DCM3901",
+    "nnumber"   : "N321BF",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-11-17 20:52:37+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "23000.000000000004",
+        "latitude"  : "30.3046875",
+        "longitude" : "-87.98960966222427"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDTS",
+      "time"                : "2019-11-17 21:09:55+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "23.0",
+        "latitude"  : "30.40010071",
+        "longitude" : "-86.47149658"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "0.0",
+        "latitude"  : "30.40147425764698",
+        "longitude" : "-86.47274322509766"
+      },
+      "horizontal_distance" : "193.7467760531811",
+      "vertical_distance"   : "-23.0"
+    }
+  },
+  {
+    "icao"      : "a37226",
+    "callsign"  : "DCM3901",
+    "nnumber"   : "N321BF",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-11-19 19:04:11+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "18725.0",
+        "latitude"  : "30.29172735699152",
+        "longitude" : "-87.99658813476559"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDTS",
+      "time"                : "2019-11-19 19:20:26+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "23.0",
+        "latitude"  : "30.40010071",
+        "longitude" : "-86.47149658"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-25.0",
+        "latitude"  : "30.3976104219081",
+        "longitude" : "-86.46948852539059"
+      },
+      "horizontal_distance" : "336.82768672105374",
+      "vertical_distance"   : "-48.0"
+    }
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "icao"      : "aa8551",
+    "callsign"  : "N777ZK",
+    "nnumber"   : "N777ZK",
+    "departure" :
+    {
+      "airport"             : "KPIE",
+      "time"                : "2019-11-06 13:40:22+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "11.0",
+        "latitude"  : "27.91020012",
+        "longitude" : "-82.68740082"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "8825.0",
+        "latitude"  : "26.27031229310116",
+        "longitude" : "-80.19839947040266"
+      },
+      "horizontal_distance" : "306499.9859106667",
+      "vertical_distance"   : "8814.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KFLL",
+      "time"                : "2019-11-06 14:25:57+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "26.072599",
+        "longitude" : "-80.152702"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "8925.0",
+        "latitude"  : "26.260210457494697",
+        "longitude" : "-80.38083589993991"
+      },
+      "horizontal_distance" : "30858.430594073834",
+      "vertical_distance"   : "8916.0"
+    }
+  },
+  {
+    "icao"      : "aa8551",
+    "callsign"  : "DCM110",
+    "nnumber"   : "N777ZK",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-11-11 21:04:39+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "8825.0",
+        "latitude"  : "26.27031229310116",
+        "longitude" : "-80.19839947040266"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSPG",
+      "time"                : "2019-11-11 21:42:57+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "7.0",
+        "latitude"  : "27.7651",
+        "longitude" : "-82.626999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "8925.0",
+        "latitude"  : "26.260210457494697",
+        "longitude" : "-80.38083589993991"
+      },
+      "horizontal_distance" : "278371.35620989074",
+      "vertical_distance"   : "8918.0"
+    }
+  }
+]

@@ -13,9 +13,9 @@ import json
 #aircraft.download_opensky()
 
 callsigns = ['FFL', 'DCM']
-month = 'feb_test'
-start = "2020-02-01"
-end = "2020-02-29"
+month = 'november_test'
+start = "2019-11-01"
+end = "2019-11-30"
 output_path = '../data/'+month+'/'
 
 

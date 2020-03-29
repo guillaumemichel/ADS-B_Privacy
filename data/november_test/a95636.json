@@ -1,0 +1,45 @@
+[
+  {
+    "icao"      : "a95636",
+    "callsign"  : "DCM3028",
+    "nnumber"   : "N700SZ",
+    "departure" :
+    {
+      "airport"             : "KAHN",
+      "time"                : "2019-11-13 22:36:16+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "808.0",
+        "latitude"  : "33.94860076904297",
+        "longitude" : "-83.32630157470703"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "3000.0",
+        "latitude"  : "33.97535938327595",
+        "longitude" : "-83.89909744262695"
+      },
+      "horizontal_distance" : "53024.25545829937",
+      "vertical_distance"   : "2192.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KPDK",
+      "time"                : "2019-11-13 22:47:21+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1003.0",
+        "latitude"  : "33.8755989075",
+        "longitude" : "-84.3020019531"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "31600.0",
+        "latitude"  : "33.866226196289055",
+        "longitude" : "-84.22859036192601"
+      },
+      "horizontal_distance" : "6871.456194317837",
+      "vertical_distance"   : "30597.0"
+    }
+  }
+]

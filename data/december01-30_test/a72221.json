@@ -1,0 +1,149 @@
+[
+  {
+    "icao"      : "a72221",
+    "callsign"  : "DCM6123",
+    "nnumber"   : "N559PB",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-12-05 19:21:53+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "13600.000000000004",
+        "latitude"  : "26.84628295898438",
+        "longitude" : "-81.57872038067512"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "FD83",
+      "time"                : "2019-12-05 19:41:28+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "65.0",
+        "latitude"  : "28.25860023498535",
+        "longitude" : "-81.38400268554688"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "11599.999999999998",
+        "latitude"  : "26.963940636586326",
+        "longitude" : "-81.60343463604265"
+      },
+      "horizontal_distance" : "145091.27089197663",
+      "vertical_distance"   : "11534.999999999998"
+    }
+  },
+  {
+    "icao"      : "a72221",
+    "callsign"  : "DCM6123",
+    "nnumber"   : "N559PB",
+    "departure" :
+    {
+      "airport"             : "KISM",
+      "time"                : "2019-12-05 20:17:09+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "82.0",
+        "latitude"  : "28.289800643899998",
+        "longitude" : "-81.43710327149999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2200.0000000000005",
+        "latitude"  : "28.2498779296875",
+        "longitude" : "-81.47144024188701"
+      },
+      "horizontal_distance" : "5561.056567919348",
+      "vertical_distance"   : "2118.0000000000005"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KRSW",
+      "time"                : "2019-12-05 20:44:18+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "30.0",
+        "latitude"  : "26.53619956970215",
+        "longitude" : "-81.75520324707031"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "6700.0",
+        "latitude"  : "26.46661376953125",
+        "longitude" : "-81.673451549602"
+      },
+      "horizontal_distance" : "11218.704263031503",
+      "vertical_distance"   : "6670.0"
+    }
+  },
+  {
+    "icao"      : "a72221",
+    "callsign"  : "DCM6123",
+    "nnumber"   : "N559PB",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-12-19 21:17:44+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "16800.0",
+        "latitude"  : "27.82722473144531",
+        "longitude" : "-81.60727446933963"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-12-19 21:36:07+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "16800.0",
+        "latitude"  : "27.99449157714844",
+        "longitude" : "-81.57485961914062"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a72221",
+    "callsign"  : "DCM6123",
+    "nnumber"   : "N559PB",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-12-28 19:31:59+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "22000.0",
+        "latitude"  : "27.79147338867188",
+        "longitude" : "-80.36105173938677"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-12-28 20:06:59+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "23000.000000000004",
+        "latitude"  : "29.83449127714513",
+        "longitude" : "-81.59325094784009"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  }
+]

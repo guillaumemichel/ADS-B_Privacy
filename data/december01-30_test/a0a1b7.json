@@ -1,0 +1,116 @@
+[
+  {
+    "icao"      : "a0a1b7",
+    "callsign"  : "DCM4041",
+    "nnumber"   : "N14QB",
+    "departure" :
+    {
+      "airport"             : "KTYS",
+      "time"                : "2019-12-10 21:39:19+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "981.0",
+        "latitude"  : "35.81100082",
+        "longitude" : "-83.99400329999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1075.0",
+        "latitude"  : "35.81492614746094",
+        "longitude" : "-83.98624420166016"
+      },
+      "horizontal_distance" : "825.4852079342043",
+      "vertical_distance"   : "94.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KPWA",
+      "time"                : "2019-12-11 00:06:06+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1300.0",
+        "latitude"  : "35.53419876",
+        "longitude" : "-97.64710236"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "110700.0",
+        "latitude"  : "35.45828247070312",
+        "longitude" : "-97.58886337280272"
+      },
+      "horizontal_distance" : "9943.247637469623",
+      "vertical_distance"   : "109400.0"
+    }
+  },
+  {
+    "icao"      : "a0a1b7",
+    "callsign"  : "DCM4041",
+    "nnumber"   : "N14QB",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-12-11 21:04:54+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "9800.0",
+        "latitude"  : "35.40521136784957",
+        "longitude" : "-97.3954935276762"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KTYS",
+      "time"                : "2019-12-11 22:44:42+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "981.0",
+        "latitude"  : "35.81100082",
+        "longitude" : "-83.99400329999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "500.0",
+        "latitude"  : "35.79510498046875",
+        "longitude" : "-84.01004791259766"
+      },
+      "horizontal_distance" : "2283.397639796272",
+      "vertical_distance"   : "-481.0"
+    }
+  },
+  {
+    "icao"      : "a0a1b7",
+    "callsign"  : "DCM4041",
+    "nnumber"   : "N14QB",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-12-18 15:31:27+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "12150.0",
+        "latitude"  : "35.552828513969814",
+        "longitude" : "-83.99912732712768"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-12-18 15:48:58+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "38625.0",
+        "latitude"  : "34.138571529065146",
+        "longitude" : "-82.85219192504883"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  }
+]

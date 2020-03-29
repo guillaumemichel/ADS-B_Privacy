@@ -1,0 +1,40 @@
+[
+  {
+    "icao"      : "a42a28",
+    "callsign"  : "DCM22",
+    "nnumber"   : "N368BL",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-12-29 02:02:54+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "11924.999999999998",
+        "latitude"  : "36.37801348152807",
+        "longitude" : "-92.71035052360372"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KAPA",
+      "time"                : "2019-12-29 03:59:24+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "5885.0",
+        "latitude"  : "39.57009888",
+        "longitude" : "-104.84899899999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "6150.0",
+        "latitude"  : "39.54656982421875",
+        "longitude" : "-104.84981371008828"
+      },
+      "horizontal_distance" : "2613.27880386963",
+      "vertical_distance"   : "265.0"
+    }
+  }
+]

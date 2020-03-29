@@ -1,0 +1,40 @@
+[
+  {
+    "icao"      : "ac859a",
+    "callsign"  : "DCM6657",
+    "nnumber"   : "N906BL",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-12-02 00:00:06+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "549.9999999999999",
+        "latitude"  : "40.86245727539062",
+        "longitude" : "-74.0584716796875"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KFTW",
+      "time"                : "2019-12-02 00:40:48+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "710.0",
+        "latitude"  : "32.819801",
+        "longitude" : "-97.36239599999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1149.9999999999998",
+        "latitude"  : "32.77156506554555",
+        "longitude" : "-97.3523758868782"
+      },
+      "horizontal_distance" : "5431.117473354393",
+      "vertical_distance"   : "439.9999999999998"
+    }
+  }
+]

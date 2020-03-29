@@ -1,0 +1,78 @@
+[
+  {
+    "icao"      : "a69cb5",
+    "callsign"  : "N525NH",
+    "nnumber"   : "N525NH",
+    "departure" :
+    {
+      "airport"             : "KSAT",
+      "time"                : "2020-01-12 20:47:15+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "809.0",
+        "latitude"  : "29.533700942993164",
+        "longitude" : "-98.46980285644531"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "19025.000000000004",
+        "latitude"  : "34.22552490234375",
+        "longitude" : "-95.01240010164223"
+      },
+      "horizontal_distance" : "614440.1755133178",
+      "vertical_distance"   : "18216.000000000004"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KLBR",
+      "time"                : "2020-01-12 21:30:15+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "440.0",
+        "latitude"  : "33.59320068",
+        "longitude" : "-95.06359863"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "11250.0",
+        "latitude"  : "37.26371635824947",
+        "longitude" : "-96.74548605213992"
+      },
+      "horizontal_distance" : "434913.20433582406",
+      "vertical_distance"   : "10810.0"
+    }
+  },
+  {
+    "icao"      : "a69cb5",
+    "callsign"  : "DCM4072",
+    "nnumber"   : "N525NH",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-25 16:33:59+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "19025.000000000004",
+        "latitude"  : "34.22552490234375",
+        "longitude" : "-95.01240010164223"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-25 17:08:54+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "11250.0",
+        "latitude"  : "37.26371635824947",
+        "longitude" : "-96.74548605213992"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  }
+]

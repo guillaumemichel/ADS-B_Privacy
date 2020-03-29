@@ -1,0 +1,106 @@
+[
+  {
+    "icao"      : "acad38",
+    "callsign"  : "DCM2342",
+    "nnumber"   : "N916CS",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-11-15 12:26:57+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "13400.0",
+        "latitude"  : "41.86358952926377",
+        "longitude" : "-83.54176366051963"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "17FA",
+      "time"                : "2019-11-15 14:51:22+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "18.0",
+        "latitude"  : "26.71339988708496",
+        "longitude" : "-81.535400390625"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "4875.0",
+        "latitude"  : "26.48478698730469",
+        "longitude" : "-81.58960306419516"
+      },
+      "horizontal_distance" : "25898.647576783744",
+      "vertical_distance"   : "4857.0"
+    }
+  },
+  {
+    "icao"      : "acad38",
+    "callsign"  : "DCM2342",
+    "nnumber"   : "N916CS",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-11-21 17:57:45+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "15700.000000000004",
+        "latitude"  : "41.71741550251589",
+        "longitude" : "-83.4283873092296"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-11-21 20:08:27+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "8400.0",
+        "latitude"  : "26.65557861328125",
+        "longitude" : "-81.48554288423979"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "acad38",
+    "callsign"  : "DCM2342",
+    "nnumber"   : "N916CS",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-11-29 14:12:57+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "17150.000000000004",
+        "latitude"  : "41.85125318624205",
+        "longitude" : "-83.34056055823037"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-11-29 16:23:20+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5300.0",
+        "latitude"  : "26.56594848632812",
+        "longitude" : "-81.40060712706368"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  }
+]

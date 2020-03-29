@@ -1,0 +1,78 @@
+[
+  {
+    "icao"      : "a45c20",
+    "callsign"  : "DCM2288",
+    "nnumber"   : "N380JP",
+    "departure" :
+    {
+      "airport"             : "83TE",
+      "time"                : "2019-11-27 20:15:37+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1208.0",
+        "latitude"  : "29.49690055847168",
+        "longitude" : "-99.493896484375"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "7150.0",
+        "latitude"  : "29.4935302734375",
+        "longitude" : "-99.42806537334737"
+      },
+      "horizontal_distance" : "6394.619797421972",
+      "vertical_distance"   : "5942.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-11-27 20:42:11+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "9975.0",
+        "latitude"  : "31.04928588867188",
+        "longitude" : "-97.63059728285843"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a45c20",
+    "callsign"  : "DCM2288",
+    "nnumber"   : "N380JP",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-11-28 21:24:46+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "9300.0",
+        "latitude"  : "31.617302328853285",
+        "longitude" : "-97.5003662109375"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSDL",
+      "time"                : "2019-11-29 00:56:06+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1510.0",
+        "latitude"  : "33.622898101806996",
+        "longitude" : "-111.91100311279"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "27999.999999999996",
+        "latitude"  : "31.75685119628906",
+        "longitude" : "-99.67260024126841"
+      },
+      "horizontal_distance" : "1165470.2418227114",
+      "vertical_distance"   : "26489.999999999996"
+    }
+  }
+]

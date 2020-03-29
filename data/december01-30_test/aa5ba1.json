@@ -1,0 +1,167 @@
+[
+  {
+    "icao"      : "aa5ba1",
+    "callsign"  : "DCM5600",
+    "nnumber"   : "N767AZ",
+    "departure" :
+    {
+      "airport"             : "KTUL",
+      "time"                : "2019-12-01 01:13:21+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "677.0",
+        "latitude"  : "36.19839859008789",
+        "longitude" : "-95.88809967041016"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1124.9999999999998",
+        "latitude"  : "36.19889831542969",
+        "longitude" : "-95.88214874267578"
+      },
+      "horizontal_distance" : "538.0735767766208",
+      "vertical_distance"   : "447.9999999999998"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSDL",
+      "time"                : "2019-12-01 04:22:28+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1510.0",
+        "latitude"  : "33.622898101806996",
+        "longitude" : "-111.91100311279"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1250.0",
+        "latitude"  : "33.62548828125",
+        "longitude" : "-111.9075230189732"
+      },
+      "horizontal_distance" : "432.2169202850595",
+      "vertical_distance"   : "-260.0"
+    }
+  },
+  {
+    "icao"      : "aa5ba1",
+    "callsign"  : "N767AZ",
+    "nnumber"   : "N767AZ",
+    "departure" :
+    {
+      "airport"             : "KSDL",
+      "time"                : "2019-12-07 22:15:06+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1510.0",
+        "latitude"  : "33.622898101806996",
+        "longitude" : "-111.91100311279"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSDL",
+      "time"                : "2019-12-07 22:30:43+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1510.0",
+        "latitude"  : "33.622898101806996",
+        "longitude" : "-111.91100311279"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "aa5ba1",
+    "callsign"  : "N767AZ",
+    "nnumber"   : "N767AZ",
+    "departure" :
+    {
+      "airport"             : "KSDL",
+      "time"                : "2019-12-15 17:05:03+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1510.0",
+        "latitude"  : "33.622898101806996",
+        "longitude" : "-111.91100311279"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-12-15 17:20:07+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "aa5ba1",
+    "callsign"  : "N767AZ",
+    "nnumber"   : "N767AZ",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-12-16 02:03:15+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KPHX",
+      "time"                : "2019-12-16 02:22:00+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1135.0",
+        "latitude"  : "33.43429946899414",
+        "longitude" : "-112.01200103759766"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "aa5ba1",
+    "callsign"  : "N767AZ",
+    "nnumber"   : "N767AZ",
+    "departure" :
+    {
+      "airport"             : "KPHX",
+      "time"                : "2019-12-28 02:12:03+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1135.0",
+        "latitude"  : "33.43429946899414",
+        "longitude" : "-112.01200103759766"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSDL",
+      "time"                : "2019-12-28 02:25:09+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1510.0",
+        "latitude"  : "33.622898101806996",
+        "longitude" : "-111.91100311279"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  }
+]

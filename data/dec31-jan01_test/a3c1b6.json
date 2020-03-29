@@ -1,0 +1,78 @@
+[
+  {
+    "icao"      : "a3c1b6",
+    "callsign"  : "DCM3411",
+    "nnumber"   : "N341HB",
+    "departure" :
+    {
+      "airport"             : "TX61",
+      "time"                : "2020-01-01 21:19:36+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "460.0",
+        "latitude"  : "30.3302001953125",
+        "longitude" : "-97.45890045166016"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "3350.0",
+        "latitude"  : "30.36099243164062",
+        "longitude" : "-97.51777200137865"
+      },
+      "horizontal_distance" : "6610.134801812326",
+      "vertical_distance"   : "2890.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-01 21:48:12+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "15224.999999999998",
+        "latitude"  : "28.25303649902344",
+        "longitude" : "-98.72008103590748"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a3c1b6",
+    "callsign"  : "DCM3411",
+    "nnumber"   : "N341HB",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-01 22:27:04+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "19925.0",
+        "latitude"  : "27.909742452330512",
+        "longitude" : "-98.68516775277942"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KEDC",
+      "time"                : "2020-01-01 22:56:12+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "620.0",
+        "latitude"  : "30.397493100000005",
+        "longitude" : "-97.5663935"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1625.0",
+        "latitude"  : "30.44288635253906",
+        "longitude" : "-97.62510411879595"
+      },
+      "horizontal_distance" : "7559.225050558086",
+      "vertical_distance"   : "1005.0"
+    }
+  }
+]

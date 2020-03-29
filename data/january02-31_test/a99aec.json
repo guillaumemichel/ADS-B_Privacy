@@ -1,0 +1,126 @@
+[
+  {
+    "icao"      : "a99aec",
+    "callsign"  : "DCM4240",
+    "nnumber"   : "N718MV",
+    "departure" :
+    {
+      "airport"             : "KPTK",
+      "time"                : "2020-01-22 17:30:25+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "980.0",
+        "latitude"  : "42.665500640869006",
+        "longitude" : "-83.420097351074"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1449.9999999999998",
+        "latitude"  : "42.663962154065146",
+        "longitude" : "-83.45489501953125"
+      },
+      "horizontal_distance" : "2857.928521944432",
+      "vertical_distance"   : "469.9999999999998"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSUS",
+      "time"                : "2020-01-22 18:55:27+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "463.0",
+        "latitude"  : "38.662101745605",
+        "longitude" : "-90.652000427246"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "35175.0",
+        "latitude"  : "38.65483688095868",
+        "longitude" : "-90.67694091796876"
+      },
+      "horizontal_distance" : "2315.8126594254063",
+      "vertical_distance"   : "34712.0"
+    }
+  },
+  {
+    "icao"      : "a99aec",
+    "callsign"  : "DCM4240",
+    "nnumber"   : "N718MV",
+    "departure" :
+    {
+      "airport"             : "KSUS",
+      "time"                : "2020-01-23 17:40:37+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "463.0",
+        "latitude"  : "38.662101745605",
+        "longitude" : "-90.652000427246"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "700.0",
+        "latitude"  : "38.66130065917969",
+        "longitude" : "-90.63780411430024"
+      },
+      "horizontal_distance" : "1238.8060584066739",
+      "vertical_distance"   : "237.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KPTK",
+      "time"                : "2020-01-23 18:48:48+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "980.0",
+        "latitude"  : "42.665500640869006",
+        "longitude" : "-83.420097351074"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1050.0",
+        "latitude"  : "42.665265616724035",
+        "longitude" : "-83.38891317678048"
+      },
+      "horizontal_distance" : "2556.6757436940325",
+      "vertical_distance"   : "70.0"
+    }
+  },
+  {
+    "icao"      : "a99aec",
+    "callsign"  : "DCM4240",
+    "nnumber"   : "N718MV",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-26 20:11:34+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "29275.0",
+        "latitude"  : "39.79568481445312",
+        "longitude" : "-106.5724580184273"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KPTK",
+      "time"                : "2020-01-26 22:45:45+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "980.0",
+        "latitude"  : "42.665500640869006",
+        "longitude" : "-83.420097351074"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1375.0",
+        "latitude"  : "42.66587079581568",
+        "longitude" : "-83.39274561682412"
+      },
+      "horizontal_distance" : "2242.7172672371325",
+      "vertical_distance"   : "395.0"
+    }
+  }
+]

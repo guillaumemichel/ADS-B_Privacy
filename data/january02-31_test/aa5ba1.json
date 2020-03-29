@@ -1,0 +1,126 @@
+[
+  {
+    "icao"      : "aa5ba1",
+    "callsign"  : "DCM5600",
+    "nnumber"   : "N767AZ",
+    "departure" :
+    {
+      "airport"             : "KSDL",
+      "time"                : "2020-01-13 22:54:03+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1510.0",
+        "latitude"  : "33.622898101806996",
+        "longitude" : "-111.91100311279"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1424.9999999999998",
+        "latitude"  : "33.62370377880032",
+        "longitude" : "-111.9095993041992"
+      },
+      "horizontal_distance" : "157.9661979455163",
+      "vertical_distance"   : "-85.00000000000023"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSDL",
+      "time"                : "2020-01-13 23:59:38+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1510.0",
+        "latitude"  : "33.622898101806996",
+        "longitude" : "-111.91100311279"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1325.0",
+        "latitude"  : "33.629837036132805",
+        "longitude" : "-111.9024782764668"
+      },
+      "horizontal_distance" : "1103.6375369339119",
+      "vertical_distance"   : "-185.0"
+    }
+  },
+  {
+    "icao"      : "aa5ba1",
+    "callsign"  : "DCM5600",
+    "nnumber"   : "N767AZ",
+    "departure" :
+    {
+      "airport"             : "KSDL",
+      "time"                : "2020-01-20 12:54:57+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1510.0",
+        "latitude"  : "33.622898101806996",
+        "longitude" : "-111.91100311279"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1700.0000000000005",
+        "latitude"  : "33.6273193359375",
+        "longitude" : "-111.90556117466521"
+      },
+      "horizontal_distance" : "703.8828371415422",
+      "vertical_distance"   : "190.00000000000045"
+    },
+    "arrival"   :
+    {
+      "airport"             : "00KS",
+      "time"                : "2020-01-20 15:22:45+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1100.0",
+        "latitude"  : "38.72779846191406",
+        "longitude" : "-94.93049621582031"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1375.0",
+        "latitude"  : "38.7731261172537",
+        "longitude" : "-94.89501953125"
+      },
+      "horizontal_distance" : "5901.738986949007",
+      "vertical_distance"   : "275.0"
+    }
+  },
+  {
+    "icao"      : "aa5ba1",
+    "callsign"  : "DCM5600",
+    "nnumber"   : "N767AZ",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-22 22:44:38+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "7250.0",
+        "latitude"  : "38.715087890625",
+        "longitude" : "-94.93781711744222"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSDL",
+      "time"                : "2020-01-23 01:43:43+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1510.0",
+        "latitude"  : "33.622898101806996",
+        "longitude" : "-111.91100311279"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "41300.0",
+        "latitude"  : "37.99598693847656",
+        "longitude" : "-98.55122018367685"
+      },
+      "horizontal_distance" : "1299734.262714924",
+      "vertical_distance"   : "39790.0"
+    }
+  }
+]

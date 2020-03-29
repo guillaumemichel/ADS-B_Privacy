@@ -1,0 +1,45 @@
+[
+  {
+    "icao"      : "a4ede7",
+    "callsign"  : "DCM2472",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KPDK",
+      "time"                : "2020-01-23 18:40:55+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1003.0",
+        "latitude"  : "33.8755989075",
+        "longitude" : "-84.3020019531"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "nan",
+        "latitude"  : "33.86920864299192",
+        "longitude" : "-84.30373191833495"
+      },
+      "horizontal_distance" : "726.6562247835412",
+      "vertical_distance"   : "nan"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KTYS",
+      "time"                : "2020-01-23 19:09:34+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "981.0",
+        "latitude"  : "35.81100082",
+        "longitude" : "-83.99400329999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "874.9999999999999",
+        "latitude"  : "35.79670715332031",
+        "longitude" : "-84.00821685791016"
+      },
+      "horizontal_distance" : "2041.01764740307",
+      "vertical_distance"   : "-106.00000000000011"
+    }
+  }
+]

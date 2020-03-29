@@ -1,0 +1,40 @@
+[
+  {
+    "icao"      : "ad8471",
+    "callsign"  : "N970JD",
+    "nnumber"   : "N970JD",
+    "departure" :
+    {
+      "airport"             : "KFTW",
+      "time"                : "2020-01-31 15:16:58+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "710.0",
+        "latitude"  : "32.819801",
+        "longitude" : "-97.36239599999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "19725.0",
+        "latitude"  : "30.28688049316406",
+        "longitude" : "-90.61216466567095"
+      },
+      "horizontal_distance" : "699560.8341775506",
+      "vertical_distance"   : "19015.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-31 15:39:58+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "39500.0",
+        "latitude"  : "31.02422681905455",
+        "longitude" : "-91.99352416992184"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  }
+]

@@ -1,0 +1,331 @@
+[
+  {
+    "icao"      : "a9a346",
+    "callsign"  : "N72XF",
+    "nnumber"   : "N72XF",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-03 10:21:54+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "600.0",
+        "latitude"  : "39.86036682128906",
+        "longitude" : "-75.27360335640287"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KPHL",
+      "time"                : "2020-01-03 13:05:29+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "36.0",
+        "latitude"  : "39.87189865112305",
+        "longitude" : "-75.24109649658203"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-50.0",
+        "latitude"  : "33.95315396583686",
+        "longitude" : "-118.392276763916"
+      },
+      "horizontal_distance" : "3863013.5303575234",
+      "vertical_distance"   : "-86.0"
+    }
+  },
+  {
+    "icao"      : "a9a346",
+    "callsign"  : "DCM5914",
+    "nnumber"   : "N72XF",
+    "departure" :
+    {
+      "airport"             : "KPHL",
+      "time"                : "2020-01-03 14:41:50+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "36.0",
+        "latitude"  : "39.87189865112305",
+        "longitude" : "-75.24109649658203"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "600.0",
+        "latitude"  : "39.86036682128906",
+        "longitude" : "-75.27360335640287"
+      },
+      "horizontal_distance" : "3061.871395130215",
+      "vertical_distance"   : "564.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KLAX",
+      "time"                : "2020-01-03 19:40:57+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "125.0",
+        "latitude"  : "33.94250107",
+        "longitude" : "-118.40799709999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-50.0",
+        "latitude"  : "33.95315396583686",
+        "longitude" : "-118.392276763916"
+      },
+      "horizontal_distance" : "1872.9846198249252",
+      "vertical_distance"   : "-175.0"
+    }
+  },
+  {
+    "icao"      : "a9a346",
+    "callsign"  : "DCM10",
+    "nnumber"   : "N72XF",
+    "departure" :
+    {
+      "airport"             : "KLAX",
+      "time"                : "2020-01-06 21:19:03+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "125.0",
+        "latitude"  : "33.94250107",
+        "longitude" : "-118.40799709999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "125.0",
+        "latitude"  : "33.936767578125",
+        "longitude" : "-118.41008400430479"
+      },
+      "horizontal_distance" : "664.5877761076868",
+      "vertical_distance"   : "0.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KPHL",
+      "time"                : "2020-01-07 01:14:52+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "36.0",
+        "latitude"  : "39.87189865112305",
+        "longitude" : "-75.24109649658203"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-125.0",
+        "latitude"  : "39.86658096313477",
+        "longitude" : "-75.23685289465863"
+      },
+      "horizontal_distance" : "693.1311161483152",
+      "vertical_distance"   : "-161.0"
+    }
+  },
+  {
+    "icao"      : "a9a346",
+    "callsign"  : "DCM1231",
+    "nnumber"   : "N72XF",
+    "departure" :
+    {
+      "airport"             : "KPHL",
+      "time"                : "2020-01-13 12:15:57+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "36.0",
+        "latitude"  : "39.87189865112305",
+        "longitude" : "-75.24109649658203"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "0.0",
+        "latitude"  : "39.87390033269332",
+        "longitude" : "-75.2298583984375"
+      },
+      "horizontal_distance" : "986.7954223382353",
+      "vertical_distance"   : "-36.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KMIA",
+      "time"                : "2020-01-13 14:29:28+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "25.79319953918457",
+        "longitude" : "-80.29060363769531"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "43000.0",
+        "latitude"  : "33.42105102539062",
+        "longitude" : "-77.71360473632812"
+      },
+      "horizontal_distance" : "881494.9137205472",
+      "vertical_distance"   : "42992.0"
+    }
+  },
+  {
+    "icao"      : "a9a346",
+    "callsign"  : "DCM1762",
+    "nnumber"   : "N72XF",
+    "departure" :
+    {
+      "airport"             : "KMIA",
+      "time"                : "2020-01-13 22:12:13+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "25.79319953918457",
+        "longitude" : "-80.29060363769531"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1149.9999999999998",
+        "latitude"  : "25.80572095967955",
+        "longitude" : "-80.25445326319277"
+      },
+      "horizontal_distance" : "3881.7419744977415",
+      "vertical_distance"   : "1141.9999999999998"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KPHL",
+      "time"                : "2020-01-14 00:24:28+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "36.0",
+        "latitude"  : "39.87189865112305",
+        "longitude" : "-75.24109649658203"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "40999.99999999999",
+        "latitude"  : "27.17417907714844",
+        "longitude" : "-78.95381711563974"
+      },
+      "horizontal_distance" : "1449598.3672551026",
+      "vertical_distance"   : "40963.99999999999"
+    }
+  },
+  {
+    "icao"      : "a9a346",
+    "callsign"  : "DCM7426",
+    "nnumber"   : "N72XF",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-20 19:00:07+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "16000.0",
+        "latitude"  : "27.4825791181144",
+        "longitude" : "-80.6212674654447"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KTEB",
+      "time"                : "2020-01-20 21:14:36+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "40.85010147089999",
+        "longitude" : "-74.060798645"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "40999.99999999999",
+        "latitude"  : "30.59989929199219",
+        "longitude" : "-81.4007209329044"
+      },
+      "horizontal_distance" : "1315775.7905381417",
+      "vertical_distance"   : "40990.99999999999"
+    }
+  },
+  {
+    "icao"      : "a9a346",
+    "callsign"  : "DCM9160",
+    "nnumber"   : "N72XF",
+    "departure" :
+    {
+      "airport"             : "KTEB",
+      "time"                : "2020-01-20 22:15:50+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "40.85010147089999",
+        "longitude" : "-74.060798645"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-50.0",
+        "latitude"  : "40.85353088378906",
+        "longitude" : "-74.05902099609375"
+      },
+      "horizontal_distance" : "409.27767180854875",
+      "vertical_distance"   : "-59.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KPHL",
+      "time"                : "2020-01-20 22:48:05+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "36.0",
+        "latitude"  : "39.87189865112305",
+        "longitude" : "-75.24109649658203"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "38925.0",
+        "latitude"  : "39.86672973632812",
+        "longitude" : "-75.23427051046622"
+      },
+      "horizontal_distance" : "818.805980138049",
+      "vertical_distance"   : "38889.0"
+    }
+  },
+  {
+    "icao"      : "a9a346",
+    "callsign"  : "DCM7299",
+    "nnumber"   : "N72XF",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-26 20:56:26+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "16425.0",
+        "latitude"  : "26.96250915527344",
+        "longitude" : "-80.37737576466684"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KPHL",
+      "time"                : "2020-01-26 22:50:58+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "36.0",
+        "latitude"  : "39.87189865112305",
+        "longitude" : "-75.24109649658203"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "40999.99999999999",
+        "latitude"  : "30.589428917836326",
+        "longitude" : "-81.40023193359377"
+      },
+      "horizontal_distance" : "1171803.638111913",
+      "vertical_distance"   : "40963.99999999999"
+    }
+  }
+]

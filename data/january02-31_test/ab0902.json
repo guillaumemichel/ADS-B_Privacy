@@ -1,0 +1,73 @@
+[
+  {
+    "icao"      : "ab0902",
+    "callsign"  : "N81WL",
+    "nnumber"   : "N81WL",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-10 15:10:09+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "9575.0",
+        "latitude"  : "30.67964715472722",
+        "longitude" : "-87.79449462890625"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "48FL",
+      "time"                : "2020-01-10 16:44:41+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "227.0",
+        "latitude"  : "30.814100265500002",
+        "longitude" : "-87.47499847410002"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "9650.0",
+        "latitude"  : "26.83602905273438",
+        "longitude" : "-80.88445699439859"
+      },
+      "horizontal_distance" : "779580.7510125499",
+      "vertical_distance"   : "9423.0"
+    }
+  },
+  {
+    "icao"      : "ab0902",
+    "callsign"  : "DCM7017",
+    "nnumber"   : "N81WL",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-22 13:09:06+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "14350.0",
+        "latitude"  : "30.74793928760593",
+        "longitude" : "-88.23636474609377"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-01-22 13:55:29+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "27999.999999999996",
+        "latitude"  : "31.7897318177304",
+        "longitude" : "-90.08110824896364"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  }
+]
