@@ -1,0 +1,40 @@
+[
+  {
+    "icao"      : "a5ec5c",
+    "callsign"  : "DCM7018",
+    "nnumber"   : "N481AM",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-17 13:59:12+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "30575.0",
+        "latitude"  : "31.31657409667969",
+        "longitude" : "-88.8079833984375"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KAPA",
+      "time"                : "2020-03-17 16:38:47+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "5885.0",
+        "latitude"  : "39.57009888",
+        "longitude" : "-104.84899899999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "43000.0",
+        "latitude"  : "36.1447402178231",
+        "longitude" : "-97.97747672872342"
+      },
+      "horizontal_distance" : "713966.9300379757",
+      "vertical_distance"   : "37115.0"
+    }
+  }
+]

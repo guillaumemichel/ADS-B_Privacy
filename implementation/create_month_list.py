@@ -4,7 +4,7 @@ from datetime import datetime
 from os import listdir
 from os.path import isfile, join
 
-months = ['november_test', 'december01-30_test', 'dec31-jan01_test', 'january02-31_test', 'feb_test']
+months = ['november_test', 'december01-30_test', 'dec31-jan01_test', 'january02-31_test', 'feb_test', 'march01-30']
 
 allFlights = Flights()
 

@@ -1,0 +1,111 @@
+[
+  {
+    "icao"      : "abb064",
+    "callsign"  : "N852SP",
+    "nnumber"   : "N852SP",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-01 16:13:44+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "475.0",
+        "latitude"  : "26.06570434570312",
+        "longitude" : "-80.13251538546581"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KFLL",
+      "time"                : "2020-03-01 16:23:52+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "26.072599",
+        "longitude" : "-80.152702"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "23325.0",
+        "latitude"  : "35.92924990896451",
+        "longitude" : "-84.69430477061167"
+      },
+      "horizontal_distance" : "1175320.5108757003",
+      "vertical_distance"   : "23316.0"
+    }
+  },
+  {
+    "icao"      : "abb064",
+    "callsign"  : "DCM3021",
+    "nnumber"   : "N852SP",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-09 14:27:06+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "26500.000000000004",
+        "latitude"  : "36.87249755859375",
+        "longitude" : "-87.58575439453125"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-09 15:46:28+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "6500.0",
+        "latitude"  : "35.86249399993379",
+        "longitude" : "-96.86312411693814"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "abb064",
+    "callsign"  : "DCM3021",
+    "nnumber"   : "N852SP",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-09 17:51:04+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "24125.0",
+        "latitude"  : "36.34744262695312",
+        "longitude" : "-97.29360580444336"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KMKC",
+      "time"                : "2020-03-09 18:33:19+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "759.0",
+        "latitude"  : "39.12319946289063",
+        "longitude" : "-94.5927963256836"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1149.9999999999998",
+        "latitude"  : "39.14694058693061",
+        "longitude" : "-94.5860595703125"
+      },
+      "horizontal_distance" : "2699.2871918443198",
+      "vertical_distance"   : "390.9999999999998"
+    }
+  }
+]

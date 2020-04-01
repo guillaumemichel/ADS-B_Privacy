@@ -1,0 +1,40 @@
+[
+  {
+    "icao"      : "a72711",
+    "callsign"  : "DCM6845",
+    "nnumber"   : "N560BP",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-26 18:27:14+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "17900.0",
+        "latitude"  : "34.86566162109375",
+        "longitude" : "-92.26806017817283"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KFTW",
+      "time"                : "2020-03-26 19:27:27+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "710.0",
+        "latitude"  : "32.819801",
+        "longitude" : "-97.36239599999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1500.0",
+        "latitude"  : "32.858524645789196",
+        "longitude" : "-97.3673419563138"
+      },
+      "horizontal_distance" : "4319.406212020018",
+      "vertical_distance"   : "790.0"
+    }
+  }
+]

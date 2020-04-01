@@ -1,0 +1,121 @@
+[
+  {
+    "icao"      : "a4ae8c",
+    "callsign"  : "DCM4000",
+    "nnumber"   : "N400VR",
+    "departure" :
+    {
+      "airport"             : "KDWH",
+      "time"                : "2020-03-05 20:09:48+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "152.0",
+        "latitude"  : "30.0618000031",
+        "longitude" : "-95.5528030396"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1500.0",
+        "latitude"  : "30.08885192871094",
+        "longitude" : "-95.56139777688419"
+      },
+      "horizontal_distance" : "3111.18884259189",
+      "vertical_distance"   : "1348.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KVNY",
+      "time"                : "2020-03-05 23:11:59+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "802.0",
+        "latitude"  : "34.209800720215",
+        "longitude" : "-118.48999786376999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "925.0",
+        "latitude"  : "34.23954333289195",
+        "longitude" : "-118.4932136535645"
+      },
+      "horizontal_distance" : "3312.521364967348",
+      "vertical_distance"   : "123.0"
+    }
+  },
+  {
+    "icao"      : "a4ae8c",
+    "callsign"  : "DCM2230",
+    "nnumber"   : "N400VR",
+    "departure" :
+    {
+      "airport"             : "KVNY",
+      "time"                : "2020-03-08 22:14:19+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "802.0",
+        "latitude"  : "34.209800720215",
+        "longitude" : "-118.48999786376999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1799.9999999999998",
+        "latitude"  : "34.188720703125",
+        "longitude" : "-118.4885577766263"
+      },
+      "horizontal_distance" : "2342.085851305408",
+      "vertical_distance"   : "997.9999999999998"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-09 01:34:38+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "25000.0",
+        "latitude"  : "32.69998168945312",
+        "longitude" : "-82.6490478515625"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a4ae8c",
+    "callsign"  : "DCM2230",
+    "nnumber"   : "N400VR",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-09 03:42:01+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "28375.0",
+        "latitude"  : "32.479110717773445",
+        "longitude" : "-82.36109619140628"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDWH",
+      "time"                : "2020-03-09 05:29:19+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "152.0",
+        "latitude"  : "30.0618000031",
+        "longitude" : "-95.5528030396"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "45000.0",
+        "latitude"  : "31.09014478780455",
+        "longitude" : "-92.29949340820309"
+      },
+      "horizontal_distance" : "332224.8931343619",
+      "vertical_distance"   : "44848.0"
+    }
+  }
+]

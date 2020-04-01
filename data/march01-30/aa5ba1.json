@@ -1,0 +1,96 @@
+[
+  {
+    "icao"      : "aa5ba1",
+    "callsign"  : "N767AZ",
+    "nnumber"   : "N767AZ",
+    "departure" :
+    {
+      "airport"             : "KSDL",
+      "time"                : "2020-03-12 23:04:29+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1510.0",
+        "latitude"  : "33.622898101806996",
+        "longitude" : "-111.91100311279"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KFLG",
+      "time"                : "2020-03-13 00:07:19+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "7014.0",
+        "latitude"  : "35.13850021",
+        "longitude" : "-111.6709976"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "aa5ba1",
+    "callsign"  : "N767AZ",
+    "nnumber"   : "N767AZ",
+    "departure" :
+    {
+      "airport"             : "KFLG",
+      "time"                : "2020-03-13 00:41:19+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "7014.0",
+        "latitude"  : "35.13850021",
+        "longitude" : "-111.6709976"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSDL",
+      "time"                : "2020-03-13 01:04:17+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1510.0",
+        "latitude"  : "33.622898101806996",
+        "longitude" : "-111.91100311279"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "aa5ba1",
+    "callsign"  : "N767AZ",
+    "nnumber"   : "N767AZ",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-27 01:09:38+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSDL",
+      "time"                : "2020-03-27 01:26:50+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1510.0",
+        "latitude"  : "33.622898101806996",
+        "longitude" : "-111.91100311279"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  }
+]

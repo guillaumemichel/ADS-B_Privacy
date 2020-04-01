@@ -1,0 +1,45 @@
+[
+  {
+    "icao"      : "a55274",
+    "callsign"  : "DCM4131",
+    "nnumber"   : "N442EE",
+    "departure" :
+    {
+      "airport"             : "KSPI",
+      "time"                : "2020-03-12 16:23:40+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "598.0",
+        "latitude"  : "39.84410095",
+        "longitude" : "-89.67790222"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2500.0",
+        "latitude"  : "39.83088684082031",
+        "longitude" : "-89.69530851944631"
+      },
+      "horizontal_distance" : "2091.040903235368",
+      "vertical_distance"   : "1902.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "44IS",
+      "time"                : "2020-03-12 16:39:44+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "700.0",
+        "latitude"  : "39.74480056762695",
+        "longitude" : "-91.07489776611328"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "4200.0",
+        "latitude"  : "39.76231384277344",
+        "longitude" : "-91.17183519446331"
+      },
+      "horizontal_distance" : "8532.076037133937",
+      "vertical_distance"   : "3500.0"
+    }
+  }
+]

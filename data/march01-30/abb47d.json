@@ -1,0 +1,641 @@
+[
+  {
+    "icao"      : "abb47d",
+    "callsign"  : "N853WM",
+    "nnumber"   : "N853WM",
+    "departure" :
+    {
+      "airport"             : "KTTA",
+      "time"                : "2020-03-04 14:22:14+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "246.0",
+        "latitude"  : "35.58369827",
+        "longitude" : "-79.10079956"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2150.0000000000005",
+        "latitude"  : "35.571635618048205",
+        "longitude" : "-79.11611354097404"
+      },
+      "horizontal_distance" : "1928.2154265567233",
+      "vertical_distance"   : "1904.0000000000005"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KRDU",
+      "time"                : "2020-03-04 14:35:21+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "435.0",
+        "latitude"  : "35.877601623535156",
+        "longitude" : "-78.7874984741211"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "22550.000000000004",
+        "latitude"  : "34.39791404594809",
+        "longitude" : "-79.20736312866211"
+      },
+      "horizontal_distance" : "168561.0861061582",
+      "vertical_distance"   : "22115.000000000004"
+    }
+  },
+  {
+    "icao"      : "abb47d",
+    "callsign"  : "N853WM",
+    "nnumber"   : "N853WM",
+    "departure" :
+    {
+      "airport"             : "KRDU",
+      "time"                : "2020-03-05 16:54:59+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "435.0",
+        "latitude"  : "35.877601623535156",
+        "longitude" : "-78.7874984741211"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2150.0000000000005",
+        "latitude"  : "35.571635618048205",
+        "longitude" : "-79.11611354097404"
+      },
+      "horizontal_distance" : "45127.03823072176",
+      "vertical_distance"   : "1715.0000000000005"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-05 17:23:51+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "22550.000000000004",
+        "latitude"  : "34.39791404594809",
+        "longitude" : "-79.20736312866211"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "abb47d",
+    "callsign"  : "N853WM",
+    "nnumber"   : "N853WM",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-06 01:01:32+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2150.0000000000005",
+        "latitude"  : "35.571635618048205",
+        "longitude" : "-79.11611354097404"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KRDU",
+      "time"                : "2020-03-06 01:24:06+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "435.0",
+        "latitude"  : "35.877601623535156",
+        "longitude" : "-78.7874984741211"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "22550.000000000004",
+        "latitude"  : "34.39791404594809",
+        "longitude" : "-79.20736312866211"
+      },
+      "horizontal_distance" : "168561.0861061582",
+      "vertical_distance"   : "22115.000000000004"
+    }
+  },
+  {
+    "icao"      : "abb47d",
+    "callsign"  : "N853WM",
+    "nnumber"   : "N853WM",
+    "departure" :
+    {
+      "airport"             : "KRDU",
+      "time"                : "2020-03-06 01:53:00+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "435.0",
+        "latitude"  : "35.877601623535156",
+        "longitude" : "-78.7874984741211"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2150.0000000000005",
+        "latitude"  : "35.571635618048205",
+        "longitude" : "-79.11611354097404"
+      },
+      "horizontal_distance" : "45127.03823072176",
+      "vertical_distance"   : "1715.0000000000005"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KTTA",
+      "time"                : "2020-03-06 02:12:05+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "246.0",
+        "latitude"  : "35.58369827",
+        "longitude" : "-79.10079956"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "22550.000000000004",
+        "latitude"  : "34.39791404594809",
+        "longitude" : "-79.20736312866211"
+      },
+      "horizontal_distance" : "131910.64207227374",
+      "vertical_distance"   : "22304.000000000004"
+    }
+  },
+  {
+    "icao"      : "abb47d",
+    "callsign"  : "DCM6810",
+    "nnumber"   : "N853WM",
+    "departure" :
+    {
+      "airport"             : "KTTA",
+      "time"                : "2020-03-07 13:50:04+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "246.0",
+        "latitude"  : "35.58369827",
+        "longitude" : "-79.10079956"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2150.0000000000005",
+        "latitude"  : "35.571635618048205",
+        "longitude" : "-79.11611354097404"
+      },
+      "horizontal_distance" : "1928.2154265567233",
+      "vertical_distance"   : "1904.0000000000005"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-07 15:28:53+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "22550.000000000004",
+        "latitude"  : "34.39791404594809",
+        "longitude" : "-79.20736312866211"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "abb47d",
+    "callsign"  : "DCM6810",
+    "nnumber"   : "N853WM",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-07 20:33:09+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "6875.0",
+        "latitude"  : "27.5537109375",
+        "longitude" : "-80.83624032827521"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KTTA",
+      "time"                : "2020-03-07 23:02:00+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "246.0",
+        "latitude"  : "35.58369827",
+        "longitude" : "-79.10079956"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "25000.0",
+        "latitude"  : "29.66769460904396",
+        "longitude" : "-81.34492761948529"
+      },
+      "horizontal_distance" : "688982.7475989624",
+      "vertical_distance"   : "24754.0"
+    }
+  },
+  {
+    "icao"      : "abb47d",
+    "callsign"  : "DCM6810",
+    "nnumber"   : "N853WM",
+    "departure" :
+    {
+      "airport"             : "KTTA",
+      "time"                : "2020-03-13 13:32:25+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "246.0",
+        "latitude"  : "35.58369827",
+        "longitude" : "-79.10079956"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1550.0",
+        "latitude"  : "35.55189746921345",
+        "longitude" : "-79.09963404878654"
+      },
+      "horizontal_distance" : "3529.9125554509833",
+      "vertical_distance"   : "1304.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-13 15:39:59+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "24000.000000000004",
+        "latitude"  : "34.50363417803231",
+        "longitude" : "-79.14922714233398"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "abb47d",
+    "callsign"  : "DCM6810",
+    "nnumber"   : "N853WM",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-13 20:24:12+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "13200.0",
+        "latitude"  : "27.70147705078125",
+        "longitude" : "-80.71712277970221"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KTTA",
+      "time"                : "2020-03-13 22:37:36+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "246.0",
+        "latitude"  : "35.58369827",
+        "longitude" : "-79.10079956"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "23000.000000000004",
+        "latitude"  : "29.5095566571769",
+        "longitude" : "-81.29618925206802"
+      },
+      "horizontal_distance" : "704395.8183532405",
+      "vertical_distance"   : "22754.000000000004"
+    }
+  },
+  {
+    "icao"      : "abb47d",
+    "callsign"  : "DCM6810",
+    "nnumber"   : "N853WM",
+    "departure" :
+    {
+      "airport"             : "KTTA",
+      "time"                : "2020-03-17 10:33:35+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "246.0",
+        "latitude"  : "35.58369827",
+        "longitude" : "-79.10079956"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1000.0",
+        "latitude"  : "35.56228637695312",
+        "longitude" : "-79.1059684753418"
+      },
+      "horizontal_distance" : "2421.4376394902943",
+      "vertical_distance"   : "754.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-17 13:01:57+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "24025.000000000004",
+        "latitude"  : "34.564590454101555",
+        "longitude" : "-79.44516551737883"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "abb47d",
+    "callsign"  : "DCM6810",
+    "nnumber"   : "N853WM",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-17 15:54:43+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "22000.0",
+        "latitude"  : "28.06429588188559",
+        "longitude" : "-80.22599164177389"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KTTA",
+      "time"                : "2020-03-17 19:28:35+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "246.0",
+        "latitude"  : "35.58369827",
+        "longitude" : "-79.10079956"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "23000.000000000004",
+        "latitude"  : "29.560158939684854",
+        "longitude" : "-81.56933952780332"
+      },
+      "horizontal_distance" : "706990.2775402078",
+      "vertical_distance"   : "22754.000000000004"
+    }
+  },
+  {
+    "icao"      : "abb47d",
+    "callsign"  : "DCM6810",
+    "nnumber"   : "N853WM",
+    "departure" :
+    {
+      "airport"             : "KTTA",
+      "time"                : "2020-03-19 13:03:56+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "246.0",
+        "latitude"  : "35.58369827",
+        "longitude" : "-79.10079956"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "650.0",
+        "latitude"  : "35.56649780273438",
+        "longitude" : "-79.10900115966797"
+      },
+      "horizontal_distance" : "2048.1032649590147",
+      "vertical_distance"   : "404.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-19 15:10:52+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "24000.000000000004",
+        "latitude"  : "34.30160522460938",
+        "longitude" : "-79.57571224290497"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "abb47d",
+    "callsign"  : "DCM6810",
+    "nnumber"   : "N853WM",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-19 18:24:02+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "23000.000000000004",
+        "latitude"  : "27.66687942763506",
+        "longitude" : "-80.40518540602459"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KRDU",
+      "time"                : "2020-03-19 20:45:29+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "435.0",
+        "latitude"  : "35.877601623535156",
+        "longitude" : "-78.7874984741211"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "23000.000000000004",
+        "latitude"  : "29.704424324682197",
+        "longitude" : "-81.25127455767463"
+      },
+      "horizontal_distance" : "722384.9469348809",
+      "vertical_distance"   : "22565.000000000004"
+    }
+  },
+  {
+    "icao"      : "abb47d",
+    "callsign"  : "N",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KTTA",
+      "time"                : "2020-03-27 15:02:46+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-27 15:18:59+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "abb47d",
+    "callsign"  : "N",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-27 16:15:24+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "SC36",
+      "time"                : "2020-03-27 17:12:19+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "abb47d",
+    "callsign"  : "N",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-27 18:05:52+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KTTA",
+      "time"                : "2020-03-27 18:48:54+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "abb47d",
+    "callsign"  : "N",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KTTA",
+      "time"                : "2020-03-29 10:38:28+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-29 12:51:45+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "abb47d",
+    "callsign"  : "N853WM",
+    "nnumber"   : "N853WM",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-29 14:41:13+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "600.0",
+        "latitude"  : "35.575127035884535",
+        "longitude" : "-79.10495189910239"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KIAD",
+      "time"                : "2020-03-29 17:45:11+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "312.0",
+        "latitude"  : "38.94449997",
+        "longitude" : "-77.45580292"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2175.0000000000005",
+        "latitude"  : "35.54095458984375",
+        "longitude" : "-79.08605575561523"
+      },
+      "horizontal_distance" : "404460.59360227105",
+      "vertical_distance"   : "1863.0000000000005"
+    }
+  },
+  {
+    "icao"      : "abb47d",
+    "callsign"  : "N853WM",
+    "nnumber"   : "N853WM",
+    "departure" :
+    {
+      "airport"             : "KIAD",
+      "time"                : "2020-03-29 18:37:43+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "312.0",
+        "latitude"  : "38.94449997",
+        "longitude" : "-77.45580292"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "600.0",
+        "latitude"  : "35.575127035884535",
+        "longitude" : "-79.10495189910239"
+      },
+      "horizontal_distance" : "401517.78465258994",
+      "vertical_distance"   : "288.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KTTA",
+      "time"                : "2020-03-29 19:58:51+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "246.0",
+        "latitude"  : "35.58369827",
+        "longitude" : "-79.10079956"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2175.0000000000005",
+        "latitude"  : "35.54095458984375",
+        "longitude" : "-79.08605575561523"
+      },
+      "horizontal_distance" : "4927.220219974128",
+      "vertical_distance"   : "1929.0000000000005"
+    }
+  }
+]

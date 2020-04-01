@@ -1,0 +1,111 @@
+[
+  {
+    "icao"      : "a174e5",
+    "callsign"  : "DCM6154",
+    "nnumber"   : "N193SE",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-04 12:50:51+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "13274.999999999998",
+        "latitude"  : "32.70927817134534",
+        "longitude" : "-94.89278365154655"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSUD",
+      "time"                : "2020-03-04 13:29:22+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "900.0",
+        "latitude"  : "35.789600372314",
+        "longitude" : "-96.65570068359399"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5250.0",
+        "latitude"  : "35.810681359242594",
+        "longitude" : "-96.66992836810174"
+      },
+      "horizontal_distance" : "2669.281769730748",
+      "vertical_distance"   : "4350.0"
+    }
+  },
+  {
+    "icao"      : "a174e5",
+    "callsign"  : "DCM6154",
+    "nnumber"   : "N193SE",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-04 14:48:35+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "30850.0",
+        "latitude"  : "35.09563898636123",
+        "longitude" : "-97.45628356933594"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-04 16:15:29+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "12624.999999999998",
+        "latitude"  : "28.145482984639827",
+        "longitude" : "-99.3142520680147"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a174e5",
+    "callsign"  : "DCM6154",
+    "nnumber"   : "N193SE",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-09 00:52:56+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "16325.000000000004",
+        "latitude"  : "35.86395263671875",
+        "longitude" : "-96.92499160766602"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KJXI",
+      "time"                : "2020-03-09 01:25:20+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "415.0",
+        "latitude"  : "32.69900131225586",
+        "longitude" : "-94.94889831542969"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "4925.0",
+        "latitude"  : "32.63507080078125",
+        "longitude" : "-94.865185546875"
+      },
+      "horizontal_distance" : "10579.54153294271",
+      "vertical_distance"   : "4510.0"
+    }
+  }
+]

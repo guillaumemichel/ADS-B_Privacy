@@ -1,0 +1,111 @@
+[
+  {
+    "icao"      : "a049ef",
+    "callsign"  : "DCM7014",
+    "nnumber"   : "N118AD",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-03 16:51:23+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "15825.0",
+        "latitude"  : "30.95718383789062",
+        "longitude" : "-87.78577019186581"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KTEB",
+      "time"                : "2020-03-03 18:52:02+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "40.85010147089999",
+        "longitude" : "-74.060798645"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "375.0",
+        "latitude"  : "40.85595703125",
+        "longitude" : "-74.05908203125"
+      },
+      "horizontal_distance" : "666.1817634376118",
+      "vertical_distance"   : "366.0"
+    }
+  },
+  {
+    "icao"      : "a049ef",
+    "callsign"  : "DCM7014",
+    "nnumber"   : "N118AD",
+    "departure" :
+    {
+      "airport"             : "KTEB",
+      "time"                : "2020-03-05 15:10:19+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "40.85010147089999",
+        "longitude" : "-74.060798645"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-25.0",
+        "latitude"  : "40.85084559553761",
+        "longitude" : "-74.05946211381394"
+      },
+      "horizontal_distance" : "139.7521045883246",
+      "vertical_distance"   : "-34.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-05 18:35:44+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "7350.0",
+        "latitude"  : "33.400039672851555",
+        "longitude" : "-85.8136047363281"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a049ef",
+    "callsign"  : "DCM7014",
+    "nnumber"   : "N118AD",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-06 17:14:33+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "17325.0",
+        "latitude"  : "30.954957089181672",
+        "longitude" : "-87.80262451171878"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-06 17:26:50+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "19000.000000000004",
+        "latitude"  : "32.14764404296875",
+        "longitude" : "-86.70333251953127"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  }
+]

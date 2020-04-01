@@ -1,0 +1,73 @@
+[
+  {
+    "icao"      : "a70b36",
+    "callsign"  : "DCM3627",
+    "nnumber"   : "N553GR",
+    "departure" :
+    {
+      "airport"             : "KBVO",
+      "time"                : "2020-03-06 20:21:35+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "711.0",
+        "latitude"  : "36.76250076",
+        "longitude" : "-96.01119995"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "3150.0",
+        "latitude"  : "36.813788979740465",
+        "longitude" : "-95.98082846783576"
+      },
+      "horizontal_distance" : "6304.265182566906",
+      "vertical_distance"   : "2439.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KROC",
+      "time"                : "2020-03-06 22:43:15+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "559.0",
+        "latitude"  : "43.118900299072266",
+        "longitude" : "-77.67240142822266"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "424.99999999999994",
+        "latitude"  : "43.118009405621024",
+        "longitude" : "-77.66029357910156"
+      },
+      "horizontal_distance" : "990.3451267996608",
+      "vertical_distance"   : "-134.00000000000006"
+    }
+  },
+  {
+    "icao"      : "a70b36",
+    "callsign"  : "N553GR",
+    "nnumber"   : "N553GR",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-15 21:44:39+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KROC",
+      "time"                : "2020-03-15 23:36:20+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "559.0",
+        "latitude"  : "43.118900299072266",
+        "longitude" : "-77.67240142822266"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  }
+]

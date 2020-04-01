@@ -1,0 +1,78 @@
+[
+  {
+    "icao"      : "acb0c8",
+    "callsign"  : "DCM148",
+    "nnumber"   : "N917BC",
+    "departure" :
+    {
+      "airport"             : "KFTW",
+      "time"                : "2020-03-11 15:52:42+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "710.0",
+        "latitude"  : "32.819801",
+        "longitude" : "-97.36239599999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2175.0000000000005",
+        "latitude"  : "32.79311875165519",
+        "longitude" : "-97.35450588926977"
+      },
+      "horizontal_distance" : "3049.9622185293615",
+      "vertical_distance"   : "1465.0000000000005"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-11 16:17:51+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2850.0000000000005",
+        "latitude"  : "32.3018995382018",
+        "longitude" : "-100.42720249720979"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "acb0c8",
+    "callsign"  : "DCM148",
+    "nnumber"   : "N917BC",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-11 22:21:44+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "29000.0",
+        "latitude"  : "32.23053495762711",
+        "longitude" : "-100.2001890844228"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KFTW",
+      "time"                : "2020-03-11 22:44:18+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "710.0",
+        "latitude"  : "32.819801",
+        "longitude" : "-97.36239599999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1325.0",
+        "latitude"  : "32.85177457130561",
+        "longitude" : "-97.36700564014666"
+      },
+      "horizontal_distance" : "3572.0861342979697",
+      "vertical_distance"   : "615.0"
+    }
+  }
+]

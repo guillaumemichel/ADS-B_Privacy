@@ -1,6 +1,6 @@
 from traffic.data import opensky
 
-callsign = "FFL"
+callsign = "DCM"
 
 def query(start_day, end_day):
     t_dcm = opensky.history(
@@ -14,8 +14,8 @@ def save(data, filename):
     data.to_parquet(filename,allow_truncated_timestamps=True)
 
 prefix = '../data/recordings/'
-start = "2019-10-02"
-end = "2019-10-31"
+start = "2020-03-01"
+end = "2020-03-30"
 
 if __name__ == "__main__":
     filename = prefix + start + "_" + end + "_"+callsign+"_recordings.parquet"

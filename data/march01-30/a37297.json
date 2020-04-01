@@ -1,0 +1,45 @@
+[
+  {
+    "icao"      : "a37297",
+    "callsign"  : "DCM512",
+    "nnumber"   : "N321FU",
+    "departure" :
+    {
+      "airport"             : "7FL6",
+      "time"                : "2020-03-04 11:35:35+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "24.0",
+        "latitude"  : "29.0802001953125",
+        "longitude" : "-81.04669952392578"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "200.0",
+        "latitude"  : "29.07504272460938",
+        "longitude" : "-81.05401259202222"
+      },
+      "horizontal_distance" : "913.1145046176043",
+      "vertical_distance"   : "176.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "7FL6",
+      "time"                : "2020-03-04 18:48:36+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "24.0",
+        "latitude"  : "29.0802001953125",
+        "longitude" : "-81.04669952392578"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "19400.0",
+        "latitude"  : "29.85960388183594",
+        "longitude" : "-81.46298922025241"
+      },
+      "horizontal_distance" : "95361.88592962865",
+      "vertical_distance"   : "19376.0"
+    }
+  }
+]

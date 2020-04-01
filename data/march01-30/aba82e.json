@@ -1,0 +1,202 @@
+[
+  {
+    "icao"      : "aba82e",
+    "callsign"  : "DCM6676",
+    "nnumber"   : "N850JP",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-18 18:14:08+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "10300.0",
+        "latitude"  : "31.50599592823093",
+        "longitude" : "-96.96038818359376"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-18 18:27:58+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "10825.0",
+        "latitude"  : "30.68980407714844",
+        "longitude" : "-94.64118508731615"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "aba82e",
+    "callsign"  : "DCM6676",
+    "nnumber"   : "N850JP",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-18 21:14:00+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "18000.000000000004",
+        "latitude"  : "31.9720458984375",
+        "longitude" : "-95.612255859375"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "9XS1",
+      "time"                : "2020-03-18 21:59:20+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "570.0",
+        "latitude"  : "31.83559989929199",
+        "longitude" : "-96.95279693603516"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "3075.0",
+        "latitude"  : "31.82780456542969",
+        "longitude" : "-97.06338500976562"
+      },
+      "horizontal_distance" : "10504.480292020866",
+      "vertical_distance"   : "2505.0"
+    }
+  },
+  {
+    "icao"      : "aba82e",
+    "callsign"  : "DCM6676",
+    "nnumber"   : "N850JP",
+    "departure" :
+    {
+      "airport"             : "XS74",
+      "time"                : "2020-03-20 12:07:12+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "424.0",
+        "latitude"  : "31.6082",
+        "longitude" : "-97.16280400000001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "4599.999999999999",
+        "latitude"  : "31.56153274794756",
+        "longitude" : "-97.16698608398437"
+      },
+      "horizontal_distance" : "5189.648145089862",
+      "vertical_distance"   : "4175.999999999999"
+    },
+    "arrival"   :
+    {
+      "airport"             : "14AR",
+      "time"                : "2020-03-20 12:58:12+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "221.0",
+        "latitude"  : "35.0527992249",
+        "longitude" : "-90.6750030518"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5949.999999999999",
+        "latitude"  : "35.003402709960945",
+        "longitude" : "-90.55929378587372"
+      },
+      "horizontal_distance" : "11896.629030642425",
+      "vertical_distance"   : "5728.999999999999"
+    }
+  },
+  {
+    "icao"      : "aba82e",
+    "callsign"  : "DCM6676",
+    "nnumber"   : "N850JP",
+    "departure" :
+    {
+      "airport"             : "XS74",
+      "time"                : "2020-03-23 14:04:55+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "424.0",
+        "latitude"  : "31.6082",
+        "longitude" : "-97.16280400000001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "6175.0",
+        "latitude"  : "31.59768676757812",
+        "longitude" : "-97.13395062614893"
+      },
+      "horizontal_distance" : "2975.9410107806357",
+      "vertical_distance"   : "5751.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KBMG",
+      "time"                : "2020-03-23 15:38:12+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "846.0",
+        "latitude"  : "39.14599990844727",
+        "longitude" : "-86.61669921875"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1650.0",
+        "latitude"  : "39.089960647841636",
+        "longitude" : "-86.605224609375"
+      },
+      "horizontal_distance" : "6299.998233652813",
+      "vertical_distance"   : "804.0"
+    }
+  },
+  {
+    "icao"      : "aba82e",
+    "callsign"  : "DCM6676",
+    "nnumber"   : "N850JP",
+    "departure" :
+    {
+      "airport"             : "KBMG",
+      "time"                : "2020-03-23 19:37:00+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "846.0",
+        "latitude"  : "39.14599990844727",
+        "longitude" : "-86.61669921875"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "7849.999999999999",
+        "latitude"  : "39.13462829589844",
+        "longitude" : "-86.75419683041781"
+      },
+      "horizontal_distance" : "11954.211002255424",
+      "vertical_distance"   : "7003.999999999999"
+    },
+    "arrival"   :
+    {
+      "airport"             : "TX03",
+      "time"                : "2020-03-23 21:33:50+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "716.0",
+        "latitude"  : "31.875200271606445",
+        "longitude" : "-97.06690216064452"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "4599.999999999999",
+        "latitude"  : "31.86744689941406",
+        "longitude" : "-97.04284057617184"
+      },
+      "horizontal_distance" : "2433.734439083507",
+      "vertical_distance"   : "3883.999999999999"
+    }
+  }
+]

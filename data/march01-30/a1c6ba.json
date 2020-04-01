@@ -1,0 +1,45 @@
+[
+  {
+    "icao"      : "a1c6ba",
+    "callsign"  : "DCM8670",
+    "nnumber"   : "N213XF",
+    "departure" :
+    {
+      "airport"             : "KPHL",
+      "time"                : "2020-03-02 14:30:20+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "36.0",
+        "latitude"  : "39.87189865112305",
+        "longitude" : "-75.24109649658203"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "400.0",
+        "latitude"  : "39.8641709149894",
+        "longitude" : "-75.2587890625"
+      },
+      "horizontal_distance" : "1740.0060741354903",
+      "vertical_distance"   : "364.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "K4B8",
+      "time"                : "2020-03-02 15:00:42+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "200.0",
+        "latitude"  : "41.69039916992188",
+        "longitude" : "-72.86479949951172"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5000.0",
+        "latitude"  : "41.72095347259004",
+        "longitude" : "-72.78614842614463"
+      },
+      "horizontal_distance" : "7373.585100948047",
+      "vertical_distance"   : "4800.0"
+    }
+  }
+]

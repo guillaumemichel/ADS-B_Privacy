@@ -1,0 +1,45 @@
+[
+  {
+    "icao"      : "ad3c61",
+    "callsign"  : "DCM6082",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KHYI",
+      "time"                : "2020-03-02 21:27:46+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "597.0",
+        "latitude"  : "29.8927",
+        "longitude" : "-97.862999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2100.0",
+        "latitude"  : "29.90084838867188",
+        "longitude" : "-97.8423368013822"
+      },
+      "horizontal_distance" : "2190.5712667823464",
+      "vertical_distance"   : "1503.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KEDC",
+      "time"                : "2020-03-02 21:43:51+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "620.0",
+        "latitude"  : "30.397493100000005",
+        "longitude" : "-97.5663935"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1600.0",
+        "latitude"  : "30.39721472788665",
+        "longitude" : "-97.59572753906248"
+      },
+      "horizontal_distance" : "2819.1575811964462",
+      "vertical_distance"   : "980.0"
+    }
+  }
+]

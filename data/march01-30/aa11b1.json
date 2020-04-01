@@ -1,0 +1,45 @@
+[
+  {
+    "icao"      : "aa11b1",
+    "callsign"  : "DCM6009",
+    "nnumber"   : "N748QS",
+    "departure" :
+    {
+      "airport"             : "KFLL",
+      "time"                : "2020-03-03 17:32:38+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "26.072599",
+        "longitude" : "-80.152702"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2525.0",
+        "latitude"  : "26.09307861328125",
+        "longitude" : "-80.08494251179245"
+      },
+      "horizontal_distance" : "7148.777085246868",
+      "vertical_distance"   : "2516.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "35FA",
+      "time"                : "2020-03-03 18:14:55+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "65.0",
+        "latitude"  : "29.46789932250977",
+        "longitude" : "-82.15879821777344"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "4375.0",
+        "latitude"  : "29.56278991699219",
+        "longitude" : "-82.17826256385217"
+      },
+      "horizontal_distance" : "10686.029069860366",
+      "vertical_distance"   : "4310.0"
+    }
+  }
+]

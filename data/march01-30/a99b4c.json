@@ -1,0 +1,88 @@
+[
+  {
+    "icao"      : "a99b4c",
+    "callsign"  : "DCM3520",
+    "nnumber"   : "N718RR",
+    "departure" :
+    {
+      "airport"             : "KFLL",
+      "time"                : "2020-03-12 15:43:05+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "26.072599",
+        "longitude" : "-80.152702"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2750.0",
+        "latitude"  : "26.0899658203125",
+        "longitude" : "-80.0871708707989"
+      },
+      "horizontal_distance" : "6832.798301458775",
+      "vertical_distance"   : "2741.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "II20",
+      "time"                : "2020-03-12 18:08:29+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "845.0",
+        "latitude"  : "40.67369842529297",
+        "longitude" : "-85.26329803466797"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "35000.0",
+        "latitude"  : "30.122603076999468",
+        "longitude" : "-81.7697021484375"
+      },
+      "horizontal_distance" : "1212591.2717366714",
+      "vertical_distance"   : "34155.0"
+    }
+  },
+  {
+    "icao"      : "a99b4c",
+    "callsign"  : "DCM3520",
+    "nnumber"   : "N718RR",
+    "departure" :
+    {
+      "airport"             : "KFWA",
+      "time"                : "2020-03-12 19:00:08+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "814.0",
+        "latitude"  : "40.97850037",
+        "longitude" : "-85.19509888"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2400.0",
+        "latitude"  : "40.96275329589844",
+        "longitude" : "-85.16357421875"
+      },
+      "horizontal_distance" : "3177.939044435304",
+      "vertical_distance"   : "1586.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KFLL",
+      "time"                : "2020-03-12 21:05:43+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "26.072599",
+        "longitude" : "-80.152702"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "400.0",
+        "latitude"  : "26.077073953919488",
+        "longitude" : "-80.19105764535755"
+      },
+      "horizontal_distance" : "3869.5347906682246",
+      "vertical_distance"   : "391.0"
+    }
+  }
+]

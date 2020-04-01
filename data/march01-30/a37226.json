@@ -1,0 +1,78 @@
+[
+  {
+    "icao"      : "a37226",
+    "callsign"  : "DCM3901",
+    "nnumber"   : "N321BF",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-08 21:01:48+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "15600.0",
+        "latitude"  : "30.53426451602224",
+        "longitude" : "-90.73075561523441"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHRT",
+      "time"                : "2020-03-08 21:43:13+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "38.0",
+        "latitude"  : "30.42779922485352",
+        "longitude" : "-86.68930053710938"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-475.0",
+        "latitude"  : "30.40119494422007",
+        "longitude" : "-86.47249603271484"
+      },
+      "horizontal_distance" : "21038.92904849329",
+      "vertical_distance"   : "-513.0"
+    }
+  },
+  {
+    "icao"      : "a37226",
+    "callsign"  : "DCM3901",
+    "nnumber"   : "N321BF",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-10 19:31:14+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "17300.0",
+        "latitude"  : "30.65414428710938",
+        "longitude" : "-90.63656077665442"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHRT",
+      "time"                : "2020-03-10 20:13:56+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "38.0",
+        "latitude"  : "30.42779922485352",
+        "longitude" : "-86.68930053710938"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-325.0",
+        "latitude"  : "30.39860916137695",
+        "longitude" : "-86.47017086253446"
+      },
+      "horizontal_distance" : "21302.08760034658",
+      "vertical_distance"   : "-363.0"
+    }
+  }
+]

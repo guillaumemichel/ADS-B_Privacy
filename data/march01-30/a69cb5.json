@@ -1,0 +1,40 @@
+[
+  {
+    "icao"      : "a69cb5",
+    "callsign"  : "DCM4072",
+    "nnumber"   : "N525NH",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-09 14:43:18+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "17200.0",
+        "latitude"  : "33.91837944418697",
+        "longitude" : "-95.16180038452148"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHND",
+      "time"                : "2020-03-09 17:55:38+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "2492.0",
+        "latitude"  : "35.9728012085",
+        "longitude" : "-115.134002686"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2200.0000000000005",
+        "latitude"  : "35.9765625",
+        "longitude" : "-115.1354026794434"
+      },
+      "horizontal_distance" : "436.0305875638926",
+      "vertical_distance"   : "-291.99999999999955"
+    }
+  }
+]

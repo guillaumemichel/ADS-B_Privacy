@@ -1,0 +1,35 @@
+[
+  {
+    "icao"      : "3ce02b",
+    "callsign"  : "DCMET",
+    "nnumber"   : "D-CMET",
+    "departure" :
+    {
+      "airport"             : "EDMO",
+      "time"                : "2020-03-18 13:57:34+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1925.0",
+        "latitude"  : "48.08940124511719",
+        "longitude" : "11.29380798339844"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "EDMO",
+      "time"                : "2020-03-18 14:41:14+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1749.9999999999998",
+        "latitude"  : "48.06914248708951",
+        "longitude" : "11.266268216646631"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  }
+]

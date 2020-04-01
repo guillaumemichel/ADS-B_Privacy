@@ -1,0 +1,73 @@
+[
+  {
+    "icao"      : "aa698a",
+    "callsign"  : "DCM2079",
+    "nnumber"   : "N770FF",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-11 07:46:34+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "40000.0",
+        "latitude"  : "24.96000645524364",
+        "longitude" : "-96.02118150243216"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-11 08:18:51+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "13600.000000000004",
+        "latitude"  : "27.14535470736229",
+        "longitude" : "-99.03614924504204"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "aa698a",
+    "callsign"  : "DCM2079",
+    "nnumber"   : "N770FF",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-11 09:24:01+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "17475.0",
+        "latitude"  : "27.97036743164062",
+        "longitude" : "-99.71730158879204"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KLAS",
+      "time"                : "2020-03-11 11:55:26+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "2181.0",
+        "latitude"  : "36.08010101",
+        "longitude" : "-115.15200039999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2000.0",
+        "latitude"  : "36.0736083984375",
+        "longitude" : "-115.1414108276367"
+      },
+      "horizontal_distance" : "1195.3546112107724",
+      "vertical_distance"   : "-181.0"
+    }
+  }
+]

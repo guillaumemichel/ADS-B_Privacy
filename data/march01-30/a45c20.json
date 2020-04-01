@@ -1,0 +1,111 @@
+[
+  {
+    "icao"      : "a45c20",
+    "callsign"  : "DCM2288",
+    "nnumber"   : "N380JP",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-16 12:53:24+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "11975.0",
+        "latitude"  : "31.23171014300847",
+        "longitude" : "-97.45015869140622"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "4TS8",
+      "time"                : "2020-03-16 13:32:06+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1089.0",
+        "latitude"  : "29.375",
+        "longitude" : "-99.34200286865234"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "18025.0",
+        "latitude"  : "31.0078125",
+        "longitude" : "-97.67847397748163"
+      },
+      "horizontal_distance" : "241708.67830798845",
+      "vertical_distance"   : "16936.0"
+    }
+  },
+  {
+    "icao"      : "a45c20",
+    "callsign"  : "DCM2288",
+    "nnumber"   : "N380JP",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-16 15:35:23+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "8975.0",
+        "latitude"  : "29.34031677246094",
+        "longitude" : "-99.51981177696814"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-16 16:46:29+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "27999.999999999996",
+        "latitude"  : "33.358542232190146",
+        "longitude" : "-94.22244947783798"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a45c20",
+    "callsign"  : "DCM2288",
+    "nnumber"   : "N380JP",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-16 19:49:05+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "13075.0",
+        "latitude"  : "34.600112915039055",
+        "longitude" : "-92.5445681202168"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "TX45",
+      "time"                : "2020-03-16 21:02:57+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "260.0",
+        "latitude"  : "31.76679992675781",
+        "longitude" : "-97.12940216064452"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "26000.0",
+        "latitude"  : "34.049789428710945",
+        "longitude" : "-93.41523462412306"
+      },
+      "horizontal_distance" : "429866.04970854236",
+      "vertical_distance"   : "25740.0"
+    }
+  }
+]

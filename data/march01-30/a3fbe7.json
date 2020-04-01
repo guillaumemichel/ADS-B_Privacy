@@ -1,0 +1,268 @@
+[
+  {
+    "icao"      : "a3fbe7",
+    "callsign"  : "DCM6333",
+    "nnumber"   : "N356JH",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-07 01:18:22+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "21974.999999999996",
+        "latitude"  : "34.76916814254502",
+        "longitude" : "-91.61327362060548"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KIAD",
+      "time"                : "2020-03-07 03:02:24+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "312.0",
+        "latitude"  : "38.94449997",
+        "longitude" : "-77.45580292"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "200.0",
+        "latitude"  : "38.9688720703125",
+        "longitude" : "-77.45418051014775"
+      },
+      "horizontal_distance" : "2709.312501364046",
+      "vertical_distance"   : "-112.0"
+    }
+  },
+  {
+    "icao"      : "a3fbe7",
+    "callsign"  : "DCM6333",
+    "nnumber"   : "N356JH",
+    "departure" :
+    {
+      "airport"             : "KIAD",
+      "time"                : "2020-03-07 13:00:14+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "312.0",
+        "latitude"  : "38.94449997",
+        "longitude" : "-77.45580292"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "nan",
+        "latitude"  : "38.97030975859044",
+        "longitude" : "-77.45465087890625"
+      },
+      "horizontal_distance" : "2867.004646120993",
+      "vertical_distance"   : "nan"
+    },
+    "arrival"   :
+    {
+      "airport"             : "SN59",
+      "time"                : "2020-03-07 15:11:52+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1060.0",
+        "latitude"  : "38.85279846191406",
+        "longitude" : "-94.91000366210938"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "925.0",
+        "latitude"  : "38.84709762314618",
+        "longitude" : "-94.8917236328125"
+      },
+      "horizontal_distance" : "1708.4151037338609",
+      "vertical_distance"   : "-135.0"
+    }
+  },
+  {
+    "icao"      : "a3fbe7",
+    "callsign"  : "DCM6333",
+    "nnumber"   : "N356JH",
+    "departure" :
+    {
+      "airport"             : "KIXD",
+      "time"                : "2020-03-07 20:29:08+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1087.0",
+        "latitude"  : "38.830898284899995",
+        "longitude" : "-94.890296936"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2250.0000000000005",
+        "latitude"  : "38.80645751953125",
+        "longitude" : "-94.88587089206864"
+      },
+      "horizontal_distance" : "2740.312247401068",
+      "vertical_distance"   : "1163.0000000000005"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KIAD",
+      "time"                : "2020-03-07 22:25:25+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "312.0",
+        "latitude"  : "38.94449997",
+        "longitude" : "-77.45580292"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-175.0",
+        "latitude"  : "38.9688720703125",
+        "longitude" : "-77.45418051014775"
+      },
+      "horizontal_distance" : "2709.312501364046",
+      "vertical_distance"   : "-487.0"
+    }
+  },
+  {
+    "icao"      : "a3fbe7",
+    "callsign"  : "DCM6333",
+    "nnumber"   : "N356JH",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-09 14:04:46+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "11200.0",
+        "latitude"  : "34.58314540022511",
+        "longitude" : "-92.1196746826172"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-09 14:22:12+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "10800.0",
+        "latitude"  : "32.879562377929695",
+        "longitude" : "-90.49757080078123"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a3fbe7",
+    "callsign"  : "DCM6333",
+    "nnumber"   : "N356JH",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-09 15:19:00+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "22000.0",
+        "latitude"  : "32.63642391916049",
+        "longitude" : "-90.4675915776467"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "5AR3",
+      "time"                : "2020-03-09 15:36:11+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "200.0",
+        "latitude"  : "34.350101",
+        "longitude" : "-91.783501"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5600.0",
+        "latitude"  : "34.424423217773445",
+        "longitude" : "-91.79951570471941"
+      },
+      "horizontal_distance" : "8375.030555044841",
+      "vertical_distance"   : "5400.0"
+    }
+  },
+  {
+    "icao"      : "a3fbe7",
+    "callsign"  : "DCM6333",
+    "nnumber"   : "N356JH",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-09 19:32:21+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "17450.0",
+        "latitude"  : "35.07376098632812",
+        "longitude" : "-92.33162393375318"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-09 20:32:25+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "12224.999999999998",
+        "latitude"  : "43.03028869628906",
+        "longitude" : "-92.47498978015987"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a3fbe7",
+    "callsign"  : "DCM6333",
+    "nnumber"   : "N356JH",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-30 12:07:24+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "17500.0",
+        "latitude"  : "34.89678955078125",
+        "longitude" : "-91.85820287587693"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "79OI",
+      "time"                : "2020-03-30 13:09:04+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1070.0",
+        "latitude"  : "39.817299",
+        "longitude" : "-83.755798"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1474.9999999999998",
+        "latitude"  : "39.86188985533633",
+        "longitude" : "-83.799560546875"
+      },
+      "horizontal_distance" : "6208.31721115409",
+      "vertical_distance"   : "404.9999999999998"
+    }
+  }
+]

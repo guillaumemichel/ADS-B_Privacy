@@ -1,0 +1,121 @@
+[
+  {
+    "icao"      : "a7fa26",
+    "callsign"  : "DCM613",
+    "nnumber"   : "N613CS",
+    "departure" :
+    {
+      "airport"             : "KYIP",
+      "time"                : "2020-03-06 21:09:48+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "716.0",
+        "latitude"  : "42.23789978",
+        "longitude" : "-83.53040314"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2700.0",
+        "latitude"  : "42.27166644597457",
+        "longitude" : "-83.50299214207848"
+      },
+      "horizontal_distance" : "4380.004071504542",
+      "vertical_distance"   : "1984.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "FA37",
+      "time"                : "2020-03-06 23:19:26+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "26.11680030822754",
+        "longitude" : "-81.7031021118164"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2800.0000000000005",
+        "latitude"  : "26.18018716068591",
+        "longitude" : "-81.48939866286055"
+      },
+      "horizontal_distance" : "22492.920627762553",
+      "vertical_distance"   : "2791.0000000000005"
+    }
+  },
+  {
+    "icao"      : "a7fa26",
+    "callsign"  : "DCM613",
+    "nnumber"   : "N613CS",
+    "departure" :
+    {
+      "airport"             : "FA37",
+      "time"                : "2020-03-07 14:21:27+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "26.11680030822754",
+        "longitude" : "-81.7031021118164"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "3725.0",
+        "latitude"  : "26.215706518140895",
+        "longitude" : "-81.66908851036658"
+      },
+      "horizontal_distance" : "11473.393514078354",
+      "vertical_distance"   : "3716.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-07 14:53:36+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "12549.999999999998",
+        "latitude"  : "29.57738326767744",
+        "longitude" : "-81.4300178079044"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a7fa26",
+    "callsign"  : "DCM613",
+    "nnumber"   : "N613CS",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-07 21:10:31+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "29024.999999999996",
+        "latitude"  : "30.02069091796875",
+        "longitude" : "-82.43047377642466"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "FA37",
+      "time"                : "2020-03-07 21:46:05+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "26.11680030822754",
+        "longitude" : "-81.7031021118164"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2800.0000000000005",
+        "latitude"  : "26.12104797363281",
+        "longitude" : "-81.68671805903597"
+      },
+      "horizontal_distance" : "1704.9137089775354",
+      "vertical_distance"   : "2791.0000000000005"
+    }
+  }
+]

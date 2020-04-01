@@ -1,0 +1,493 @@
+[
+  {
+    "icao"      : "a1897a",
+    "callsign"  : "DCM6345",
+    "nnumber"   : "N1989D",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-01 18:35:23+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "nan",
+        "latitude"  : "28.541223558328923",
+        "longitude" : "-80.94128776999082"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KIAD",
+      "time"                : "2020-03-01 20:24:59+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "312.0",
+        "latitude"  : "38.94449997",
+        "longitude" : "-77.45580292"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "37000.0",
+        "latitude"  : "30.29347229003906",
+        "longitude" : "-81.44574333639707"
+      },
+      "horizontal_distance" : "1026778.4041795855",
+      "vertical_distance"   : "36688.0"
+    }
+  },
+  {
+    "icao"      : "a1897a",
+    "callsign"  : "DCM6345",
+    "nnumber"   : "N1989D",
+    "departure" :
+    {
+      "airport"             : "KIAD",
+      "time"                : "2020-03-02 13:01:28+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "312.0",
+        "latitude"  : "38.94449997",
+        "longitude" : "-77.45580292"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "150.0",
+        "latitude"  : "38.95994024761652",
+        "longitude" : "-77.45947265625"
+      },
+      "horizontal_distance" : "1743.3640262641693",
+      "vertical_distance"   : "-162.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "K11V",
+      "time"                : "2020-03-02 16:30:36+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "4820.0",
+        "latitude"  : "40.3305015564",
+        "longitude" : "-104.60900116"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "6524.999999999999",
+        "latitude"  : "40.33090209960938",
+        "longitude" : "-104.6263427734375"
+      },
+      "horizontal_distance" : "1474.369725529529",
+      "vertical_distance"   : "1704.999999999999"
+    }
+  },
+  {
+    "icao"      : "a1897a",
+    "callsign"  : "DCM6345",
+    "nnumber"   : "N1989D",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-04 17:04:40+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "13049.999999999998",
+        "latitude"  : "40.40254211425781",
+        "longitude" : "-104.40911865234379"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-04 20:02:37+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "39025.0",
+        "latitude"  : "38.412672139830505",
+        "longitude" : "-100.19854736328121"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a1897a",
+    "callsign"  : "DCM6345",
+    "nnumber"   : "N1989D",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-04 23:29:11+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "10974.999999999998",
+        "latitude"  : "27.99810791015625",
+        "longitude" : "-80.53765517014722"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "K11V",
+      "time"                : "2020-03-05 03:22:42+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "4820.0",
+        "latitude"  : "40.3305015564",
+        "longitude" : "-104.60900116"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "35999.99999999999",
+        "latitude"  : "27.96816551079184",
+        "longitude" : "-85.5352424172794"
+      },
+      "horizontal_distance" : "2221922.5187874455",
+      "vertical_distance"   : "31179.999999999993"
+    }
+  },
+  {
+    "icao"      : "a1897a",
+    "callsign"  : "DCM6345",
+    "nnumber"   : "N1989D",
+    "departure" :
+    {
+      "airport"             : "CO48",
+      "time"                : "2020-03-05 23:20:44+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "4800.0",
+        "latitude"  : "40.51250076293945",
+        "longitude" : "-104.6520004272461"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "7224.999999999999",
+        "latitude"  : "40.496303752317274",
+        "longitude" : "-104.601391878995"
+      },
+      "horizontal_distance" : "4651.492037780495",
+      "vertical_distance"   : "2424.999999999999"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KBNA",
+      "time"                : "2020-03-06 01:21:25+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "599.0",
+        "latitude"  : "36.1245002746582",
+        "longitude" : "-86.6781997680664"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "549.9999999999999",
+        "latitude"  : "36.14048767089844",
+        "longitude" : "-86.67755126953125"
+      },
+      "horizontal_distance" : "1774.9449316177388",
+      "vertical_distance"   : "-49.000000000000114"
+    }
+  },
+  {
+    "icao"      : "a1897a",
+    "callsign"  : "DCM6345",
+    "nnumber"   : "N1989D",
+    "departure" :
+    {
+      "airport"             : "67CO",
+      "time"                : "2020-03-09 17:22:13+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "4745.0",
+        "latitude"  : "40.47150039672852",
+        "longitude" : "-104.81300354003906"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "8625.0",
+        "latitude"  : "40.46914672851562",
+        "longitude" : "-104.69781494140621"
+      },
+      "horizontal_distance" : "9772.076297698002",
+      "vertical_distance"   : "3880.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KLAS",
+      "time"                : "2020-03-09 18:59:15+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "2181.0",
+        "latitude"  : "36.08010101",
+        "longitude" : "-115.15200039999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "40000.0",
+        "latitude"  : "39.38538114903336",
+        "longitude" : "-107.96661376953121"
+      },
+      "horizontal_distance" : "731617.1980997319",
+      "vertical_distance"   : "37819.0"
+    }
+  },
+  {
+    "icao"      : "a1897a",
+    "callsign"  : "DCM6345",
+    "nnumber"   : "N1989D",
+    "departure" :
+    {
+      "airport"             : "KLAS",
+      "time"                : "2020-03-10 01:13:43+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "2181.0",
+        "latitude"  : "36.08010101",
+        "longitude" : "-115.15200039999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2000.0",
+        "latitude"  : "36.08949279785156",
+        "longitude" : "-115.15880584716801"
+      },
+      "horizontal_distance" : "1209.0135892981764",
+      "vertical_distance"   : "-181.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "67CO",
+      "time"                : "2020-03-10 02:32:04+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "4745.0",
+        "latitude"  : "40.47150039672852",
+        "longitude" : "-104.81300354003906"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "6350.0",
+        "latitude"  : "40.50132751464844",
+        "longitude" : "-104.70880126953121"
+      },
+      "horizontal_distance" : "9435.220744073988",
+      "vertical_distance"   : "1605.0"
+    }
+  },
+  {
+    "icao"      : "a1897a",
+    "callsign"  : "DCM6345",
+    "nnumber"   : "N1989D",
+    "departure" :
+    {
+      "airport"             : "CO48",
+      "time"                : "2020-03-20 21:36:23+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "4800.0",
+        "latitude"  : "40.51250076293945",
+        "longitude" : "-104.6520004272461"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "11174.999999999998",
+        "latitude"  : "40.52819203522245",
+        "longitude" : "-104.7114424272017"
+      },
+      "horizontal_distance" : "5330.092118577313",
+      "vertical_distance"   : "6374.999999999998"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDVT",
+      "time"                : "2020-03-20 23:08:41+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1478.0",
+        "latitude"  : "33.688301086399996",
+        "longitude" : "-112.083000183"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1250.0",
+        "latitude"  : "33.6881103515625",
+        "longitude" : "-112.0745039959343"
+      },
+      "horizontal_distance" : "788.0585968893791",
+      "vertical_distance"   : "-228.0"
+    }
+  },
+  {
+    "icao"      : "a1897a",
+    "callsign"  : "DCM6345",
+    "nnumber"   : "N1989D",
+    "departure" :
+    {
+      "airport"             : "KDVT",
+      "time"                : "2020-03-20 23:27:46+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1478.0",
+        "latitude"  : "33.688301086399996",
+        "longitude" : "-112.083000183"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1300.0",
+        "latitude"  : "33.687573449086344",
+        "longitude" : "-112.0833206176758"
+      },
+      "horizontal_distance" : "86.0023117720914",
+      "vertical_distance"   : "-178.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "K11V",
+      "time"                : "2020-03-21 00:40:49+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "4820.0",
+        "latitude"  : "40.3305015564",
+        "longitude" : "-104.60900116"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "6250.0",
+        "latitude"  : "40.31034851074219",
+        "longitude" : "-104.625"
+      },
+      "horizontal_distance" : "2618.5564926689067",
+      "vertical_distance"   : "1430.0"
+    }
+  },
+  {
+    "icao"      : "a1897a",
+    "callsign"  : "DCM6345",
+    "nnumber"   : "N1989D",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-28 14:01:05+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "10925.0",
+        "latitude"  : "40.41792297363281",
+        "longitude" : "-104.4993896484375"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KIAD",
+      "time"                : "2020-03-28 19:10:18+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "312.0",
+        "latitude"  : "38.94449997",
+        "longitude" : "-77.45580292"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "37000.0",
+        "latitude"  : "38.362060546875",
+        "longitude" : "-100.2798137258976"
+      },
+      "horizontal_distance" : "1982633.4320660853",
+      "vertical_distance"   : "36688.0"
+    }
+  },
+  {
+    "icao"      : "a1897a",
+    "callsign"  : "DCM6345",
+    "nnumber"   : "N1989D",
+    "departure" :
+    {
+      "airport"             : "67CO",
+      "time"                : "2020-03-30 16:05:55+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "4745.0",
+        "latitude"  : "40.47150039672852",
+        "longitude" : "-104.81300354003906"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "9924.999999999998",
+        "latitude"  : "40.42847714181674",
+        "longitude" : "-104.7429656982422"
+      },
+      "horizontal_distance" : "7623.889710639274",
+      "vertical_distance"   : "5179.999999999998"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDVT",
+      "time"                : "2020-03-30 17:30:18+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1478.0",
+        "latitude"  : "33.688301086399996",
+        "longitude" : "-112.083000183"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1225.0",
+        "latitude"  : "33.6881103515625",
+        "longitude" : "-112.0744479432398"
+      },
+      "horizontal_distance" : "793.2539954327882",
+      "vertical_distance"   : "-253.0"
+    }
+  },
+  {
+    "icao"      : "a1897a",
+    "callsign"  : "DCM6345",
+    "nnumber"   : "N1989D",
+    "departure" :
+    {
+      "airport"             : "KDVT",
+      "time"                : "2020-03-30 18:03:11+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1478.0",
+        "latitude"  : "33.688301086399996",
+        "longitude" : "-112.083000183"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1525.0000000000005",
+        "latitude"  : "33.6869682699947",
+        "longitude" : "-112.09379196166991"
+      },
+      "horizontal_distance" : "1011.4919116699268",
+      "vertical_distance"   : "47.000000000000455"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KIAD",
+      "time"                : "2020-03-30 21:31:42+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "312.0",
+        "latitude"  : "38.94449997",
+        "longitude" : "-77.45580292"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "350.0",
+        "latitude"  : "38.9688835144043",
+        "longitude" : "-77.45344908341116"
+      },
+      "horizontal_distance" : "2714.608969147786",
+      "vertical_distance"   : "38.0"
+    }
+  }
+]

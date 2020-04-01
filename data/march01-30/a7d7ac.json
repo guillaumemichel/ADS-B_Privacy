@@ -1,0 +1,40 @@
+[
+  {
+    "icao"      : "a7d7ac",
+    "callsign"  : "DCM2241",
+    "nnumber"   : "N604SA",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-08 17:55:49+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "30724.999999999996",
+        "latitude"  : "18.52725219726562",
+        "longitude" : "-64.73997933523992"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KFXE",
+      "time"                : "2020-03-08 20:24:33+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "13.0",
+        "latitude"  : "26.1972999573",
+        "longitude" : "-80.1707000732"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "40000.0",
+        "latitude"  : "21.50005793167373",
+        "longitude" : "-70.34891764322913"
+      },
+      "horizontal_distance" : "1127150.14144448",
+      "vertical_distance"   : "39987.0"
+    }
+  }
+]

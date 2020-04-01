@@ -1,0 +1,40 @@
+[
+  {
+    "icao"      : "aae78b",
+    "callsign"  : "DCM2348",
+    "nnumber"   : "N801WC",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-09 14:27:14+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "16825.0",
+        "latitude"  : "39.0809326171875",
+        "longitude" : "-105.71325550908631"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KAPA",
+      "time"                : "2020-03-09 14:40:49+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "5885.0",
+        "latitude"  : "39.57009888",
+        "longitude" : "-104.84899899999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5949.999999999999",
+        "latitude"  : "39.54972839355469",
+        "longitude" : "-104.8499331266984"
+      },
+      "horizontal_distance" : "2263.0817583416297",
+      "vertical_distance"   : "64.99999999999909"
+    }
+  }
+]

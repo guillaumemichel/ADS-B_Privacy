@@ -1,0 +1,40 @@
+[
+  {
+    "icao"      : "a9c5cf",
+    "callsign"  : "DCM4172",
+    "nnumber"   : "N729JM",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-19 10:29:46+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "40999.99999999999",
+        "latitude"  : "34.053726196289055",
+        "longitude" : "-100.58157161790501"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHOU",
+      "time"                : "2020-03-19 11:30:55+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "46.0",
+        "latitude"  : "29.64539909",
+        "longitude" : "-95.27890015"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "375.0",
+        "latitude"  : "29.66043090820312",
+        "longitude" : "-95.29673062838042"
+      },
+      "horizontal_distance" : "2399.291497187534",
+      "vertical_distance"   : "329.0"
+    }
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "icao"      : "acad38",
+    "callsign"  : "DCM2342",
+    "nnumber"   : "N916CS",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-10 12:16:17+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "11325.0",
+        "latitude"  : "42.31929016113281",
+        "longitude" : "-83.68966536088425"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KTEB",
+      "time"                : "2020-03-10 13:24:44+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "40.85010147089999",
+        "longitude" : "-74.060798645"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-200.0",
+        "latitude"  : "40.86112976074219",
+        "longitude" : "-74.04913330078125"
+      },
+      "horizontal_distance" : "1570.788827298957",
+      "vertical_distance"   : "-209.0"
+    }
+  },
+  {
+    "icao"      : "acad38",
+    "callsign"  : "DCM2342",
+    "nnumber"   : "N916CS",
+    "departure" :
+    {
+      "airport"             : "KTEB",
+      "time"                : "2020-03-10 14:37:07+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "40.85010147089999",
+        "longitude" : "-74.060798645"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "600.0",
+        "latitude"  : "40.8411627300715",
+        "longitude" : "-74.07881303267044"
+      },
+      "horizontal_distance" : "1814.7329931277336",
+      "vertical_distance"   : "591.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KCLT",
+      "time"                : "2020-03-10 16:10:31+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "748.0",
+        "latitude"  : "35.2140007019043",
+        "longitude" : "-80.94309997558594"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1124.9999999999998",
+        "latitude"  : "35.265275340969275",
+        "longitude" : "-80.93961025806183"
+      },
+      "horizontal_distance" : "5697.524355647566",
+      "vertical_distance"   : "376.9999999999998"
+    }
+  },
+  {
+    "icao"      : "acad38",
+    "callsign"  : "DCM2342",
+    "nnumber"   : "N916CS",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-12 20:05:05+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "6600.0",
+        "latitude"  : "35.099349975585945",
+        "longitude" : "-80.87529396524235"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDTW",
+      "time"                : "2020-03-12 21:23:28+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "645.0",
+        "latitude"  : "42.212398529052734",
+        "longitude" : "-83.35340118408203"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "4399.999999999999",
+        "latitude"  : "42.26376342773438",
+        "longitude" : "-83.29596779563212"
+      },
+      "horizontal_distance" : "7417.970004166145",
+      "vertical_distance"   : "3754.999999999999"
+    }
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "icao"      : "ad9e03",
+    "callsign"  : "DCM2790",
+    "nnumber"   : "N977DT",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-09 18:32:23+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "39974.99999999999",
+        "latitude"  : "33.251953125",
+        "longitude" : "-104.47575073242191"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KLAS",
+      "time"                : "2020-03-09 20:25:05+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "2181.0",
+        "latitude"  : "36.08010101",
+        "longitude" : "-115.15200039999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2025.0",
+        "latitude"  : "36.09269714355469",
+        "longitude" : "-115.1604652404785"
+      },
+      "horizontal_distance" : "1592.0833721633603",
+      "vertical_distance"   : "-156.0"
+    }
+  }
+]

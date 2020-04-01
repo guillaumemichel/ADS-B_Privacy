@@ -1,0 +1,101 @@
+[
+  {
+    "icao"      : "ab0902",
+    "callsign"  : "DCM7017",
+    "nnumber"   : "N81WL",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-03 13:03:15+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "17025.0",
+        "latitude"  : "30.774148197497354",
+        "longitude" : "-87.5971252441406"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-03 13:21:57+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "16725.000000000004",
+        "latitude"  : "31.01641845703125",
+        "longitude" : "-85.00418270335477"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "ab0902",
+    "callsign"  : "DCM7017",
+    "nnumber"   : "N81WL",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-06 15:15:17+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "14624.999999999998",
+        "latitude"  : "30.98079358117055",
+        "longitude" : "-87.74428710937497"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-06 15:27:59+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "14075.0",
+        "latitude"  : "31.82180786132812",
+        "longitude" : "-86.94272460937502"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "ab0902",
+    "callsign"  : "DCM7017",
+    "nnumber"   : "N81WL",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-12 00:27:35+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "15874.999999999998",
+        "latitude"  : "31.75877380371094",
+        "longitude" : "-86.8026015337776"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-12 00:40:42+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "8075.0",
+        "latitude"  : "30.794677734375",
+        "longitude" : "-87.6038818359375"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  }
+]
