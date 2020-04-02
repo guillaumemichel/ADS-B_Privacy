@@ -1,5 +1,6 @@
 from flights import flightsFromFile
 from datetime import datetime
+from openpyxl.workbook import Workbook
 
 allFlights = flightsFromFile('../data/flight_lists/2019-11_2020-03.json')
 
@@ -136,3 +137,21 @@ for e in d:
 
 print(len(d))
 """
+
+# Write data to temporary workbook (to facilitate export)
+wb = Workbook()
+ws = wb.active
+
+i = 1
+for e in sorted(d):
+    if len(d[e])>1:
+        ws.cell(row=i, column=1).value = e
+        j = 2
+        for g in d[e]:
+            ws.cell(row=i, column=j).value = g
+            ws.cell(row=i+1, column=j).value = d[e][g]
+            j+=1
+
+        i+=2
+
+wb.save('../data/sheets/tmp.xlsx')
