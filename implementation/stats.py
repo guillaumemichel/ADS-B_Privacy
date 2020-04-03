@@ -83,6 +83,8 @@ print(icaos)
 # For each icao print all callsigns it is associated with and frequencies
 d = dict()
 for f in allFlights.elements:
+    if 'FFL' not in f.callsign and 'DCM' not in f.callsign:
+        continue
     if f.icao not in d:
         d[f.icao] = dict()
 
@@ -98,6 +100,35 @@ for e in d:
 print(len(d))
 """
 
+# For each icao print all N-Numbers it is associated with
+d = dict()
+for f in allFlights.elements:
+    if 'FFL' not in f.callsign and 'DCM' not in f.callsign:
+        continue
+
+    if f.callsign[0] == 'N':
+        if f.icao not in d:
+            d[f.icao] = dict()
+
+        if f.callsign not in d[f.icao]:
+            d[f.icao][f.callsign] = 0
+
+        d[f.icao][f.callsign]+=1
+    if f.nnumber is not None:
+        if f.icao not in d:
+            d[f.icao] = dict()
+
+        if f.callsign not in d[f.icao]:
+            d[f.icao][f.nnumber] = 0
+
+        d[f.icao][f.nnumber]+=1
+
+
+for e in d:
+    if len(d[e])>1:
+        print(e+' ',d[e])
+
+"""
 # For each callsign print all icaos it is associated with and frequencies
 d = dict()
 for f in allFlights.elements:
@@ -114,6 +145,7 @@ for f in allFlights.elements:
 for e in sorted(d):
     if len(d[e])>1:
         print(e+' ',d[e])
+"""
 
 """
 # For each icao print all FFL callsigns it is associated with and frequencies
