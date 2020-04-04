@@ -1,5 +1,3 @@
-#!/bin/python
-
 import sys
 from random import randint
 from math import pow
@@ -210,18 +208,23 @@ def icao_to_n(icao):
     return output + allchars[rem4-1]
 
 def print_help():
-    print('Help:')
+    print('Usage: python '+sys.argv[0]+' [icao / nnumber]')
+    print()
+    print('Convert an ICAO address to a N-Number (Tail Number) and reciprocally')
+    print('Only works for aircrafts registered in the United States')
+    print("US N-Numbers are alphanumerical, start with 'N', and are at most 6 character long")
+    print("US ICAO addresses are hexideciaml, start with 'a', and are at most 6 character long")
+    print()
+    print('Examples:\n  python '+sys.argv[0]+' N123AB\n  python '+sys.argv[0]+' abcdef')
     sys.exit()
 
 def invalid_parameter():
-    print("> Invalid parameter, N-Number should start with N..., Icao should start with a...")
+    print("> Invalid parameter\nN-Number should be in range N1-N99999\nICAO address should be in range a00001-adf7c7")
     sys.exit()
 
 if __name__ == "__main__":
     if len(sys.argv)-1 != 1:
-        print("Please give me a N-Number or Icao to translate")
         print_help()
-        sys.exit()
 
     val = sys.argv[1].upper()
 
@@ -236,6 +239,8 @@ if __name__ == "__main__":
             nnumber = icao_to_n(icao0)
             icao1 = n_to_icao(nnumber)
             ok = ok and icao0 == icao1
+            if not ok:
+                break
         if ok:
             print('All tests passed successfully')
         else:
