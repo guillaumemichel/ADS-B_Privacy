@@ -1,4 +1,5 @@
 from flights import flightsFromFile
+from convert import icao_to_n
 from datetime import datetime
 from openpyxl.workbook import Workbook
 
@@ -99,7 +100,7 @@ for e in d:
 
 print(len(d))
 """
-
+"""
 # For each icao print all N-Numbers it is associated with
 d = dict()
 for f in allFlights.elements:
@@ -127,7 +128,7 @@ for f in allFlights.elements:
 for e in d:
     if len(d[e])>1:
         print(e+' ',d[e])
-
+"""
 """
 # For each callsign print all icaos it is associated with and frequencies
 d = dict()
@@ -170,7 +171,44 @@ for e in d:
 print(len(d))
 """
 
-# Write data to temporary workbook (to facilitate export)
+
+# For each flight using N-Number, check if it correspond with its ICAO's conversion
+d = dict()
+for f in allFlights.elements:
+    #if f.nnumber[0]=='N' and f.nnumber != icao_to_n(f.icao):
+    if f.callsign is not None and len(f.callsign)>0 and f.callsign[0] == 'N' and f.callsign != icao_to_n(f.icao):
+        if f.icao not in d:
+            d[f.icao] = dict()
+
+        if f.callsign not in d[f.icao]:
+            d[f.icao][f.callsign] = 0
+
+        d[f.icao][f.callsign]+=1
+
+print(d)
+
+wb = Workbook()
+ws = wb.active
+
+i = 1
+for e in sorted(d):
+    if len(d[e])>1:
+        ws.cell(row=i, column=1).value = e
+        ws.cell(row=i, column=2).value = icao_to_n(e)
+        j = 3
+        for g in d[e]:
+            ws.cell(row=i, column=j).value = g
+            ws.cell(row=i+1, column=j).value = d[e][g]
+            j+=1
+
+        i+=2
+
+wb.save('../data/sheets/tmp.xlsx')
+
+
+
+"""
+# Write data (map(key0, map(key1, value))) to temporary workbook (to facilitate export)
 wb = Workbook()
 ws = wb.active
 
@@ -187,3 +225,4 @@ for e in sorted(d):
         i+=2
 
 wb.save('../data/sheets/tmp.xlsx')
+"""
