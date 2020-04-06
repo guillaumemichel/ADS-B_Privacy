@@ -222,6 +222,21 @@ def invalid_parameter():
     print("> Invalid parameter\nN-Number should be in range N1-N99999\nICAO address should be in range a00001-adf7c7")
     sys.exit()
 
+def valid(param):
+    if len(param)<1:
+        return False
+    param.upper()
+    if param[0]=='A':
+        nnumber = icao_to_n(param)
+        if nnumber is None:
+            return False
+        return param == n_to_icao(nnumber)
+    if param[0]=='N':
+        icao = n_to_icao(param)
+        if icao is None:
+            return False
+        return param == icao_to_n(icao)
+
 if __name__ == "__main__":
     if len(sys.argv)-1 != 1:
         print_help()
