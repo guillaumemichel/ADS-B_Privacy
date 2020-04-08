@@ -225,7 +225,7 @@ def invalid_parameter():
 def valid(param):
     if len(param)<1:
         return False
-    param.upper()
+    param = param.upper()
     if param[0]=='A':
         nnumber = icao_to_n(param)
         if nnumber is None:

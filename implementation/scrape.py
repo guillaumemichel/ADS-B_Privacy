@@ -1,13 +1,16 @@
 import requests
-from convert import valid
+from convert import valid, n_to_icao, icao_to_n
+import pickle
 import sys
 from os import listdir
 from os.path import isfile, join
 import urllib.request
 from bs4 import BeautifulSoup
 
-storage_path = "../data/faa_registrations/"
-cache = [f[:-5] for f in listdir(storage_path) if isfile(join(storage_path, f))]
+raw_storage_path = "../data/faa_registrations/raw/"
+raw_cache = [f[:-5] for f in listdir(raw_storage_path) if isfile(join(raw_storage_path, f))]
+filtered_storage_path = "../data/faa_registrations/filtered/"
+filtered_cache = [f[:-4] for f in listdir(filtered_storage_path) if isfile(join(filtered_storage_path, f))]
 
 fields = [  ('Registration', 'ctl00_content_lbNNumberTitle'),
             ('Type Reservation', 'ctl00_content_lbResTypeReg'),
@@ -53,68 +56,152 @@ fields = [  ('Registration', 'ctl00_content_lbNNumberTitle'),
             ('Exception Code', 'ctl00_content_Label26'),
         ]
 
-nnumber = 'N628CI'
+def print_dict(data, pos=0):
 
-if not valid(nnumber):
-    print('Invalid N-Number')
-    sys.exit()
+    # get longest key
+    maxi = 0
+    for e in data:
+        if len(e)>maxi:
+            maxi=len(e)
 
-if nnumber in cache:
-    f = open(storage_path+nnumber+'.html', 'r')
-    response = f.read()
-    f.close()
-else:
-    url = 'http://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt='+nnumber
-    response = requests.get(url).text
-    f = open(storage_path+nnumber+'.html', 'w')
-    f.write(response)
-    f.close()
+    # if longest key lenght is shorter than pos, use pos as value position
+    if maxi < pos:
+        maxi = pos
 
-soup = BeautifulSoup(response, "html.parser")
+    # print dictionary
+    for e in data:
+        print(e+' : '+' '*(maxi-len(e))+str(data[e]))
 
-# Record type
-data = dict()
-for (entry, id_) in fields:
-    t = soup.find(id=id_)
-    if t is not None:
-        data[entry]=t.text.strip()
+def save_dict(obj, name ):
+    with open(filtered_storage_path+ name + '.pkl', 'wb') as f:
+        pickle.dump(obj, f, pickle.HIGHEST_PROTOCOL)
 
-"""
-data['Registration'] = soup.find(id='ctl00_content_lbNNumberTitle').text.strip()
-data['Type Reservation'] = soup.find(id='ctl00_content_lbResTypeReg').text.strip()
-data['Mode S Code'] = soup.find(id='ctl00_content_lbResModeSCode').text.strip()
-data['Reserved Date'] = soup.find(id='ctl00_content_lbResACReserveDate').text.strip()
-data['Renewal Date'] = soup.find(id='ctl00_content_lbResACRenewalDate').text.strip()
-data['Purge Date'] = soup.find(id='ctl00_content_lbResACPurgeDate').text.strip()
-data['Pending Number Change'] = soup.find(id='ctl00_content_lbResNNumForChange').text.strip()
-data['Date Change Authorized'] = soup.find(id='ctl00_content_lbResDateChange').text.strip()
-data['Reserving Party Name'] = soup.find(id='ctl00_content_lbResACOwnerName').text.strip()
-data['Street'] = soup.find(id='ctl00_content_lbResACOwnerStreet').text.strip()
-data['City'] = soup.find(id='ctl00_content_lbResACOwnerCity').text.strip()
-data['State'] = soup.find(id='ctl00_content_lbResACOwnerState').text.strip()
-data['ZIP Code'] = soup.find(id='ctl00_content_lbResACOwnerZip').text.strip()
-data['County'] = soup.find(id='ctl00_content_lbResACOwnerCounty').text.strip()
-data['Country'] = soup.find(id='ctl00_content_lbResACOwnerCountry').text.strip()
-"""
-"""
-for e in soup.find_all('span'):
-    print(e)
-    print()
-"""
+def load_dict(name ):
+    with open(filtered_storage_path + name + '.pkl', 'rb') as f:
+        return pickle.load(f)
 
-# minimal lateral position for dictionary value
-pos = 0
+nnumber = 'N628CR'
 
-# get longest key
-maxi = 0
-for e in data:
-    if len(e)>maxi:
-        maxi=len(e)
+def scrape_individual(nnumber):
 
-# if longest key lenght is shorter than pos, use pos as value position
-if maxi < pos:
-    maxi = pos
+    # checking that the N-Number is correct
+    if not valid(nnumber):
+        print('Invalid N-Number')
+        sys.exit()
 
-# print dictionary
-for e in data:
-    print(e+' : '+' '*(maxi-len(e))+data[e])
+    if nnumber in filtered_cache:
+        return load_dict(nnumber)
+    elif nnumber in raw_cache:
+        f = open(raw_storage_path+nnumber+'.html', 'r')
+        response = f.read()
+        f.close()
+    else:
+        url = 'http://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt='+nnumber
+        response = requests.get(url).text
+        f = open(raw_storage_path+nnumber+'.html', 'w')
+        f.write(response)
+        f.close()
+
+    soup = BeautifulSoup(response, "html.parser")
+
+    # Record type
+    data = dict()
+    data['N-Number']=nnumber
+    for (entry, id_) in fields:
+        t = soup.find(id=id_)
+        if t is not None and len(t.text.strip()) > 0:
+            data[entry]=t.text.strip()
+
+    save_dict(data, nnumber)
+    return data
+
+def scrape_range(initial, length):
+    valid = True
+    if initial is None:
+        valid = False
+    initial = initial.upper()
+    if initial[0] == 'A': # icao
+        icao = initial
+    elif initial[0] == 'N': # nnumber
+        icao = n_to_icao(initial)
+    else:
+        valid = False
+
+    if icao is None:
+        valid = False
+
+    if not valid:
+        print('Invalid parameter "initial" passed to scrape_range()')
+        sys.exit()
+
+    print('Starting to scrape from '+icao_to_n(icao)+' to '+icao_to_n(hex(int(icao, base=16)+length-1)[2:]))
+
+    all_data = dict()
+    reg_type = dict()
+    for i in range(length):
+        icao = hex(int(icao, base=16)+1)[2:]
+        nnumber = icao_to_n(icao)
+        data = scrape_individual(nnumber)
+        all_data[nnumber] = data
+        if 'Registration' in data:
+            reg = data['Registration'][len(nnumber)+1:]
+            if 'Not Assigned' in reg:
+                reg = 'Not Assigned'
+            elif 'Assigned' in reg:
+                reg='Assigned'
+            elif 'Reserved' in reg:
+                reg = 'Reserved'
+            elif 'Deregistered' in reg:
+                reg = 'Deregistered'
+        else:
+            reg = 'Attention'
+
+        if reg == 'Reserved':
+            if reg not in reg_type:
+                reg_type[reg] = dict()
+            if data['Type Reservation'] not in reg_type[reg]:
+                reg_type[reg][data['Type Reservation']]=list()
+            if 'Reserving Party Name' in data:
+                reg_type[reg][data['Type Reservation']].append((nnumber,data['Reserving Party Name']=='SBS PROGRAM OFFICE'))
+            else:
+                reg_type[reg][data['Type Reservation']].append((nnumber,False))
+        else:
+            if reg not in reg_type:                
+                reg_type[reg] = list()
+            reg_type[reg].append(nnumber)
+
+        total = 60
+        perc = int(total * i / length)
+        print('|'+'█'*(perc)+' '*(total-perc-1)+'|'+' '+str(i+1)+'/'+str(length)+' '*5+nnumber,end='\r')
+
+    print('|'+'█'*(total)+'|'+' '+str(i+1)+'/'+str(length)+' '*5+'Done!',end='\n')
+    #print_dict(reg_type)
+
+    # printing array
+    counter = 0
+    for r in reg_type:
+        if r == 'Reserved':
+            c = 0
+            string = ""
+            for d in reg_type[r]:
+                string += "  " + d + " [" + str(len(reg_type[r][d])) + "] : "
+                for (e1,e2) in reg_type[r][d]:
+                    if e2:
+                        string += "\x1b[32m"+e1+"\x1b[0m"+ ", "
+                        counter += 1
+                    else:
+                        string += e1+ ", "
+                    c+=1
+                string = string[:-2]+'\n'
+            string = r + " ["+str(c)+"]:\n"+string[:-1]
+            print(string)
+        else:
+            string = r + " [" + str(len(reg_type[r])) + "] : "
+            for e in reg_type[r]:
+                string += e + ", "
+            string = string[:-2]
+            print(string)
+
+    print(counter)
+
+scrape_range('N6200', 100)
