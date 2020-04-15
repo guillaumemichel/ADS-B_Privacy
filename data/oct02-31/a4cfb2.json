@@ -1,0 +1,154 @@
+[
+  {
+    "icao"      : "a4cfb2",
+    "callsign"  : "DCM3329",
+    "nnumber"   : "N409ST",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-10-05 18:17:20+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "10700.0",
+        "latitude"  : "31.583924374337922",
+        "longitude" : "-97.60358276367184"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KABQ",
+      "time"                : "2019-10-05 20:04:10+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "5355.0",
+        "latitude"  : "35.040199",
+        "longitude" : "-106.609001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "26475.0",
+        "latitude"  : "35.02761840820312",
+        "longitude" : "-106.6241081393495"
+      },
+      "horizontal_distance" : "1961.7213703207854",
+      "vertical_distance"   : "21120.0"
+    }
+  },
+  {
+    "icao"      : "a4cfb2",
+    "callsign"  : "DCM3329",
+    "nnumber"   : "N409ST",
+    "departure" :
+    {
+      "airport"             : "KABQ",
+      "time"                : "2019-10-08 18:52:41+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "5355.0",
+        "latitude"  : "35.040199",
+        "longitude" : "-106.609001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5200.0",
+        "latitude"  : "35.03118896484375",
+        "longitude" : "-106.6197920818718"
+      },
+      "horizontal_distance" : "1403.1194496146527",
+      "vertical_distance"   : "-155.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-10-08 20:09:22+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "12500.0",
+        "latitude"  : "31.764081534692803",
+        "longitude" : "-97.67905883789065"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a4cfb2",
+    "callsign"  : "DCM3329",
+    "nnumber"   : "N409ST",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-10-08 21:04:30+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "11399.999999999998",
+        "latitude"  : "31.61152985136388",
+        "longitude" : "-97.58144531249997"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KABQ",
+      "time"                : "2019-10-08 22:58:22+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "5355.0",
+        "latitude"  : "35.040199",
+        "longitude" : "-106.609001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5200.0",
+        "latitude"  : "35.037460327148445",
+        "longitude" : "-106.6122249681122"
+      },
+      "horizontal_distance" : "422.9071074562182",
+      "vertical_distance"   : "-155.0"
+    }
+  },
+  {
+    "icao"      : "a4cfb2",
+    "callsign"  : "DCM3329",
+    "nnumber"   : "N409ST",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-10-20 15:40:15+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "30000.0",
+        "latitude"  : "31.55612182617188",
+        "longitude" : "-95.41674445657169"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "TA57",
+      "time"                : "2019-10-20 15:55:49+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "450.0",
+        "latitude"  : "31.6238002777",
+        "longitude" : "-96.99250030520001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "51600.0",
+        "latitude"  : "31.56729125976562",
+        "longitude" : "-97.04842960133273"
+      },
+      "horizontal_distance" : "8211.81809185068",
+      "vertical_distance"   : "51150.0"
+    }
+  }
+]

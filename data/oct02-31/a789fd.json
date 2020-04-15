@@ -1,0 +1,131 @@
+[
+  {
+    "icao"      : "a789fd",
+    "callsign"  : "DCM2627",
+    "nnumber"   : "N585RL",
+    "departure" :
+    {
+      "airport"             : "KROC",
+      "time"                : "2019-10-24 13:02:48+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "559.0",
+        "latitude"  : "43.118900299072266",
+        "longitude" : "-77.67240142822266"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "350.0",
+        "latitude"  : "43.117171465340306",
+        "longitude" : "-77.66197749546599"
+      },
+      "horizontal_distance" : "869.8186480504977",
+      "vertical_distance"   : "-209.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KTEB",
+      "time"                : "2019-10-24 13:42:29+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "40.85010147089999",
+        "longitude" : "-74.060798645"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-125.0",
+        "latitude"  : "40.87152099609375",
+        "longitude" : "-74.05804443359375"
+      },
+      "horizontal_distance" : "2389.9721770652113",
+      "vertical_distance"   : "-134.0"
+    }
+  },
+  {
+    "icao"      : "a789fd",
+    "callsign"  : "DCM2627",
+    "nnumber"   : "N585RL",
+    "departure" :
+    {
+      "airport"             : "KTEB",
+      "time"                : "2019-10-24 14:51:39+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "40.85010147089999",
+        "longitude" : "-74.060798645"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "525.0",
+        "latitude"  : "40.83663940429688",
+        "longitude" : "-74.08416748046875"
+      },
+      "horizontal_distance" : "2473.652134884192",
+      "vertical_distance"   : "516.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KTEB",
+      "time"                : "2019-10-24 15:31:56+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "40.85010147089999",
+        "longitude" : "-74.060798645"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-100.0",
+        "latitude"  : "40.86982727050781",
+        "longitude" : "-74.0579833984375"
+      },
+      "horizontal_distance" : "2203.3960279189278",
+      "vertical_distance"   : "-109.0"
+    }
+  },
+  {
+    "icao"      : "a789fd",
+    "callsign"  : "DCM2627",
+    "nnumber"   : "N585RL",
+    "departure" :
+    {
+      "airport"             : "KTEB",
+      "time"                : "2019-10-24 16:36:02+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "40.85010147089999",
+        "longitude" : "-74.060798645"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "100.0",
+        "latitude"  : "40.84400939941406",
+        "longitude" : "-74.0740966796875"
+      },
+      "horizontal_distance" : "1309.6811201570295",
+      "vertical_distance"   : "91.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KROC",
+      "time"                : "2019-10-24 17:13:31+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "559.0",
+        "latitude"  : "43.118900299072266",
+        "longitude" : "-77.67240142822266"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "325.0",
+        "latitude"  : "43.11724090576172",
+        "longitude" : "-77.66193833462029"
+      },
+      "horizontal_distance" : "871.2620174361584",
+      "vertical_distance"   : "-234.0"
+    }
+  }
+]

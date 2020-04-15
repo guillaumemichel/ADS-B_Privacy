@@ -1,6 +1,10 @@
 from geopy.distance import geodesic
 import json
 
+"""
+Implement useful Flight structure that is used in other scripts
+"""
+
 align = 2
 
 class Position:

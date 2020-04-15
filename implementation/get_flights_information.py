@@ -9,13 +9,19 @@ import requests
 
 import json
 
+"""
+For a given time period and recording, get all information about aircraft that used
+a FFL or DCM callsign in that period along with all the flights of those aircraft.
+Might generate false positive
+"""
+
 # update aircraft db
 #aircraft.download_opensky()
 
 callsigns = ['FFL', 'DCM']
-month = 'march01-30'
-start = "2020-03-01"
-end = "2020-03-30"
+month = 'oct02-31'
+start = "2019-10-02"
+end = "2019-10-31"
 output_path = '../data/'+month+'/'
 
 

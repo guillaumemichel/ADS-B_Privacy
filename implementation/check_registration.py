@@ -3,6 +3,10 @@ from convert import n_to_icao, icao_to_n
 from scrape import scrape_individual, print_dict
 from openpyxl.workbook import Workbook
 
+"""
+For a list of flights, check the faa registration associated with the icao address
+"""
+
 allFlights = flightsFromFile('../data/flight_lists/2019-11_2020-03.json')
 icaos = set()
 for f in allFlights.elements:

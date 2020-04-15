@@ -1,0 +1,250 @@
+[
+  {
+    "icao"      : "a7d112",
+    "callsign"  : "DCM2568",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KCMA",
+      "time"                : "2019-10-04 21:30:03+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "77.0",
+        "latitude"  : "34.213699340820305",
+        "longitude" : "-119.09400177001952"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "200.0",
+        "latitude"  : "34.21393960209216",
+        "longitude" : "-119.0998649597168"
+      },
+      "horizontal_distance" : "540.9654666360299",
+      "vertical_distance"   : "123.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSBA",
+      "time"                : "2019-10-04 21:42:29+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "13.0",
+        "latitude"  : "34.42620087",
+        "longitude" : "-119.8399963"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1500.0",
+        "latitude"  : "34.434310913085945",
+        "longitude" : "-119.7798437001754"
+      },
+      "horizontal_distance" : "5601.724786700694",
+      "vertical_distance"   : "1487.0"
+    }
+  },
+  {
+    "icao"      : "a7d112",
+    "callsign"  : "DCM2568",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-10-04 23:08:39+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "3499.9999999999995",
+        "latitude"  : "34.36579300185381",
+        "longitude" : "-119.5619773864746"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KOXR",
+      "time"                : "2019-10-04 23:19:34+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "45.0",
+        "latitude"  : "34.200801849365",
+        "longitude" : "-119.20700073241998"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "100.0",
+        "latitude"  : "34.20067221431409",
+        "longitude" : "-119.19570922851558"
+      },
+      "horizontal_distance" : "1040.802316145093",
+      "vertical_distance"   : "55.0"
+    }
+  },
+  {
+    "icao"      : "a7d112",
+    "callsign"  : "DCM2568",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KOXR",
+      "time"                : "2019-10-12 17:00:50+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "45.0",
+        "latitude"  : "34.200801849365",
+        "longitude" : "-119.20700073241998"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "100.0",
+        "latitude"  : "34.200851440429695",
+        "longitude" : "-119.2133751694037"
+      },
+      "horizontal_distance" : "587.5372623771352",
+      "vertical_distance"   : "55.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSBA",
+      "time"                : "2019-10-12 17:12:15+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "13.0",
+        "latitude"  : "34.42620087",
+        "longitude" : "-119.8399963"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "800.0",
+        "latitude"  : "34.44297661215572",
+        "longitude" : "-119.8223304748535"
+      },
+      "horizontal_distance" : "2469.7113571528225",
+      "vertical_distance"   : "787.0"
+    }
+  },
+  {
+    "icao"      : "a7d112",
+    "callsign"  : "DCM2568",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-10-12 18:00:33+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2000.0",
+        "latitude"  : "34.34774780273438",
+        "longitude" : "-119.77939527861929"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KOXR",
+      "time"                : "2019-10-12 18:10:36+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "45.0",
+        "latitude"  : "34.200801849365",
+        "longitude" : "-119.20700073241998"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "100.0",
+        "latitude"  : "34.20071411132812",
+        "longitude" : "-119.1945414640466"
+      },
+      "horizontal_distance" : "1148.3731689872086",
+      "vertical_distance"   : "55.0"
+    }
+  },
+  {
+    "icao"      : "a7d112",
+    "callsign"  : "DCM2568",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KOXR",
+      "time"                : "2019-10-19 17:14:50+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "45.0",
+        "latitude"  : "34.200801849365",
+        "longitude" : "-119.20700073241998"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "200.0",
+        "latitude"  : "34.20104463221663",
+        "longitude" : "-119.2157363891602"
+      },
+      "horizontal_distance" : "805.5869588191922",
+      "vertical_distance"   : "155.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSBA",
+      "time"                : "2019-10-19 17:31:21+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "13.0",
+        "latitude"  : "34.42620087",
+        "longitude" : "-119.8399963"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "200.0",
+        "latitude"  : "34.435409545898445",
+        "longitude" : "-119.8419500856983"
+      },
+      "horizontal_distance" : "1037.1855196813706",
+      "vertical_distance"   : "187.0"
+    }
+  },
+  {
+    "icao"      : "a7d112",
+    "callsign"  : "DCM2568",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KSBA",
+      "time"                : "2019-10-19 18:29:41+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "13.0",
+        "latitude"  : "34.42620087",
+        "longitude" : "-119.8399963"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "600.0",
+        "latitude"  : "34.404464721679695",
+        "longitude" : "-119.8339906030772"
+      },
+      "horizontal_distance" : "2473.594326324296",
+      "vertical_distance"   : "587.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KOXR",
+      "time"                : "2019-10-19 18:45:22+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "45.0",
+        "latitude"  : "34.200801849365",
+        "longitude" : "-119.20700073241998"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "100.0",
+        "latitude"  : "34.20071876655191",
+        "longitude" : "-119.1963386535645"
+      },
+      "horizontal_distance" : "982.7337596416834",
+      "vertical_distance"   : "55.0"
+    }
+  }
+]

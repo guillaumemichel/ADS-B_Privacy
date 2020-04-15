@@ -1,0 +1,116 @@
+[
+  {
+    "icao"      : "a7d7ac",
+    "callsign"  : "DCM2241",
+    "nnumber"   : "N604SA",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-10-04 17:56:29+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "37000.0",
+        "latitude"  : "34.510848999023445",
+        "longitude" : "-77.92585723254143"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KIAD",
+      "time"                : "2019-10-04 18:37:56+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "312.0",
+        "latitude"  : "38.94449997",
+        "longitude" : "-77.45580292"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "125.0",
+        "latitude"  : "38.96885500115863",
+        "longitude" : "-77.45396423339844"
+      },
+      "horizontal_distance" : "2708.458575451048",
+      "vertical_distance"   : "-187.0"
+    }
+  },
+  {
+    "icao"      : "a7d7ac",
+    "callsign"  : "DCM2241",
+    "nnumber"   : "N604SA",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-10-17 11:47:56+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "28275.000000000004",
+        "latitude"  : "27.93374633789062",
+        "longitude" : "-78.94526643573113"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KIAD",
+      "time"                : "2019-10-17 13:31:27+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "312.0",
+        "latitude"  : "38.94449997",
+        "longitude" : "-77.45580292"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "34325.0",
+        "latitude"  : "29.180711649231988",
+        "longitude" : "-78.74822279986213"
+      },
+      "horizontal_distance" : "1089558.213334629",
+      "vertical_distance"   : "34013.0"
+    }
+  },
+  {
+    "icao"      : "a7d7ac",
+    "callsign"  : "DCM2241",
+    "nnumber"   : "N604SA",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-10-28 16:34:09+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "37000.0",
+        "latitude"  : "34.62858038433527",
+        "longitude" : "-77.85478591918945"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KIAD",
+      "time"                : "2019-10-28 17:14:28+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "312.0",
+        "latitude"  : "38.94449997",
+        "longitude" : "-77.45580292"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "50.0",
+        "latitude"  : "38.96886663921808",
+        "longitude" : "-77.453857421875"
+      },
+      "horizontal_distance" : "2710.308629303793",
+      "vertical_distance"   : "-262.0"
+    }
+  }
+]

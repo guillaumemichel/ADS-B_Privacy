@@ -1,0 +1,169 @@
+[
+  {
+    "icao"      : "a7293a",
+    "callsign"  : "DCM2888",
+    "nnumber"   : "N560ZS",
+    "departure" :
+    {
+      "airport"             : "KLGB",
+      "time"                : "2019-10-09 19:08:04+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "60.0",
+        "latitude"  : "33.81769943",
+        "longitude" : "-118.15200039999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "675.0",
+        "latitude"  : "33.82296752929688",
+        "longitude" : "-118.15790293168051"
+      },
+      "horizontal_distance" : "800.032617382971",
+      "vertical_distance"   : "615.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KMER",
+      "time"                : "2019-10-09 19:55:34+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "191.0",
+        "latitude"  : "37.38050079",
+        "longitude" : "-120.5680008"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "200.0",
+        "latitude"  : "37.37031555175781",
+        "longitude" : "-120.5578873005319"
+      },
+      "horizontal_distance" : "1442.2997306618336",
+      "vertical_distance"   : "9.0"
+    }
+  },
+  {
+    "icao"      : "a7293a",
+    "callsign"  : "DCM2888",
+    "nnumber"   : "N560ZS",
+    "departure" :
+    {
+      "airport"             : "KMER",
+      "time"                : "2019-10-11 18:25:59+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "191.0",
+        "latitude"  : "37.38050079",
+        "longitude" : "-120.5680008"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2575.0",
+        "latitude"  : "37.41165937003443",
+        "longitude" : "-120.60295436693269"
+      },
+      "horizontal_distance" : "4640.918983918166",
+      "vertical_distance"   : "2384.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KLGB",
+      "time"                : "2019-10-11 19:14:39+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "60.0",
+        "latitude"  : "33.81769943",
+        "longitude" : "-118.15200039999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "0.0",
+        "latitude"  : "33.82499565512447",
+        "longitude" : "-118.1600189208984"
+      },
+      "horizontal_distance" : "1098.1874945991703",
+      "vertical_distance"   : "-60.0"
+    }
+  },
+  {
+    "icao"      : "a7293a",
+    "callsign"  : "N560ZS",
+    "nnumber"   : "N560ZS",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-10-21 00:32:10+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "675.0",
+        "latitude"  : "32.57290649414062",
+        "longitude" : "-116.98330078125"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSDM",
+      "time"                : "2019-10-21 00:49:09+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "526.0",
+        "latitude"  : "32.572299957275",
+        "longitude" : "-116.98000335693001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "75.0",
+        "latitude"  : "33.809738159179695",
+        "longitude" : "-118.141647650271"
+      },
+      "horizontal_distance" : "174838.15935413452",
+      "vertical_distance"   : "-451.0"
+    }
+  },
+  {
+    "icao"      : "a7293a",
+    "callsign"  : "DCM2888",
+    "nnumber"   : "N560ZS",
+    "departure" :
+    {
+      "airport"             : "KSDM",
+      "time"                : "2019-10-21 01:16:51+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "526.0",
+        "latitude"  : "32.572299957275",
+        "longitude" : "-116.98000335693001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "675.0",
+        "latitude"  : "32.57290649414062",
+        "longitude" : "-116.98330078125"
+      },
+      "horizontal_distance" : "316.85377968575574",
+      "vertical_distance"   : "149.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KLGB",
+      "time"                : "2019-10-21 01:41:42+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "60.0",
+        "latitude"  : "33.81769943",
+        "longitude" : "-118.15200039999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "75.0",
+        "latitude"  : "33.809738159179695",
+        "longitude" : "-118.141647650271"
+      },
+      "horizontal_distance" : "1303.2834713785862",
+      "vertical_distance"   : "15.0"
+    }
+  }
+]

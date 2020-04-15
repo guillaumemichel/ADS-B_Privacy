@@ -3,6 +3,10 @@ from convert import icao_to_n
 from datetime import datetime
 from openpyxl.workbook import Workbook
 
+"""
+Various scripts to make statistics about the recoreded flights
+"""
+
 allFlights = flightsFromFile('../data/flight_lists/2019-11_2020-03.json')
 
 """

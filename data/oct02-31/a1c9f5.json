@@ -1,0 +1,40 @@
+[
+  {
+    "icao"      : "a1c9f5",
+    "callsign"  : "DCM3111",
+    "nnumber"   : "N214SG",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-10-20 20:23:39+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "33000.0",
+        "latitude"  : "28.28746032714844",
+        "longitude" : "-100.9640913743239"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDAL",
+      "time"                : "2019-10-20 21:17:24+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "487.0",
+        "latitude"  : "32.847099",
+        "longitude" : "-96.851799"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1300.0",
+        "latitude"  : "32.863357543945305",
+        "longitude" : "-96.87733154296878"
+      },
+      "horizontal_distance" : "2993.863862132793",
+      "vertical_distance"   : "813.0"
+    }
+  }
+]

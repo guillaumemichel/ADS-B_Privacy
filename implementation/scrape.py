@@ -7,6 +7,10 @@ from os.path import isfile, join
 import urllib.request
 from bs4 import BeautifulSoup
 
+"""
+Scrape the FAA database to get the registrations associated with an ICAO or N-Number
+"""
+
 raw_storage_path = "../data/faa_registrations/raw/"
 raw_cache = [f[:-5] for f in listdir(raw_storage_path) if isfile(join(raw_storage_path, f))]
 filtered_storage_path = "../data/faa_registrations/filtered/"

@@ -1,21 +1,26 @@
 from flights import Flights
+import sys
+import re
 from openpyxl.workbook import Workbook
 from openpyxl.styles import Alignment
+from openpyxl import load_workbook
 
 from os import listdir
 from os.path import isfile, join
 
-mypath = '../data/flight_lists/'
-files = [f for f in listdir(mypath) if isfile(join(mypath, f))]
+"""
+Export monthly data from ../data/flight_lists/ in Flight structures to Workbook
+"""
 
-wb = Workbook()
-wb.remove(wb.active)
+flightslistpath = '../data/flight_lists/'
+sheets_directory = '../data/sheets/'
+extension = '.xlsx'
 
-for f in files:
-    month = f.split('.')[0]
+def addSheet(wb, filename):
+    month = filename.split('.')[0]
 
     allFlights = Flights()
-    allFlights.from_file(mypath+f)
+    allFlights.from_file(flightslistpath+filename)
 
     ws = wb.create_sheet(month)
     ws.title = month
@@ -139,5 +144,74 @@ for f in files:
             ws.cell(row=row_data, column=col_arr_ac_pos_alt).value = f.arrival.aircraft_position.altitude
 
         row_data += 1
+    return wb
 
-wb.save('../data/sheets/flights.xlsx')
+def newWorkbook(filename):
+
+    files = [f for f in listdir(flightslistpath) if isfile(join(flightslistpath, f))]
+
+    wb = Workbook()
+    wb.remove(wb.active)
+
+    for f in files:
+        wb = addSheet(wb, f)
+
+    wb.save(sheets_directory+filename+extension)
+
+def expandWorkbook(filename):
+    fullname = sheets_directory+filename+extension
+    wb = load_workbook(fullname)
+
+    files = [f for f in listdir(flightslistpath) if isfile(join(flightslistpath, f))]
+    sheetnames = wb.sheetnames
+
+    new_files = list()
+    for f in files:
+        if f.split('.')[0] not in sheetnames:
+            new_files.append(f)
+    
+    if len(new_files)==0:
+        print("No update to be made to the given workbook")
+        sys.exit()
+
+    rex = re.compile("^[0-9]{4}[-][0-9]{2}[_][0-9]{4}[-][0-9]{2}$") # NNNN-NN_NNNN-NN
+    allflightsname=""
+    for n in sheetnames:
+        if rex.match(n):
+            wb.remove(wb[n])
+            allflightsname=n
+
+    for f in new_files:
+        if rex.match(f.split('.')[0]):
+            allflightsname = f.split('.')[0]
+        wb = addSheet(wb, f)
+
+    wb._sheets.sort(key=lambda ws: ws.title)
+    
+    info_index = -1
+    index_allflights = -1
+    for i in range(len(wb._sheets)):
+        if wb._sheets[i].title == 'Info':
+            info_index=i
+        elif wb._sheets[i].title == allflightsname:
+            index_allflights=i
+
+    order = [i for i in range(len(wb._sheets))]
+    if index_allflights != -1:
+            order.insert(0, order.pop(index_allflights))
+    else:
+        print('List of all flights not found!')
+
+    if info_index != -1:
+        order.insert(0, order.pop(info_index))
+    else:
+        print('Info sheet not found!')
+
+    wb._sheets =[wb._sheets[i] for i in order]
+    wb.active=0
+
+    wb.save(sheets_directory+filename+"_new"+extension)
+
+if __name__ == "__main__":
+    #newWorkbook('flights')
+    expandWorkbook('DCM_FFL_flights')

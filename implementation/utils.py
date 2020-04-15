@@ -3,6 +3,10 @@ import math
 from traffic.core import Traffic
 from traffic.data import airports
 
+"""
+Couple of useful function about flights, airports, coordinates etc.
+"""
+
 time_delta = 600 # min
 
 recordings_folder = '../data/recordings/'

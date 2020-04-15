@@ -1,5 +1,9 @@
 from traffic.data import opensky
 
+"""
+Download all flights that used the parameter callsign during the given period
+"""
+
 callsign = "DCM"
 
 def query(start_day, end_day):
