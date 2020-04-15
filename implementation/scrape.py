@@ -80,13 +80,11 @@ def load_dict(name ):
     with open(filtered_storage_path + name + '.pkl', 'rb') as f:
         return pickle.load(f)
 
-nnumber = 'N628CR'
-
 def scrape_individual(nnumber):
 
     # checking that the N-Number is correct
     if not valid(nnumber):
-        print('Invalid N-Number')
+        print('Invalid N-Number: '+nnumber)
         sys.exit()
 
     if nnumber in filtered_cache:
@@ -204,4 +202,5 @@ def scrape_range(initial, length):
 
     print(counter)
 
-scrape_range('N6200', 100)
+if __name__ == "__main__":
+    scrape_range('N4100', 9100)

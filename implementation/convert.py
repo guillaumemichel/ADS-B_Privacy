@@ -223,7 +223,7 @@ def invalid_parameter():
     sys.exit()
 
 def valid(param):
-    if len(param)<1:
+    if param is None or len(param)<1:
         return False
     param = param.upper()
     if param[0]=='A':
