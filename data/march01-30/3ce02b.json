@@ -6,30 +6,40 @@
     "departure" :
     {
       "airport"             : "EDMO",
-      "time"                : "2020-03-18 13:57:34+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-18 13:57:34",
+      "airport_position"    : 
+      {
+        "altitude"  : "1947.0",
+        "latitude"  : "48.081402000000004",
+        "longitude" : "11.2831"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "1925.0",
         "latitude"  : "48.08940124511719",
         "longitude" : "11.29380798339844"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "1194.8043441514237",
+      "vertical_distance"   : "-22.0"
     },
     "arrival"   :
     {
       "airport"             : "EDMO",
-      "time"                : "2020-03-18 14:41:14+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-18 13:57:34",
+      "airport_position"    : 
+      {
+        "altitude"  : "1947.0",
+        "latitude"  : "48.081402000000004",
+        "longitude" : "11.2831"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "1749.9999999999998",
         "latitude"  : "48.06914248708951",
         "longitude" : "11.266268216646631"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "1852.3874285258355",
+      "vertical_distance"   : "-197.00000000000023"
     }
   }
 ]

@@ -6,8 +6,13 @@
     "departure" :
     {
       "airport"             : "KVNY",
-      "time"                : "2020-01-04 00:46:29+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-04 00:46:29",
+      "airport_position"    : 
+      {
+        "altitude"  : "802.0",
+        "latitude"  : "34.209800720215",
+        "longitude" : "-118.48999786376999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -15,8 +20,13 @@
     "arrival"   :
     {
       "airport"             : "KVNY",
-      "time"                : "2020-01-04 01:04:12+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-04 00:46:29",
+      "airport_position"    : 
+      {
+        "altitude"  : "802.0",
+        "latitude"  : "34.209800720215",
+        "longitude" : "-118.48999786376999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -29,8 +39,13 @@
     "departure" :
     {
       "airport"             : "KVNY",
-      "time"                : "2020-01-04 23:15:22+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-04 23:15:22",
+      "airport_position"    : 
+      {
+        "altitude"  : "802.0",
+        "latitude"  : "34.209800720215",
+        "longitude" : "-118.48999786376999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -38,8 +53,13 @@
     "arrival"   :
     {
       "airport"             : "KTOA",
-      "time"                : "2020-01-04 23:30:22+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-04 23:15:22",
+      "airport_position"    : 
+      {
+        "altitude"  : "103.0",
+        "latitude"  : "33.803398132324",
+        "longitude" : "-118.33999633789"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -52,8 +72,13 @@
     "departure" :
     {
       "airport"             : "KTOA",
-      "time"                : "2020-01-05 02:39:36+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-05 02:39:36",
+      "airport_position"    : 
+      {
+        "altitude"  : "103.0",
+        "latitude"  : "33.803398132324",
+        "longitude" : "-118.33999633789"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -61,8 +86,13 @@
     "arrival"   :
     {
       "airport"             : "KVNY",
-      "time"                : "2020-01-05 02:58:55+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-05 02:39:36",
+      "airport_position"    : 
+      {
+        "altitude"  : "802.0",
+        "latitude"  : "34.209800720215",
+        "longitude" : "-118.48999786376999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -75,8 +105,13 @@
     "departure" :
     {
       "airport"             : "KVNY",
-      "time"                : "2020-01-09 18:40:07+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-09 18:40:07",
+      "airport_position"    : 
+      {
+        "altitude"  : "802.0",
+        "latitude"  : "34.209800720215",
+        "longitude" : "-118.48999786376999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -84,8 +119,13 @@
     "arrival"   :
     {
       "airport"             : "KVNY",
-      "time"                : "2020-01-09 20:25:52+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-09 18:40:07",
+      "airport_position"    : 
+      {
+        "altitude"  : "802.0",
+        "latitude"  : "34.209800720215",
+        "longitude" : "-118.48999786376999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -98,8 +138,13 @@
     "departure" :
     {
       "airport"             : "KVNY",
-      "time"                : "2020-01-12 22:13:09+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-12 22:13:09",
+      "airport_position"    : 
+      {
+        "altitude"  : "802.0",
+        "latitude"  : "34.209800720215",
+        "longitude" : "-118.48999786376999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -107,8 +152,13 @@
     "arrival"   :
     {
       "airport"             : "KRAL",
-      "time"                : "2020-01-12 22:47:47+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-12 22:13:09",
+      "airport_position"    : 
+      {
+        "altitude"  : "819.0",
+        "latitude"  : "33.95190048",
+        "longitude" : "-117.4449997"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -121,8 +171,13 @@
     "departure" :
     {
       "airport"             : "KPOC",
-      "time"                : "2020-01-13 00:00:03+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-13 00:00:03",
+      "airport_position"    : 
+      {
+        "altitude"  : "1011.0",
+        "latitude"  : "34.091598510742",
+        "longitude" : "-117.78199768066001"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -130,8 +185,13 @@
     "arrival"   :
     {
       "airport"             : "KVNY",
-      "time"                : "2020-01-13 00:41:00+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-13 00:00:03",
+      "airport_position"    : 
+      {
+        "altitude"  : "802.0",
+        "latitude"  : "34.209800720215",
+        "longitude" : "-118.48999786376999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -144,8 +204,13 @@
     "departure" :
     {
       "airport"             : "KVNY",
-      "time"                : "2020-01-16 21:31:44+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-16 21:31:44",
+      "airport_position"    : 
+      {
+        "altitude"  : "802.0",
+        "latitude"  : "34.209800720215",
+        "longitude" : "-118.48999786376999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -153,8 +218,13 @@
     "arrival"   :
     {
       "airport"             : "KVNY",
-      "time"                : "2020-01-16 22:11:36+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-16 21:31:44",
+      "airport_position"    : 
+      {
+        "altitude"  : "802.0",
+        "latitude"  : "34.209800720215",
+        "longitude" : "-118.48999786376999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -167,8 +237,13 @@
     "departure" :
     {
       "airport"             : "KVNY",
-      "time"                : "2020-01-17 19:18:40+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-17 19:18:40",
+      "airport_position"    : 
+      {
+        "altitude"  : "802.0",
+        "latitude"  : "34.209800720215",
+        "longitude" : "-118.48999786376999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -176,8 +251,13 @@
     "arrival"   :
     {
       "airport"             : "KVNY",
-      "time"                : "2020-01-17 19:34:27+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-17 19:18:40",
+      "airport_position"    : 
+      {
+        "altitude"  : "802.0",
+        "latitude"  : "34.209800720215",
+        "longitude" : "-118.48999786376999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -190,8 +270,13 @@
     "departure" :
     {
       "airport"             : "KVNY",
-      "time"                : "2020-01-17 19:46:40+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-17 19:46:40",
+      "airport_position"    : 
+      {
+        "altitude"  : "802.0",
+        "latitude"  : "34.209800720215",
+        "longitude" : "-118.48999786376999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -199,8 +284,13 @@
     "arrival"   :
     {
       "airport"             : "KVNY",
-      "time"                : "2020-01-17 20:01:22+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-17 19:46:40",
+      "airport_position"    : 
+      {
+        "altitude"  : "802.0",
+        "latitude"  : "34.209800720215",
+        "longitude" : "-118.48999786376999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -213,8 +303,13 @@
     "departure" :
     {
       "airport"             : "KVNY",
-      "time"                : "2020-01-17 22:11:33+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-17 22:11:33",
+      "airport_position"    : 
+      {
+        "altitude"  : "802.0",
+        "latitude"  : "34.209800720215",
+        "longitude" : "-118.48999786376999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -222,8 +317,13 @@
     "arrival"   :
     {
       "airport"             : "KVNY",
-      "time"                : "2020-01-17 22:36:42+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-17 22:11:33",
+      "airport_position"    : 
+      {
+        "altitude"  : "802.0",
+        "latitude"  : "34.209800720215",
+        "longitude" : "-118.48999786376999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -236,8 +336,13 @@
     "departure" :
     {
       "airport"             : "KVNY",
-      "time"                : "2020-01-21 22:49:38+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-21 22:49:38",
+      "airport_position"    : 
+      {
+        "altitude"  : "802.0",
+        "latitude"  : "34.209800720215",
+        "longitude" : "-118.48999786376999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -245,8 +350,13 @@
     "arrival"   :
     {
       "airport"             : "KVNY",
-      "time"                : "2020-01-21 23:35:04+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-21 22:49:38",
+      "airport_position"    : 
+      {
+        "altitude"  : "802.0",
+        "latitude"  : "34.209800720215",
+        "longitude" : "-118.48999786376999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -259,8 +369,13 @@
     "departure" :
     {
       "airport"             : "KVNY",
-      "time"                : "2020-01-22 21:01:20+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-22 21:01:20",
+      "airport_position"    : 
+      {
+        "altitude"  : "802.0",
+        "latitude"  : "34.209800720215",
+        "longitude" : "-118.48999786376999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -268,8 +383,13 @@
     "arrival"   :
     {
       "airport"             : "KVNY",
-      "time"                : "2020-01-22 21:48:09+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-22 21:01:20",
+      "airport_position"    : 
+      {
+        "altitude"  : "802.0",
+        "latitude"  : "34.209800720215",
+        "longitude" : "-118.48999786376999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -282,8 +402,13 @@
     "departure" :
     {
       "airport"             : "KVNY",
-      "time"                : "2020-01-23 18:52:43+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-23 18:52:43",
+      "airport_position"    : 
+      {
+        "altitude"  : "802.0",
+        "latitude"  : "34.209800720215",
+        "longitude" : "-118.48999786376999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -291,8 +416,13 @@
     "arrival"   :
     {
       "airport"             : "KVNY",
-      "time"                : "2020-01-23 19:55:12+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-23 18:52:43",
+      "airport_position"    : 
+      {
+        "altitude"  : "802.0",
+        "latitude"  : "34.209800720215",
+        "longitude" : "-118.48999786376999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -305,8 +435,13 @@
     "departure" :
     {
       "airport"             : "KVNY",
-      "time"                : "2020-01-27 18:17:18+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-27 18:17:18",
+      "airport_position"    : 
+      {
+        "altitude"  : "802.0",
+        "latitude"  : "34.209800720215",
+        "longitude" : "-118.48999786376999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -314,8 +449,13 @@
     "arrival"   :
     {
       "airport"             : "KCMA",
-      "time"                : "2020-01-27 18:36:59+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-27 18:17:18",
+      "airport_position"    : 
+      {
+        "altitude"  : "77.0",
+        "latitude"  : "34.213699340820305",
+        "longitude" : "-119.09400177001952"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -328,8 +468,13 @@
     "departure" :
     {
       "airport"             : "KCMA",
-      "time"                : "2020-01-27 19:57:01+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-27 19:57:01",
+      "airport_position"    : 
+      {
+        "altitude"  : "77.0",
+        "latitude"  : "34.213699340820305",
+        "longitude" : "-119.09400177001952"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -337,8 +482,13 @@
     "arrival"   :
     {
       "airport"             : "KVNY",
-      "time"                : "2020-01-27 20:18:46+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-27 19:57:01",
+      "airport_position"    : 
+      {
+        "altitude"  : "802.0",
+        "latitude"  : "34.209800720215",
+        "longitude" : "-118.48999786376999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -351,8 +501,13 @@
     "departure" :
     {
       "airport"             : "KVNY",
-      "time"                : "2020-01-27 21:14:31+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-27 21:14:31",
+      "airport_position"    : 
+      {
+        "altitude"  : "802.0",
+        "latitude"  : "34.209800720215",
+        "longitude" : "-118.48999786376999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -360,8 +515,13 @@
     "arrival"   :
     {
       "airport"             : "KEMT",
-      "time"                : "2020-01-27 21:28:53+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-27 21:14:31",
+      "airport_position"    : 
+      {
+        "altitude"  : "296.0",
+        "latitude"  : "34.086102000000004",
+        "longitude" : "-118.035004"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -374,8 +534,13 @@
     "departure" :
     {
       "airport"             : "KEMT",
-      "time"                : "2020-01-27 22:15:31+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-27 22:15:31",
+      "airport_position"    : 
+      {
+        "altitude"  : "296.0",
+        "latitude"  : "34.086102000000004",
+        "longitude" : "-118.035004"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -383,8 +548,13 @@
     "arrival"   :
     {
       "airport"             : "KAJO",
-      "time"                : "2020-01-27 23:08:36+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-27 22:15:31",
+      "airport_position"    : 
+      {
+        "altitude"  : "533.0",
+        "latitude"  : "33.89770126342773",
+        "longitude" : "-117.60199737548828"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -397,8 +567,13 @@
     "departure" :
     {
       "airport"             : "KAJO",
-      "time"                : "2020-01-28 00:33:20+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-28 00:33:20",
+      "airport_position"    : 
+      {
+        "altitude"  : "533.0",
+        "latitude"  : "33.89770126342773",
+        "longitude" : "-117.60199737548828"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -406,8 +581,13 @@
     "arrival"   :
     {
       "airport"             : "KAJO",
-      "time"                : "2020-01-28 01:17:48+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-28 00:33:20",
+      "airport_position"    : 
+      {
+        "altitude"  : "533.0",
+        "latitude"  : "33.89770126342773",
+        "longitude" : "-117.60199737548828"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -420,8 +600,13 @@
     "departure" :
     {
       "airport"             : "KAJO",
-      "time"                : "2020-01-28 02:29:11+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-28 02:29:11",
+      "airport_position"    : 
+      {
+        "altitude"  : "533.0",
+        "latitude"  : "33.89770126342773",
+        "longitude" : "-117.60199737548828"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -429,8 +614,13 @@
     "arrival"   :
     {
       "airport"             : "KVNY",
-      "time"                : "2020-01-28 03:12:13+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-28 02:29:11",
+      "airport_position"    : 
+      {
+        "altitude"  : "802.0",
+        "latitude"  : "34.209800720215",
+        "longitude" : "-118.48999786376999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -443,8 +633,13 @@
     "departure" :
     {
       "airport"             : "KVNY",
-      "time"                : "2020-01-30 20:53:35+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-30 20:53:35",
+      "airport_position"    : 
+      {
+        "altitude"  : "802.0",
+        "latitude"  : "34.209800720215",
+        "longitude" : "-118.48999786376999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -452,8 +647,13 @@
     "arrival"   :
     {
       "airport"             : "KVNY",
-      "time"                : "2020-01-30 22:09:15+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-30 20:53:35",
+      "airport_position"    : 
+      {
+        "altitude"  : "802.0",
+        "latitude"  : "34.209800720215",
+        "longitude" : "-118.48999786376999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -466,8 +666,13 @@
     "departure" :
     {
       "airport"             : "KVNY",
-      "time"                : "2020-01-31 18:29:19+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-31 18:29:19",
+      "airport_position"    : 
+      {
+        "altitude"  : "802.0",
+        "latitude"  : "34.209800720215",
+        "longitude" : "-118.48999786376999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -475,8 +680,13 @@
     "arrival"   :
     {
       "airport"             : "KVNY",
-      "time"                : "2020-01-31 19:31:23+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-31 18:29:19",
+      "airport_position"    : 
+      {
+        "altitude"  : "802.0",
+        "latitude"  : "34.209800720215",
+        "longitude" : "-118.48999786376999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"

@@ -6,8 +6,13 @@
     "departure" :
     {
       "airport"             : "KAPA",
-      "time"                : "2020-01-03 03:49:10+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-03 03:49:10",
+      "airport_position"    : 
+      {
+        "altitude"  : "5885.0",
+        "latitude"  : "39.57009888",
+        "longitude" : "-104.84899899999999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -15,8 +20,13 @@
     "arrival"   :
     {
       "airport"             : "KMQY",
-      "time"                : "2020-01-03 06:07:58+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-03 03:49:10",
+      "airport_position"    : 
+      {
+        "altitude"  : "543.0",
+        "latitude"  : "36.0089988708",
+        "longitude" : "-86.52010345459999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -29,7 +39,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-01-04 00:06:39+00:00",
+      "time"                : "2020-01-04 00:06:39",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -38,8 +48,13 @@
     "arrival"   :
     {
       "airport"             : "FL66",
-      "time"                : "2020-01-04 01:27:49+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-04 00:06:39",
+      "airport_position"    : 
+      {
+        "altitude"  : "75.0",
+        "latitude"  : "29.55970001220703",
+        "longitude" : "-82.49949645996094"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"

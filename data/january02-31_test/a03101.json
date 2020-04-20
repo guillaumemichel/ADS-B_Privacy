@@ -6,7 +6,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-01-13 00:00:04+00:00",
+      "time"                : "2020-01-13 00:00:04",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -20,16 +20,21 @@
     "arrival"   :
     {
       "airport"             : "CYUL",
-      "time"                : "2020-01-13 00:47:06+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-13 00:00:04",
+      "airport_position"    : 
+      {
+        "altitude"  : "118.0",
+        "latitude"  : "45.4706001282",
+        "longitude" : "-73.7407989502"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "-449.99999999999994",
         "latitude"  : "45.47195434570312",
         "longitude" : "-73.72202192034041"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "1476.0160382502866",
+      "vertical_distance"   : "-568.0"
     }
   },
   {
@@ -39,30 +44,40 @@
     "departure" :
     {
       "airport"             : "CYUL",
-      "time"                : "2020-01-15 21:43:59+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-15 21:43:59",
+      "airport_position"    : 
+      {
+        "altitude"  : "118.0",
+        "latitude"  : "45.4706001282",
+        "longitude" : "-73.7407989502"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "75.0",
         "latitude"  : "45.46513366699219",
         "longitude" : "-73.73140607561385"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "953.2430739151947",
+      "vertical_distance"   : "-43.0"
     },
     "arrival"   :
     {
       "airport"             : "CYYZ",
-      "time"                : "2020-01-15 22:50:08+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-15 21:43:59",
+      "airport_position"    : 
+      {
+        "altitude"  : "569.0",
+        "latitude"  : "43.6772003174",
+        "longitude" : "-79.63059997559999"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "424.99999999999994",
         "latitude"  : "43.68057632446289",
         "longitude" : "-79.62753295898438"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "449.28989140176265",
+      "vertical_distance"   : "-144.00000000000006"
     }
   },
   {
@@ -72,7 +87,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-01-29 18:05:24+00:00",
+      "time"                : "2020-01-29 18:05:24",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -86,7 +101,7 @@
     "arrival"   :
     {
       "airport"             : "KPHL",
-      "time"                : "2020-01-29 19:11:44+00:00",
+      "time"                : "2020-01-29 18:05:24",
       "airport_position"    : 
       {
         "altitude"  : "36.0",
@@ -110,7 +125,7 @@
     "departure" :
     {
       "airport"             : "KPHL",
-      "time"                : "2020-01-29 20:05:10+00:00",
+      "time"                : "2020-01-29 20:05:10",
       "airport_position"    : 
       {
         "altitude"  : "36.0",
@@ -129,16 +144,21 @@
     "arrival"   :
     {
       "airport"             : "CYUL",
-      "time"                : "2020-01-29 21:18:03+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-29 20:05:10",
+      "airport_position"    : 
+      {
+        "altitude"  : "118.0",
+        "latitude"  : "45.4706001282",
+        "longitude" : "-73.7407989502"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "-200.0",
         "latitude"  : "45.47193145751953",
         "longitude" : "-73.72238159179688"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "1447.7780655163906",
+      "vertical_distance"   : "-318.0"
     }
   }
 ]

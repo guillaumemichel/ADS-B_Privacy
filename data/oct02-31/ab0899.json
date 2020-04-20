@@ -6,21 +6,26 @@
     "departure" :
     {
       "airport"             : "CYYZ",
-      "time"                : "2019-10-02 14:36:08+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-10-02 14:36:08",
+      "airport_position"    : 
+      {
+        "altitude"  : "569.0",
+        "latitude"  : "43.6772003174",
+        "longitude" : "-79.63059997559999"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "724.9999999999999",
         "latitude"  : "43.68791198730469",
         "longitude" : "-79.64410826217296"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "1613.3154873859817",
+      "vertical_distance"   : "155.9999999999999"
     },
     "arrival"   :
     {
       "airport"             : "KSUS",
-      "time"                : "2019-10-02 16:11:58+00:00",
+      "time"                : "2019-10-02 14:36:08",
       "airport_position"    : 
       {
         "altitude"  : "463.0",
@@ -44,7 +49,7 @@
     "departure" :
     {
       "airport"             : "KCPS",
-      "time"                : "2019-10-19 02:23:56+00:00",
+      "time"                : "2019-10-19 02:23:56",
       "airport_position"    : 
       {
         "altitude"  : "413.0",
@@ -63,7 +68,7 @@
     "arrival"   :
     {
       "airport"             : "KORD",
-      "time"                : "2019-10-19 03:09:37+00:00",
+      "time"                : "2019-10-19 02:23:56",
       "airport_position"    : 
       {
         "altitude"  : "672.0",
@@ -87,7 +92,7 @@
     "departure" :
     {
       "airport"             : "KORD",
-      "time"                : "2019-10-19 04:01:30+00:00",
+      "time"                : "2019-10-19 04:01:30",
       "airport_position"    : 
       {
         "altitude"  : "672.0",
@@ -106,7 +111,7 @@
     "arrival"   :
     {
       "airport"             : "7IS2",
-      "time"                : "2019-10-19 04:40:36+00:00",
+      "time"                : "2019-10-19 04:01:30",
       "airport_position"    : 
       {
         "altitude"  : "565.0",
@@ -130,7 +135,7 @@
     "departure" :
     {
       "airport"             : "KCPS",
-      "time"                : "2019-10-21 17:24:35+00:00",
+      "time"                : "2019-10-21 17:24:35",
       "airport_position"    : 
       {
         "altitude"  : "413.0",
@@ -149,7 +154,7 @@
     "arrival"   :
     {
       "airport"             : "KDFW",
-      "time"                : "2019-10-21 19:02:18+00:00",
+      "time"                : "2019-10-21 17:24:35",
       "airport_position"    : 
       {
         "altitude"  : "607.0",
@@ -173,7 +178,7 @@
     "departure" :
     {
       "airport"             : "KDFW",
-      "time"                : "2019-10-21 21:21:34+00:00",
+      "time"                : "2019-10-21 21:21:34",
       "airport_position"    : 
       {
         "altitude"  : "607.0",
@@ -192,7 +197,7 @@
     "arrival"   :
     {
       "airport"             : "7IS2",
-      "time"                : "2019-10-21 22:20:26+00:00",
+      "time"                : "2019-10-21 21:21:34",
       "airport_position"    : 
       {
         "altitude"  : "565.0",
@@ -216,7 +221,7 @@
     "departure" :
     {
       "airport"             : "KCPS",
-      "time"                : "2019-10-23 18:10:53+00:00",
+      "time"                : "2019-10-23 18:10:53",
       "airport_position"    : 
       {
         "altitude"  : "413.0",
@@ -235,7 +240,7 @@
     "arrival"   :
     {
       "airport"             : "KTEB",
-      "time"                : "2019-10-23 19:57:02+00:00",
+      "time"                : "2019-10-23 18:10:53",
       "airport_position"    : 
       {
         "altitude"  : "9.0",
@@ -259,7 +264,7 @@
     "departure" :
     {
       "airport"             : "KTEB",
-      "time"                : "2019-10-24 20:47:21+00:00",
+      "time"                : "2019-10-24 20:47:21",
       "airport_position"    : 
       {
         "altitude"  : "9.0",
@@ -278,7 +283,7 @@
     "arrival"   :
     {
       "airport"             : "7IS2",
-      "time"                : "2019-10-24 23:04:10+00:00",
+      "time"                : "2019-10-24 20:47:21",
       "airport_position"    : 
       {
         "altitude"  : "565.0",

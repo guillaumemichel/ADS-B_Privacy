@@ -6,7 +6,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-02-11 20:17:26+00:00",
+      "time"                : "2020-02-11 20:17:26",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -20,7 +20,7 @@
     "arrival"   :
     {
       "airport"             : "KPTK",
-      "time"                : "2020-02-11 22:29:39+00:00",
+      "time"                : "2020-02-11 20:17:26",
       "airport_position"    : 
       {
         "altitude"  : "980.0",
@@ -44,7 +44,7 @@
     "departure" :
     {
       "airport"             : "KPTK",
-      "time"                : "2020-02-13 12:17:40+00:00",
+      "time"                : "2020-02-13 12:17:40",
       "airport_position"    : 
       {
         "altitude"  : "980.0",
@@ -63,7 +63,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2020-02-13 14:48:58+00:00",
+      "time"                : "2020-02-13 12:17:40",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -82,7 +82,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-02-13 16:15:38+00:00",
+      "time"                : "2020-02-13 16:15:38",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -96,16 +96,21 @@
     "arrival"   :
     {
       "airport"             : "MROC",
-      "time"                : "2020-02-13 18:56:41+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-13 16:15:38",
+      "airport_position"    : 
+      {
+        "altitude"  : "3021.0",
+        "latitude"  : "9.993860244750977",
+        "longitude" : "-84.20880126953125"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "22750.000000000004",
         "latitude"  : "10.90960693359375",
         "longitude" : "-84.0215906603583"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "103344.44895052457",
+      "vertical_distance"   : "19729.000000000004"
     }
   },
   {
@@ -115,21 +120,26 @@
     "departure" :
     {
       "airport"             : "MROC",
-      "time"                : "2020-02-18 15:58:54+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-18 15:58:54",
+      "airport_position"    : 
+      {
+        "altitude"  : "3021.0",
+        "latitude"  : "9.993860244750977",
+        "longitude" : "-84.20880126953125"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "2925.0000000000005",
         "latitude"  : "9.995155334472656",
         "longitude" : "-84.21297493627516"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "479.5026562891434",
+      "vertical_distance"   : "-95.99999999999955"
     },
     "arrival"   :
     {
       "airport"             : "KAPF",
-      "time"                : "2020-02-18 18:30:13+00:00",
+      "time"                : "2020-02-18 15:58:54",
       "airport_position"    : 
       {
         "altitude"  : "8.0",
@@ -153,7 +163,7 @@
     "departure" :
     {
       "airport"             : "KAPF",
-      "time"                : "2020-02-18 19:57:49+00:00",
+      "time"                : "2020-02-18 19:57:49",
       "airport_position"    : 
       {
         "altitude"  : "8.0",
@@ -172,7 +182,7 @@
     "arrival"   :
     {
       "airport"             : "KPTK",
-      "time"                : "2020-02-18 22:39:40+00:00",
+      "time"                : "2020-02-18 19:57:49",
       "airport_position"    : 
       {
         "altitude"  : "980.0",
@@ -196,7 +206,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-02-27 15:42:54+00:00",
+      "time"                : "2020-02-27 15:42:54",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -210,7 +220,7 @@
     "arrival"   :
     {
       "airport"             : "KPTK",
-      "time"                : "2020-02-27 18:12:39+00:00",
+      "time"                : "2020-02-27 15:42:54",
       "airport_position"    : 
       {
         "altitude"  : "980.0",

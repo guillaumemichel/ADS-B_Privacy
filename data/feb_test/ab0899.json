@@ -6,7 +6,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-02-08 12:11:37+00:00",
+      "time"                : "2020-02-08 12:11:37",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -20,7 +20,7 @@
     "arrival"   :
     {
       "airport"             : "KSUS",
-      "time"                : "2020-02-08 17:04:03+00:00",
+      "time"                : "2020-02-08 12:11:37",
       "airport_position"    : 
       {
         "altitude"  : "463.0",
@@ -44,7 +44,7 @@
     "departure" :
     {
       "airport"             : "KSUS",
-      "time"                : "2020-02-08 17:36:30+00:00",
+      "time"                : "2020-02-08 17:36:30",
       "airport_position"    : 
       {
         "altitude"  : "463.0",
@@ -63,7 +63,7 @@
     "arrival"   :
     {
       "airport"             : "KCPS",
-      "time"                : "2020-02-08 17:46:37+00:00",
+      "time"                : "2020-02-08 17:36:30",
       "airport_position"    : 
       {
         "altitude"  : "413.0",
@@ -87,7 +87,7 @@
     "departure" :
     {
       "airport"             : "KCPS",
-      "time"                : "2020-02-10 16:47:03+00:00",
+      "time"                : "2020-02-10 16:47:03",
       "airport_position"    : 
       {
         "altitude"  : "413.0",
@@ -106,7 +106,7 @@
     "arrival"   :
     {
       "airport"             : "KEWR",
-      "time"                : "2020-02-10 18:27:39+00:00",
+      "time"                : "2020-02-10 16:47:03",
       "airport_position"    : 
       {
         "altitude"  : "18.0",
@@ -130,7 +130,7 @@
     "departure" :
     {
       "airport"             : "KEWR",
-      "time"                : "2020-02-10 18:57:20+00:00",
+      "time"                : "2020-02-10 18:57:20",
       "airport_position"    : 
       {
         "altitude"  : "18.0",
@@ -149,7 +149,7 @@
     "arrival"   :
     {
       "airport"             : "7IS2",
-      "time"                : "2020-02-10 21:11:39+00:00",
+      "time"                : "2020-02-10 18:57:20",
       "airport_position"    : 
       {
         "altitude"  : "565.0",
@@ -173,7 +173,7 @@
     "departure" :
     {
       "airport"             : "KCPS",
-      "time"                : "2020-02-14 19:40:35+00:00",
+      "time"                : "2020-02-14 19:40:35",
       "airport_position"    : 
       {
         "altitude"  : "413.0",
@@ -192,7 +192,7 @@
     "arrival"   :
     {
       "airport"             : "KEWR",
-      "time"                : "2020-02-14 21:37:35+00:00",
+      "time"                : "2020-02-14 19:40:35",
       "airport_position"    : 
       {
         "altitude"  : "18.0",
@@ -216,7 +216,7 @@
     "departure" :
     {
       "airport"             : "KEWR",
-      "time"                : "2020-02-15 10:36:24+00:00",
+      "time"                : "2020-02-15 10:36:24",
       "airport_position"    : 
       {
         "altitude"  : "18.0",
@@ -235,7 +235,7 @@
     "arrival"   :
     {
       "airport"             : "KCPS",
-      "time"                : "2020-02-15 12:39:19+00:00",
+      "time"                : "2020-02-15 10:36:24",
       "airport_position"    : 
       {
         "altitude"  : "413.0",
@@ -259,7 +259,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-02-20 22:27:46+00:00",
+      "time"                : "2020-02-20 22:27:46",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -273,7 +273,7 @@
     "arrival"   :
     {
       "airport"             : "KCPS",
-      "time"                : "2020-02-20 23:54:13+00:00",
+      "time"                : "2020-02-20 22:27:46",
       "airport_position"    : 
       {
         "altitude"  : "413.0",
@@ -297,7 +297,7 @@
     "departure" :
     {
       "airport"             : "KCPS",
-      "time"                : "2020-02-25 19:01:45+00:00",
+      "time"                : "2020-02-25 19:01:45",
       "airport_position"    : 
       {
         "altitude"  : "413.0",
@@ -316,7 +316,7 @@
     "arrival"   :
     {
       "airport"             : "KOPF",
-      "time"                : "2020-02-25 21:13:01+00:00",
+      "time"                : "2020-02-25 19:01:45",
       "airport_position"    : 
       {
         "altitude"  : "8.0",
@@ -340,7 +340,7 @@
     "departure" :
     {
       "airport"             : "KOPF",
-      "time"                : "2020-02-27 13:09:53+00:00",
+      "time"                : "2020-02-27 13:09:53",
       "airport_position"    : 
       {
         "altitude"  : "8.0",
@@ -359,16 +359,21 @@
     "arrival"   :
     {
       "airport"             : "02PR",
-      "time"                : "2020-02-27 15:06:54+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-27 13:09:53",
+      "airport_position"    : 
+      {
+        "altitude"  : "15.0",
+        "latitude"  : "18.45330047607422",
+        "longitude" : "-66.36689758300781"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "26700.000000000004",
         "latitude"  : "25.77755685579979",
         "longitude" : "-79.12830280807783"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "1544969.8970292143",
+      "vertical_distance"   : "26685.000000000004"
     }
   }
 ]

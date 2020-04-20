@@ -6,7 +6,7 @@
     "departure" :
     {
       "airport"             : "KDET",
-      "time"                : "2020-02-11 14:04:12+00:00",
+      "time"                : "2020-02-11 14:04:12",
       "airport_position"    : 
       {
         "altitude"  : "626.0",
@@ -25,7 +25,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2020-02-11 14:32:11+00:00",
+      "time"                : "2020-02-11 14:04:12",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -44,7 +44,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-02-12 13:39:38+00:00",
+      "time"                : "2020-02-12 13:39:38",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -58,7 +58,7 @@
     "arrival"   :
     {
       "airport"             : "KDET",
-      "time"                : "2020-02-12 14:07:58+00:00",
+      "time"                : "2020-02-12 13:39:38",
       "airport_position"    : 
       {
         "altitude"  : "626.0",
@@ -82,7 +82,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-02-24 12:41:40+00:00",
+      "time"                : "2020-02-24 12:41:40",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -96,7 +96,7 @@
     "arrival"   :
     {
       "airport"             : "KHPN",
-      "time"                : "2020-02-24 13:45:52+00:00",
+      "time"                : "2020-02-24 12:41:40",
       "airport_position"    : 
       {
         "altitude"  : "439.0",
@@ -120,7 +120,7 @@
     "departure" :
     {
       "airport"             : "KHPN",
-      "time"                : "2020-02-25 15:13:39+00:00",
+      "time"                : "2020-02-25 15:13:39",
       "airport_position"    : 
       {
         "altitude"  : "439.0",
@@ -139,16 +139,21 @@
     "arrival"   :
     {
       "airport"             : "CYCK",
-      "time"                : "2020-02-25 16:23:38+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-25 15:13:39",
+      "airport_position"    : 
+      {
+        "altitude"  : "650.0",
+        "latitude"  : "42.3064002991",
+        "longitude" : "-82.0819015503"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "5024.999999999999",
         "latitude"  : "42.14900129932468",
         "longitude" : "-81.99454374091567"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "18912.520377990335",
+      "vertical_distance"   : "4374.999999999999"
     }
   },
   {
@@ -158,7 +163,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-02-26 14:17:56+00:00",
+      "time"                : "2020-02-26 14:17:56",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -172,7 +177,7 @@
     "arrival"   :
     {
       "airport"             : "KSYR",
-      "time"                : "2020-02-26 15:00:43+00:00",
+      "time"                : "2020-02-26 14:17:56",
       "airport_position"    : 
       {
         "altitude"  : "421.0",
@@ -196,7 +201,7 @@
     "departure" :
     {
       "airport"             : "KSYR",
-      "time"                : "2020-02-26 18:07:36+00:00",
+      "time"                : "2020-02-26 18:07:36",
       "airport_position"    : 
       {
         "altitude"  : "421.0",
@@ -215,16 +220,21 @@
     "arrival"   :
     {
       "airport"             : "CYCK",
-      "time"                : "2020-02-26 19:03:37+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-26 18:07:36",
+      "airport_position"    : 
+      {
+        "altitude"  : "650.0",
+        "latitude"  : "42.3064002991",
+        "longitude" : "-82.0819015503"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "3850.0",
         "latitude"  : "42.18442755230402",
         "longitude" : "-81.95193978243094"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "17280.27069795032",
+      "vertical_distance"   : "3200.0"
     }
   }
 ]

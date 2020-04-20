@@ -6,7 +6,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-11-01 14:02:46+00:00",
+      "time"                : "2019-11-01 14:02:46",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -20,7 +20,7 @@
     "arrival"   :
     {
       "airport"             : "78VA",
-      "time"                : "2019-11-01 14:44:19+00:00",
+      "time"                : "2019-11-01 14:02:46",
       "airport_position"    : 
       {
         "altitude"  : "490.0",
@@ -44,7 +44,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-11-06 19:27:42+00:00",
+      "time"                : "2019-11-06 19:27:42",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -58,7 +58,7 @@
     "arrival"   :
     {
       "airport"             : "KTEB",
-      "time"                : "2019-11-06 20:25:18+00:00",
+      "time"                : "2019-11-06 19:27:42",
       "airport_position"    : 
       {
         "altitude"  : "9.0",
@@ -82,7 +82,7 @@
     "departure" :
     {
       "airport"             : "KTEB",
-      "time"                : "2019-11-06 21:21:17+00:00",
+      "time"                : "2019-11-06 21:21:17",
       "airport_position"    : 
       {
         "altitude"  : "9.0",
@@ -101,7 +101,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2019-11-06 22:31:21+00:00",
+      "time"                : "2019-11-06 21:21:17",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -120,7 +120,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-11-07 14:56:19+00:00",
+      "time"                : "2019-11-07 14:56:19",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -134,7 +134,7 @@
     "arrival"   :
     {
       "airport"             : "KTEB",
-      "time"                : "2019-11-07 15:54:27+00:00",
+      "time"                : "2019-11-07 14:56:19",
       "airport_position"    : 
       {
         "altitude"  : "9.0",
@@ -158,7 +158,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-11-19 13:25:13+00:00",
+      "time"                : "2019-11-19 13:25:13",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -172,7 +172,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2019-11-19 14:03:46+00:00",
+      "time"                : "2019-11-19 13:25:13",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -191,7 +191,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-11-22 14:30:58+00:00",
+      "time"                : "2019-11-22 14:30:58",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -205,16 +205,21 @@
     "arrival"   :
     {
       "airport"             : "CYHU",
-      "time"                : "2019-11-22 15:37:11+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-22 14:30:58",
+      "airport_position"    : 
+      {
+        "altitude"  : "90.0",
+        "latitude"  : "45.5175018311",
+        "longitude" : "-73.4169006348"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "500.0",
         "latitude"  : "45.51809149273371",
         "longitude" : "-73.40357710675494"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "1043.0738875417562",
+      "vertical_distance"   : "410.0"
     }
   }
 ]

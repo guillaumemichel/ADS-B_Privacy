@@ -1,0 +1,164 @@
+[
+  {
+    "icao"      : "a48070",
+    "callsign"  : "DCM6065",
+    "nnumber"   : "N39A",
+    "departure" :
+    {
+      "airport"             : "KHIO",
+      "time"                : "2019-10-07 23:02:25+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "208.0",
+        "latitude"  : "45.540401",
+        "longitude" : "-122.949997"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "350.0",
+        "latitude"  : "45.54803466796875",
+        "longitude" : "-122.9577115686928"
+      },
+      "horizontal_distance" : "1040.5816893967624",
+      "vertical_distance"   : "142.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-10-07 23:22:48+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "13799.999999999998",
+        "latitude"  : "44.833575749801376",
+        "longitude" : "-121.65871224752291"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a48070",
+    "callsign"  : "DCM6065",
+    "nnumber"   : "N39A",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-10-08 00:32:51+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "16049.999999999998",
+        "latitude"  : "44.729438393802965",
+        "longitude" : "-121.3218875047637"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHIO",
+      "time"                : "2019-10-08 01:03:18+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "208.0",
+        "latitude"  : "45.540401",
+        "longitude" : "-122.949997"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "300.0",
+        "latitude"  : "45.53064895888506",
+        "longitude" : "-122.93975830078121"
+      },
+      "horizontal_distance" : "1346.9722537787227",
+      "vertical_distance"   : "92.0"
+    }
+  },
+  {
+    "icao"      : "a48070",
+    "callsign"  : "DCM6065",
+    "nnumber"   : "N39A",
+    "departure" :
+    {
+      "airport"             : "OR81",
+      "time"                : "2019-10-15 20:25:12+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "185.0",
+        "latitude"  : "45.559799194300005",
+        "longitude" : "-123.019996643"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1824.9999999999998",
+        "latitude"  : "45.57330322265625",
+        "longitude" : "-122.9841055521151"
+      },
+      "horizontal_distance" : "3178.5394496493495",
+      "vertical_distance"   : "1639.9999999999998"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KCOE",
+      "time"                : "2019-10-15 21:30:21+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "2320.0",
+        "latitude"  : "47.77429962",
+        "longitude" : "-116.8199997"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "27000.0",
+        "latitude"  : "46.64361986063295",
+        "longitude" : "-119.4679412841797"
+      },
+      "horizontal_distance" : "236715.12143946107",
+      "vertical_distance"   : "24680.0"
+    }
+  },
+  {
+    "icao"      : "a48070",
+    "callsign"  : "DCM6065",
+    "nnumber"   : "N39A",
+    "departure" :
+    {
+      "airport"             : "KCOE",
+      "time"                : "2019-10-15 22:10:03+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "2320.0",
+        "latitude"  : "47.77429962",
+        "longitude" : "-116.8199997"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2400.0",
+        "latitude"  : "47.78022766113281",
+        "longitude" : "-116.80856323242192"
+      },
+      "horizontal_distance" : "1081.2415597598886",
+      "vertical_distance"   : "80.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHIO",
+      "time"                : "2019-10-15 23:50:58+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "208.0",
+        "latitude"  : "45.540401",
+        "longitude" : "-122.949997"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "24000.000000000004",
+        "latitude"  : "47.160629013837394",
+        "longitude" : "-118.1409865159255"
+      },
+      "horizontal_distance" : "411552.4927769404",
+      "vertical_distance"   : "23792.000000000004"
+    }
+  }
+]

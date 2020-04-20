@@ -181,6 +181,7 @@ def scrape_range(initial, length):
 
     # printing array
     counter = 0
+    reserved = list()
     for r in reg_type:
         if r == 'Reserved':
             c = 0
@@ -191,6 +192,7 @@ def scrape_range(initial, length):
                     if e2:
                         string += "\x1b[32m"+e1+"\x1b[0m"+ ", "
                         counter += 1
+                        reserved.append(e1)
                     else:
                         string += e1+ ", "
                     c+=1
@@ -205,6 +207,13 @@ def scrape_range(initial, length):
             print(string)
 
     print(counter)
+
+    mystring = ""
+    for r in reserved:
+        mystring += n_to_icao(r) + "\n"
+    f = open('icaos.txt', 'w')
+    f.write(mystring)
+    f.close()
 
 if __name__ == "__main__":
     scrape_range('N4100', 9100)

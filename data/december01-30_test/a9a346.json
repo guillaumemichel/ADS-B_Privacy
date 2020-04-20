@@ -6,7 +6,7 @@
     "departure" :
     {
       "airport"             : "KPHL",
-      "time"                : "2019-12-04 15:47:35+00:00",
+      "time"                : "2019-12-04 15:47:35",
       "airport_position"    : 
       {
         "altitude"  : "36.0",
@@ -25,7 +25,7 @@
     "arrival"   :
     {
       "airport"             : "KMIA",
-      "time"                : "2019-12-04 17:48:27+00:00",
+      "time"                : "2019-12-04 15:47:35",
       "airport_position"    : 
       {
         "altitude"  : "8.0",
@@ -49,7 +49,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-12-08 18:43:43+00:00",
+      "time"                : "2019-12-08 18:43:43",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -63,7 +63,7 @@
     "arrival"   :
     {
       "airport"             : "KTEB",
-      "time"                : "2019-12-08 20:55:20+00:00",
+      "time"                : "2019-12-08 18:43:43",
       "airport_position"    : 
       {
         "altitude"  : "9.0",
@@ -87,7 +87,7 @@
     "departure" :
     {
       "airport"             : "KTEB",
-      "time"                : "2019-12-08 21:32:06+00:00",
+      "time"                : "2019-12-08 21:32:06",
       "airport_position"    : 
       {
         "altitude"  : "9.0",
@@ -106,7 +106,7 @@
     "arrival"   :
     {
       "airport"             : "KPHL",
-      "time"                : "2019-12-08 22:02:17+00:00",
+      "time"                : "2019-12-08 21:32:06",
       "airport_position"    : 
       {
         "altitude"  : "36.0",
@@ -130,7 +130,7 @@
     "departure" :
     {
       "airport"             : "KPHL",
-      "time"                : "2019-12-10 14:14:13+00:00",
+      "time"                : "2019-12-10 14:14:13",
       "airport_position"    : 
       {
         "altitude"  : "36.0",
@@ -149,7 +149,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2019-12-10 15:53:18+00:00",
+      "time"                : "2019-12-10 14:14:13",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -168,7 +168,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-12-10 20:18:32+00:00",
+      "time"                : "2019-12-10 20:18:32",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -182,7 +182,7 @@
     "arrival"   :
     {
       "airport"             : "KPHL",
-      "time"                : "2019-12-10 22:14:39+00:00",
+      "time"                : "2019-12-10 20:18:32",
       "airport_position"    : 
       {
         "altitude"  : "36.0",
@@ -206,7 +206,7 @@
     "departure" :
     {
       "airport"             : "KPHL",
-      "time"                : "2019-12-11 18:32:23+00:00",
+      "time"                : "2019-12-11 18:32:23",
       "airport_position"    : 
       {
         "altitude"  : "36.0",
@@ -225,7 +225,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2019-12-11 20:21:58+00:00",
+      "time"                : "2019-12-11 18:32:23",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -244,7 +244,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-12-11 23:11:19+00:00",
+      "time"                : "2019-12-11 23:11:19",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -258,7 +258,7 @@
     "arrival"   :
     {
       "airport"             : "KPHL",
-      "time"                : "2019-12-12 01:07:12+00:00",
+      "time"                : "2019-12-11 23:11:19",
       "airport_position"    : 
       {
         "altitude"  : "36.0",
@@ -282,7 +282,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-12-26 15:48:21+00:00",
+      "time"                : "2019-12-26 15:48:21",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -296,16 +296,21 @@
     "arrival"   :
     {
       "airport"             : "FALA",
-      "time"                : "2019-12-26 15:59:50+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-26 15:48:21",
+      "airport_position"    : 
+      {
+        "altitude"  : "4517.0",
+        "latitude"  : "-25.9384994507",
+        "longitude" : "27.926099777199997"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "-475.0",
         "latitude"  : "39.86670801195047",
         "longitude" : "-75.2342529296875"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "12886974.52800997",
+      "vertical_distance"   : "-4992.0"
     }
   }
 ]

@@ -6,7 +6,7 @@
     "departure" :
     {
       "airport"             : "KOPF",
-      "time"                : "2020-02-10 14:32:09+00:00",
+      "time"                : "2020-02-10 14:32:09",
       "airport_position"    : 
       {
         "altitude"  : "8.0",
@@ -25,7 +25,7 @@
     "arrival"   :
     {
       "airport"             : "KISM",
-      "time"                : "2020-02-10 15:08:16+00:00",
+      "time"                : "2020-02-10 14:32:09",
       "airport_position"    : 
       {
         "altitude"  : "82.0",
@@ -49,7 +49,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-02-11 03:01:36+00:00",
+      "time"                : "2020-02-11 03:01:36",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -63,7 +63,7 @@
     "arrival"   :
     {
       "airport"             : "KOPF",
-      "time"                : "2020-02-11 03:34:03+00:00",
+      "time"                : "2020-02-11 03:01:36",
       "airport_position"    : 
       {
         "altitude"  : "8.0",
@@ -87,7 +87,7 @@
     "departure" :
     {
       "airport"             : "KOPF",
-      "time"                : "2020-02-13 20:53:35+00:00",
+      "time"                : "2020-02-13 20:53:35",
       "airport_position"    : 
       {
         "altitude"  : "8.0",
@@ -106,16 +106,21 @@
     "arrival"   :
     {
       "airport"             : "02PR",
-      "time"                : "2020-02-13 22:50:53+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-13 20:53:35",
+      "airport_position"    : 
+      {
+        "altitude"  : "15.0",
+        "latitude"  : "18.45330047607422",
+        "longitude" : "-66.36689758300781"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "17000.0",
         "latitude"  : "25.969352075609105",
         "longitude" : "-79.62383563701924"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "1598719.5874040227",
+      "vertical_distance"   : "16985.0"
     }
   },
   {
@@ -125,21 +130,26 @@
     "departure" :
     {
       "airport"             : "TJIG",
-      "time"                : "2020-02-17 22:23:24+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-17 22:23:24",
+      "airport_position"    : 
+      {
+        "altitude"  : "10.0",
+        "latitude"  : "18.45680046081543",
+        "longitude" : "-66.09809875488281"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "4900.0",
         "latitude"  : "18.52752685546875",
         "longitude" : "-66.1490249633789"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "9497.845776148613",
+      "vertical_distance"   : "4890.0"
     },
     "arrival"   :
     {
       "airport"             : "KOPF",
-      "time"                : "2020-02-18 00:42:38+00:00",
+      "time"                : "2020-02-17 22:23:24",
       "airport_position"    : 
       {
         "altitude"  : "8.0",
@@ -163,7 +173,7 @@
     "departure" :
     {
       "airport"             : "KOPF",
-      "time"                : "2020-02-18 19:05:36+00:00",
+      "time"                : "2020-02-18 19:05:36",
       "airport_position"    : 
       {
         "altitude"  : "8.0",
@@ -182,7 +192,7 @@
     "arrival"   :
     {
       "airport"             : "KFRG",
-      "time"                : "2020-02-18 21:29:04+00:00",
+      "time"                : "2020-02-18 19:05:36",
       "airport_position"    : 
       {
         "altitude"  : "82.0",
@@ -206,7 +216,7 @@
     "departure" :
     {
       "airport"             : "KFRG",
-      "time"                : "2020-02-20 22:27:17+00:00",
+      "time"                : "2020-02-20 22:27:17",
       "airport_position"    : 
       {
         "altitude"  : "82.0",
@@ -225,7 +235,7 @@
     "arrival"   :
     {
       "airport"             : "KTEB",
-      "time"                : "2020-02-20 23:00:03+00:00",
+      "time"                : "2020-02-20 22:27:17",
       "airport_position"    : 
       {
         "altitude"  : "9.0",
@@ -249,7 +259,7 @@
     "departure" :
     {
       "airport"             : "KTEB",
-      "time"                : "2020-02-21 01:58:53+00:00",
+      "time"                : "2020-02-21 01:58:53",
       "airport_position"    : 
       {
         "altitude"  : "9.0",
@@ -268,7 +278,7 @@
     "arrival"   :
     {
       "airport"             : "KOPF",
-      "time"                : "2020-02-21 04:33:09+00:00",
+      "time"                : "2020-02-21 01:58:53",
       "airport_position"    : 
       {
         "altitude"  : "8.0",

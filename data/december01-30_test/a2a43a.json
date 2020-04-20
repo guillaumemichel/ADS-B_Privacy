@@ -6,7 +6,7 @@
     "departure" :
     {
       "airport"             : "KOPF",
-      "time"                : "2019-12-05 12:20:36+00:00",
+      "time"                : "2019-12-05 12:20:36",
       "airport_position"    : 
       {
         "altitude"  : "8.0",
@@ -25,16 +25,21 @@
     "arrival"   :
     {
       "airport"             : "TBPB",
-      "time"                : "2019-12-05 15:18:52+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-05 12:20:36",
+      "airport_position"    : 
+      {
+        "altitude"  : "169.0",
+        "latitude"  : "13.0746",
+        "longitude" : "-59.4925"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "16750.000000000004",
         "latitude"  : "25.93117924059852",
         "longitude" : "-79.43294818584734"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "2525215.633712199",
+      "vertical_distance"   : "16581.000000000004"
     }
   },
   {
@@ -44,30 +49,40 @@
     "departure" :
     {
       "airport"             : "TBPB",
-      "time"                : "2019-12-05 22:55:04+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-05 22:55:04",
+      "airport_position"    : 
+      {
+        "altitude"  : "169.0",
+        "latitude"  : "13.0746",
+        "longitude" : "-59.4925"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "5300.0",
         "latitude"  : "13.13772583007812",
         "longitude" : "-59.43238883182921"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "9553.066940198798",
+      "vertical_distance"   : "5131.0"
     },
     "arrival"   :
     {
       "airport"             : "TBPB",
-      "time"                : "2019-12-05 23:15:33+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-05 22:55:04",
+      "airport_position"    : 
+      {
+        "altitude"  : "169.0",
+        "latitude"  : "13.0746",
+        "longitude" : "-59.4925"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "1225.0",
         "latitude"  : "13.05753028998941",
         "longitude" : "-59.56189607319079"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "7759.716395886742",
+      "vertical_distance"   : "1056.0"
     }
   },
   {
@@ -77,21 +92,26 @@
     "departure" :
     {
       "airport"             : "TBPB",
-      "time"                : "2019-12-06 01:44:43+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-06 01:44:43",
+      "airport_position"    : 
+      {
+        "altitude"  : "169.0",
+        "latitude"  : "13.0746",
+        "longitude" : "-59.4925"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "4650.0",
         "latitude"  : "13.12797546386719",
         "longitude" : "-59.43196263806573"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "8829.745219036247",
+      "vertical_distance"   : "4481.0"
     },
     "arrival"   :
     {
       "airport"             : "KMIA",
-      "time"                : "2019-12-06 05:09:16+00:00",
+      "time"                : "2019-12-06 01:44:43",
       "airport_position"    : 
       {
         "altitude"  : "8.0",
@@ -115,7 +135,7 @@
     "departure" :
     {
       "airport"             : "KOPF",
-      "time"                : "2019-12-13 17:10:56+00:00",
+      "time"                : "2019-12-13 17:10:56",
       "airport_position"    : 
       {
         "altitude"  : "8.0",
@@ -134,7 +154,7 @@
     "arrival"   :
     {
       "airport"             : "KOPF",
-      "time"                : "2019-12-13 18:10:13+00:00",
+      "time"                : "2019-12-13 17:10:56",
       "airport_position"    : 
       {
         "altitude"  : "8.0",
@@ -158,7 +178,7 @@
     "departure" :
     {
       "airport"             : "KOPF",
-      "time"                : "2019-12-16 19:18:12+00:00",
+      "time"                : "2019-12-16 19:18:12",
       "airport_position"    : 
       {
         "altitude"  : "8.0",
@@ -177,7 +197,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2019-12-16 22:01:13+00:00",
+      "time"                : "2019-12-16 19:18:12",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {

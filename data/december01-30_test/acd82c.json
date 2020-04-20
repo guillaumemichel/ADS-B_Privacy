@@ -6,7 +6,7 @@
     "departure" :
     {
       "airport"             : "5TA2",
-      "time"                : "2019-12-12 14:07:24+00:00",
+      "time"                : "2019-12-12 14:07:24",
       "airport_position"    : 
       {
         "altitude"  : "740.0",
@@ -25,7 +25,7 @@
     "arrival"   :
     {
       "airport"             : "KHOU",
-      "time"                : "2019-12-12 14:38:14+00:00",
+      "time"                : "2019-12-12 14:07:24",
       "airport_position"    : 
       {
         "altitude"  : "46.0",
@@ -49,7 +49,7 @@
     "departure" :
     {
       "airport"             : "KHOU",
-      "time"                : "2019-12-12 18:19:45+00:00",
+      "time"                : "2019-12-12 18:19:45",
       "airport_position"    : 
       {
         "altitude"  : "46.0",
@@ -68,7 +68,7 @@
     "arrival"   :
     {
       "airport"             : "KIAD",
-      "time"                : "2019-12-12 20:50:38+00:00",
+      "time"                : "2019-12-12 18:19:45",
       "airport_position"    : 
       {
         "altitude"  : "312.0",
@@ -92,7 +92,7 @@
     "departure" :
     {
       "airport"             : "KIAD",
-      "time"                : "2019-12-16 19:02:27+00:00",
+      "time"                : "2019-12-16 19:02:27",
       "airport_position"    : 
       {
         "altitude"  : "312.0",
@@ -111,7 +111,7 @@
     "arrival"   :
     {
       "airport"             : "KCNW",
-      "time"                : "2019-12-16 22:12:03+00:00",
+      "time"                : "2019-12-16 19:02:27",
       "airport_position"    : 
       {
         "altitude"  : "470.0",
@@ -135,7 +135,7 @@
     "departure" :
     {
       "airport"             : "5TA2",
-      "time"                : "2019-12-20 13:10:09+00:00",
+      "time"                : "2019-12-20 13:10:09",
       "airport_position"    : 
       {
         "altitude"  : "740.0",
@@ -154,7 +154,7 @@
     "arrival"   :
     {
       "airport"             : "KADS",
-      "time"                : "2019-12-20 13:36:47+00:00",
+      "time"                : "2019-12-20 13:10:09",
       "airport_position"    : 
       {
         "altitude"  : "644.0",
@@ -178,7 +178,7 @@
     "departure" :
     {
       "airport"             : "KADS",
-      "time"                : "2019-12-20 14:19:36+00:00",
+      "time"                : "2019-12-20 14:19:36",
       "airport_position"    : 
       {
         "altitude"  : "644.0",
@@ -197,7 +197,7 @@
     "arrival"   :
     {
       "airport"             : "KHOU",
-      "time"                : "2019-12-20 15:05:58+00:00",
+      "time"                : "2019-12-20 14:19:36",
       "airport_position"    : 
       {
         "altitude"  : "46.0",
@@ -221,7 +221,7 @@
     "departure" :
     {
       "airport"             : "KHOU",
-      "time"                : "2019-12-20 15:49:20+00:00",
+      "time"                : "2019-12-20 15:49:20",
       "airport_position"    : 
       {
         "altitude"  : "46.0",
@@ -240,16 +240,21 @@
     "arrival"   :
     {
       "airport"             : "MROC",
-      "time"                : "2019-12-20 19:00:38+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-20 15:49:20",
+      "airport_position"    : 
+      {
+        "altitude"  : "3021.0",
+        "latitude"  : "9.993860244750977",
+        "longitude" : "-84.20880126953125"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "35800.0",
         "latitude"  : "31.6055711649232",
         "longitude" : "-97.12628173828124"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "2739139.0851696073",
+      "vertical_distance"   : "32779.0"
     }
   },
   {
@@ -259,21 +264,26 @@
     "departure" :
     {
       "airport"             : "MROC",
-      "time"                : "2019-12-27 13:58:46+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-27 13:58:46",
+      "airport_position"    : 
+      {
+        "altitude"  : "3021.0",
+        "latitude"  : "9.993860244750977",
+        "longitude" : "-84.20880126953125"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "8049.999999999999",
         "latitude"  : "31.57049560546875",
         "longitude" : "-97.24381390739893"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "2741766.7233055695",
+      "vertical_distance"   : "5028.999999999999"
     },
     "arrival"   :
     {
       "airport"             : "KHOU",
-      "time"                : "2019-12-27 17:20:58+00:00",
+      "time"                : "2019-12-27 13:58:46",
       "airport_position"    : 
       {
         "altitude"  : "46.0",
@@ -297,7 +307,7 @@
     "departure" :
     {
       "airport"             : "KHOU",
-      "time"                : "2019-12-27 18:10:17+00:00",
+      "time"                : "2019-12-27 18:10:17",
       "airport_position"    : 
       {
         "altitude"  : "46.0",
@@ -316,7 +326,7 @@
     "arrival"   :
     {
       "airport"             : "KADS",
-      "time"                : "2019-12-27 18:48:46+00:00",
+      "time"                : "2019-12-27 18:10:17",
       "airport_position"    : 
       {
         "altitude"  : "644.0",
@@ -340,7 +350,7 @@
     "departure" :
     {
       "airport"             : "5TA2",
-      "time"                : "2019-12-28 20:23:12+00:00",
+      "time"                : "2019-12-28 20:23:12",
       "airport_position"    : 
       {
         "altitude"  : "740.0",
@@ -359,7 +369,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2019-12-28 22:10:18+00:00",
+      "time"                : "2019-12-28 20:23:12",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -378,7 +388,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-12-28 23:20:52+00:00",
+      "time"                : "2019-12-28 23:20:52",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -392,7 +402,7 @@
     "arrival"   :
     {
       "airport"             : "TE92",
-      "time"                : "2019-12-29 00:52:36+00:00",
+      "time"                : "2019-12-28 23:20:52",
       "airport_position"    : 
       {
         "altitude"  : "640.0",

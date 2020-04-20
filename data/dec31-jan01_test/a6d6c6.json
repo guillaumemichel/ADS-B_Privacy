@@ -6,8 +6,13 @@
     "departure" :
     {
       "airport"             : "KPIE",
-      "time"                : "2019-12-31 14:12:47+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-31 14:12:47",
+      "airport_position"    : 
+      {
+        "altitude"  : "11.0",
+        "latitude"  : "27.91020012",
+        "longitude" : "-82.68740082"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -15,7 +20,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2019-12-31 14:35:05+00:00",
+      "time"                : "2019-12-31 14:12:47",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -29,7 +34,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-12-31 16:20:21+00:00",
+      "time"                : "2019-12-31 16:20:21",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -38,8 +43,13 @@
     "arrival"   :
     {
       "airport"             : "KPIE",
-      "time"                : "2019-12-31 17:01:39+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-31 16:20:21",
+      "airport_position"    : 
+      {
+        "altitude"  : "11.0",
+        "latitude"  : "27.91020012",
+        "longitude" : "-82.68740082"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"

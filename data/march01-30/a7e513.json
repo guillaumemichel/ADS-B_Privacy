@@ -6,8 +6,13 @@
     "departure" :
     {
       "airport"             : "1TX4",
-      "time"                : "2020-03-17 16:48:55+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-17 16:48:55",
+      "airport_position"    : 
+      {
+        "altitude"  : "900.0",
+        "latitude"  : "30.428600311279297",
+        "longitude" : "-97.97049713134766"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -15,8 +20,13 @@
     "arrival"   :
     {
       "airport"             : "KECP",
-      "time"                : "2020-03-17 18:29:36+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-17 16:48:55",
+      "airport_position"    : 
+      {
+        "altitude"  : "69.0",
+        "latitude"  : "30.357105999999998",
+        "longitude" : "-85.79541400000001"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -29,8 +39,13 @@
     "departure" :
     {
       "airport"             : "KECP",
-      "time"                : "2020-03-21 18:34:50+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-21 18:34:50",
+      "airport_position"    : 
+      {
+        "altitude"  : "69.0",
+        "latitude"  : "30.357105999999998",
+        "longitude" : "-85.79541400000001"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -38,8 +53,13 @@
     "arrival"   :
     {
       "airport"             : "XS12",
-      "time"                : "2020-03-21 20:42:15+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-21 18:34:50",
+      "airport_position"    : 
+      {
+        "altitude"  : "1161.0",
+        "latitude"  : "30.67600059509277",
+        "longitude" : "-98.01750183105469"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"

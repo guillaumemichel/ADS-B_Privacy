@@ -6,30 +6,40 @@
     "departure" :
     {
       "airport"             : "EDMO",
-      "time"                : "2019-12-04 07:55:29+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-04 07:55:29",
+      "airport_position"    : 
+      {
+        "altitude"  : "1947.0",
+        "latitude"  : "48.081402000000004",
+        "longitude" : "11.2831"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "2200.0000000000005",
         "latitude"  : "48.07379150390625",
         "longitude" : "11.27293395996094"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "1135.742947363967",
+      "vertical_distance"   : "253.00000000000045"
     },
     "arrival"   :
     {
       "airport"             : "LSZV",
-      "time"                : "2019-12-04 08:34:12+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-04 07:55:29",
+      "airport_position"    : 
+      {
+        "altitude"  : "1660.0",
+        "latitude"  : "47.5088996887207",
+        "longitude" : "9.26278018951416"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "3250.0",
         "latitude"  : "47.61433410644531",
         "longitude" : "9.364471435546877"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "13999.279075750606",
+      "vertical_distance"   : "1590.0"
     }
   },
   {
@@ -39,21 +49,26 @@
     "departure" :
     {
       "airport"             : "EDNY",
-      "time"                : "2019-12-04 09:16:25+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-04 09:16:25",
+      "airport_position"    : 
+      {
+        "altitude"  : "1367.0",
+        "latitude"  : "47.671298980699994",
+        "longitude" : "9.511489868160002"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "3800.0",
         "latitude"  : "47.69004821777344",
         "longitude" : "9.556732177734377"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "3985.6335615266794",
+      "vertical_distance"   : "2433.0"
     },
     "arrival"   :
     {
       "airport"             : "LSZM",
-      "time"                : "2019-12-04 09:45:34+00:00",
+      "time"                : "2019-12-04 09:16:25",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {

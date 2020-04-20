@@ -6,7 +6,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-02-05 17:23:04+00:00",
+      "time"                : "2020-02-05 17:23:04",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -15,8 +15,13 @@
     "arrival"   :
     {
       "airport"             : "KSVH",
-      "time"                : "2020-02-05 17:53:04+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-05 17:23:04",
+      "airport_position"    : 
+      {
+        "altitude"  : "968.0",
+        "latitude"  : "35.765300750732",
+        "longitude" : "-80.953903198242"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"

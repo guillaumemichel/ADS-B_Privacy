@@ -6,8 +6,13 @@
     "departure" :
     {
       "airport"             : "KSFO",
-      "time"                : "2019-12-01 03:28:23+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-01 03:28:23",
+      "airport_position"    : 
+      {
+        "altitude"  : "13.0",
+        "latitude"  : "37.61899948120117",
+        "longitude" : "-122.375"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -15,8 +20,13 @@
     "arrival"   :
     {
       "airport"             : "IN93",
-      "time"                : "2019-12-01 06:46:27+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-01 03:28:23",
+      "airport_position"    : 
+      {
+        "altitude"  : "760.0",
+        "latitude"  : "41.71200180053711",
+        "longitude" : "-86.43280029296875"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -29,7 +39,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-12-01 08:57:46+00:00",
+      "time"                : "2019-12-01 08:57:46",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -38,7 +48,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2019-12-01 09:10:37+00:00",
+      "time"                : "2019-12-01 08:57:46",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -52,7 +62,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-12-01 16:50:30+00:00",
+      "time"                : "2019-12-01 16:50:30",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -61,8 +71,13 @@
     "arrival"   :
     {
       "airport"             : "KATL",
-      "time"                : "2019-12-01 18:13:33+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-01 16:50:30",
+      "airport_position"    : 
+      {
+        "altitude"  : "1026.0",
+        "latitude"  : "33.6367",
+        "longitude" : "-84.428101"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -75,8 +90,13 @@
     "departure" :
     {
       "airport"             : "KATL",
-      "time"                : "2019-12-01 20:09:36+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-01 20:09:36",
+      "airport_position"    : 
+      {
+        "altitude"  : "1026.0",
+        "latitude"  : "33.6367",
+        "longitude" : "-84.428101"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -84,8 +104,13 @@
     "arrival"   :
     {
       "airport"             : "KORL",
-      "time"                : "2019-12-01 21:05:48+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-01 20:09:36",
+      "airport_position"    : 
+      {
+        "altitude"  : "113.0",
+        "latitude"  : "28.5455",
+        "longitude" : "-81.332901"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -98,8 +123,13 @@
     "departure" :
     {
       "airport"             : "25GA",
-      "time"                : "2019-12-02 02:27:40+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-02 02:27:40",
+      "airport_position"    : 
+      {
+        "altitude"  : "750.0",
+        "latitude"  : "33.65959930419922",
+        "longitude" : "-84.66300201416016"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -107,8 +137,13 @@
     "arrival"   :
     {
       "airport"             : "SBGR",
-      "time"                : "2019-12-02 11:16:30+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-02 02:27:40",
+      "airport_position"    : 
+      {
+        "altitude"  : "2459.0",
+        "latitude"  : "-23.435556411743164",
+        "longitude" : "-46.47305679321289"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -121,8 +156,13 @@
     "departure" :
     {
       "airport"             : "SBGR",
-      "time"                : "2019-12-03 02:08:47+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-03 02:08:47",
+      "airport_position"    : 
+      {
+        "altitude"  : "2459.0",
+        "latitude"  : "-23.435556411743164",
+        "longitude" : "-46.47305679321289"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -130,8 +170,13 @@
     "arrival"   :
     {
       "airport"             : "KATL",
-      "time"                : "2019-12-03 11:34:41+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-03 02:08:47",
+      "airport_position"    : 
+      {
+        "altitude"  : "1026.0",
+        "latitude"  : "33.6367",
+        "longitude" : "-84.428101"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -144,8 +189,13 @@
     "departure" :
     {
       "airport"             : "KATL",
-      "time"                : "2019-12-05 01:32:36+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-05 01:32:36",
+      "airport_position"    : 
+      {
+        "altitude"  : "1026.0",
+        "latitude"  : "33.6367",
+        "longitude" : "-84.428101"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -153,8 +203,13 @@
     "arrival"   :
     {
       "airport"             : "EHAM",
-      "time"                : "2019-12-05 09:19:27+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-05 01:32:36",
+      "airport_position"    : 
+      {
+        "altitude"  : "-11.0",
+        "latitude"  : "52.308601",
+        "longitude" : "4.76389"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -167,8 +222,13 @@
     "departure" :
     {
       "airport"             : "EHAM",
-      "time"                : "2019-12-05 12:53:30+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-05 12:53:30",
+      "airport_position"    : 
+      {
+        "altitude"  : "-11.0",
+        "latitude"  : "52.308601",
+        "longitude" : "4.76389"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -176,8 +236,13 @@
     "arrival"   :
     {
       "airport"             : "35MN",
-      "time"                : "2019-12-05 21:38:46+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-05 12:53:30",
+      "airport_position"    : 
+      {
+        "altitude"  : "687.0",
+        "latitude"  : "44.81549835205078",
+        "longitude" : "-93.01349639892578"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -190,8 +255,13 @@
     "departure" :
     {
       "airport"             : "KMSP",
-      "time"                : "2019-12-05 23:58:55+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-05 23:58:55",
+      "airport_position"    : 
+      {
+        "altitude"  : "841.0",
+        "latitude"  : "44.882",
+        "longitude" : "-93.221802"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -199,8 +269,13 @@
     "arrival"   :
     {
       "airport"             : "EGLL",
-      "time"                : "2019-12-06 07:25:15+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-05 23:58:55",
+      "airport_position"    : 
+      {
+        "altitude"  : "83.0",
+        "latitude"  : "51.4706",
+        "longitude" : "-0.461941"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -213,8 +288,13 @@
     "departure" :
     {
       "airport"             : "EGLL",
-      "time"                : "2019-12-06 11:59:05+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-06 11:59:05",
+      "airport_position"    : 
+      {
+        "altitude"  : "83.0",
+        "latitude"  : "51.4706",
+        "longitude" : "-0.461941"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -222,8 +302,13 @@
     "arrival"   :
     {
       "airport"             : "KMSP",
-      "time"                : "2019-12-06 20:28:25+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-06 11:59:05",
+      "airport_position"    : 
+      {
+        "altitude"  : "841.0",
+        "latitude"  : "44.882",
+        "longitude" : "-93.221802"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -236,8 +321,13 @@
     "departure" :
     {
       "airport"             : "KMSP",
-      "time"                : "2019-12-06 23:45:55+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-06 23:45:55",
+      "airport_position"    : 
+      {
+        "altitude"  : "841.0",
+        "latitude"  : "44.882",
+        "longitude" : "-93.221802"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -245,8 +335,13 @@
     "arrival"   :
     {
       "airport"             : "EGLL",
-      "time"                : "2019-12-07 07:09:23+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-06 23:45:55",
+      "airport_position"    : 
+      {
+        "altitude"  : "83.0",
+        "latitude"  : "51.4706",
+        "longitude" : "-0.461941"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -259,8 +354,13 @@
     "departure" :
     {
       "airport"             : "EGLL",
-      "time"                : "2019-12-07 12:43:39+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-07 12:43:39",
+      "airport_position"    : 
+      {
+        "altitude"  : "83.0",
+        "latitude"  : "51.4706",
+        "longitude" : "-0.461941"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -268,8 +368,13 @@
     "arrival"   :
     {
       "airport"             : "KMSP",
-      "time"                : "2019-12-07 21:04:40+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-07 12:43:39",
+      "airport_position"    : 
+      {
+        "altitude"  : "841.0",
+        "latitude"  : "44.882",
+        "longitude" : "-93.221802"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -282,8 +387,13 @@
     "departure" :
     {
       "airport"             : "KMSP",
-      "time"                : "2019-12-08 02:04:55+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-08 02:04:55",
+      "airport_position"    : 
+      {
+        "altitude"  : "841.0",
+        "latitude"  : "44.882",
+        "longitude" : "-93.221802"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -291,8 +401,13 @@
     "arrival"   :
     {
       "airport"             : "EHAM",
-      "time"                : "2019-12-08 09:46:21+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-08 02:04:55",
+      "airport_position"    : 
+      {
+        "altitude"  : "-11.0",
+        "latitude"  : "52.308601",
+        "longitude" : "4.76389"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -305,8 +420,13 @@
     "departure" :
     {
       "airport"             : "EHAM",
-      "time"                : "2019-12-08 12:47:03+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-08 12:47:03",
+      "airport_position"    : 
+      {
+        "altitude"  : "-11.0",
+        "latitude"  : "52.308601",
+        "longitude" : "4.76389"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -314,8 +434,13 @@
     "arrival"   :
     {
       "airport"             : "KATL",
-      "time"                : "2019-12-08 22:05:44+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-08 12:47:03",
+      "airport_position"    : 
+      {
+        "altitude"  : "1026.0",
+        "latitude"  : "33.6367",
+        "longitude" : "-84.428101"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -328,8 +453,13 @@
     "departure" :
     {
       "airport"             : "KATL",
-      "time"                : "2019-12-09 02:01:28+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-09 02:01:28",
+      "airport_position"    : 
+      {
+        "altitude"  : "1026.0",
+        "latitude"  : "33.6367",
+        "longitude" : "-84.428101"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -337,8 +467,13 @@
     "arrival"   :
     {
       "airport"             : "SBGR",
-      "time"                : "2019-12-09 10:56:43+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-09 02:01:28",
+      "airport_position"    : 
+      {
+        "altitude"  : "2459.0",
+        "latitude"  : "-23.435556411743164",
+        "longitude" : "-46.47305679321289"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -351,8 +486,13 @@
     "departure" :
     {
       "airport"             : "SBGR",
-      "time"                : "2019-12-10 01:34:37+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-10 01:34:37",
+      "airport_position"    : 
+      {
+        "altitude"  : "2459.0",
+        "latitude"  : "-23.435556411743164",
+        "longitude" : "-46.47305679321289"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -360,8 +500,13 @@
     "arrival"   :
     {
       "airport"             : "KJFK",
-      "time"                : "2019-12-10 11:00:40+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-10 01:34:37",
+      "airport_position"    : 
+      {
+        "altitude"  : "13.0",
+        "latitude"  : "40.63980103",
+        "longitude" : "-73.77890015"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -374,8 +519,13 @@
     "departure" :
     {
       "airport"             : "KJFK",
-      "time"                : "2019-12-10 23:14:18+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-10 23:14:18",
+      "airport_position"    : 
+      {
+        "altitude"  : "13.0",
+        "latitude"  : "40.63980103",
+        "longitude" : "-73.77890015"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -383,8 +533,13 @@
     "arrival"   :
     {
       "airport"             : "LFPG",
-      "time"                : "2019-12-11 05:25:39+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-10 23:14:18",
+      "airport_position"    : 
+      {
+        "altitude"  : "392.0",
+        "latitude"  : "49.012798",
+        "longitude" : "2.55"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -397,8 +552,13 @@
     "departure" :
     {
       "airport"             : "LFPG",
-      "time"                : "2019-12-11 09:36:26+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-11 09:36:26",
+      "airport_position"    : 
+      {
+        "altitude"  : "392.0",
+        "latitude"  : "49.012798",
+        "longitude" : "2.55"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -406,7 +566,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2019-12-11 17:55:20+00:00",
+      "time"                : "2019-12-11 09:36:26",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -420,7 +580,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-12-11 21:36:53+00:00",
+      "time"                : "2019-12-11 21:36:53",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -429,8 +589,13 @@
     "arrival"   :
     {
       "airport"             : "EHAM",
-      "time"                : "2019-12-12 04:27:56+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-11 21:36:53",
+      "airport_position"    : 
+      {
+        "altitude"  : "-11.0",
+        "latitude"  : "52.308601",
+        "longitude" : "4.76389"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -443,8 +608,13 @@
     "departure" :
     {
       "airport"             : "EHAM",
-      "time"                : "2019-12-12 12:21:10+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-12 12:21:10",
+      "airport_position"    : 
+      {
+        "altitude"  : "-11.0",
+        "latitude"  : "52.308601",
+        "longitude" : "4.76389"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -452,7 +622,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2019-12-12 20:26:23+00:00",
+      "time"                : "2019-12-12 12:21:10",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -466,7 +636,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-12-12 23:54:15+00:00",
+      "time"                : "2019-12-12 23:54:15",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -475,8 +645,13 @@
     "arrival"   :
     {
       "airport"             : "LFPG",
-      "time"                : "2019-12-13 06:30:08+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-12 23:54:15",
+      "airport_position"    : 
+      {
+        "altitude"  : "392.0",
+        "latitude"  : "49.012798",
+        "longitude" : "2.55"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -489,8 +664,13 @@
     "departure" :
     {
       "airport"             : "LFPG",
-      "time"                : "2019-12-13 10:06:11+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-13 10:06:11",
+      "airport_position"    : 
+      {
+        "altitude"  : "392.0",
+        "latitude"  : "49.012798",
+        "longitude" : "2.55"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -498,8 +678,13 @@
     "arrival"   :
     {
       "airport"             : "KJFK",
-      "time"                : "2019-12-13 18:17:27+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-13 10:06:11",
+      "airport_position"    : 
+      {
+        "altitude"  : "13.0",
+        "latitude"  : "40.63980103",
+        "longitude" : "-73.77890015"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -512,8 +697,13 @@
     "departure" :
     {
       "airport"             : "KJFK",
-      "time"                : "2019-12-15 02:06:13+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-15 02:06:13",
+      "airport_position"    : 
+      {
+        "altitude"  : "13.0",
+        "latitude"  : "40.63980103",
+        "longitude" : "-73.77890015"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -521,8 +711,13 @@
     "arrival"   :
     {
       "airport"             : "LEBL",
-      "time"                : "2019-12-15 08:48:13+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-15 02:06:13",
+      "airport_position"    : 
+      {
+        "altitude"  : "12.0",
+        "latitude"  : "41.2971",
+        "longitude" : "2.0784599999999998"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -535,8 +730,13 @@
     "departure" :
     {
       "airport"             : "LEBL",
-      "time"                : "2019-12-15 11:35:14+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-15 11:35:14",
+      "airport_position"    : 
+      {
+        "altitude"  : "12.0",
+        "latitude"  : "41.2971",
+        "longitude" : "2.0784599999999998"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -544,8 +744,13 @@
     "arrival"   :
     {
       "airport"             : "KJFK",
-      "time"                : "2019-12-15 20:29:52+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-15 11:35:14",
+      "airport_position"    : 
+      {
+        "altitude"  : "13.0",
+        "latitude"  : "40.63980103",
+        "longitude" : "-73.77890015"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -558,8 +763,13 @@
     "departure" :
     {
       "airport"             : "KJFK",
-      "time"                : "2019-12-15 23:29:24+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-15 23:29:24",
+      "airport_position"    : 
+      {
+        "altitude"  : "13.0",
+        "latitude"  : "40.63980103",
+        "longitude" : "-73.77890015"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -567,8 +777,13 @@
     "arrival"   :
     {
       "airport"             : "LFPG",
-      "time"                : "2019-12-16 05:56:26+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-15 23:29:24",
+      "airport_position"    : 
+      {
+        "altitude"  : "392.0",
+        "latitude"  : "49.012798",
+        "longitude" : "2.55"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -581,7 +796,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-12-18 00:00:08+00:00",
+      "time"                : "2019-12-18 00:00:08",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -590,8 +805,13 @@
     "arrival"   :
     {
       "airport"             : "LFPG",
-      "time"                : "2019-12-18 07:04:58+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-18 00:00:08",
+      "airport_position"    : 
+      {
+        "altitude"  : "392.0",
+        "latitude"  : "49.012798",
+        "longitude" : "2.55"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -604,8 +824,13 @@
     "departure" :
     {
       "airport"             : "LFPG",
-      "time"                : "2019-12-18 10:13:49+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-18 10:13:49",
+      "airport_position"    : 
+      {
+        "altitude"  : "392.0",
+        "latitude"  : "49.012798",
+        "longitude" : "2.55"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -613,8 +838,13 @@
     "arrival"   :
     {
       "airport"             : "KJFK",
-      "time"                : "2019-12-18 17:55:36+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-18 10:13:49",
+      "airport_position"    : 
+      {
+        "altitude"  : "13.0",
+        "latitude"  : "40.63980103",
+        "longitude" : "-73.77890015"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -627,8 +857,13 @@
     "departure" :
     {
       "airport"             : "KJFK",
-      "time"                : "2019-12-19 00:27:27+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-19 00:27:27",
+      "airport_position"    : 
+      {
+        "altitude"  : "13.0",
+        "latitude"  : "40.63980103",
+        "longitude" : "-73.77890015"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -636,8 +871,13 @@
     "arrival"   :
     {
       "airport"             : "LIMC",
-      "time"                : "2019-12-19 07:10:16+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-19 00:27:27",
+      "airport_position"    : 
+      {
+        "altitude"  : "768.0",
+        "latitude"  : "45.6306",
+        "longitude" : "8.728110000000001"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -650,8 +890,13 @@
     "departure" :
     {
       "airport"             : "LIMC",
-      "time"                : "2019-12-19 09:29:42+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-19 09:29:42",
+      "airport_position"    : 
+      {
+        "altitude"  : "768.0",
+        "latitude"  : "45.6306",
+        "longitude" : "8.728110000000001"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -659,8 +904,13 @@
     "arrival"   :
     {
       "airport"             : "KJFK",
-      "time"                : "2019-12-19 17:26:44+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-19 09:29:42",
+      "airport_position"    : 
+      {
+        "altitude"  : "13.0",
+        "latitude"  : "40.63980103",
+        "longitude" : "-73.77890015"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -673,8 +923,13 @@
     "departure" :
     {
       "airport"             : "KJFK",
-      "time"                : "2019-12-19 23:37:16+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-19 23:37:16",
+      "airport_position"    : 
+      {
+        "altitude"  : "13.0",
+        "latitude"  : "40.63980103",
+        "longitude" : "-73.77890015"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -682,8 +937,13 @@
     "arrival"   :
     {
       "airport"             : "LIMC",
-      "time"                : "2019-12-20 06:25:23+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-19 23:37:16",
+      "airport_position"    : 
+      {
+        "altitude"  : "768.0",
+        "latitude"  : "45.6306",
+        "longitude" : "8.728110000000001"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -696,8 +956,13 @@
     "departure" :
     {
       "airport"             : "LIMC",
-      "time"                : "2019-12-20 09:21:22+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-20 09:21:22",
+      "airport_position"    : 
+      {
+        "altitude"  : "768.0",
+        "latitude"  : "45.6306",
+        "longitude" : "8.728110000000001"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -705,8 +970,13 @@
     "arrival"   :
     {
       "airport"             : "KJFK",
-      "time"                : "2019-12-20 17:23:35+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-20 09:21:22",
+      "airport_position"    : 
+      {
+        "altitude"  : "13.0",
+        "latitude"  : "40.63980103",
+        "longitude" : "-73.77890015"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -719,8 +989,13 @@
     "departure" :
     {
       "airport"             : "KJFK",
-      "time"                : "2019-12-23 02:33:15+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-23 02:33:15",
+      "airport_position"    : 
+      {
+        "altitude"  : "13.0",
+        "latitude"  : "40.63980103",
+        "longitude" : "-73.77890015"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -728,8 +1003,13 @@
     "arrival"   :
     {
       "airport"             : "LEBL",
-      "time"                : "2019-12-23 09:14:29+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-23 02:33:15",
+      "airport_position"    : 
+      {
+        "altitude"  : "12.0",
+        "latitude"  : "41.2971",
+        "longitude" : "2.0784599999999998"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -742,8 +1022,13 @@
     "departure" :
     {
       "airport"             : "LEBL",
-      "time"                : "2019-12-23 11:59:09+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-23 11:59:09",
+      "airport_position"    : 
+      {
+        "altitude"  : "12.0",
+        "latitude"  : "41.2971",
+        "longitude" : "2.0784599999999998"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -751,8 +1036,13 @@
     "arrival"   :
     {
       "airport"             : "KJFK",
-      "time"                : "2019-12-23 20:09:56+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-23 11:59:09",
+      "airport_position"    : 
+      {
+        "altitude"  : "13.0",
+        "latitude"  : "40.63980103",
+        "longitude" : "-73.77890015"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -765,8 +1055,13 @@
     "departure" :
     {
       "airport"             : "KJFK",
-      "time"                : "2019-12-23 23:14:59+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-23 23:14:59",
+      "airport_position"    : 
+      {
+        "altitude"  : "13.0",
+        "latitude"  : "40.63980103",
+        "longitude" : "-73.77890015"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -774,8 +1069,13 @@
     "arrival"   :
     {
       "airport"             : "LFPG",
-      "time"                : "2019-12-24 05:56:23+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-23 23:14:59",
+      "airport_position"    : 
+      {
+        "altitude"  : "392.0",
+        "latitude"  : "49.012798",
+        "longitude" : "2.55"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -788,8 +1088,13 @@
     "departure" :
     {
       "airport"             : "LFPG",
-      "time"                : "2019-12-24 09:45:21+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-24 09:45:21",
+      "airport_position"    : 
+      {
+        "altitude"  : "392.0",
+        "latitude"  : "49.012798",
+        "longitude" : "2.55"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -797,8 +1102,13 @@
     "arrival"   :
     {
       "airport"             : "KDTW",
-      "time"                : "2019-12-24 17:57:29+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-24 09:45:21",
+      "airport_position"    : 
+      {
+        "altitude"  : "645.0",
+        "latitude"  : "42.212398529052734",
+        "longitude" : "-83.35340118408203"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -811,8 +1121,13 @@
     "departure" :
     {
       "airport"             : "KDTW",
-      "time"                : "2019-12-24 21:14:52+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-24 21:14:52",
+      "airport_position"    : 
+      {
+        "altitude"  : "645.0",
+        "latitude"  : "42.212398529052734",
+        "longitude" : "-83.35340118408203"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -820,8 +1135,13 @@
     "arrival"   :
     {
       "airport"             : "EHAM",
-      "time"                : "2019-12-25 04:26:28+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-24 21:14:52",
+      "airport_position"    : 
+      {
+        "altitude"  : "-11.0",
+        "latitude"  : "52.308601",
+        "longitude" : "4.76389"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -834,8 +1154,13 @@
     "departure" :
     {
       "airport"             : "EHAM",
-      "time"                : "2019-12-25 10:13:00+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-25 10:13:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "-11.0",
+        "latitude"  : "52.308601",
+        "longitude" : "4.76389"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -843,8 +1168,13 @@
     "arrival"   :
     {
       "airport"             : "KMSP",
-      "time"                : "2019-12-25 19:02:21+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-25 10:13:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "841.0",
+        "latitude"  : "44.882",
+        "longitude" : "-93.221802"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"

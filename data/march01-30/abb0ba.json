@@ -6,8 +6,13 @@
     "departure" :
     {
       "airport"             : "KSBP",
-      "time"                : "2020-03-03 15:36:56+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-03 15:36:56",
+      "airport_position"    : 
+      {
+        "altitude"  : "212.0",
+        "latitude"  : "35.2368011475",
+        "longitude" : "-120.64199829100001"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -15,8 +20,13 @@
     "arrival"   :
     {
       "airport"             : "KSMO",
-      "time"                : "2020-03-03 16:19:52+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-03 15:36:56",
+      "airport_position"    : 
+      {
+        "altitude"  : "170.0",
+        "latitude"  : "34.0158",
+        "longitude" : "-118.45099599999999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -29,8 +39,13 @@
     "departure" :
     {
       "airport"             : "KSMO",
-      "time"                : "2020-03-03 22:36:42+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-03 22:36:42",
+      "airport_position"    : 
+      {
+        "altitude"  : "170.0",
+        "latitude"  : "34.0158",
+        "longitude" : "-118.45099599999999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -38,8 +53,13 @@
     "arrival"   :
     {
       "airport"             : "KSMX",
-      "time"                : "2020-03-03 23:08:17+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-03 22:36:42",
+      "airport_position"    : 
+      {
+        "altitude"  : "261.0",
+        "latitude"  : "34.89889908",
+        "longitude" : "-120.4570007"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -52,8 +72,13 @@
     "departure" :
     {
       "airport"             : "KSBP",
-      "time"                : "2020-03-04 16:48:04+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-04 16:48:04",
+      "airport_position"    : 
+      {
+        "altitude"  : "212.0",
+        "latitude"  : "35.2368011475",
+        "longitude" : "-120.64199829100001"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -61,8 +86,13 @@
     "arrival"   :
     {
       "airport"             : "KOAK",
-      "time"                : "2020-03-04 17:36:40+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-04 16:48:04",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "37.721298",
+        "longitude" : "-122.221001"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -75,8 +105,13 @@
     "departure" :
     {
       "airport"             : "KOAK",
-      "time"                : "2020-03-05 02:47:16+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-05 02:47:16",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "37.721298",
+        "longitude" : "-122.221001"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -84,8 +119,13 @@
     "arrival"   :
     {
       "airport"             : "KSBP",
-      "time"                : "2020-03-05 03:34:32+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-05 02:47:16",
+      "airport_position"    : 
+      {
+        "altitude"  : "212.0",
+        "latitude"  : "35.2368011475",
+        "longitude" : "-120.64199829100001"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -98,8 +138,13 @@
     "departure" :
     {
       "airport"             : "KSBP",
-      "time"                : "2020-03-09 15:15:41+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-09 15:15:41",
+      "airport_position"    : 
+      {
+        "altitude"  : "212.0",
+        "latitude"  : "35.2368011475",
+        "longitude" : "-120.64199829100001"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -107,8 +152,13 @@
     "arrival"   :
     {
       "airport"             : "KSNA",
-      "time"                : "2020-03-09 16:08:21+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-09 15:15:41",
+      "airport_position"    : 
+      {
+        "altitude"  : "56.0",
+        "latitude"  : "33.67570114",
+        "longitude" : "-117.86799620000001"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"

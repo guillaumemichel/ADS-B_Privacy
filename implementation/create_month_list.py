@@ -25,14 +25,15 @@ for month in months:
         allFlights.concat(newFlights)
 
 for f in allFlights.elements:
-    f.departure.time = f.departure.time[:19]
-    f.arrival.time = f.arrival.time[:19]
+    f.departure.time = f.departure.time
+    f.arrival.time = f.arrival.time
 
 monthly_lists = dict()
 first_month = datetime.strptime('2030-01-01', '%Y-%m-%d')
 last_month = datetime.strptime('2010-01-01', '%Y-%m-%d')
 for f in allFlights.elements:
-    time = datetime.strptime(f.departure.time, '%Y-%m-%d %H:%M:%S')
+    #time = datetime.strptime(f.departure.time, '%Y-%m-%d %H:%M:%S')
+    time = f.departure.time
     m = time.strftime("%Y-%m").lower()
 
     if time < first_month:

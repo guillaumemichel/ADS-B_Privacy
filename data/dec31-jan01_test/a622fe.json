@@ -6,8 +6,13 @@
     "departure" :
     {
       "airport"             : "KSDL",
-      "time"                : "2020-01-01 19:51:56+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-01 19:51:56",
+      "airport_position"    : 
+      {
+        "altitude"  : "1510.0",
+        "latitude"  : "33.622898101806996",
+        "longitude" : "-111.91100311279"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -15,8 +20,13 @@
     "arrival"   :
     {
       "airport"             : "KSTS",
-      "time"                : "2020-01-01 22:22:24+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-01 19:51:56",
+      "airport_position"    : 
+      {
+        "altitude"  : "128.0",
+        "latitude"  : "38.50899887",
+        "longitude" : "-122.8130035"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"

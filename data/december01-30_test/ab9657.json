@@ -6,7 +6,7 @@
     "departure" :
     {
       "airport"             : "KPNE",
-      "time"                : "2019-12-05 14:19:43+00:00",
+      "time"                : "2019-12-05 14:19:43",
       "airport_position"    : 
       {
         "altitude"  : "120.0",
@@ -25,7 +25,7 @@
     "arrival"   :
     {
       "airport"             : "KPNE",
-      "time"                : "2019-12-05 15:20:18+00:00",
+      "time"                : "2019-12-05 14:19:43",
       "airport_position"    : 
       {
         "altitude"  : "120.0",
@@ -49,7 +49,7 @@
     "departure" :
     {
       "airport"             : "KPNE",
-      "time"                : "2019-12-20 13:06:33+00:00",
+      "time"                : "2019-12-20 13:06:33",
       "airport_position"    : 
       {
         "altitude"  : "120.0",
@@ -68,7 +68,7 @@
     "arrival"   :
     {
       "airport"             : "KHPN",
-      "time"                : "2019-12-20 13:49:18+00:00",
+      "time"                : "2019-12-20 13:06:33",
       "airport_position"    : 
       {
         "altitude"  : "439.0",
@@ -92,7 +92,7 @@
     "departure" :
     {
       "airport"             : "KHPN",
-      "time"                : "2019-12-20 15:31:05+00:00",
+      "time"                : "2019-12-20 15:31:05",
       "airport_position"    : 
       {
         "altitude"  : "439.0",
@@ -111,16 +111,21 @@
     "arrival"   :
     {
       "airport"             : "CYYC",
-      "time"                : "2019-12-20 19:38:11+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-20 15:31:05",
+      "airport_position"    : 
+      {
+        "altitude"  : "3557.0",
+        "latitude"  : "51.113899231000005",
+        "longitude" : "-114.019996643"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "5200.0",
         "latitude"  : "39.802734375",
         "longitude" : "-104.6608369246773"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "1452062.3031306972",
+      "vertical_distance"   : "1643.0"
     }
   },
   {
@@ -130,7 +135,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-12-28 00:03:23+00:00",
+      "time"                : "2019-12-28 00:03:23",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -144,16 +149,21 @@
     "arrival"   :
     {
       "airport"             : "CYYC",
-      "time"                : "2019-12-28 00:14:21+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-28 00:03:23",
+      "airport_position"    : 
+      {
+        "altitude"  : "3557.0",
+        "latitude"  : "51.113899231000005",
+        "longitude" : "-114.019996643"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "5200.0",
         "latitude"  : "39.802734375",
         "longitude" : "-104.6608369246773"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "1452062.3031306972",
+      "vertical_distance"   : "1643.0"
     }
   },
   {
@@ -163,21 +173,26 @@
     "departure" :
     {
       "airport"             : "CYYC",
-      "time"                : "2019-12-28 15:20:43+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-28 15:20:43",
+      "airport_position"    : 
+      {
+        "altitude"  : "3557.0",
+        "latitude"  : "51.113899231000005",
+        "longitude" : "-114.019996643"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "35025.0",
         "latitude"  : "41.43154907226562",
         "longitude" : "-106.23198769309299"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "1230744.9888397972",
+      "vertical_distance"   : "31468.0"
     },
     "arrival"   :
     {
       "airport"             : "KDEN",
-      "time"                : "2019-12-28 18:49:07+00:00",
+      "time"                : "2019-12-28 15:20:43",
       "airport_position"    : 
       {
         "altitude"  : "5431.0",
@@ -201,7 +216,7 @@
     "departure" :
     {
       "airport"             : "KDEN",
-      "time"                : "2019-12-28 20:12:24+00:00",
+      "time"                : "2019-12-28 20:12:24",
       "airport_position"    : 
       {
         "altitude"  : "5431.0",
@@ -220,7 +235,7 @@
     "arrival"   :
     {
       "airport"             : "KPNE",
-      "time"                : "2019-12-28 22:48:48+00:00",
+      "time"                : "2019-12-28 20:12:24",
       "airport_position"    : 
       {
         "altitude"  : "120.0",

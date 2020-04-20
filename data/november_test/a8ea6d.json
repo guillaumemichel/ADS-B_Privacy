@@ -6,8 +6,13 @@
     "departure" :
     {
       "airport"             : "KHWO",
-      "time"                : "2019-11-01 13:39:08+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-01 13:39:08",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -15,7 +20,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2019-11-01 14:24:26+00:00",
+      "time"                : "2019-11-01 13:39:08",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -29,7 +34,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-11-01 14:55:14+00:00",
+      "time"                : "2019-11-01 14:55:14",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -38,8 +43,13 @@
     "arrival"   :
     {
       "airport"             : "KHWO",
-      "time"                : "2019-11-01 15:07:29+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-01 14:55:14",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -52,8 +62,13 @@
     "departure" :
     {
       "airport"             : "KHWO",
-      "time"                : "2019-11-01 19:12:53+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-01 19:12:53",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -61,8 +76,13 @@
     "arrival"   :
     {
       "airport"             : "KHWO",
-      "time"                : "2019-11-01 19:26:19+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-01 19:12:53",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -75,8 +95,13 @@
     "departure" :
     {
       "airport"             : "KHWO",
-      "time"                : "2019-11-03 13:07:20+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-03 13:07:20",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -84,8 +109,13 @@
     "arrival"   :
     {
       "airport"             : "KHWO",
-      "time"                : "2019-11-03 14:28:36+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-03 13:07:20",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -98,8 +128,13 @@
     "departure" :
     {
       "airport"             : "KHWO",
-      "time"                : "2019-11-03 14:40:38+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-03 14:40:38",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -107,8 +142,13 @@
     "arrival"   :
     {
       "airport"             : "KHWO",
-      "time"                : "2019-11-03 15:05:37+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-03 14:40:38",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -121,7 +161,828 @@
     "departure" :
     {
       "airport"             : "KHWO",
-      "time"                : "2019-11-04 15:16:58+00:00",
+      "time"                : "2019-11-04 15:16:58",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KOPF",
+      "time"                : "2019-11-04 15:16:58",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "25.906999999999996",
+        "longitude" : "-80.278397"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a8ea6d",
+    "callsign"  : "N67387",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-11-04 16:02:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-04 16:02:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a8ea6d",
+    "callsign"  : "N67387",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-11-04 23:15:10",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-04 23:15:10",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a8ea6d",
+    "callsign"  : "N67387",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-05 19:55:07",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KOPF",
+      "time"                : "2019-11-05 19:55:07",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "25.906999999999996",
+        "longitude" : "-80.278397"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a8ea6d",
+    "callsign"  : "N67387",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-11-05 20:46:49",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-05 20:46:49",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a8ea6d",
+    "callsign"  : "N67387",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-06 12:58:07",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KOPF",
+      "time"                : "2019-11-06 12:58:07",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "25.906999999999996",
+        "longitude" : "-80.278397"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a8ea6d",
+    "callsign"  : "N67387",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-11-06 13:46:49",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-06 13:46:49",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a8ea6d",
+    "callsign"  : "N67387",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-06 15:16:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-06 15:16:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a8ea6d",
+    "callsign"  : "N67387",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-06 15:58:34",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-06 15:58:34",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a8ea6d",
+    "callsign"  : "N67387",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-11-06 19:19:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-06 19:19:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a8ea6d",
+    "callsign"  : "N67387",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-07 13:03:14",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KOPF",
+      "time"                : "2019-11-07 13:03:14",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "25.906999999999996",
+        "longitude" : "-80.278397"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a8ea6d",
+    "callsign"  : "N67387",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-11-07 13:57:47",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-07 13:57:47",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a8ea6d",
+    "callsign"  : "N67387",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-07 16:50:43",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-07 16:50:43",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a8ea6d",
+    "callsign"  : "N67387",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-11-07 18:15:31",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-07 18:15:31",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a8ea6d",
+    "callsign"  : "N67387",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-07 22:09:20",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-07 22:09:20",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a8ea6d",
+    "callsign"  : "N67387",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-11-07 22:40:40",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-07 22:40:40",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a8ea6d",
+    "callsign"  : "N67387",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-08 12:37:26",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KOPF",
+      "time"                : "2019-11-08 12:37:26",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "25.906999999999996",
+        "longitude" : "-80.278397"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a8ea6d",
+    "callsign"  : "N67387",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-11-08 13:53:53",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-08 13:53:53",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a8ea6d",
+    "callsign"  : "N67387",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-08 15:26:40",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KOPF",
+      "time"                : "2019-11-08 15:26:40",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "25.906999999999996",
+        "longitude" : "-80.278397"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a8ea6d",
+    "callsign"  : "N67387",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-11-08 16:29:02",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-08 16:29:02",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a8ea6d",
+    "callsign"  : "N67387",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-11-10 15:16:13",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-10 15:16:13",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a8ea6d",
+    "callsign"  : "N67387",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-12 12:12:18",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-12 12:12:18",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a8ea6d",
+    "callsign"  : "N67387",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-11-12 14:27:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-12 14:27:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a8ea6d",
+    "callsign"  : "N67387",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-12 23:09:30",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-12 23:09:30",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a8ea6d",
+    "callsign"  : "N67387",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-11-13 00:33:21",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-13 00:33:21",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a8ea6d",
+    "callsign"  : "N67387",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-11-13 13:35:05",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-13 13:35:05",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a8ea6d",
+    "callsign"  : "N67387",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-13 17:56:34",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-13 17:56:34",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a8ea6d",
+    "callsign"  : "N67387",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-11-15 13:30:03",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -130,7 +991,73 @@
     "arrival"   :
     {
       "airport"             : "KOPF",
-      "time"                : "2019-11-04 15:44:52+00:00",
+      "time"                : "2019-11-15 13:30:03",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "25.906999999999996",
+        "longitude" : "-80.278397"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a8ea6d",
+    "callsign"  : "N67387",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-15 16:47:51",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-15 16:47:51",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a8ea6d",
+    "callsign"  : "N67387",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-16 21:19:44",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-11-16 21:19:44",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -144,53 +1071,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-11-04 16:02:00+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    },
-    "arrival"   :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-04 16:23:59+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    }
-  },
-  {
-    "icao"      : "a8ea6d",
-    "callsign"  : "N67387",
-    "nnumber"   : "None",
-    "departure" :
-    {
-      "airport"             : "None",
-      "time"                : "2019-11-04 23:15:10+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    },
-    "arrival"   :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-05 00:22:07+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    }
-  },
-  {
-    "icao"      : "a8ea6d",
-    "callsign"  : "N67387",
-    "nnumber"   : "None",
-    "departure" :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-05 19:55:07+00:00",
+      "time"                : "2019-11-16 21:53:44",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -199,8 +1080,13 @@
     "arrival"   :
     {
       "airport"             : "KOPF",
-      "time"                : "2019-11-05 20:14:59+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-16 21:53:44",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "25.906999999999996",
+        "longitude" : "-80.278397"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -212,9 +1098,14 @@
     "nnumber"   : "None",
     "departure" :
     {
-      "airport"             : "None",
-      "time"                : "2019-11-05 20:46:49+00:00",
-      "airport_position"    : "None",
+      "airport"             : "KHWO",
+      "time"                : "2019-11-17 14:56:23",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -222,8 +1113,13 @@
     "arrival"   :
     {
       "airport"             : "KHWO",
-      "time"                : "2019-11-05 21:08:59+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-17 14:56:23",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -236,31 +1132,13 @@
     "departure" :
     {
       "airport"             : "KHWO",
-      "time"                : "2019-11-06 12:58:07+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    },
-    "arrival"   :
-    {
-      "airport"             : "KOPF",
-      "time"                : "2019-11-06 13:35:43+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    }
-  },
-  {
-    "icao"      : "a8ea6d",
-    "callsign"  : "N67387",
-    "nnumber"   : "None",
-    "departure" :
-    {
-      "airport"             : "None",
-      "time"                : "2019-11-06 13:46:49+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-18 18:53:43",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -268,8 +1146,13 @@
     "arrival"   :
     {
       "airport"             : "KHWO",
-      "time"                : "2019-11-06 14:04:23+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-18 18:53:43",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -282,77 +1165,13 @@
     "departure" :
     {
       "airport"             : "KHWO",
-      "time"                : "2019-11-06 15:16:00+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    },
-    "arrival"   :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-06 15:35:46+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    }
-  },
-  {
-    "icao"      : "a8ea6d",
-    "callsign"  : "N67387",
-    "nnumber"   : "None",
-    "departure" :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-06 15:58:34+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    },
-    "arrival"   :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-06 16:50:43+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    }
-  },
-  {
-    "icao"      : "a8ea6d",
-    "callsign"  : "N67387",
-    "nnumber"   : "None",
-    "departure" :
-    {
-      "airport"             : "None",
-      "time"                : "2019-11-06 19:19:00+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    },
-    "arrival"   :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-06 21:06:03+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    }
-  },
-  {
-    "icao"      : "a8ea6d",
-    "callsign"  : "N67387",
-    "nnumber"   : "None",
-    "departure" :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-07 13:03:14+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-20 14:01:42",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -360,8 +1179,13 @@
     "arrival"   :
     {
       "airport"             : "KOPF",
-      "time"                : "2019-11-07 13:13:24+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-20 14:01:42",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "25.906999999999996",
+        "longitude" : "-80.278397"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -374,7 +1198,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-11-07 13:57:47+00:00",
+      "time"                : "2019-11-20 17:09:30",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -383,8 +1207,13 @@
     "arrival"   :
     {
       "airport"             : "KHWO",
-      "time"                : "2019-11-07 14:30:51+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-20 17:09:30",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -397,537 +1226,13 @@
     "departure" :
     {
       "airport"             : "KHWO",
-      "time"                : "2019-11-07 16:50:43+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    },
-    "arrival"   :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-07 17:03:13+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    }
-  },
-  {
-    "icao"      : "a8ea6d",
-    "callsign"  : "N67387",
-    "nnumber"   : "None",
-    "departure" :
-    {
-      "airport"             : "None",
-      "time"                : "2019-11-07 18:15:31+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    },
-    "arrival"   :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-07 18:25:56+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    }
-  },
-  {
-    "icao"      : "a8ea6d",
-    "callsign"  : "N67387",
-    "nnumber"   : "None",
-    "departure" :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-07 22:09:20+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    },
-    "arrival"   :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-07 22:23:59+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    }
-  },
-  {
-    "icao"      : "a8ea6d",
-    "callsign"  : "N67387",
-    "nnumber"   : "None",
-    "departure" :
-    {
-      "airport"             : "None",
-      "time"                : "2019-11-07 22:40:40+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    },
-    "arrival"   :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-07 23:03:36+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    }
-  },
-  {
-    "icao"      : "a8ea6d",
-    "callsign"  : "N67387",
-    "nnumber"   : "None",
-    "departure" :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-08 12:37:26+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    },
-    "arrival"   :
-    {
-      "airport"             : "KOPF",
-      "time"                : "2019-11-08 13:39:59+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    }
-  },
-  {
-    "icao"      : "a8ea6d",
-    "callsign"  : "N67387",
-    "nnumber"   : "None",
-    "departure" :
-    {
-      "airport"             : "None",
-      "time"                : "2019-11-08 13:53:53+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    },
-    "arrival"   :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-08 14:04:39+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    }
-  },
-  {
-    "icao"      : "a8ea6d",
-    "callsign"  : "N67387",
-    "nnumber"   : "None",
-    "departure" :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-08 15:26:40+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    },
-    "arrival"   :
-    {
-      "airport"             : "KOPF",
-      "time"                : "2019-11-08 15:38:44+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    }
-  },
-  {
-    "icao"      : "a8ea6d",
-    "callsign"  : "N67387",
-    "nnumber"   : "None",
-    "departure" :
-    {
-      "airport"             : "None",
-      "time"                : "2019-11-08 16:29:02+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    },
-    "arrival"   :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-08 17:09:39+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    }
-  },
-  {
-    "icao"      : "a8ea6d",
-    "callsign"  : "N67387",
-    "nnumber"   : "None",
-    "departure" :
-    {
-      "airport"             : "None",
-      "time"                : "2019-11-10 15:16:13+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    },
-    "arrival"   :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-10 15:34:05+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    }
-  },
-  {
-    "icao"      : "a8ea6d",
-    "callsign"  : "N67387",
-    "nnumber"   : "None",
-    "departure" :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-12 12:12:18+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    },
-    "arrival"   :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-12 12:27:51+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    }
-  },
-  {
-    "icao"      : "a8ea6d",
-    "callsign"  : "N67387",
-    "nnumber"   : "None",
-    "departure" :
-    {
-      "airport"             : "None",
-      "time"                : "2019-11-12 14:27:00+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    },
-    "arrival"   :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-12 14:39:29+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    }
-  },
-  {
-    "icao"      : "a8ea6d",
-    "callsign"  : "N67387",
-    "nnumber"   : "None",
-    "departure" :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-12 23:09:30+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    },
-    "arrival"   :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-12 23:24:27+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    }
-  },
-  {
-    "icao"      : "a8ea6d",
-    "callsign"  : "N67387",
-    "nnumber"   : "None",
-    "departure" :
-    {
-      "airport"             : "None",
-      "time"                : "2019-11-13 00:33:21+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    },
-    "arrival"   :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-13 00:44:42+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    }
-  },
-  {
-    "icao"      : "a8ea6d",
-    "callsign"  : "N67387",
-    "nnumber"   : "None",
-    "departure" :
-    {
-      "airport"             : "None",
-      "time"                : "2019-11-13 13:35:05+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    },
-    "arrival"   :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-13 13:46:33+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    }
-  },
-  {
-    "icao"      : "a8ea6d",
-    "callsign"  : "N67387",
-    "nnumber"   : "None",
-    "departure" :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-13 17:56:34+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    },
-    "arrival"   :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-13 18:28:47+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    }
-  },
-  {
-    "icao"      : "a8ea6d",
-    "callsign"  : "N67387",
-    "nnumber"   : "None",
-    "departure" :
-    {
-      "airport"             : "None",
-      "time"                : "2019-11-15 13:30:03+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    },
-    "arrival"   :
-    {
-      "airport"             : "KOPF",
-      "time"                : "2019-11-15 14:01:15+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    }
-  },
-  {
-    "icao"      : "a8ea6d",
-    "callsign"  : "N67387",
-    "nnumber"   : "None",
-    "departure" :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-15 16:47:51+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    },
-    "arrival"   :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-15 18:21:25+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    }
-  },
-  {
-    "icao"      : "a8ea6d",
-    "callsign"  : "N67387",
-    "nnumber"   : "None",
-    "departure" :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-16 21:19:44+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    },
-    "arrival"   :
-    {
-      "airport"             : "None",
-      "time"                : "2019-11-16 21:41:20+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    }
-  },
-  {
-    "icao"      : "a8ea6d",
-    "callsign"  : "N67387",
-    "nnumber"   : "None",
-    "departure" :
-    {
-      "airport"             : "None",
-      "time"                : "2019-11-16 21:53:44+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    },
-    "arrival"   :
-    {
-      "airport"             : "KOPF",
-      "time"                : "2019-11-16 22:05:17+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    }
-  },
-  {
-    "icao"      : "a8ea6d",
-    "callsign"  : "N67387",
-    "nnumber"   : "None",
-    "departure" :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-17 14:56:23+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    },
-    "arrival"   :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-17 15:25:54+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    }
-  },
-  {
-    "icao"      : "a8ea6d",
-    "callsign"  : "N67387",
-    "nnumber"   : "None",
-    "departure" :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-18 18:53:43+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    },
-    "arrival"   :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-18 19:42:58+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    }
-  },
-  {
-    "icao"      : "a8ea6d",
-    "callsign"  : "N67387",
-    "nnumber"   : "None",
-    "departure" :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-20 14:01:42+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    },
-    "arrival"   :
-    {
-      "airport"             : "KOPF",
-      "time"                : "2019-11-20 14:13:29+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    }
-  },
-  {
-    "icao"      : "a8ea6d",
-    "callsign"  : "N67387",
-    "nnumber"   : "None",
-    "departure" :
-    {
-      "airport"             : "None",
-      "time"                : "2019-11-20 17:09:30+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    },
-    "arrival"   :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-20 17:19:58+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    }
-  },
-  {
-    "icao"      : "a8ea6d",
-    "callsign"  : "N67387",
-    "nnumber"   : "None",
-    "departure" :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-20 20:13:42+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-20 20:13:42",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -935,8 +1240,13 @@
     "arrival"   :
     {
       "airport"             : "KTMB",
-      "time"                : "2019-11-20 21:39:11+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-20 20:13:42",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "25.6479",
+        "longitude" : "-80.4328"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -949,7 +1259,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-11-20 22:27:03+00:00",
+      "time"                : "2019-11-20 22:27:03",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -958,8 +1268,13 @@
     "arrival"   :
     {
       "airport"             : "KHWO",
-      "time"                : "2019-11-20 22:45:05+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-20 22:27:03",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -972,8 +1287,13 @@
     "departure" :
     {
       "airport"             : "KHWO",
-      "time"                : "2019-11-21 14:59:34+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-21 14:59:34",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -981,8 +1301,13 @@
     "arrival"   :
     {
       "airport"             : "KOPF",
-      "time"                : "2019-11-21 15:18:24+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-21 14:59:34",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "25.906999999999996",
+        "longitude" : "-80.278397"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -995,7 +1320,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-11-21 16:19:08+00:00",
+      "time"                : "2019-11-21 16:19:08",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -1004,8 +1329,13 @@
     "arrival"   :
     {
       "airport"             : "KHWO",
-      "time"                : "2019-11-21 16:40:42+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-21 16:19:08",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -1018,8 +1348,13 @@
     "departure" :
     {
       "airport"             : "KHWO",
-      "time"                : "2019-11-22 15:03:15+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-22 15:03:15",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -1027,8 +1362,13 @@
     "arrival"   :
     {
       "airport"             : "KHWO",
-      "time"                : "2019-11-22 16:07:49+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-22 15:03:15",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -1041,7 +1381,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-11-22 20:08:21+00:00",
+      "time"                : "2019-11-22 20:08:21",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -1050,8 +1390,13 @@
     "arrival"   :
     {
       "airport"             : "KHWO",
-      "time"                : "2019-11-22 20:29:34+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-22 20:08:21",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -1064,8 +1409,13 @@
     "departure" :
     {
       "airport"             : "KHWO",
-      "time"                : "2019-11-23 14:42:16+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-23 14:42:16",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -1073,7 +1423,167 @@
     "arrival"   :
     {
       "airport"             : "KOPF",
-      "time"                : "2019-11-23 14:53:26+00:00",
+      "time"                : "2019-11-23 14:42:16",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "25.906999999999996",
+        "longitude" : "-80.278397"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a8ea6d",
+    "callsign"  : "N67387",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-11-23 16:09:36",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-23 16:09:36",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a8ea6d",
+    "callsign"  : "N67387",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-24 16:23:58",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-24 16:23:58",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a8ea6d",
+    "callsign"  : "N67387",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-24 21:52:01",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-24 21:52:01",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a8ea6d",
+    "callsign"  : "N67387",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-25 13:27:59",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-25 13:27:59",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a8ea6d",
+    "callsign"  : "N67387",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-25 17:06:39",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-11-25 17:06:39",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -1087,7 +1597,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-11-23 16:09:36+00:00",
+      "time"                : "2019-11-25 17:55:32",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -1096,8 +1606,13 @@
     "arrival"   :
     {
       "airport"             : "KHWO",
-      "time"                : "2019-11-23 16:42:22+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-25 17:55:32",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -1110,77 +1625,13 @@
     "departure" :
     {
       "airport"             : "KHWO",
-      "time"                : "2019-11-24 16:23:58+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    },
-    "arrival"   :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-24 16:53:15+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    }
-  },
-  {
-    "icao"      : "a8ea6d",
-    "callsign"  : "N67387",
-    "nnumber"   : "None",
-    "departure" :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-24 21:52:01+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    },
-    "arrival"   :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-24 22:48:32+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    }
-  },
-  {
-    "icao"      : "a8ea6d",
-    "callsign"  : "N67387",
-    "nnumber"   : "None",
-    "departure" :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-25 13:27:59+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    },
-    "arrival"   :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-25 14:26:53+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    }
-  },
-  {
-    "icao"      : "a8ea6d",
-    "callsign"  : "N67387",
-    "nnumber"   : "None",
-    "departure" :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-25 17:06:39+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-25 19:30:49",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -1188,7 +1639,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2019-11-25 17:25:29+00:00",
+      "time"                : "2019-11-25 19:30:49",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -1202,7 +1653,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-11-25 17:55:32+00:00",
+      "time"                : "2019-11-25 20:17:38",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -1211,8 +1662,13 @@
     "arrival"   :
     {
       "airport"             : "KHWO",
-      "time"                : "2019-11-25 18:11:13+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-25 20:17:38",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -1225,31 +1681,13 @@
     "departure" :
     {
       "airport"             : "KHWO",
-      "time"                : "2019-11-25 19:30:49+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    },
-    "arrival"   :
-    {
-      "airport"             : "None",
-      "time"                : "2019-11-25 19:49:07+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    }
-  },
-  {
-    "icao"      : "a8ea6d",
-    "callsign"  : "N67387",
-    "nnumber"   : "None",
-    "departure" :
-    {
-      "airport"             : "None",
-      "time"                : "2019-11-25 20:17:38+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-26 15:57:26",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -1257,31 +1695,13 @@
     "arrival"   :
     {
       "airport"             : "KHWO",
-      "time"                : "2019-11-25 20:39:30+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    }
-  },
-  {
-    "icao"      : "a8ea6d",
-    "callsign"  : "N67387",
-    "nnumber"   : "None",
-    "departure" :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-26 15:57:26+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    },
-    "arrival"   :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-26 16:09:53+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-26 15:57:26",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -1294,7 +1714,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-11-26 16:35:17+00:00",
+      "time"                : "2019-11-26 16:35:17",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -1303,8 +1723,13 @@
     "arrival"   :
     {
       "airport"             : "KHWO",
-      "time"                : "2019-11-26 17:06:22+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-26 16:35:17",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -1317,8 +1742,13 @@
     "departure" :
     {
       "airport"             : "KHWO",
-      "time"                : "2019-11-27 13:08:34+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-27 13:08:34",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -1326,8 +1756,13 @@
     "arrival"   :
     {
       "airport"             : "KHWO",
-      "time"                : "2019-11-27 13:37:55+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-27 13:08:34",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -1340,8 +1775,13 @@
     "departure" :
     {
       "airport"             : "KHWO",
-      "time"                : "2019-11-27 14:47:03+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-27 14:47:03",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -1349,8 +1789,13 @@
     "arrival"   :
     {
       "airport"             : "KOPF",
-      "time"                : "2019-11-27 14:57:56+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-27 14:47:03",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "25.906999999999996",
+        "longitude" : "-80.278397"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -1363,7 +1808,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-11-27 15:20:24+00:00",
+      "time"                : "2019-11-27 15:20:24",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -1372,8 +1817,13 @@
     "arrival"   :
     {
       "airport"             : "KHWO",
-      "time"                : "2019-11-27 16:06:22+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-27 15:20:24",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -1386,8 +1836,13 @@
     "departure" :
     {
       "airport"             : "KHWO",
-      "time"                : "2019-11-27 17:59:46+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-27 17:59:46",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -1395,123 +1850,13 @@
     "arrival"   :
     {
       "airport"             : "KHWO",
-      "time"                : "2019-11-27 18:28:57+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    }
-  },
-  {
-    "icao"      : "a8ea6d",
-    "callsign"  : "N67387",
-    "nnumber"   : "None",
-    "departure" :
-    {
-      "airport"             : "None",
-      "time"                : "2019-11-27 18:39:01+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    },
-    "arrival"   :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-27 18:55:55+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    }
-  },
-  {
-    "icao"      : "a8ea6d",
-    "callsign"  : "N67387",
-    "nnumber"   : "None",
-    "departure" :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-27 21:54:32+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    },
-    "arrival"   :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-27 22:36:23+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    }
-  },
-  {
-    "icao"      : "a8ea6d",
-    "callsign"  : "N67387",
-    "nnumber"   : "None",
-    "departure" :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-29 12:46:34+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    },
-    "arrival"   :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-29 13:49:26+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    }
-  },
-  {
-    "icao"      : "a8ea6d",
-    "callsign"  : "N67387",
-    "nnumber"   : "None",
-    "departure" :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-29 16:05:08+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    },
-    "arrival"   :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-29 17:28:16+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    }
-  },
-  {
-    "icao"      : "a8ea6d",
-    "callsign"  : "N67387",
-    "nnumber"   : "None",
-    "departure" :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-29 19:08:56+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    },
-    "arrival"   :
-    {
-      "airport"             : "KHWO",
-      "time"                : "2019-11-29 19:21:50+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-27 17:59:46",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -1524,7 +1869,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-11-29 20:06:30+00:00",
+      "time"                : "2019-11-27 18:39:01",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -1533,8 +1878,173 @@
     "arrival"   :
     {
       "airport"             : "KHWO",
-      "time"                : "2019-11-29 20:36:11+00:00",
+      "time"                : "2019-11-27 18:39:01",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a8ea6d",
+    "callsign"  : "N67387",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-27 21:54:32",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-27 21:54:32",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a8ea6d",
+    "callsign"  : "N67387",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-29 12:46:34",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-29 12:46:34",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a8ea6d",
+    "callsign"  : "N67387",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-29 16:05:08",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-29 16:05:08",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a8ea6d",
+    "callsign"  : "N67387",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-29 19:08:56",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-29 19:08:56",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a8ea6d",
+    "callsign"  : "N67387",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-11-29 20:06:30",
       "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHWO",
+      "time"                : "2019-11-29 20:06:30",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.0012",
+        "longitude" : "-80.2407"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"

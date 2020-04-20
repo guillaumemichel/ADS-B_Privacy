@@ -6,7 +6,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-10-07 13:52:22+00:00",
+      "time"                : "2019-10-07 13:52:22",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -20,7 +20,7 @@
     "arrival"   :
     {
       "airport"             : "KOPF",
-      "time"                : "2019-10-07 14:02:55+00:00",
+      "time"                : "2019-10-07 13:52:22",
       "airport_position"    : 
       {
         "altitude"  : "8.0",
@@ -44,7 +44,7 @@
     "departure" :
     {
       "airport"             : "KOPF",
-      "time"                : "2019-10-08 22:20:20+00:00",
+      "time"                : "2019-10-08 22:20:20",
       "airport_position"    : 
       {
         "altitude"  : "8.0",
@@ -63,7 +63,7 @@
     "arrival"   :
     {
       "airport"             : "KTYS",
-      "time"                : "2019-10-08 23:45:51+00:00",
+      "time"                : "2019-10-08 22:20:20",
       "airport_position"    : 
       {
         "altitude"  : "981.0",
@@ -87,7 +87,7 @@
     "departure" :
     {
       "airport"             : "KTYS",
-      "time"                : "2019-10-09 22:16:58+00:00",
+      "time"                : "2019-10-09 22:16:58",
       "airport_position"    : 
       {
         "altitude"  : "981.0",
@@ -106,7 +106,7 @@
     "arrival"   :
     {
       "airport"             : "KACY",
-      "time"                : "2019-10-09 23:30:16+00:00",
+      "time"                : "2019-10-09 22:16:58",
       "airport_position"    : 
       {
         "altitude"  : "75.0",
@@ -130,7 +130,7 @@
     "departure" :
     {
       "airport"             : "89NJ",
-      "time"                : "2019-10-10 19:17:08+00:00",
+      "time"                : "2019-10-10 19:17:08",
       "airport_position"    : 
       {
         "altitude"  : "45.0",
@@ -149,16 +149,21 @@
     "arrival"   :
     {
       "airport"             : "CYHU",
-      "time"                : "2019-10-10 20:15:07+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-10-10 19:17:08",
+      "airport_position"    : 
+      {
+        "altitude"  : "90.0",
+        "latitude"  : "45.5175018311",
+        "longitude" : "-73.4169006348"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "-325.0",
         "latitude"  : "45.51557922363281",
         "longitude" : "-73.40766906738281"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "752.29542088806",
+      "vertical_distance"   : "-415.0"
     }
   },
   {
@@ -168,21 +173,26 @@
     "departure" :
     {
       "airport"             : "CYHU",
-      "time"                : "2019-10-31 13:06:33+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-10-31 13:06:33",
+      "airport_position"    : 
+      {
+        "altitude"  : "90.0",
+        "latitude"  : "45.5175018311",
+        "longitude" : "-73.4169006348"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "nan",
         "latitude"  : "45.516124660685904",
         "longitude" : "-73.40868507943503"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "659.9166815056834",
+      "vertical_distance"   : "nan"
     },
     "arrival"   :
     {
       "airport"             : "KFXE",
-      "time"                : "2019-10-31 15:58:37+00:00",
+      "time"                : "2019-10-31 13:06:33",
       "airport_position"    : 
       {
         "altitude"  : "13.0",

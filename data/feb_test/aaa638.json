@@ -6,8 +6,13 @@
     "departure" :
     {
       "airport"             : "VA87",
-      "time"                : "2020-02-08 21:52:36+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-08 21:52:36",
+      "airport_position"    : 
+      {
+        "altitude"  : "240.0",
+        "latitude"  : "38.69179916381836",
+        "longitude" : "-77.55110168457031"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -15,8 +20,13 @@
     "arrival"   :
     {
       "airport"             : "VG07",
-      "time"                : "2020-02-08 22:24:55+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-08 21:52:36",
+      "airport_position"    : 
+      {
+        "altitude"  : "305.0",
+        "latitude"  : "38.53889846801758",
+        "longitude" : "-77.82830047607422"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -29,8 +39,13 @@
     "departure" :
     {
       "airport"             : "KCJR",
-      "time"                : "2020-02-08 22:35:39+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-08 22:35:39",
+      "airport_position"    : 
+      {
+        "altitude"  : "316.0",
+        "latitude"  : "38.52669906616211",
+        "longitude" : "-77.85890197753906"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -38,8 +53,13 @@
     "arrival"   :
     {
       "airport"             : "2VG2",
-      "time"                : "2020-02-08 22:48:28+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-08 22:35:39",
+      "airport_position"    : 
+      {
+        "altitude"  : "551.0",
+        "latitude"  : "38.9718017578125",
+        "longitude" : "-77.86969757080078"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -52,8 +72,13 @@
     "departure" :
     {
       "airport"             : "3VA5",
-      "time"                : "2020-02-08 23:26:36+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-08 23:26:36",
+      "airport_position"    : 
+      {
+        "altitude"  : "340.0",
+        "latitude"  : "39.028889",
+        "longitude" : "-77.625"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -61,8 +86,13 @@
     "arrival"   :
     {
       "airport"             : "53VA",
-      "time"                : "2020-02-08 23:40:38+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-08 23:26:36",
+      "airport_position"    : 
+      {
+        "altitude"  : "390.0",
+        "latitude"  : "38.63399887084961",
+        "longitude" : "-77.75749969482422"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -75,8 +105,13 @@
     "departure" :
     {
       "airport"             : "KCJR",
-      "time"                : "2020-02-22 16:50:14+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-22 16:50:14",
+      "airport_position"    : 
+      {
+        "altitude"  : "316.0",
+        "latitude"  : "38.52669906616211",
+        "longitude" : "-77.85890197753906"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -84,8 +119,13 @@
     "arrival"   :
     {
       "airport"             : "KHEF",
-      "time"                : "2020-02-22 18:33:05+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-22 16:50:14",
+      "airport_position"    : 
+      {
+        "altitude"  : "192.0",
+        "latitude"  : "38.72140121",
+        "longitude" : "-77.51540375"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -98,8 +138,13 @@
     "departure" :
     {
       "airport"             : "VA87",
-      "time"                : "2020-02-23 15:39:47+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-23 15:39:47",
+      "airport_position"    : 
+      {
+        "altitude"  : "240.0",
+        "latitude"  : "38.69179916381836",
+        "longitude" : "-77.55110168457031"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -107,8 +152,13 @@
     "arrival"   :
     {
       "airport"             : "KEZF",
-      "time"                : "2020-02-23 15:52:51+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-23 15:39:47",
+      "airport_position"    : 
+      {
+        "altitude"  : "85.0",
+        "latitude"  : "38.26679992675781",
+        "longitude" : "-77.44920349121094"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -121,8 +171,13 @@
     "departure" :
     {
       "airport"             : "20VA",
-      "time"                : "2020-02-23 20:54:03+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-23 20:54:03",
+      "airport_position"    : 
+      {
+        "altitude"  : "245.0",
+        "latitude"  : "38.08240127563477",
+        "longitude" : "-77.48829650878906"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -130,8 +185,13 @@
     "arrival"   :
     {
       "airport"             : "51VA",
-      "time"                : "2020-02-23 21:08:28+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-23 20:54:03",
+      "airport_position"    : 
+      {
+        "altitude"  : "340.0",
+        "latitude"  : "38.71620178222656",
+        "longitude" : "-77.63390350341797"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"

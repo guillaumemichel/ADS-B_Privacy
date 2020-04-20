@@ -6,7 +6,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-03-03 18:34:11+00:00",
+      "time"                : "2020-03-03 18:34:11",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -20,7 +20,7 @@
     "arrival"   :
     {
       "airport"             : "KEVB",
-      "time"                : "2020-03-03 19:28:27+00:00",
+      "time"                : "2020-03-03 18:34:11",
       "airport_position"    : 
       {
         "altitude"  : "10.0",
@@ -44,7 +44,7 @@
     "departure" :
     {
       "airport"             : "KEVB",
-      "time"                : "2020-03-03 20:24:00+00:00",
+      "time"                : "2020-03-03 20:24:00",
       "airport_position"    : 
       {
         "altitude"  : "10.0",
@@ -63,16 +63,21 @@
     "arrival"   :
     {
       "airport"             : "CEB8",
-      "time"                : "2020-03-03 23:41:53+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-03 20:24:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "630.0",
+        "latitude"  : "42.186668395996094",
+        "longitude" : "-82.78221893310547"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "16100.000000000004",
         "latitude"  : "29.40425549523305",
         "longitude" : "-81.280517578125"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "1424706.9211633198",
+      "vertical_distance"   : "15470.000000000004"
     }
   },
   {
@@ -82,7 +87,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-03-13 14:46:09+00:00",
+      "time"                : "2020-03-13 14:46:09",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -96,7 +101,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2020-03-13 15:10:06+00:00",
+      "time"                : "2020-03-13 14:46:09",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -115,7 +120,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-03-13 22:54:38+00:00",
+      "time"                : "2020-03-13 22:54:38",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -129,7 +134,7 @@
     "arrival"   :
     {
       "airport"             : "KD98",
-      "time"                : "2020-03-13 23:20:48+00:00",
+      "time"                : "2020-03-13 22:54:38",
       "airport_position"    : 
       {
         "altitude"  : "739.0",

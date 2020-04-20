@@ -6,30 +6,40 @@
     "departure" :
     {
       "airport"             : "EDDK",
-      "time"                : "2020-01-11 09:10:14+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-11 09:10:14",
+      "airport_position"    : 
+      {
+        "altitude"  : "302.0",
+        "latitude"  : "50.865898132299996",
+        "longitude" : "7.1427397728"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "-50.0",
         "latitude"  : "50.8707275390625",
         "longitude" : "7.143488703547297"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "539.8316686661869",
+      "vertical_distance"   : "-352.0"
     },
     "arrival"   :
     {
       "airport"             : "EDDK",
-      "time"                : "2020-01-11 09:55:45+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-11 09:10:14",
+      "airport_position"    : 
+      {
+        "altitude"  : "302.0",
+        "latitude"  : "50.865898132299996",
+        "longitude" : "7.1427397728"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "-224.99999999999997",
         "latitude"  : "50.86505126953125",
         "longitude" : "7.13279930320946"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "706.1266165625581",
+      "vertical_distance"   : "-527.0"
     }
   }
 ]

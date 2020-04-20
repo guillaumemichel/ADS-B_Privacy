@@ -6,7 +6,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-03-20 01:59:17+00:00",
+      "time"                : "2020-03-20 01:59:17",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -15,8 +15,13 @@
     "arrival"   :
     {
       "airport"             : "YCNK",
-      "time"                : "2020-03-20 02:22:41+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-20 01:59:17",
+      "airport_position"    : 
+      {
+        "altitude"  : "210.0",
+        "latitude"  : "-32.787498",
+        "longitude" : "151.341995"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"

@@ -6,7 +6,7 @@
     "departure" :
     {
       "airport"             : "TN79",
-      "time"                : "2019-11-01 14:21:07+00:00",
+      "time"                : "2019-11-01 14:21:07",
       "airport_position"    : 
       {
         "altitude"  : "400.0",
@@ -25,7 +25,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2019-11-01 15:11:51+00:00",
+      "time"                : "2019-11-01 14:21:07",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -44,7 +44,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-11-01 16:20:31+00:00",
+      "time"                : "2019-11-01 16:20:31",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -58,7 +58,7 @@
     "arrival"   :
     {
       "airport"             : "KJWN",
-      "time"                : "2019-11-01 17:09:14+00:00",
+      "time"                : "2019-11-01 16:20:31",
       "airport_position"    : 
       {
         "altitude"  : "495.0",
@@ -82,7 +82,7 @@
     "departure" :
     {
       "airport"             : "TN79",
-      "time"                : "2019-11-02 02:36:16+00:00",
+      "time"                : "2019-11-02 02:36:16",
       "airport_position"    : 
       {
         "altitude"  : "400.0",
@@ -101,7 +101,7 @@
     "arrival"   :
     {
       "airport"             : "KECP",
-      "time"                : "2019-11-02 03:54:57+00:00",
+      "time"                : "2019-11-02 02:36:16",
       "airport_position"    : 
       {
         "altitude"  : "69.0",
@@ -125,7 +125,7 @@
     "departure" :
     {
       "airport"             : "KECP",
-      "time"                : "2019-11-02 04:42:12+00:00",
+      "time"                : "2019-11-02 04:42:12",
       "airport_position"    : 
       {
         "altitude"  : "69.0",
@@ -144,7 +144,7 @@
     "arrival"   :
     {
       "airport"             : "TN79",
-      "time"                : "2019-11-02 06:41:24+00:00",
+      "time"                : "2019-11-02 04:42:12",
       "airport_position"    : 
       {
         "altitude"  : "400.0",
@@ -168,7 +168,7 @@
     "departure" :
     {
       "airport"             : "TN79",
-      "time"                : "2019-11-04 13:57:11+00:00",
+      "time"                : "2019-11-04 13:57:11",
       "airport_position"    : 
       {
         "altitude"  : "400.0",
@@ -187,7 +187,7 @@
     "arrival"   :
     {
       "airport"             : "KECP",
-      "time"                : "2019-11-04 15:19:58+00:00",
+      "time"                : "2019-11-04 13:57:11",
       "airport_position"    : 
       {
         "altitude"  : "69.0",
@@ -211,7 +211,7 @@
     "departure" :
     {
       "airport"             : "KECP",
-      "time"                : "2019-11-04 16:55:13+00:00",
+      "time"                : "2019-11-04 16:55:13",
       "airport_position"    : 
       {
         "altitude"  : "69.0",
@@ -230,7 +230,7 @@
     "arrival"   :
     {
       "airport"             : "TN79",
-      "time"                : "2019-11-04 18:12:08+00:00",
+      "time"                : "2019-11-04 16:55:13",
       "airport_position"    : 
       {
         "altitude"  : "400.0",
@@ -254,8 +254,13 @@
     "departure" :
     {
       "airport"             : "TN79",
-      "time"                : "2019-11-24 17:48:15+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-24 17:48:15",
+      "airport_position"    : 
+      {
+        "altitude"  : "400.0",
+        "latitude"  : "36.17229843139648",
+        "longitude" : "-86.95970153808594"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -263,7 +268,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2019-11-24 18:33:50+00:00",
+      "time"                : "2019-11-24 17:48:15",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -277,7 +282,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-11-24 20:29:46+00:00",
+      "time"                : "2019-11-24 20:29:46",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -291,7 +296,7 @@
     "arrival"   :
     {
       "airport"             : "TN81",
-      "time"                : "2019-11-24 21:21:56+00:00",
+      "time"                : "2019-11-24 20:29:46",
       "airport_position"    : 
       {
         "altitude"  : "770.0",
@@ -315,7 +320,7 @@
     "departure" :
     {
       "airport"             : "KJWN",
-      "time"                : "2019-11-30 13:25:44+00:00",
+      "time"                : "2019-11-30 13:25:44",
       "airport_position"    : 
       {
         "altitude"  : "495.0",
@@ -334,7 +339,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2019-11-30 14:18:23+00:00",
+      "time"                : "2019-11-30 13:25:44",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -353,7 +358,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-11-30 15:39:00+00:00",
+      "time"                : "2019-11-30 15:39:00",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -367,7 +372,7 @@
     "arrival"   :
     {
       "airport"             : "TN73",
-      "time"                : "2019-11-30 16:43:18+00:00",
+      "time"                : "2019-11-30 15:39:00",
       "airport_position"    : 
       {
         "altitude"  : "770.0",

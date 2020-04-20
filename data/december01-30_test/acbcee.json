@@ -6,7 +6,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-12-05 20:51:49+00:00",
+      "time"                : "2019-12-05 20:51:49",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -20,16 +20,21 @@
     "arrival"   :
     {
       "airport"             : "CYHU",
-      "time"                : "2019-12-05 22:29:18+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-05 20:51:49",
+      "airport_position"    : 
+      {
+        "altitude"  : "90.0",
+        "latitude"  : "45.5175018311",
+        "longitude" : "-73.4169006348"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "200.0",
         "latitude"  : "45.51543045043945",
         "longitude" : "-73.40753827776228"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "766.9006541234762",
+      "vertical_distance"   : "110.0"
     }
   },
   {
@@ -39,7 +44,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-12-06 13:42:14+00:00",
+      "time"                : "2019-12-06 13:42:14",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -53,7 +58,7 @@
     "arrival"   :
     {
       "airport"             : "KFKL",
-      "time"                : "2019-12-06 14:39:17+00:00",
+      "time"                : "2019-12-06 13:42:14",
       "airport_position"    : 
       {
         "altitude"  : "1540.0",
@@ -77,7 +82,7 @@
     "departure" :
     {
       "airport"             : "KFKL",
-      "time"                : "2019-12-06 22:11:30+00:00",
+      "time"                : "2019-12-06 22:11:30",
       "airport_position"    : 
       {
         "altitude"  : "1540.0",
@@ -96,16 +101,21 @@
     "arrival"   :
     {
       "airport"             : "CYHU",
-      "time"                : "2019-12-06 23:08:36+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-06 22:11:30",
+      "airport_position"    : 
+      {
+        "altitude"  : "90.0",
+        "latitude"  : "45.5175018311",
+        "longitude" : "-73.4169006348"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "-25.0",
         "latitude"  : "45.515496205475365",
         "longitude" : "-73.40737877822505"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "776.6680310314864",
+      "vertical_distance"   : "-115.0"
     }
   },
   {
@@ -115,7 +125,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-12-20 13:33:41+00:00",
+      "time"                : "2019-12-20 13:33:41",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -129,7 +139,7 @@
     "arrival"   :
     {
       "airport"             : "KBOS",
-      "time"                : "2019-12-20 15:06:29+00:00",
+      "time"                : "2019-12-20 13:33:41",
       "airport_position"    : 
       {
         "altitude"  : "20.0",
@@ -153,7 +163,7 @@
     "departure" :
     {
       "airport"             : "KBOS",
-      "time"                : "2019-12-20 15:40:31+00:00",
+      "time"                : "2019-12-20 15:40:31",
       "airport_position"    : 
       {
         "altitude"  : "20.0",
@@ -172,16 +182,21 @@
     "arrival"   :
     {
       "airport"             : "CYHU",
-      "time"                : "2019-12-20 16:25:45+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-20 15:40:31",
+      "airport_position"    : 
+      {
+        "altitude"  : "90.0",
+        "latitude"  : "45.5175018311",
+        "longitude" : "-73.4169006348"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "-574.9999999999999",
         "latitude"  : "45.51521301269531",
         "longitude" : "-73.4074238368443"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "782.9509914731101",
+      "vertical_distance"   : "-664.9999999999999"
     }
   }
 ]

@@ -6,7 +6,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-11-08 18:04:25+00:00",
+      "time"                : "2019-11-08 18:04:25",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -15,8 +15,13 @@
     "arrival"   :
     {
       "airport"             : "KOJC",
-      "time"                : "2019-11-08 19:22:16+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-08 18:04:25",
+      "airport_position"    : 
+      {
+        "altitude"  : "1096.0",
+        "latitude"  : "38.84759903",
+        "longitude" : "-94.73760223"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -29,7 +34,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-11-15 15:03:26+00:00",
+      "time"                : "2019-11-15 15:03:26",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -38,8 +43,13 @@
     "arrival"   :
     {
       "airport"             : "KAPC",
-      "time"                : "2019-11-15 20:42:41+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-15 15:03:26",
+      "airport_position"    : 
+      {
+        "altitude"  : "35.0",
+        "latitude"  : "38.2132",
+        "longitude" : "-122.280998"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -52,7 +62,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-11-21 23:05:05+00:00",
+      "time"                : "2019-11-21 23:05:05",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -61,8 +71,13 @@
     "arrival"   :
     {
       "airport"             : "KPDK",
-      "time"                : "2019-11-21 23:52:24+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-21 23:05:05",
+      "airport_position"    : 
+      {
+        "altitude"  : "1003.0",
+        "latitude"  : "33.8755989075",
+        "longitude" : "-84.3020019531"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -75,8 +90,13 @@
     "departure" :
     {
       "airport"             : "KPDK",
-      "time"                : "2019-11-22 20:05:41+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-22 20:05:41",
+      "airport_position"    : 
+      {
+        "altitude"  : "1003.0",
+        "latitude"  : "33.8755989075",
+        "longitude" : "-84.3020019531"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -84,8 +104,13 @@
     "arrival"   :
     {
       "airport"             : "KPNE",
-      "time"                : "2019-11-22 22:07:34+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-22 20:05:41",
+      "airport_position"    : 
+      {
+        "altitude"  : "120.0",
+        "latitude"  : "40.081902",
+        "longitude" : "-75.010597"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -98,8 +123,13 @@
     "departure" :
     {
       "airport"             : "KPNE",
-      "time"                : "2019-11-23 21:36:58+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-23 21:36:58",
+      "airport_position"    : 
+      {
+        "altitude"  : "120.0",
+        "latitude"  : "40.081902",
+        "longitude" : "-75.010597"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -107,8 +137,13 @@
     "arrival"   :
     {
       "airport"             : "9TN9",
-      "time"                : "2019-11-24 00:25:22+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-23 21:36:58",
+      "airport_position"    : 
+      {
+        "altitude"  : "630.0",
+        "latitude"  : "36.01940155029297",
+        "longitude" : "-86.28810119628906"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"

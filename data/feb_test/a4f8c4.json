@@ -6,7 +6,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-02-16 15:40:17+00:00",
+      "time"                : "2020-02-16 15:40:17",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -15,8 +15,13 @@
     "arrival"   :
     {
       "airport"             : "KMVY",
-      "time"                : "2020-02-16 16:06:33+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-16 15:40:17",
+      "airport_position"    : 
+      {
+        "altitude"  : "67.0",
+        "latitude"  : "41.393100738499996",
+        "longitude" : "-70.6143035889"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -29,8 +34,13 @@
     "departure" :
     {
       "airport"             : "KOWD",
-      "time"                : "2020-02-17 14:52:20+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-17 14:52:20",
+      "airport_position"    : 
+      {
+        "altitude"  : "49.0",
+        "latitude"  : "42.1904983521",
+        "longitude" : "-71.1728973389"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -38,8 +48,13 @@
     "arrival"   :
     {
       "airport"             : "KLWM",
-      "time"                : "2020-02-17 15:08:42+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-17 14:52:20",
+      "airport_position"    : 
+      {
+        "altitude"  : "148.0",
+        "latitude"  : "42.7172012329",
+        "longitude" : "-71.1233978271"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -52,8 +67,13 @@
     "departure" :
     {
       "airport"             : "KOWD",
-      "time"                : "2020-02-23 15:36:27+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-23 15:36:27",
+      "airport_position"    : 
+      {
+        "altitude"  : "49.0",
+        "latitude"  : "42.1904983521",
+        "longitude" : "-71.1728973389"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -61,8 +81,13 @@
     "arrival"   :
     {
       "airport"             : "13MA",
-      "time"                : "2020-02-23 15:57:22+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-23 15:36:27",
+      "airport_position"    : 
+      {
+        "altitude"  : "418.0",
+        "latitude"  : "42.223300933800004",
+        "longitude" : "-72.31140136719998"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"

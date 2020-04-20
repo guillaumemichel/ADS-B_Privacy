@@ -6,8 +6,13 @@
     "departure" :
     {
       "airport"             : "OMDW",
-      "time"                : "2020-03-01 05:28:33+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-01 05:28:33",
+      "airport_position"    : 
+      {
+        "altitude"  : "114.0",
+        "latitude"  : "24.896356",
+        "longitude" : "55.161389"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -15,8 +20,13 @@
     "arrival"   :
     {
       "airport"             : "UUEE",
-      "time"                : "2020-03-01 10:35:42+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-01 05:28:33",
+      "airport_position"    : 
+      {
+        "altitude"  : "622.0",
+        "latitude"  : "55.972599",
+        "longitude" : "37.4146"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -29,8 +39,13 @@
     "departure" :
     {
       "airport"             : "UUEE",
-      "time"                : "2020-03-01 17:05:42+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-01 17:05:42",
+      "airport_position"    : 
+      {
+        "altitude"  : "622.0",
+        "latitude"  : "55.972599",
+        "longitude" : "37.4146"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -38,8 +53,13 @@
     "arrival"   :
     {
       "airport"             : "VIDP",
-      "time"                : "2020-03-01 22:24:32+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-01 17:05:42",
+      "airport_position"    : 
+      {
+        "altitude"  : "777.0",
+        "latitude"  : "28.5665",
+        "longitude" : "77.103104"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -52,8 +72,13 @@
     "departure" :
     {
       "airport"             : "VIDP",
-      "time"                : "2020-03-02 00:44:10+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-02 00:44:10",
+      "airport_position"    : 
+      {
+        "altitude"  : "777.0",
+        "latitude"  : "28.5665",
+        "longitude" : "77.103104"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -61,8 +86,13 @@
     "arrival"   :
     {
       "airport"             : "UUEE",
-      "time"                : "2020-03-02 06:43:38+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-02 00:44:10",
+      "airport_position"    : 
+      {
+        "altitude"  : "622.0",
+        "latitude"  : "55.972599",
+        "longitude" : "37.4146"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -75,8 +105,13 @@
     "departure" :
     {
       "airport"             : "UUEE",
-      "time"                : "2020-03-02 12:07:42+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-02 12:07:42",
+      "airport_position"    : 
+      {
+        "altitude"  : "622.0",
+        "latitude"  : "55.972599",
+        "longitude" : "37.4146"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -84,8 +119,13 @@
     "arrival"   :
     {
       "airport"             : "VIDP",
-      "time"                : "2020-03-02 17:43:26+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-02 12:07:42",
+      "airport_position"    : 
+      {
+        "altitude"  : "777.0",
+        "latitude"  : "28.5665",
+        "longitude" : "77.103104"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -98,8 +138,13 @@
     "departure" :
     {
       "airport"             : "VIDP",
-      "time"                : "2020-03-02 20:15:49+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-02 20:15:49",
+      "airport_position"    : 
+      {
+        "altitude"  : "777.0",
+        "latitude"  : "28.5665",
+        "longitude" : "77.103104"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -107,8 +152,13 @@
     "arrival"   :
     {
       "airport"             : "UUEE",
-      "time"                : "2020-03-03 02:07:17+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-02 20:15:49",
+      "airport_position"    : 
+      {
+        "altitude"  : "622.0",
+        "latitude"  : "55.972599",
+        "longitude" : "37.4146"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -121,8 +171,13 @@
     "departure" :
     {
       "airport"             : "UUEE",
-      "time"                : "2020-03-03 05:58:00+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-03 05:58:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "622.0",
+        "latitude"  : "55.972599",
+        "longitude" : "37.4146"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -130,8 +185,13 @@
     "arrival"   :
     {
       "airport"             : "OMDB",
-      "time"                : "2020-03-03 10:41:53+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-03 05:58:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "62.0",
+        "latitude"  : "25.252799987800003",
+        "longitude" : "55.3643989563"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -144,8 +204,13 @@
     "departure" :
     {
       "airport"             : "OMDB",
-      "time"                : "2020-03-03 12:48:30+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-03 12:48:30",
+      "airport_position"    : 
+      {
+        "altitude"  : "62.0",
+        "latitude"  : "25.252799987800003",
+        "longitude" : "55.3643989563"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -153,8 +218,13 @@
     "arrival"   :
     {
       "airport"             : "UUEE",
-      "time"                : "2020-03-03 18:11:10+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-03 12:48:30",
+      "airport_position"    : 
+      {
+        "altitude"  : "622.0",
+        "latitude"  : "55.972599",
+        "longitude" : "37.4146"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -167,8 +237,13 @@
     "departure" :
     {
       "airport"             : "UUEE",
-      "time"                : "2020-03-04 05:46:48+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-04 05:46:48",
+      "airport_position"    : 
+      {
+        "altitude"  : "622.0",
+        "latitude"  : "55.972599",
+        "longitude" : "37.4146"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -176,8 +251,13 @@
     "arrival"   :
     {
       "airport"             : "LLBG",
-      "time"                : "2020-03-04 09:50:25+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-04 05:46:48",
+      "airport_position"    : 
+      {
+        "altitude"  : "135.0",
+        "latitude"  : "32.011398315429695",
+        "longitude" : "34.88669967651367"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -190,8 +270,13 @@
     "departure" :
     {
       "airport"             : "LLBG",
-      "time"                : "2020-03-04 11:31:52+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-04 11:31:52",
+      "airport_position"    : 
+      {
+        "altitude"  : "135.0",
+        "latitude"  : "32.011398315429695",
+        "longitude" : "34.88669967651367"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -199,8 +284,13 @@
     "arrival"   :
     {
       "airport"             : "UUEE",
-      "time"                : "2020-03-04 15:31:20+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-04 11:31:52",
+      "airport_position"    : 
+      {
+        "altitude"  : "622.0",
+        "latitude"  : "55.972599",
+        "longitude" : "37.4146"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -213,8 +303,13 @@
     "departure" :
     {
       "airport"             : "UUEE",
-      "time"                : "2020-03-04 18:00:08+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-04 18:00:08",
+      "airport_position"    : 
+      {
+        "altitude"  : "622.0",
+        "latitude"  : "55.972599",
+        "longitude" : "37.4146"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -222,8 +317,13 @@
     "arrival"   :
     {
       "airport"             : "RKSI",
-      "time"                : "2020-03-05 01:49:37+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-04 18:00:08",
+      "airport_position"    : 
+      {
+        "altitude"  : "23.0",
+        "latitude"  : "37.46910095214844",
+        "longitude" : "126.45099639892578"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -236,8 +336,13 @@
     "departure" :
     {
       "airport"             : "RKSI",
-      "time"                : "2020-03-05 04:27:51+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-05 04:27:51",
+      "airport_position"    : 
+      {
+        "altitude"  : "23.0",
+        "latitude"  : "37.46910095214844",
+        "longitude" : "126.45099639892578"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -245,8 +350,13 @@
     "arrival"   :
     {
       "airport"             : "UUEE",
-      "time"                : "2020-03-05 13:42:16+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-05 04:27:51",
+      "airport_position"    : 
+      {
+        "altitude"  : "622.0",
+        "latitude"  : "55.972599",
+        "longitude" : "37.4146"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -259,8 +369,13 @@
     "departure" :
     {
       "airport"             : "UUEE",
-      "time"                : "2020-03-05 18:00:27+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-05 18:00:27",
+      "airport_position"    : 
+      {
+        "altitude"  : "622.0",
+        "latitude"  : "55.972599",
+        "longitude" : "37.4146"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -268,8 +383,13 @@
     "arrival"   :
     {
       "airport"             : "RKSI",
-      "time"                : "2020-03-06 01:51:28+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-05 18:00:27",
+      "airport_position"    : 
+      {
+        "altitude"  : "23.0",
+        "latitude"  : "37.46910095214844",
+        "longitude" : "126.45099639892578"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -282,8 +402,13 @@
     "departure" :
     {
       "airport"             : "RKSI",
-      "time"                : "2020-03-06 04:29:17+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-06 04:29:17",
+      "airport_position"    : 
+      {
+        "altitude"  : "23.0",
+        "latitude"  : "37.46910095214844",
+        "longitude" : "126.45099639892578"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -291,8 +416,13 @@
     "arrival"   :
     {
       "airport"             : "UUEE",
-      "time"                : "2020-03-06 13:48:20+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-06 04:29:17",
+      "airport_position"    : 
+      {
+        "altitude"  : "622.0",
+        "latitude"  : "55.972599",
+        "longitude" : "37.4146"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -305,8 +435,13 @@
     "departure" :
     {
       "airport"             : "UUEE",
-      "time"                : "2020-03-06 17:52:54+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-06 17:52:54",
+      "airport_position"    : 
+      {
+        "altitude"  : "622.0",
+        "latitude"  : "55.972599",
+        "longitude" : "37.4146"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -314,8 +449,13 @@
     "arrival"   :
     {
       "airport"             : "RKSI",
-      "time"                : "2020-03-07 01:44:22+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-06 17:52:54",
+      "airport_position"    : 
+      {
+        "altitude"  : "23.0",
+        "latitude"  : "37.46910095214844",
+        "longitude" : "126.45099639892578"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -328,8 +468,13 @@
     "departure" :
     {
       "airport"             : "RKSI",
-      "time"                : "2020-03-07 04:24:34+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-07 04:24:34",
+      "airport_position"    : 
+      {
+        "altitude"  : "23.0",
+        "latitude"  : "37.46910095214844",
+        "longitude" : "126.45099639892578"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -337,8 +482,13 @@
     "arrival"   :
     {
       "airport"             : "UUEE",
-      "time"                : "2020-03-07 13:52:39+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-07 04:24:34",
+      "airport_position"    : 
+      {
+        "altitude"  : "622.0",
+        "latitude"  : "55.972599",
+        "longitude" : "37.4146"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -351,8 +501,13 @@
     "departure" :
     {
       "airport"             : "UUEE",
-      "time"                : "2020-03-08 12:11:28+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-08 12:11:28",
+      "airport_position"    : 
+      {
+        "altitude"  : "622.0",
+        "latitude"  : "55.972599",
+        "longitude" : "37.4146"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -360,8 +515,13 @@
     "arrival"   :
     {
       "airport"             : "VIDP",
-      "time"                : "2020-03-08 17:42:28+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-08 12:11:28",
+      "airport_position"    : 
+      {
+        "altitude"  : "777.0",
+        "latitude"  : "28.5665",
+        "longitude" : "77.103104"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -374,8 +534,13 @@
     "departure" :
     {
       "airport"             : "VIDP",
-      "time"                : "2020-03-08 20:18:34+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-08 20:18:34",
+      "airport_position"    : 
+      {
+        "altitude"  : "777.0",
+        "latitude"  : "28.5665",
+        "longitude" : "77.103104"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -383,8 +548,13 @@
     "arrival"   :
     {
       "airport"             : "UUEE",
-      "time"                : "2020-03-09 02:04:29+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-08 20:18:34",
+      "airport_position"    : 
+      {
+        "altitude"  : "622.0",
+        "latitude"  : "55.972599",
+        "longitude" : "37.4146"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -397,8 +567,13 @@
     "departure" :
     {
       "airport"             : "UUEE",
-      "time"                : "2020-03-09 06:29:30+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-09 06:29:30",
+      "airport_position"    : 
+      {
+        "altitude"  : "622.0",
+        "latitude"  : "55.972599",
+        "longitude" : "37.4146"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -406,8 +581,13 @@
     "arrival"   :
     {
       "airport"             : "EHAM",
-      "time"                : "2020-03-09 09:39:29+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-09 06:29:30",
+      "airport_position"    : 
+      {
+        "altitude"  : "-11.0",
+        "latitude"  : "52.308601",
+        "longitude" : "4.76389"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -420,8 +600,13 @@
     "departure" :
     {
       "airport"             : "EHAM",
-      "time"                : "2020-03-09 11:41:33+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-09 11:41:33",
+      "airport_position"    : 
+      {
+        "altitude"  : "-11.0",
+        "latitude"  : "52.308601",
+        "longitude" : "4.76389"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -429,8 +614,13 @@
     "arrival"   :
     {
       "airport"             : "UUEE",
-      "time"                : "2020-03-09 14:39:48+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-09 11:41:33",
+      "airport_position"    : 
+      {
+        "altitude"  : "622.0",
+        "latitude"  : "55.972599",
+        "longitude" : "37.4146"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -443,8 +633,13 @@
     "departure" :
     {
       "airport"             : "UUEE",
-      "time"                : "2020-03-09 18:01:49+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-09 18:01:49",
+      "airport_position"    : 
+      {
+        "altitude"  : "622.0",
+        "latitude"  : "55.972599",
+        "longitude" : "37.4146"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -452,8 +647,13 @@
     "arrival"   :
     {
       "airport"             : "UUEE",
-      "time"                : "2020-03-10 14:01:21+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-09 18:01:49",
+      "airport_position"    : 
+      {
+        "altitude"  : "622.0",
+        "latitude"  : "55.972599",
+        "longitude" : "37.4146"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -466,8 +666,13 @@
     "departure" :
     {
       "airport"             : "UUEE",
-      "time"                : "2020-03-11 17:57:33+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-11 17:57:33",
+      "airport_position"    : 
+      {
+        "altitude"  : "622.0",
+        "latitude"  : "55.972599",
+        "longitude" : "37.4146"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -475,8 +680,13 @@
     "arrival"   :
     {
       "airport"             : "UUEE",
-      "time"                : "2020-03-12 13:05:06+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-11 17:57:33",
+      "airport_position"    : 
+      {
+        "altitude"  : "622.0",
+        "latitude"  : "55.972599",
+        "longitude" : "37.4146"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -489,8 +699,13 @@
     "departure" :
     {
       "airport"             : "UUEE",
-      "time"                : "2020-03-13 05:29:52+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-13 05:29:52",
+      "airport_position"    : 
+      {
+        "altitude"  : "622.0",
+        "latitude"  : "55.972599",
+        "longitude" : "37.4146"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -498,8 +713,13 @@
     "arrival"   :
     {
       "airport"             : "LLBG",
-      "time"                : "2020-03-13 09:15:52+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-13 05:29:52",
+      "airport_position"    : 
+      {
+        "altitude"  : "135.0",
+        "latitude"  : "32.011398315429695",
+        "longitude" : "34.88669967651367"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -512,8 +732,13 @@
     "departure" :
     {
       "airport"             : "LLBG",
-      "time"                : "2020-03-13 11:38:55+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-13 11:38:55",
+      "airport_position"    : 
+      {
+        "altitude"  : "135.0",
+        "latitude"  : "32.011398315429695",
+        "longitude" : "34.88669967651367"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -521,8 +746,13 @@
     "arrival"   :
     {
       "airport"             : "UUEE",
-      "time"                : "2020-03-13 15:28:07+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-13 11:38:55",
+      "airport_position"    : 
+      {
+        "altitude"  : "622.0",
+        "latitude"  : "55.972599",
+        "longitude" : "37.4146"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -535,8 +765,13 @@
     "departure" :
     {
       "airport"             : "UUEE",
-      "time"                : "2020-03-13 18:10:43+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-13 18:10:43",
+      "airport_position"    : 
+      {
+        "altitude"  : "622.0",
+        "latitude"  : "55.972599",
+        "longitude" : "37.4146"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -544,8 +779,13 @@
     "arrival"   :
     {
       "airport"             : "UUEE",
-      "time"                : "2020-03-14 14:00:45+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-13 18:10:43",
+      "airport_position"    : 
+      {
+        "altitude"  : "622.0",
+        "latitude"  : "55.972599",
+        "longitude" : "37.4146"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -558,8 +798,13 @@
     "departure" :
     {
       "airport"             : "UUEE",
-      "time"                : "2020-03-14 17:09:00+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-14 17:09:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "622.0",
+        "latitude"  : "55.972599",
+        "longitude" : "37.4146"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -567,8 +812,13 @@
     "arrival"   :
     {
       "airport"             : "LLBG",
-      "time"                : "2020-03-14 20:46:22+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-14 17:09:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "135.0",
+        "latitude"  : "32.011398315429695",
+        "longitude" : "34.88669967651367"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -581,7 +831,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-03-15 00:34:53+00:00",
+      "time"                : "2020-03-15 00:34:53",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -590,8 +840,13 @@
     "arrival"   :
     {
       "airport"             : "UUEE",
-      "time"                : "2020-03-15 02:55:57+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-15 00:34:53",
+      "airport_position"    : 
+      {
+        "altitude"  : "622.0",
+        "latitude"  : "55.972599",
+        "longitude" : "37.4146"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -604,8 +859,13 @@
     "departure" :
     {
       "airport"             : "UUEE",
-      "time"                : "2020-03-15 05:44:21+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-15 05:44:21",
+      "airport_position"    : 
+      {
+        "altitude"  : "622.0",
+        "latitude"  : "55.972599",
+        "longitude" : "37.4146"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -613,8 +873,13 @@
     "arrival"   :
     {
       "airport"             : "OMDB",
-      "time"                : "2020-03-15 10:34:46+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-15 05:44:21",
+      "airport_position"    : 
+      {
+        "altitude"  : "62.0",
+        "latitude"  : "25.252799987800003",
+        "longitude" : "55.3643989563"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -627,8 +892,13 @@
     "departure" :
     {
       "airport"             : "OMDB",
-      "time"                : "2020-03-15 12:41:42+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-15 12:41:42",
+      "airport_position"    : 
+      {
+        "altitude"  : "62.0",
+        "latitude"  : "25.252799987800003",
+        "longitude" : "55.3643989563"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -636,8 +906,13 @@
     "arrival"   :
     {
       "airport"             : "UUEE",
-      "time"                : "2020-03-15 17:36:22+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-15 12:41:42",
+      "airport_position"    : 
+      {
+        "altitude"  : "622.0",
+        "latitude"  : "55.972599",
+        "longitude" : "37.4146"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -650,8 +925,13 @@
     "departure" :
     {
       "airport"             : "UUEE",
-      "time"                : "2020-03-16 06:45:04+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-16 06:45:04",
+      "airport_position"    : 
+      {
+        "altitude"  : "622.0",
+        "latitude"  : "55.972599",
+        "longitude" : "37.4146"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -659,8 +939,13 @@
     "arrival"   :
     {
       "airport"             : "EHAM",
-      "time"                : "2020-03-16 09:57:20+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-16 06:45:04",
+      "airport_position"    : 
+      {
+        "altitude"  : "-11.0",
+        "latitude"  : "52.308601",
+        "longitude" : "4.76389"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -673,8 +958,13 @@
     "departure" :
     {
       "airport"             : "EHAM",
-      "time"                : "2020-03-16 11:47:19+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-16 11:47:19",
+      "airport_position"    : 
+      {
+        "altitude"  : "-11.0",
+        "latitude"  : "52.308601",
+        "longitude" : "4.76389"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -682,8 +972,13 @@
     "arrival"   :
     {
       "airport"             : "UUEE",
-      "time"                : "2020-03-16 14:40:59+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-16 11:47:19",
+      "airport_position"    : 
+      {
+        "altitude"  : "622.0",
+        "latitude"  : "55.972599",
+        "longitude" : "37.4146"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -696,8 +991,13 @@
     "departure" :
     {
       "airport"             : "UUEE",
-      "time"                : "2020-03-16 17:41:59+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-16 17:41:59",
+      "airport_position"    : 
+      {
+        "altitude"  : "622.0",
+        "latitude"  : "55.972599",
+        "longitude" : "37.4146"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -705,7 +1005,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2020-03-17 00:09:25+00:00",
+      "time"                : "2020-03-16 17:41:59",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -719,7 +1019,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-03-17 05:40:06+00:00",
+      "time"                : "2020-03-17 05:40:06",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -728,8 +1028,13 @@
     "arrival"   :
     {
       "airport"             : "UUEE",
-      "time"                : "2020-03-17 12:58:37+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-17 05:40:06",
+      "airport_position"    : 
+      {
+        "altitude"  : "622.0",
+        "latitude"  : "55.972599",
+        "longitude" : "37.4146"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -742,8 +1047,13 @@
     "departure" :
     {
       "airport"             : "UUEE",
-      "time"                : "2020-03-17 17:33:52+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-17 17:33:52",
+      "airport_position"    : 
+      {
+        "altitude"  : "622.0",
+        "latitude"  : "55.972599",
+        "longitude" : "37.4146"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -751,7 +1061,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2020-03-17 23:57:55+00:00",
+      "time"                : "2020-03-17 17:33:52",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -765,7 +1075,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-03-18 05:13:11+00:00",
+      "time"                : "2020-03-18 05:13:11",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -774,8 +1084,13 @@
     "arrival"   :
     {
       "airport"             : "UUEE",
-      "time"                : "2020-03-18 13:01:55+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-18 05:13:11",
+      "airport_position"    : 
+      {
+        "altitude"  : "622.0",
+        "latitude"  : "55.972599",
+        "longitude" : "37.4146"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -788,8 +1103,13 @@
     "departure" :
     {
       "airport"             : "UUEE",
-      "time"                : "2020-03-18 18:01:53+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-18 18:01:53",
+      "airport_position"    : 
+      {
+        "altitude"  : "622.0",
+        "latitude"  : "55.972599",
+        "longitude" : "37.4146"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -797,7 +1117,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2020-03-18 19:19:29+00:00",
+      "time"                : "2020-03-18 18:01:53",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -811,7 +1131,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-03-19 12:10:31+00:00",
+      "time"                : "2020-03-19 12:10:31",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -820,8 +1140,13 @@
     "arrival"   :
     {
       "airport"             : "UUEE",
-      "time"                : "2020-03-19 13:40:55+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-19 12:10:31",
+      "airport_position"    : 
+      {
+        "altitude"  : "622.0",
+        "latitude"  : "55.972599",
+        "longitude" : "37.4146"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -834,8 +1159,13 @@
     "departure" :
     {
       "airport"             : "UUEE",
-      "time"                : "2020-03-22 05:43:51+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-22 05:43:51",
+      "airport_position"    : 
+      {
+        "altitude"  : "622.0",
+        "latitude"  : "55.972599",
+        "longitude" : "37.4146"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -843,8 +1173,13 @@
     "arrival"   :
     {
       "airport"             : "OMDB",
-      "time"                : "2020-03-22 10:47:28+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-22 05:43:51",
+      "airport_position"    : 
+      {
+        "altitude"  : "62.0",
+        "latitude"  : "25.252799987800003",
+        "longitude" : "55.3643989563"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -857,8 +1192,13 @@
     "departure" :
     {
       "airport"             : "OMDB",
-      "time"                : "2020-03-22 12:57:30+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-22 12:57:30",
+      "airport_position"    : 
+      {
+        "altitude"  : "62.0",
+        "latitude"  : "25.252799987800003",
+        "longitude" : "55.3643989563"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -866,8 +1206,13 @@
     "arrival"   :
     {
       "airport"             : "UUEE",
-      "time"                : "2020-03-22 17:44:51+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-22 12:57:30",
+      "airport_position"    : 
+      {
+        "altitude"  : "622.0",
+        "latitude"  : "55.972599",
+        "longitude" : "37.4146"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -880,8 +1225,13 @@
     "departure" :
     {
       "airport"             : "UUEE",
-      "time"                : "2020-03-23 05:41:11+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-23 05:41:11",
+      "airport_position"    : 
+      {
+        "altitude"  : "622.0",
+        "latitude"  : "55.972599",
+        "longitude" : "37.4146"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -889,8 +1239,13 @@
     "arrival"   :
     {
       "airport"             : "OMDB",
-      "time"                : "2020-03-23 10:53:58+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-23 05:41:11",
+      "airport_position"    : 
+      {
+        "altitude"  : "62.0",
+        "latitude"  : "25.252799987800003",
+        "longitude" : "55.3643989563"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -903,8 +1258,13 @@
     "departure" :
     {
       "airport"             : "OMDB",
-      "time"                : "2020-03-23 12:48:41+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-23 12:48:41",
+      "airport_position"    : 
+      {
+        "altitude"  : "62.0",
+        "latitude"  : "25.252799987800003",
+        "longitude" : "55.3643989563"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -912,8 +1272,13 @@
     "arrival"   :
     {
       "airport"             : "UUEE",
-      "time"                : "2020-03-23 18:27:27+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-23 12:48:41",
+      "airport_position"    : 
+      {
+        "altitude"  : "622.0",
+        "latitude"  : "55.972599",
+        "longitude" : "37.4146"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -926,8 +1291,13 @@
     "departure" :
     {
       "airport"             : "UUEE",
-      "time"                : "2020-03-25 06:41:06+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-25 06:41:06",
+      "airport_position"    : 
+      {
+        "altitude"  : "622.0",
+        "latitude"  : "55.972599",
+        "longitude" : "37.4146"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -935,8 +1305,13 @@
     "arrival"   :
     {
       "airport"             : "KJFK",
-      "time"                : "2020-03-25 16:52:07+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-25 06:41:06",
+      "airport_position"    : 
+      {
+        "altitude"  : "13.0",
+        "latitude"  : "40.63980103",
+        "longitude" : "-73.77890015"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -949,8 +1324,13 @@
     "departure" :
     {
       "airport"             : "KJFK",
-      "time"                : "2020-03-25 18:49:50+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-25 18:49:50",
+      "airport_position"    : 
+      {
+        "altitude"  : "13.0",
+        "latitude"  : "40.63980103",
+        "longitude" : "-73.77890015"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -958,8 +1338,13 @@
     "arrival"   :
     {
       "airport"             : "UUEE",
-      "time"                : "2020-03-26 03:05:53+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-25 18:49:50",
+      "airport_position"    : 
+      {
+        "altitude"  : "622.0",
+        "latitude"  : "55.972599",
+        "longitude" : "37.4146"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -972,8 +1357,13 @@
     "departure" :
     {
       "airport"             : "UUEE",
-      "time"                : "2020-03-26 12:31:30+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-26 12:31:30",
+      "airport_position"    : 
+      {
+        "altitude"  : "622.0",
+        "latitude"  : "55.972599",
+        "longitude" : "37.4146"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -981,8 +1371,13 @@
     "arrival"   :
     {
       "airport"             : "KJFK",
-      "time"                : "2020-03-26 23:03:46+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-26 12:31:30",
+      "airport_position"    : 
+      {
+        "altitude"  : "13.0",
+        "latitude"  : "40.63980103",
+        "longitude" : "-73.77890015"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -995,8 +1390,13 @@
     "departure" :
     {
       "airport"             : "KJFK",
-      "time"                : "2020-03-27 01:19:37+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-27 01:19:37",
+      "airport_position"    : 
+      {
+        "altitude"  : "13.0",
+        "latitude"  : "40.63980103",
+        "longitude" : "-73.77890015"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -1004,8 +1404,13 @@
     "arrival"   :
     {
       "airport"             : "UUEE",
-      "time"                : "2020-03-27 09:49:29+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-27 01:19:37",
+      "airport_position"    : 
+      {
+        "altitude"  : "622.0",
+        "latitude"  : "55.972599",
+        "longitude" : "37.4146"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -1018,8 +1423,13 @@
     "departure" :
     {
       "airport"             : "UUEE",
-      "time"                : "2020-03-27 16:56:05+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-27 16:56:05",
+      "airport_position"    : 
+      {
+        "altitude"  : "622.0",
+        "latitude"  : "55.972599",
+        "longitude" : "37.4146"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -1027,8 +1437,13 @@
     "arrival"   :
     {
       "airport"             : "UUEE",
-      "time"                : "2020-03-28 14:40:23+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-27 16:56:05",
+      "airport_position"    : 
+      {
+        "altitude"  : "622.0",
+        "latitude"  : "55.972599",
+        "longitude" : "37.4146"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -1041,8 +1456,13 @@
     "departure" :
     {
       "airport"             : "UUEE",
-      "time"                : "2020-03-28 18:53:06+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-28 18:53:06",
+      "airport_position"    : 
+      {
+        "altitude"  : "622.0",
+        "latitude"  : "55.972599",
+        "longitude" : "37.4146"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -1050,7 +1470,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2020-03-29 01:17:24+00:00",
+      "time"                : "2020-03-28 18:53:06",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -1064,7 +1484,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-03-29 05:07:36+00:00",
+      "time"                : "2020-03-29 05:07:36",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -1073,8 +1493,13 @@
     "arrival"   :
     {
       "airport"             : "UUEE",
-      "time"                : "2020-03-29 13:05:49+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-29 05:07:36",
+      "airport_position"    : 
+      {
+        "altitude"  : "622.0",
+        "latitude"  : "55.972599",
+        "longitude" : "37.4146"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"

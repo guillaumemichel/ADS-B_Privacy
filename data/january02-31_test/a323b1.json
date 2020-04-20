@@ -6,8 +6,13 @@
     "departure" :
     {
       "airport"             : "KFXE",
-      "time"                : "2020-01-04 14:48:42+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-04 14:48:42",
+      "airport_position"    : 
+      {
+        "altitude"  : "13.0",
+        "latitude"  : "26.1972999573",
+        "longitude" : "-80.1707000732"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -15,7 +20,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2020-01-04 17:14:18+00:00",
+      "time"                : "2020-01-04 14:48:42",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -29,7 +34,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-01-04 18:34:30+00:00",
+      "time"                : "2020-01-04 18:34:30",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -38,8 +43,13 @@
     "arrival"   :
     {
       "airport"             : "KCOS",
-      "time"                : "2020-01-04 21:27:39+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-04 18:34:30",
+      "airport_position"    : 
+      {
+        "altitude"  : "6187.0",
+        "latitude"  : "38.805801",
+        "longitude" : "-104.70099599999999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -52,8 +62,13 @@
     "departure" :
     {
       "airport"             : "KCOS",
-      "time"                : "2020-01-20 14:49:08+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-20 14:49:08",
+      "airport_position"    : 
+      {
+        "altitude"  : "6187.0",
+        "latitude"  : "38.805801",
+        "longitude" : "-104.70099599999999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -61,8 +76,13 @@
     "arrival"   :
     {
       "airport"             : "OA12",
-      "time"                : "2020-01-20 17:35:54+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-20 14:49:08",
+      "airport_position"    : 
+      {
+        "altitude"  : "855.0",
+        "latitude"  : "39.33440017700195",
+        "longitude" : "-84.06999969482422"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -75,8 +95,13 @@
     "departure" :
     {
       "airport"             : "KI66",
-      "time"                : "2020-01-20 18:45:42+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-20 18:45:42",
+      "airport_position"    : 
+      {
+        "altitude"  : "1033.0",
+        "latitude"  : "39.50329971313477",
+        "longitude" : "-83.86280059814453"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -84,8 +109,13 @@
     "arrival"   :
     {
       "airport"             : "KCOS",
-      "time"                : "2020-01-20 22:33:04+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-20 18:45:42",
+      "airport_position"    : 
+      {
+        "altitude"  : "6187.0",
+        "latitude"  : "38.805801",
+        "longitude" : "-104.70099599999999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -98,8 +128,13 @@
     "departure" :
     {
       "airport"             : "KCOS",
-      "time"                : "2020-01-22 14:12:40+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-22 14:12:40",
+      "airport_position"    : 
+      {
+        "altitude"  : "6187.0",
+        "latitude"  : "38.805801",
+        "longitude" : "-104.70099599999999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -107,8 +142,13 @@
     "arrival"   :
     {
       "airport"             : "KLAS",
-      "time"                : "2020-01-22 16:14:29+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-22 14:12:40",
+      "airport_position"    : 
+      {
+        "altitude"  : "2181.0",
+        "latitude"  : "36.08010101",
+        "longitude" : "-115.15200039999999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -121,8 +161,13 @@
     "departure" :
     {
       "airport"             : "KLAS",
-      "time"                : "2020-01-24 16:38:33+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-24 16:38:33",
+      "airport_position"    : 
+      {
+        "altitude"  : "2181.0",
+        "latitude"  : "36.08010101",
+        "longitude" : "-115.15200039999999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -130,8 +175,13 @@
     "arrival"   :
     {
       "airport"             : "KCOS",
-      "time"                : "2020-01-24 18:15:19+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-24 16:38:33",
+      "airport_position"    : 
+      {
+        "altitude"  : "6187.0",
+        "latitude"  : "38.805801",
+        "longitude" : "-104.70099599999999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"

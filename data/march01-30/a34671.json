@@ -6,8 +6,13 @@
     "departure" :
     {
       "airport"             : "KTYS",
-      "time"                : "2020-03-01 11:08:47+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-01 11:08:47",
+      "airport_position"    : 
+      {
+        "altitude"  : "981.0",
+        "latitude"  : "35.81100082",
+        "longitude" : "-83.99400329999999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -15,7 +20,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2020-03-01 12:57:43+00:00",
+      "time"                : "2020-03-01 11:08:47",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -29,76 +34,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-03-01 14:02:41+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    },
-    "arrival"   :
-    {
-      "airport"             : "KTYS",
-      "time"                : "2020-03-01 16:19:57+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    }
-  },
-  {
-    "icao"      : "a34671",
-    "callsign"  : "FFL317",
-    "nnumber"   : "None",
-    "departure" :
-    {
-      "airport"             : "KTYS",
-      "time"                : "2020-03-03 13:15:07+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    },
-    "arrival"   :
-    {
-      "airport"             : "None",
-      "time"                : "2020-03-03 13:29:23+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    }
-  },
-  {
-    "icao"      : "a34671",
-    "callsign"  : "FFL317",
-    "nnumber"   : "None",
-    "departure" :
-    {
-      "airport"             : "None",
-      "time"                : "2020-03-03 17:51:11+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    },
-    "arrival"   :
-    {
-      "airport"             : "None",
-      "time"                : "2020-03-03 18:18:29+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    }
-  },
-  {
-    "icao"      : "a34671",
-    "callsign"  : "FFL317",
-    "nnumber"   : "None",
-    "departure" :
-    {
-      "airport"             : "None",
-      "time"                : "2020-03-04 03:01:34+00:00",
+      "time"                : "2020-03-01 14:02:41",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -107,7 +43,40 @@
     "arrival"   :
     {
       "airport"             : "KTYS",
-      "time"                : "2020-03-04 04:22:38+00:00",
+      "time"                : "2020-03-01 14:02:41",
+      "airport_position"    : 
+      {
+        "altitude"  : "981.0",
+        "latitude"  : "35.81100082",
+        "longitude" : "-83.99400329999999"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a34671",
+    "callsign"  : "FFL317",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KTYS",
+      "time"                : "2020-03-03 13:15:07",
+      "airport_position"    : 
+      {
+        "altitude"  : "981.0",
+        "latitude"  : "35.81100082",
+        "longitude" : "-83.99400329999999"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-03 13:15:07",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -121,7 +90,58 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-03-10 16:41:51+00:00",
+      "time"                : "2020-03-03 17:51:11",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-03 17:51:11",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a34671",
+    "callsign"  : "FFL317",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-04 03:01:34",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KTYS",
+      "time"                : "2020-03-04 03:01:34",
+      "airport_position"    : 
+      {
+        "altitude"  : "981.0",
+        "latitude"  : "35.81100082",
+        "longitude" : "-83.99400329999999"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a34671",
+    "callsign"  : "FFL317",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-10 16:41:51",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -130,8 +150,13 @@
     "arrival"   :
     {
       "airport"             : "KHOU",
-      "time"                : "2020-03-10 18:58:34+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-10 16:41:51",
+      "airport_position"    : 
+      {
+        "altitude"  : "46.0",
+        "latitude"  : "29.64539909",
+        "longitude" : "-95.27890015"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -144,8 +169,13 @@
     "departure" :
     {
       "airport"             : "KHOU",
-      "time"                : "2020-03-12 23:24:59+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-12 23:24:59",
+      "airport_position"    : 
+      {
+        "altitude"  : "46.0",
+        "latitude"  : "29.64539909",
+        "longitude" : "-95.27890015"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -153,7 +183,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2020-03-13 01:25:59+00:00",
+      "time"                : "2020-03-12 23:24:59",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -167,8 +197,13 @@
     "departure" :
     {
       "airport"             : "KTYS",
-      "time"                : "2020-03-26 11:53:47+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-26 11:53:47",
+      "airport_position"    : 
+      {
+        "altitude"  : "981.0",
+        "latitude"  : "35.81100082",
+        "longitude" : "-83.99400329999999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -176,8 +211,13 @@
     "arrival"   :
     {
       "airport"             : "SC36",
-      "time"                : "2020-03-26 12:11:56+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-26 11:53:47",
+      "airport_position"    : 
+      {
+        "altitude"  : "1220.0",
+        "latitude"  : "35.124699",
+        "longitude" : "-82.326402"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -190,8 +230,13 @@
     "departure" :
     {
       "airport"             : "KGSP",
-      "time"                : "2020-03-26 18:34:37+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-26 18:34:37",
+      "airport_position"    : 
+      {
+        "altitude"  : "964.0",
+        "latitude"  : "34.895698547399995",
+        "longitude" : "-82.2189025879"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -199,8 +244,13 @@
     "arrival"   :
     {
       "airport"             : "KTYS",
-      "time"                : "2020-03-26 19:04:59+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-26 18:34:37",
+      "airport_position"    : 
+      {
+        "altitude"  : "981.0",
+        "latitude"  : "35.81100082",
+        "longitude" : "-83.99400329999999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -213,8 +263,13 @@
     "departure" :
     {
       "airport"             : "KTYS",
-      "time"                : "2020-03-27 14:51:05+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-27 14:51:05",
+      "airport_position"    : 
+      {
+        "altitude"  : "981.0",
+        "latitude"  : "35.81100082",
+        "longitude" : "-83.99400329999999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -222,53 +277,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2020-03-27 15:17:29+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    }
-  },
-  {
-    "icao"      : "a34671",
-    "callsign"  : "N31WE",
-    "nnumber"   : "None",
-    "departure" :
-    {
-      "airport"             : "None",
-      "time"                : "2020-03-27 22:09:24+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    },
-    "arrival"   :
-    {
-      "airport"             : "KTYS",
-      "time"                : "2020-03-27 22:41:59+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    }
-  },
-  {
-    "icao"      : "a34671",
-    "callsign"  : "N31WE",
-    "nnumber"   : "None",
-    "departure" :
-    {
-      "airport"             : "KTYS",
-      "time"                : "2020-03-30 11:14:14+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    },
-    "arrival"   :
-    {
-      "airport"             : "None",
-      "time"                : "2020-03-30 11:39:31+00:00",
+      "time"                : "2020-03-27 14:51:05",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -282,7 +291,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-03-30 12:10:33+00:00",
+      "time"                : "2020-03-27 22:09:24",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -290,8 +299,41 @@
     },
     "arrival"   :
     {
+      "airport"             : "KTYS",
+      "time"                : "2020-03-27 22:09:24",
+      "airport_position"    : 
+      {
+        "altitude"  : "981.0",
+        "latitude"  : "35.81100082",
+        "longitude" : "-83.99400329999999"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a34671",
+    "callsign"  : "N31WE",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KTYS",
+      "time"                : "2020-03-30 11:14:14",
+      "airport_position"    : 
+      {
+        "altitude"  : "981.0",
+        "latitude"  : "35.81100082",
+        "longitude" : "-83.99400329999999"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
       "airport"             : "None",
-      "time"                : "2020-03-30 12:31:55+00:00",
+      "time"                : "2020-03-30 11:14:14",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -305,7 +347,30 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-03-30 20:36:06+00:00",
+      "time"                : "2020-03-30 12:10:33",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-30 12:10:33",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a34671",
+    "callsign"  : "N31WE",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-03-30 20:36:06",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -314,8 +379,13 @@
     "arrival"   :
     {
       "airport"             : "KTYS",
-      "time"                : "2020-03-30 21:31:29+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-30 20:36:06",
+      "airport_position"    : 
+      {
+        "altitude"  : "981.0",
+        "latitude"  : "35.81100082",
+        "longitude" : "-83.99400329999999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"

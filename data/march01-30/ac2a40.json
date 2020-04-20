@@ -6,7 +6,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-03-13 17:11:57+00:00",
+      "time"                : "2020-03-13 17:11:57",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -15,8 +15,13 @@
     "arrival"   :
     {
       "airport"             : "KOJC",
-      "time"                : "2020-03-13 18:30:08+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-13 17:11:57",
+      "airport_position"    : 
+      {
+        "altitude"  : "1096.0",
+        "latitude"  : "38.84759903",
+        "longitude" : "-94.73760223"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"

@@ -6,7 +6,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-11-08 17:34:45+00:00",
+      "time"                : "2019-11-08 17:34:45",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -20,7 +20,7 @@
     "arrival"   :
     {
       "airport"             : "KACY",
-      "time"                : "2019-11-08 18:20:49+00:00",
+      "time"                : "2019-11-08 17:34:45",
       "airport_position"    : 
       {
         "altitude"  : "75.0",
@@ -44,7 +44,7 @@
     "departure" :
     {
       "airport"             : "KACY",
-      "time"                : "2019-11-08 23:02:13+00:00",
+      "time"                : "2019-11-08 23:02:13",
       "airport_position"    : 
       {
         "altitude"  : "75.0",
@@ -63,16 +63,21 @@
     "arrival"   :
     {
       "airport"             : "CYHU",
-      "time"                : "2019-11-09 00:10:42+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-08 23:02:13",
+      "airport_position"    : 
+      {
+        "altitude"  : "90.0",
+        "latitude"  : "45.5175018311",
+        "longitude" : "-73.4169006348"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "-175.0",
         "latitude"  : "45.51534491070246",
         "longitude" : "-73.4074290205793"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "777.9254396521742",
+      "vertical_distance"   : "-265.0"
     }
   }
 ]

@@ -6,7 +6,7 @@
     "departure" :
     {
       "airport"             : "KHND",
-      "time"                : "2019-11-17 21:01:16+00:00",
+      "time"                : "2019-11-17 21:01:16",
       "airport_position"    : 
       {
         "altitude"  : "2492.0",
@@ -25,7 +25,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2019-11-17 21:23:23+00:00",
+      "time"                : "2019-11-17 21:01:16",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -44,7 +44,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-11-17 22:52:33+00:00",
+      "time"                : "2019-11-17 22:52:33",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -53,8 +53,13 @@
     "arrival"   :
     {
       "airport"             : "KHND",
-      "time"                : "2019-11-17 23:04:19+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-17 22:52:33",
+      "airport_position"    : 
+      {
+        "altitude"  : "2492.0",
+        "latitude"  : "35.9728012085",
+        "longitude" : "-115.134002686"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"

@@ -6,21 +6,26 @@
     "departure" :
     {
       "airport"             : "CYHU",
-      "time"                : "2020-02-11 14:39:59+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-11 14:39:59",
+      "airport_position"    : 
+      {
+        "altitude"  : "90.0",
+        "latitude"  : "45.5175018311",
+        "longitude" : "-73.4169006348"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "50.0",
         "latitude"  : "45.51695251464844",
         "longitude" : "-73.41966901506696"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "224.7561234458313",
+      "vertical_distance"   : "-40.0"
     },
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2020-02-11 15:18:02+00:00",
+      "time"                : "2020-02-11 14:39:59",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -39,7 +44,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-02-11 15:44:39+00:00",
+      "time"                : "2020-02-11 15:44:39",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -53,16 +58,21 @@
     "arrival"   :
     {
       "airport"             : "CYMX",
-      "time"                : "2020-02-11 16:31:17+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-11 15:44:39",
+      "airport_position"    : 
+      {
+        "altitude"  : "270.0",
+        "latitude"  : "45.679501",
+        "longitude" : "-74.038696"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "224.99999999999997",
         "latitude"  : "45.68027114868164",
         "longitude" : "-74.00769117401866"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "2417.0647623459427",
+      "vertical_distance"   : "-45.00000000000003"
     }
   },
   {
@@ -72,21 +82,26 @@
     "departure" :
     {
       "airport"             : "CYMX",
-      "time"                : "2020-02-11 22:34:04+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-11 22:34:04",
+      "airport_position"    : 
+      {
+        "altitude"  : "270.0",
+        "latitude"  : "45.679501",
+        "longitude" : "-74.038696"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "nan",
         "latitude"  : "45.67173715365135",
         "longitude" : "-74.023681640625"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "1453.6652385335206",
+      "vertical_distance"   : "nan"
     },
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2020-02-11 23:08:43+00:00",
+      "time"                : "2020-02-11 22:34:04",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -105,7 +120,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-02-12 23:24:54+00:00",
+      "time"                : "2020-02-12 23:24:54",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -119,16 +134,21 @@
     "arrival"   :
     {
       "airport"             : "CYHU",
-      "time"                : "2020-02-13 00:11:49+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-12 23:24:54",
+      "airport_position"    : 
+      {
+        "altitude"  : "90.0",
+        "latitude"  : "45.5175018311",
+        "longitude" : "-73.4169006348"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "50.0",
         "latitude"  : "45.51425093311374",
         "longitude" : "-73.41997286168541"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "433.7861214882835",
+      "vertical_distance"   : "-40.0"
     }
   },
   {
@@ -138,21 +158,26 @@
     "departure" :
     {
       "airport"             : "CYHU",
-      "time"                : "2020-02-18 12:00:48+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-18 12:00:48",
+      "airport_position"    : 
+      {
+        "altitude"  : "90.0",
+        "latitude"  : "45.5175018311",
+        "longitude" : "-73.4169006348"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "-250.0",
         "latitude"  : "45.5152587890625",
         "longitude" : "-73.42235020228794"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "493.4142150218304",
+      "vertical_distance"   : "-340.0"
     },
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2020-02-18 12:37:49+00:00",
+      "time"                : "2020-02-18 12:00:48",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -171,7 +196,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-02-19 22:52:52+00:00",
+      "time"                : "2020-02-19 22:52:52",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -185,16 +210,21 @@
     "arrival"   :
     {
       "airport"             : "CYHU",
-      "time"                : "2020-02-19 23:39:19+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-19 22:52:52",
+      "airport_position"    : 
+      {
+        "altitude"  : "90.0",
+        "latitude"  : "45.5175018311",
+        "longitude" : "-73.4169006348"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "-325.0",
         "latitude"  : "45.51902253749007",
         "longitude" : "-73.41655638159774"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "171.14109802423792",
+      "vertical_distance"   : "-415.0"
     }
   },
   {
@@ -204,30 +234,40 @@
     "departure" :
     {
       "airport"             : "CYHU",
-      "time"                : "2020-02-21 20:16:05+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-21 20:16:05",
+      "airport_position"    : 
+      {
+        "altitude"  : "90.0",
+        "latitude"  : "45.5175018311",
+        "longitude" : "-73.4169006348"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "200.0",
         "latitude"  : "45.51168823242188",
         "longitude" : "-73.42777797154018"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "1067.6485415179782",
+      "vertical_distance"   : "110.0"
     },
     "arrival"   :
     {
       "airport"             : "CYSN",
-      "time"                : "2020-02-21 21:10:50+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-21 20:16:05",
+      "airport_position"    : 
+      {
+        "altitude"  : "321.0",
+        "latitude"  : "43.19169998168945",
+        "longitude" : "-79.17169952392578"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "-25.0",
         "latitude"  : "43.19814908302436",
         "longitude" : "-79.16028703962053"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "1172.1115276201513",
+      "vertical_distance"   : "-346.0"
     }
   },
   {
@@ -237,30 +277,40 @@
     "departure" :
     {
       "airport"             : "CYSN",
-      "time"                : "2020-02-22 21:18:35+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-22 21:18:35",
+      "airport_position"    : 
+      {
+        "altitude"  : "321.0",
+        "latitude"  : "43.19169998168945",
+        "longitude" : "-79.17169952392578"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "600.0",
         "latitude"  : "43.18669723252118",
         "longitude" : "-79.18108258928572"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "943.7643742007646",
+      "vertical_distance"   : "279.0"
     },
     "arrival"   :
     {
       "airport"             : "CYHU",
-      "time"                : "2020-02-22 22:10:22+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-22 21:18:35",
+      "airport_position"    : 
+      {
+        "altitude"  : "90.0",
+        "latitude"  : "45.5175018311",
+        "longitude" : "-73.4169006348"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "-25.0",
         "latitude"  : "45.51556777954102",
         "longitude" : "-73.40958186558315"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "610.9186147497472",
+      "vertical_distance"   : "-115.0"
     }
   },
   {
@@ -270,21 +320,26 @@
     "departure" :
     {
       "airport"             : "CYHU",
-      "time"                : "2020-02-24 12:18:46+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-24 12:18:46",
+      "airport_position"    : 
+      {
+        "altitude"  : "90.0",
+        "latitude"  : "45.5175018311",
+        "longitude" : "-73.4169006348"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "1000.0",
         "latitude"  : "45.50729370117188",
         "longitude" : "-73.43470982142857"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "1795.5016915031654",
+      "vertical_distance"   : "910.0"
     },
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2020-02-24 12:56:58+00:00",
+      "time"                : "2020-02-24 12:18:46",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -303,7 +358,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-02-25 20:37:32+00:00",
+      "time"                : "2020-02-25 20:37:32",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -317,16 +372,21 @@
     "arrival"   :
     {
       "airport"             : "CYHU",
-      "time"                : "2020-02-25 21:23:38+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-25 20:37:32",
+      "airport_position"    : 
+      {
+        "altitude"  : "90.0",
+        "latitude"  : "45.5175018311",
+        "longitude" : "-73.4169006348"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "50.0",
         "latitude"  : "45.51814968303098",
         "longitude" : "-73.40635718368901"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "826.9363805255057",
+      "vertical_distance"   : "-40.0"
     }
   },
   {
@@ -336,21 +396,26 @@
     "departure" :
     {
       "airport"             : "CYHU",
-      "time"                : "2020-02-26 14:58:55+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-26 14:58:55",
+      "airport_position"    : 
+      {
+        "altitude"  : "90.0",
+        "latitude"  : "45.5175018311",
+        "longitude" : "-73.4169006348"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "125.0",
         "latitude"  : "45.52290344238281",
         "longitude" : "-73.41057913643976"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "777.4003947112319",
+      "vertical_distance"   : "35.0"
     },
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2020-02-26 15:33:43+00:00",
+      "time"                : "2020-02-26 14:58:55",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -369,7 +434,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-02-26 23:00:12+00:00",
+      "time"                : "2020-02-26 23:00:12",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -383,16 +448,21 @@
     "arrival"   :
     {
       "airport"             : "CYHU",
-      "time"                : "2020-02-26 23:52:09+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-26 23:00:12",
+      "airport_position"    : 
+      {
+        "altitude"  : "90.0",
+        "latitude"  : "45.5175018311",
+        "longitude" : "-73.4169006348"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "50.0",
         "latitude"  : "45.52153015136719",
         "longitude" : "-73.4108897617885"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "648.8503887224399",
+      "vertical_distance"   : "-40.0"
     }
   }
 ]

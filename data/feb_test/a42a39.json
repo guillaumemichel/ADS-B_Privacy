@@ -6,8 +6,13 @@
     "departure" :
     {
       "airport"             : "KRVS",
-      "time"                : "2020-02-03 15:08:56+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-03 15:08:56",
+      "airport_position"    : 
+      {
+        "altitude"  : "638.0",
+        "latitude"  : "36.039600372314",
+        "longitude" : "-95.98459625244101"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -15,8 +20,13 @@
     "arrival"   :
     {
       "airport"             : "75TE",
-      "time"                : "2020-02-03 15:56:26+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-03 15:08:56",
+      "airport_position"    : 
+      {
+        "altitude"  : "500.0",
+        "latitude"  : "31.74740028381348",
+        "longitude" : "-97.24610137939452"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -29,8 +39,13 @@
     "departure" :
     {
       "airport"             : "KACT",
-      "time"                : "2020-02-03 16:21:26+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-03 16:21:26",
+      "airport_position"    : 
+      {
+        "altitude"  : "516.0",
+        "latitude"  : "31.61129951477051",
+        "longitude" : "-97.23049926757812"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -38,8 +53,13 @@
     "arrival"   :
     {
       "airport"             : "KRVS",
-      "time"                : "2020-02-03 17:02:58+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-03 16:21:26",
+      "airport_position"    : 
+      {
+        "altitude"  : "638.0",
+        "latitude"  : "36.039600372314",
+        "longitude" : "-95.98459625244101"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -52,8 +72,13 @@
     "departure" :
     {
       "airport"             : "KRVS",
-      "time"                : "2020-02-03 23:53:48+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-03 23:53:48",
+      "airport_position"    : 
+      {
+        "altitude"  : "638.0",
+        "latitude"  : "36.039600372314",
+        "longitude" : "-95.98459625244101"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -61,8 +86,13 @@
     "arrival"   :
     {
       "airport"             : "04TX",
-      "time"                : "2020-02-04 00:48:43+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-03 23:53:48",
+      "airport_position"    : 
+      {
+        "altitude"  : "565.0",
+        "latitude"  : "31.7322006226",
+        "longitude" : "-97.36889648440001"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -75,8 +105,13 @@
     "departure" :
     {
       "airport"             : "5TA2",
-      "time"                : "2020-02-04 01:21:08+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-04 01:21:08",
+      "airport_position"    : 
+      {
+        "altitude"  : "740.0",
+        "latitude"  : "31.454599380493164",
+        "longitude" : "-97.25029754638672"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -84,8 +119,13 @@
     "arrival"   :
     {
       "airport"             : "KRVS",
-      "time"                : "2020-02-04 02:00:55+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-04 01:21:08",
+      "airport_position"    : 
+      {
+        "altitude"  : "638.0",
+        "latitude"  : "36.039600372314",
+        "longitude" : "-95.98459625244101"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -98,8 +138,13 @@
     "departure" :
     {
       "airport"             : "KRVS",
-      "time"                : "2020-02-04 14:23:36+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-04 14:23:36",
+      "airport_position"    : 
+      {
+        "altitude"  : "638.0",
+        "latitude"  : "36.039600372314",
+        "longitude" : "-95.98459625244101"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -107,8 +152,13 @@
     "arrival"   :
     {
       "airport"             : "04TX",
-      "time"                : "2020-02-04 15:16:59+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-04 14:23:36",
+      "airport_position"    : 
+      {
+        "altitude"  : "565.0",
+        "latitude"  : "31.7322006226",
+        "longitude" : "-97.36889648440001"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -121,7 +171,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-02-28 20:21:09+00:00",
+      "time"                : "2020-02-28 20:21:09",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -130,8 +180,13 @@
     "arrival"   :
     {
       "airport"             : "KRVS",
-      "time"                : "2020-02-28 21:08:56+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-28 20:21:09",
+      "airport_position"    : 
+      {
+        "altitude"  : "638.0",
+        "latitude"  : "36.039600372314",
+        "longitude" : "-95.98459625244101"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"

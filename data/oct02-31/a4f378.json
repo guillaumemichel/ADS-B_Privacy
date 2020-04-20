@@ -6,8 +6,13 @@
     "departure" :
     {
       "airport"             : "KTTN",
-      "time"                : "2019-10-05 19:40:52+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-10-05 19:40:52",
+      "airport_position"    : 
+      {
+        "altitude"  : "213.0",
+        "latitude"  : "40.27669906616211",
+        "longitude" : "-74.8134994506836"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -15,8 +20,13 @@
     "arrival"   :
     {
       "airport"             : "KTTN",
-      "time"                : "2019-10-05 20:40:33+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-10-05 19:40:52",
+      "airport_position"    : 
+      {
+        "altitude"  : "213.0",
+        "latitude"  : "40.27669906616211",
+        "longitude" : "-74.8134994506836"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -29,8 +39,13 @@
     "departure" :
     {
       "airport"             : "KTTN",
-      "time"                : "2019-10-06 15:02:39+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-10-06 15:02:39",
+      "airport_position"    : 
+      {
+        "altitude"  : "213.0",
+        "latitude"  : "40.27669906616211",
+        "longitude" : "-74.8134994506836"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -38,8 +53,13 @@
     "arrival"   :
     {
       "airport"             : "KN81",
-      "time"                : "2019-10-06 15:17:18+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-10-06 15:02:39",
+      "airport_position"    : 
+      {
+        "altitude"  : "65.0",
+        "latitude"  : "39.66749954",
+        "longitude" : "-74.75769806"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -52,8 +72,13 @@
     "departure" :
     {
       "airport"             : "KN73",
-      "time"                : "2019-10-06 16:03:38+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-10-06 16:03:38",
+      "airport_position"    : 
+      {
+        "altitude"  : "54.0",
+        "latitude"  : "39.904202000000005",
+        "longitude" : "-74.749496"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -61,8 +86,13 @@
     "arrival"   :
     {
       "airport"             : "KTTN",
-      "time"                : "2019-10-06 16:15:14+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-10-06 16:03:38",
+      "airport_position"    : 
+      {
+        "altitude"  : "213.0",
+        "latitude"  : "40.27669906616211",
+        "longitude" : "-74.8134994506836"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -75,8 +105,13 @@
     "departure" :
     {
       "airport"             : "KTTN",
-      "time"                : "2019-10-08 22:39:08+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-10-08 22:39:08",
+      "airport_position"    : 
+      {
+        "altitude"  : "213.0",
+        "latitude"  : "40.27669906616211",
+        "longitude" : "-74.8134994506836"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -84,8 +119,13 @@
     "arrival"   :
     {
       "airport"             : "1PN0",
-      "time"                : "2019-10-08 22:54:48+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-10-08 22:39:08",
+      "airport_position"    : 
+      {
+        "altitude"  : "690.0",
+        "latitude"  : "40.20140075683594",
+        "longitude" : "-75.71420288085938"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -98,8 +138,13 @@
     "departure" :
     {
       "airport"             : "1PN0",
-      "time"                : "2019-10-09 01:01:34+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-10-09 01:01:34",
+      "airport_position"    : 
+      {
+        "altitude"  : "690.0",
+        "latitude"  : "40.20140075683594",
+        "longitude" : "-75.71420288085938"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -107,8 +152,13 @@
     "arrival"   :
     {
       "airport"             : "KTTN",
-      "time"                : "2019-10-09 01:21:26+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-10-09 01:01:34",
+      "airport_position"    : 
+      {
+        "altitude"  : "213.0",
+        "latitude"  : "40.27669906616211",
+        "longitude" : "-74.8134994506836"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -121,8 +171,13 @@
     "departure" :
     {
       "airport"             : "KTTN",
-      "time"                : "2019-10-11 17:58:55+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-10-11 17:58:55",
+      "airport_position"    : 
+      {
+        "altitude"  : "213.0",
+        "latitude"  : "40.27669906616211",
+        "longitude" : "-74.8134994506836"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -130,8 +185,13 @@
     "arrival"   :
     {
       "airport"             : "VT55",
-      "time"                : "2019-10-11 20:39:59+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-10-11 17:58:55",
+      "airport_position"    : 
+      {
+        "altitude"  : "710.0",
+        "latitude"  : "43.90119934082031",
+        "longitude" : "-72.58290100097656"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -144,8 +204,13 @@
     "departure" :
     {
       "airport"             : "NY63",
-      "time"                : "2019-10-13 19:35:11+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-10-13 19:35:11",
+      "airport_position"    : 
+      {
+        "altitude"  : "584.0",
+        "latitude"  : "43.05329895019531",
+        "longitude" : "-73.47830200195312"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -153,8 +218,13 @@
     "arrival"   :
     {
       "airport"             : "CT52",
-      "time"                : "2019-10-13 20:14:28+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-10-13 19:35:11",
+      "airport_position"    : 
+      {
+        "altitude"  : "610.0",
+        "latitude"  : "41.36819839477539",
+        "longitude" : "-73.29119873046875"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -167,8 +237,13 @@
     "departure" :
     {
       "airport"             : "KBDR",
-      "time"                : "2019-10-13 22:05:16+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-10-13 22:05:16",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "41.16350173950195",
+        "longitude" : "-73.1261978149414"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -176,8 +251,13 @@
     "arrival"   :
     {
       "airport"             : "KTTN",
-      "time"                : "2019-10-13 22:41:18+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-10-13 22:05:16",
+      "airport_position"    : 
+      {
+        "altitude"  : "213.0",
+        "latitude"  : "40.27669906616211",
+        "longitude" : "-74.8134994506836"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -190,8 +270,13 @@
     "departure" :
     {
       "airport"             : "KTTN",
-      "time"                : "2019-10-14 16:27:41+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-10-14 16:27:41",
+      "airport_position"    : 
+      {
+        "altitude"  : "213.0",
+        "latitude"  : "40.27669906616211",
+        "longitude" : "-74.8134994506836"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -199,8 +284,13 @@
     "arrival"   :
     {
       "airport"             : "19PA",
-      "time"                : "2019-10-14 17:09:10+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-10-14 16:27:41",
+      "airport_position"    : 
+      {
+        "altitude"  : "750.0",
+        "latitude"  : "41.117000579833984",
+        "longitude" : "-76.52079772949219"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -213,7 +303,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-10-14 18:40:20+00:00",
+      "time"                : "2019-10-14 18:40:20",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -222,8 +312,13 @@
     "arrival"   :
     {
       "airport"             : "KPNE",
-      "time"                : "2019-10-14 19:20:38+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-10-14 18:40:20",
+      "airport_position"    : 
+      {
+        "altitude"  : "120.0",
+        "latitude"  : "40.081902",
+        "longitude" : "-75.010597"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -236,8 +331,13 @@
     "departure" :
     {
       "airport"             : "KPNE",
-      "time"                : "2019-10-14 19:47:05+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-10-14 19:47:05",
+      "airport_position"    : 
+      {
+        "altitude"  : "120.0",
+        "latitude"  : "40.081902",
+        "longitude" : "-75.010597"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -245,8 +345,13 @@
     "arrival"   :
     {
       "airport"             : "KTTN",
-      "time"                : "2019-10-14 19:57:59+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-10-14 19:47:05",
+      "airport_position"    : 
+      {
+        "altitude"  : "213.0",
+        "latitude"  : "40.27669906616211",
+        "longitude" : "-74.8134994506836"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -259,8 +364,13 @@
     "departure" :
     {
       "airport"             : "KTTN",
-      "time"                : "2019-10-15 22:47:57+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-10-15 22:47:57",
+      "airport_position"    : 
+      {
+        "altitude"  : "213.0",
+        "latitude"  : "40.27669906616211",
+        "longitude" : "-74.8134994506836"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -268,8 +378,13 @@
     "arrival"   :
     {
       "airport"             : "CT52",
-      "time"                : "2019-10-15 23:22:02+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-10-15 22:47:57",
+      "airport_position"    : 
+      {
+        "altitude"  : "610.0",
+        "latitude"  : "41.36819839477539",
+        "longitude" : "-73.29119873046875"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -282,8 +397,13 @@
     "departure" :
     {
       "airport"             : "CT52",
-      "time"                : "2019-10-16 01:01:29+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-10-16 01:01:29",
+      "airport_position"    : 
+      {
+        "altitude"  : "610.0",
+        "latitude"  : "41.36819839477539",
+        "longitude" : "-73.29119873046875"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -291,8 +411,13 @@
     "arrival"   :
     {
       "airport"             : "KTTN",
-      "time"                : "2019-10-16 02:06:09+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-10-16 01:01:29",
+      "airport_position"    : 
+      {
+        "altitude"  : "213.0",
+        "latitude"  : "40.27669906616211",
+        "longitude" : "-74.8134994506836"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -305,8 +430,13 @@
     "departure" :
     {
       "airport"             : "KTTN",
-      "time"                : "2019-10-17 11:27:36+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-10-17 11:27:36",
+      "airport_position"    : 
+      {
+        "altitude"  : "213.0",
+        "latitude"  : "40.27669906616211",
+        "longitude" : "-74.8134994506836"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -314,7 +444,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2019-10-17 14:27:21+00:00",
+      "time"                : "2019-10-17 11:27:36",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -328,8 +458,13 @@
     "departure" :
     {
       "airport"             : "3NC0",
-      "time"                : "2019-10-18 19:21:34+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-10-18 19:21:34",
+      "airport_position"    : 
+      {
+        "altitude"  : "1100.0",
+        "latitude"  : "35.690399169921875",
+        "longitude" : "-81.7123031616211"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -337,8 +472,13 @@
     "arrival"   :
     {
       "airport"             : "5PN7",
-      "time"                : "2019-10-18 22:13:42+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-10-18 19:21:34",
+      "airport_position"    : 
+      {
+        "altitude"  : "210.0",
+        "latitude"  : "40.233299255371094",
+        "longitude" : "-75.07499694824219"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -351,8 +491,13 @@
     "departure" :
     {
       "airport"             : "KTTN",
-      "time"                : "2019-10-21 19:51:11+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-10-21 19:51:11",
+      "airport_position"    : 
+      {
+        "altitude"  : "213.0",
+        "latitude"  : "40.27669906616211",
+        "longitude" : "-74.8134994506836"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -360,8 +505,13 @@
     "arrival"   :
     {
       "airport"             : "KN06",
-      "time"                : "2019-10-21 20:40:04+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-10-21 19:51:11",
+      "airport_position"    : 
+      {
+        "altitude"  : "30.0",
+        "latitude"  : "38.54219818115234",
+        "longitude" : "-75.59439849853516"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -374,7 +524,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-10-24 18:37:18+00:00",
+      "time"                : "2019-10-24 18:37:18",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -383,8 +533,13 @@
     "arrival"   :
     {
       "airport"             : "KLDJ",
-      "time"                : "2019-10-24 19:14:17+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-10-24 18:37:18",
+      "airport_position"    : 
+      {
+        "altitude"  : "23.0",
+        "latitude"  : "40.617401123",
+        "longitude" : "-74.2445983887"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -397,8 +552,13 @@
     "departure" :
     {
       "airport"             : "KLDJ",
-      "time"                : "2019-10-24 19:55:01+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-10-24 19:55:01",
+      "airport_position"    : 
+      {
+        "altitude"  : "23.0",
+        "latitude"  : "40.617401123",
+        "longitude" : "-74.2445983887"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -406,8 +566,13 @@
     "arrival"   :
     {
       "airport"             : "KTTN",
-      "time"                : "2019-10-24 20:08:16+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-10-24 19:55:01",
+      "airport_position"    : 
+      {
+        "altitude"  : "213.0",
+        "latitude"  : "40.27669906616211",
+        "longitude" : "-74.8134994506836"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -420,8 +585,13 @@
     "departure" :
     {
       "airport"             : "KTTN",
-      "time"                : "2019-10-24 20:51:12+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-10-24 20:51:12",
+      "airport_position"    : 
+      {
+        "altitude"  : "213.0",
+        "latitude"  : "40.27669906616211",
+        "longitude" : "-74.8134994506836"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -429,8 +599,13 @@
     "arrival"   :
     {
       "airport"             : "KTTN",
-      "time"                : "2019-10-24 22:00:41+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-10-24 20:51:12",
+      "airport_position"    : 
+      {
+        "altitude"  : "213.0",
+        "latitude"  : "40.27669906616211",
+        "longitude" : "-74.8134994506836"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -443,8 +618,13 @@
     "departure" :
     {
       "airport"             : "KTTN",
-      "time"                : "2019-10-26 14:14:22+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-10-26 14:14:22",
+      "airport_position"    : 
+      {
+        "altitude"  : "213.0",
+        "latitude"  : "40.27669906616211",
+        "longitude" : "-74.8134994506836"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -452,8 +632,13 @@
     "arrival"   :
     {
       "airport"             : "KTTN",
-      "time"                : "2019-10-26 14:29:04+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-10-26 14:14:22",
+      "airport_position"    : 
+      {
+        "altitude"  : "213.0",
+        "latitude"  : "40.27669906616211",
+        "longitude" : "-74.8134994506836"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"

@@ -6,8 +6,13 @@
     "departure" :
     {
       "airport"             : "KTYQ",
-      "time"                : "2019-11-04 14:32:46+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-04 14:32:46",
+      "airport_position"    : 
+      {
+        "altitude"  : "922.0",
+        "latitude"  : "40.030701",
+        "longitude" : "-86.25140400000001"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -15,8 +20,13 @@
     "arrival"   :
     {
       "airport"             : "KJVY",
-      "time"                : "2019-11-04 14:56:24+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-04 14:32:46",
+      "airport_position"    : 
+      {
+        "altitude"  : "474.0",
+        "latitude"  : "38.36539840698242",
+        "longitude" : "-85.73819732666016"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -29,8 +39,13 @@
     "departure" :
     {
       "airport"             : "KJVY",
-      "time"                : "2019-11-04 15:13:37+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-04 15:13:37",
+      "airport_position"    : 
+      {
+        "altitude"  : "474.0",
+        "latitude"  : "38.36539840698242",
+        "longitude" : "-85.73819732666016"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -38,8 +53,13 @@
     "arrival"   :
     {
       "airport"             : "KHND",
-      "time"                : "2019-11-04 20:21:04+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-04 15:13:37",
+      "airport_position"    : 
+      {
+        "altitude"  : "2492.0",
+        "latitude"  : "35.9728012085",
+        "longitude" : "-115.134002686"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -52,8 +72,13 @@
     "departure" :
     {
       "airport"             : "KHND",
-      "time"                : "2019-11-05 15:20:13+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-05 15:20:13",
+      "airport_position"    : 
+      {
+        "altitude"  : "2492.0",
+        "latitude"  : "35.9728012085",
+        "longitude" : "-115.134002686"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -61,8 +86,13 @@
     "arrival"   :
     {
       "airport"             : "KRAL",
-      "time"                : "2019-11-05 15:53:55+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-05 15:20:13",
+      "airport_position"    : 
+      {
+        "altitude"  : "819.0",
+        "latitude"  : "33.95190048",
+        "longitude" : "-117.4449997"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -75,8 +105,13 @@
     "departure" :
     {
       "airport"             : "KCNO",
-      "time"                : "2019-11-05 17:14:55+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-05 17:14:55",
+      "airport_position"    : 
+      {
+        "altitude"  : "650.0",
+        "latitude"  : "33.97470093",
+        "longitude" : "-117.637001"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -84,8 +119,13 @@
     "arrival"   :
     {
       "airport"             : "KHND",
-      "time"                : "2019-11-05 17:54:44+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-05 17:14:55",
+      "airport_position"    : 
+      {
+        "altitude"  : "2492.0",
+        "latitude"  : "35.9728012085",
+        "longitude" : "-115.134002686"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -98,8 +138,13 @@
     "departure" :
     {
       "airport"             : "KHND",
-      "time"                : "2019-11-05 23:45:46+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-05 23:45:46",
+      "airport_position"    : 
+      {
+        "altitude"  : "2492.0",
+        "latitude"  : "35.9728012085",
+        "longitude" : "-115.134002686"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -107,8 +152,13 @@
     "arrival"   :
     {
       "airport"             : "KCNO",
-      "time"                : "2019-11-06 00:22:44+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-05 23:45:46",
+      "airport_position"    : 
+      {
+        "altitude"  : "650.0",
+        "latitude"  : "33.97470093",
+        "longitude" : "-117.637001"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -121,8 +171,13 @@
     "departure" :
     {
       "airport"             : "KCNO",
-      "time"                : "2019-11-06 00:53:35+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-06 00:53:35",
+      "airport_position"    : 
+      {
+        "altitude"  : "650.0",
+        "latitude"  : "33.97470093",
+        "longitude" : "-117.637001"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -130,8 +185,13 @@
     "arrival"   :
     {
       "airport"             : "KHND",
-      "time"                : "2019-11-06 01:35:20+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-06 00:53:35",
+      "airport_position"    : 
+      {
+        "altitude"  : "2492.0",
+        "latitude"  : "35.9728012085",
+        "longitude" : "-115.134002686"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -144,8 +204,13 @@
     "departure" :
     {
       "airport"             : "KHND",
-      "time"                : "2019-11-07 01:46:21+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-07 01:46:21",
+      "airport_position"    : 
+      {
+        "altitude"  : "2492.0",
+        "latitude"  : "35.9728012085",
+        "longitude" : "-115.134002686"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -153,8 +218,13 @@
     "arrival"   :
     {
       "airport"             : "KTYQ",
-      "time"                : "2019-11-07 05:09:39+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-07 01:46:21",
+      "airport_position"    : 
+      {
+        "altitude"  : "922.0",
+        "latitude"  : "40.030701",
+        "longitude" : "-86.25140400000001"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -167,8 +237,13 @@
     "departure" :
     {
       "airport"             : "02II",
-      "time"                : "2019-11-18 21:25:41+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-18 21:25:41",
+      "airport_position"    : 
+      {
+        "altitude"  : "925.0",
+        "latitude"  : "40.06230163574219",
+        "longitude" : "-86.21050262451172"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -176,8 +251,13 @@
     "arrival"   :
     {
       "airport"             : "67OH",
-      "time"                : "2019-11-18 22:09:48+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-18 21:25:41",
+      "airport_position"    : 
+      {
+        "altitude"  : "1235.0",
+        "latitude"  : "41.41389846801758",
+        "longitude" : "-81.45259857177734"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -190,8 +270,13 @@
     "departure" :
     {
       "airport"             : "KCGF",
-      "time"                : "2019-11-19 20:59:49+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-19 20:59:49",
+      "airport_position"    : 
+      {
+        "altitude"  : "879.0",
+        "latitude"  : "41.5651016235",
+        "longitude" : "-81.4863967896"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -199,7 +284,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2019-11-19 21:15:21+00:00",
+      "time"                : "2019-11-19 20:59:49",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -213,7 +298,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-11-20 20:29:49+00:00",
+      "time"                : "2019-11-20 20:29:49",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -222,8 +307,13 @@
     "arrival"   :
     {
       "airport"             : "IN51",
-      "time"                : "2019-11-20 20:50:02+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-20 20:29:49",
+      "airport_position"    : 
+      {
+        "altitude"  : "920.0",
+        "latitude"  : "40.13999938964844",
+        "longitude" : "-86.15249633789062"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"

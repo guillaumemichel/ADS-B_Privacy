@@ -6,8 +6,13 @@
     "departure" :
     {
       "airport"             : "KFTW",
-      "time"                : "2020-01-06 16:05:13+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-06 16:05:13",
+      "airport_position"    : 
+      {
+        "altitude"  : "710.0",
+        "latitude"  : "32.819801",
+        "longitude" : "-97.36239599999999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -15,7 +20,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2020-01-06 16:31:43+00:00",
+      "time"                : "2020-01-06 16:05:13",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -29,7 +34,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-01-06 21:40:30+00:00",
+      "time"                : "2020-01-06 21:40:30",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -38,8 +43,13 @@
     "arrival"   :
     {
       "airport"             : "KNFW",
-      "time"                : "2020-01-06 22:01:07+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-06 21:40:30",
+      "airport_position"    : 
+      {
+        "altitude"  : "650.0",
+        "latitude"  : "32.76919937",
+        "longitude" : "-97.4414978"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -52,7 +62,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-01-13 20:44:17+00:00",
+      "time"                : "2020-01-13 20:44:17",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -61,8 +71,13 @@
     "arrival"   :
     {
       "airport"             : "KAPA",
-      "time"                : "2020-01-13 21:00:29+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-13 20:44:17",
+      "airport_position"    : 
+      {
+        "altitude"  : "5885.0",
+        "latitude"  : "39.57009888",
+        "longitude" : "-104.84899899999999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -75,8 +90,13 @@
     "departure" :
     {
       "airport"             : "KAPA",
-      "time"                : "2020-01-13 22:47:08+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-13 22:47:08",
+      "airport_position"    : 
+      {
+        "altitude"  : "5885.0",
+        "latitude"  : "39.57009888",
+        "longitude" : "-104.84899899999999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -84,8 +104,13 @@
     "arrival"   :
     {
       "airport"             : "KT67",
-      "time"                : "2020-01-14 00:08:48+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-13 22:47:08",
+      "airport_position"    : 
+      {
+        "altitude"  : "855.0",
+        "latitude"  : "32.93119812",
+        "longitude" : "-97.41169739"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -98,8 +123,13 @@
     "departure" :
     {
       "airport"             : "KFTW",
-      "time"                : "2020-01-14 16:08:06+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-14 16:08:06",
+      "airport_position"    : 
+      {
+        "altitude"  : "710.0",
+        "latitude"  : "32.819801",
+        "longitude" : "-97.36239599999999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -107,7 +137,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2020-01-14 16:23:24+00:00",
+      "time"                : "2020-01-14 16:08:06",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -121,7 +151,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-01-14 23:10:01+00:00",
+      "time"                : "2020-01-14 23:10:01",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -130,8 +160,13 @@
     "arrival"   :
     {
       "airport"             : "2TE2",
-      "time"                : "2020-01-14 23:31:21+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-14 23:10:01",
+      "airport_position"    : 
+      {
+        "altitude"  : "720.0",
+        "latitude"  : "32.830699920654304",
+        "longitude" : "-97.53359985351562"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"

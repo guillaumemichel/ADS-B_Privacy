@@ -6,7 +6,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-12-03 18:02:04+00:00",
+      "time"                : "2019-12-03 18:02:04",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -20,7 +20,7 @@
     "arrival"   :
     {
       "airport"             : "IN69",
-      "time"                : "2019-12-03 18:27:15+00:00",
+      "time"                : "2019-12-03 18:02:04",
       "airport_position"    : 
       {
         "altitude"  : "860.0",
@@ -44,7 +44,7 @@
     "departure" :
     {
       "airport"             : "69II",
-      "time"                : "2019-12-03 22:50:07+00:00",
+      "time"                : "2019-12-03 22:50:07",
       "airport_position"    : 
       {
         "altitude"  : "840.0",
@@ -63,7 +63,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2019-12-03 23:07:44+00:00",
+      "time"                : "2019-12-03 22:50:07",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -82,7 +82,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-12-04 13:45:03+00:00",
+      "time"                : "2019-12-04 13:45:03",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -96,7 +96,7 @@
     "arrival"   :
     {
       "airport"             : "KTEB",
-      "time"                : "2019-12-04 14:44:15+00:00",
+      "time"                : "2019-12-04 13:45:03",
       "airport_position"    : 
       {
         "altitude"  : "9.0",
@@ -120,7 +120,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-12-06 15:27:43+00:00",
+      "time"                : "2019-12-06 15:27:43",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -134,7 +134,7 @@
     "arrival"   :
     {
       "airport"             : "KOPF",
-      "time"                : "2019-12-06 18:16:28+00:00",
+      "time"                : "2019-12-06 15:27:43",
       "airport_position"    : 
       {
         "altitude"  : "8.0",
@@ -158,7 +158,7 @@
     "departure" :
     {
       "airport"             : "KOPF",
-      "time"                : "2019-12-08 17:45:24+00:00",
+      "time"                : "2019-12-08 17:45:24",
       "airport_position"    : 
       {
         "altitude"  : "8.0",
@@ -177,7 +177,7 @@
     "arrival"   :
     {
       "airport"             : "KPDK",
-      "time"                : "2019-12-08 19:20:52+00:00",
+      "time"                : "2019-12-08 17:45:24",
       "airport_position"    : 
       {
         "altitude"  : "1003.0",
@@ -201,7 +201,7 @@
     "departure" :
     {
       "airport"             : "KPDK",
-      "time"                : "2019-12-08 19:45:44+00:00",
+      "time"                : "2019-12-08 19:45:44",
       "airport_position"    : 
       {
         "altitude"  : "1003.0",
@@ -220,7 +220,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2019-12-08 21:05:51+00:00",
+      "time"                : "2019-12-08 19:45:44",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -239,7 +239,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-12-22 16:10:07+00:00",
+      "time"                : "2019-12-22 16:10:07",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -253,16 +253,21 @@
     "arrival"   :
     {
       "airport"             : "CPU6",
-      "time"                : "2019-12-22 16:45:00+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-22 16:10:07",
+      "airport_position"    : 
+      {
+        "altitude"  : "260.0",
+        "latitude"  : "44.18470001220703",
+        "longitude" : "-77.10780334472656"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "6700.0",
         "latitude"  : "44.13990783691406",
         "longitude" : "-76.91809365915697"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "15969.73143660255",
+      "vertical_distance"   : "6440.0"
     }
   },
   {
@@ -272,7 +277,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-12-29 15:12:21+00:00",
+      "time"                : "2019-12-29 15:12:21",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -286,16 +291,21 @@
     "arrival"   :
     {
       "airport"             : "CYVR",
-      "time"                : "2019-12-29 20:58:43+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-29 15:12:21",
+      "airport_position"    : 
+      {
+        "altitude"  : "14.0",
+        "latitude"  : "49.193901061999995",
+        "longitude" : "-123.183998108"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "3475.0",
         "latitude"  : "51.10602427337129",
         "longitude" : "-114.0213775634766"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "688002.8322291648",
+      "vertical_distance"   : "3461.0"
     }
   },
   {
@@ -305,30 +315,40 @@
     "departure" :
     {
       "airport"             : "CYVR",
-      "time"                : "2019-12-29 21:32:45+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-29 21:32:45",
+      "airport_position"    : 
+      {
+        "altitude"  : "14.0",
+        "latitude"  : "49.193901061999995",
+        "longitude" : "-123.183998108"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "26000.0",
         "latitude"  : "49.88882291114936",
         "longitude" : "-120.5401363888302"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "206355.7526854988",
+      "vertical_distance"   : "25986.0"
     },
     "arrival"   :
     {
       "airport"             : "CYYC",
-      "time"                : "2019-12-29 22:38:35+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-29 21:32:45",
+      "airport_position"    : 
+      {
+        "altitude"  : "3557.0",
+        "latitude"  : "51.113899231000005",
+        "longitude" : "-114.019996643"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "27000.0",
         "latitude"  : "49.61700439453125",
         "longitude" : "-119.5056634200247"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "424206.4432467189",
+      "vertical_distance"   : "23443.0"
     }
   }
 ]

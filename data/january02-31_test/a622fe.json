@@ -6,8 +6,13 @@
     "departure" :
     {
       "airport"             : "KSTS",
-      "time"                : "2020-01-02 20:31:04+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-02 20:31:04",
+      "airport_position"    : 
+      {
+        "altitude"  : "128.0",
+        "latitude"  : "38.50899887",
+        "longitude" : "-122.8130035"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -15,8 +20,13 @@
     "arrival"   :
     {
       "airport"             : "UT13",
-      "time"                : "2020-01-02 22:29:05+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-02 20:31:04",
+      "airport_position"    : 
+      {
+        "altitude"  : "4820.0",
+        "latitude"  : "40.56389999389648",
+        "longitude" : "-112.01399993896484"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -29,7 +39,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-01-05 18:10:51+00:00",
+      "time"                : "2020-01-05 18:10:51",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -38,8 +48,13 @@
     "arrival"   :
     {
       "airport"             : "KSTS",
-      "time"                : "2020-01-05 20:18:18+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-05 18:10:51",
+      "airport_position"    : 
+      {
+        "altitude"  : "128.0",
+        "latitude"  : "38.50899887",
+        "longitude" : "-122.8130035"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -52,8 +67,13 @@
     "departure" :
     {
       "airport"             : "KSTS",
-      "time"                : "2020-01-07 22:39:50+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-07 22:39:50",
+      "airport_position"    : 
+      {
+        "altitude"  : "128.0",
+        "latitude"  : "38.50899887",
+        "longitude" : "-122.8130035"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -61,8 +81,13 @@
     "arrival"   :
     {
       "airport"             : "KO69",
-      "time"                : "2020-01-07 22:59:36+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-07 22:39:50",
+      "airport_position"    : 
+      {
+        "altitude"  : "90.0",
+        "latitude"  : "38.25780106",
+        "longitude" : "-122.6060028"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -75,8 +100,13 @@
     "departure" :
     {
       "airport"             : "KO69",
-      "time"                : "2020-01-10 16:39:07+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-10 16:39:07",
+      "airport_position"    : 
+      {
+        "altitude"  : "90.0",
+        "latitude"  : "38.25780106",
+        "longitude" : "-122.6060028"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -84,8 +114,13 @@
     "arrival"   :
     {
       "airport"             : "CA66",
-      "time"                : "2020-01-10 16:58:49+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-10 16:39:07",
+      "airport_position"    : 
+      {
+        "altitude"  : "70.0",
+        "latitude"  : "36.90610122680664",
+        "longitude" : "-121.84300231933594"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -98,8 +133,13 @@
     "departure" :
     {
       "airport"             : "KMRY",
-      "time"                : "2020-01-10 17:28:18+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-10 17:28:18",
+      "airport_position"    : 
+      {
+        "altitude"  : "257.0",
+        "latitude"  : "36.58700180053711",
+        "longitude" : "-121.84300231933594"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -107,8 +147,13 @@
     "arrival"   :
     {
       "airport"             : "KSTS",
-      "time"                : "2020-01-10 17:59:58+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-10 17:28:18",
+      "airport_position"    : 
+      {
+        "altitude"  : "128.0",
+        "latitude"  : "38.50899887",
+        "longitude" : "-122.8130035"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -121,8 +166,13 @@
     "departure" :
     {
       "airport"             : "KSTS",
-      "time"                : "2020-01-10 18:40:38+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-10 18:40:38",
+      "airport_position"    : 
+      {
+        "altitude"  : "128.0",
+        "latitude"  : "38.50899887",
+        "longitude" : "-122.8130035"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -130,8 +180,13 @@
     "arrival"   :
     {
       "airport"             : "KCCR",
-      "time"                : "2020-01-10 18:54:55+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-10 18:40:38",
+      "airport_position"    : 
+      {
+        "altitude"  : "26.0",
+        "latitude"  : "37.9897003174",
+        "longitude" : "-122.056999207"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -144,8 +199,13 @@
     "departure" :
     {
       "airport"             : "KCCR",
-      "time"                : "2020-01-10 21:06:21+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-10 21:06:21",
+      "airport_position"    : 
+      {
+        "altitude"  : "26.0",
+        "latitude"  : "37.9897003174",
+        "longitude" : "-122.056999207"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -153,8 +213,13 @@
     "arrival"   :
     {
       "airport"             : "KOAR",
-      "time"                : "2020-01-10 21:53:59+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-10 21:06:21",
+      "airport_position"    : 
+      {
+        "altitude"  : "137.0",
+        "latitude"  : "36.68190002",
+        "longitude" : "-121.762001"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -167,8 +232,13 @@
     "departure" :
     {
       "airport"             : "KMRY",
-      "time"                : "2020-01-10 23:09:56+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-10 23:09:56",
+      "airport_position"    : 
+      {
+        "altitude"  : "257.0",
+        "latitude"  : "36.58700180053711",
+        "longitude" : "-121.84300231933594"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -176,8 +246,13 @@
     "arrival"   :
     {
       "airport"             : "KO69",
-      "time"                : "2020-01-10 23:36:43+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-10 23:09:56",
+      "airport_position"    : 
+      {
+        "altitude"  : "90.0",
+        "latitude"  : "38.25780106",
+        "longitude" : "-122.6060028"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -190,8 +265,13 @@
     "departure" :
     {
       "airport"             : "KO69",
-      "time"                : "2020-01-12 21:56:16+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-12 21:56:16",
+      "airport_position"    : 
+      {
+        "altitude"  : "90.0",
+        "latitude"  : "38.25780106",
+        "longitude" : "-122.6060028"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -199,8 +279,13 @@
     "arrival"   :
     {
       "airport"             : "KMHR",
-      "time"                : "2020-01-12 22:16:11+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-12 21:56:16",
+      "airport_position"    : 
+      {
+        "altitude"  : "98.0",
+        "latitude"  : "38.55390167",
+        "longitude" : "-121.29799650000001"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -213,8 +298,13 @@
     "departure" :
     {
       "airport"             : "KMHR",
-      "time"                : "2020-01-15 23:47:19+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-15 23:47:19",
+      "airport_position"    : 
+      {
+        "altitude"  : "98.0",
+        "latitude"  : "38.55390167",
+        "longitude" : "-121.29799650000001"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -222,8 +312,13 @@
     "arrival"   :
     {
       "airport"             : "KSTS",
-      "time"                : "2020-01-16 00:05:55+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-15 23:47:19",
+      "airport_position"    : 
+      {
+        "altitude"  : "128.0",
+        "latitude"  : "38.50899887",
+        "longitude" : "-122.8130035"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -236,8 +331,13 @@
     "departure" :
     {
       "airport"             : "KSTS",
-      "time"                : "2020-01-16 15:12:30+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-16 15:12:30",
+      "airport_position"    : 
+      {
+        "altitude"  : "128.0",
+        "latitude"  : "38.50899887",
+        "longitude" : "-122.8130035"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -245,8 +345,13 @@
     "arrival"   :
     {
       "airport"             : "KF70",
-      "time"                : "2020-01-16 16:40:05+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-16 15:12:30",
+      "airport_position"    : 
+      {
+        "altitude"  : "1350.0",
+        "latitude"  : "33.5741996765",
+        "longitude" : "-117.127998352"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -259,8 +364,13 @@
     "departure" :
     {
       "airport"             : "KF70",
-      "time"                : "2020-01-16 19:37:48+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-16 19:37:48",
+      "airport_position"    : 
+      {
+        "altitude"  : "1350.0",
+        "latitude"  : "33.5741996765",
+        "longitude" : "-117.127998352"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -268,8 +378,13 @@
     "arrival"   :
     {
       "airport"             : "KSTS",
-      "time"                : "2020-01-16 21:10:08+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-16 19:37:48",
+      "airport_position"    : 
+      {
+        "altitude"  : "128.0",
+        "latitude"  : "38.50899887",
+        "longitude" : "-122.8130035"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -282,8 +397,13 @@
     "departure" :
     {
       "airport"             : "KO69",
-      "time"                : "2020-01-20 16:56:57+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-20 16:56:57",
+      "airport_position"    : 
+      {
+        "altitude"  : "90.0",
+        "latitude"  : "38.25780106",
+        "longitude" : "-122.6060028"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -291,7 +411,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2020-01-20 17:39:20+00:00",
+      "time"                : "2020-01-20 16:56:57",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -305,7 +425,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-01-20 20:06:05+00:00",
+      "time"                : "2020-01-20 20:06:05",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -314,8 +434,13 @@
     "arrival"   :
     {
       "airport"             : "KO60",
-      "time"                : "2020-01-20 20:49:44+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-20 20:06:05",
+      "airport_position"    : 
+      {
+        "altitude"  : "277.0",
+        "latitude"  : "38.77600098",
+        "longitude" : "-122.99299620000001"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -328,8 +453,13 @@
     "departure" :
     {
       "airport"             : "KSTS",
-      "time"                : "2020-01-30 15:12:30+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-30 15:12:30",
+      "airport_position"    : 
+      {
+        "altitude"  : "128.0",
+        "latitude"  : "38.50899887",
+        "longitude" : "-122.8130035"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -337,8 +467,13 @@
     "arrival"   :
     {
       "airport"             : "KVNY",
-      "time"                : "2020-01-30 16:17:56+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-30 15:12:30",
+      "airport_position"    : 
+      {
+        "altitude"  : "802.0",
+        "latitude"  : "34.209800720215",
+        "longitude" : "-118.48999786376999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -351,8 +486,13 @@
     "departure" :
     {
       "airport"             : "KVNY",
-      "time"                : "2020-01-30 21:20:35+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-30 21:20:35",
+      "airport_position"    : 
+      {
+        "altitude"  : "802.0",
+        "latitude"  : "34.209800720215",
+        "longitude" : "-118.48999786376999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -360,8 +500,13 @@
     "arrival"   :
     {
       "airport"             : "KSCK",
-      "time"                : "2020-01-30 22:25:27+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-30 21:20:35",
+      "airport_position"    : 
+      {
+        "altitude"  : "33.0",
+        "latitude"  : "37.894199371338",
+        "longitude" : "-121.2379989624"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -374,8 +519,13 @@
     "departure" :
     {
       "airport"             : "KSCK",
-      "time"                : "2020-01-31 01:01:38+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-31 01:01:38",
+      "airport_position"    : 
+      {
+        "altitude"  : "33.0",
+        "latitude"  : "37.894199371338",
+        "longitude" : "-121.2379989624"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -383,8 +533,13 @@
     "arrival"   :
     {
       "airport"             : "KSTS",
-      "time"                : "2020-01-31 01:23:15+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-31 01:01:38",
+      "airport_position"    : 
+      {
+        "altitude"  : "128.0",
+        "latitude"  : "38.50899887",
+        "longitude" : "-122.8130035"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"

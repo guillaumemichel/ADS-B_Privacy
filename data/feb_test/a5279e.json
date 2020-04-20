@@ -6,7 +6,7 @@
     "departure" :
     {
       "airport"             : "KPIE",
-      "time"                : "2020-02-03 20:23:47+00:00",
+      "time"                : "2020-02-03 20:23:47",
       "airport_position"    : 
       {
         "altitude"  : "11.0",
@@ -25,7 +25,7 @@
     "arrival"   :
     {
       "airport"             : "KPDK",
-      "time"                : "2020-02-03 21:30:55+00:00",
+      "time"                : "2020-02-03 20:23:47",
       "airport_position"    : 
       {
         "altitude"  : "1003.0",
@@ -49,7 +49,7 @@
     "departure" :
     {
       "airport"             : "KPDK",
-      "time"                : "2020-02-04 01:54:59+00:00",
+      "time"                : "2020-02-04 01:54:59",
       "airport_position"    : 
       {
         "altitude"  : "1003.0",
@@ -68,7 +68,7 @@
     "arrival"   :
     {
       "airport"             : "KPIE",
-      "time"                : "2020-02-04 02:56:56+00:00",
+      "time"                : "2020-02-04 01:54:59",
       "airport_position"    : 
       {
         "altitude"  : "11.0",
@@ -92,7 +92,7 @@
     "departure" :
     {
       "airport"             : "KPIE",
-      "time"                : "2020-02-10 19:44:17+00:00",
+      "time"                : "2020-02-10 19:44:17",
       "airport_position"    : 
       {
         "altitude"  : "11.0",
@@ -111,16 +111,21 @@
     "arrival"   :
     {
       "airport"             : "CYYZ",
-      "time"                : "2020-02-10 22:10:08+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-10 19:44:17",
+      "airport_position"    : 
+      {
+        "altitude"  : "569.0",
+        "latitude"  : "43.6772003174",
+        "longitude" : "-79.63059997559999"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "400.0",
         "latitude"  : "43.68414688110352",
         "longitude" : "-79.62668662847477"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "833.8205583517649",
+      "vertical_distance"   : "-169.0"
     }
   },
   {
@@ -130,21 +135,26 @@
     "departure" :
     {
       "airport"             : "CYYZ",
-      "time"                : "2020-02-11 19:43:15+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-11 19:43:15",
+      "airport_position"    : 
+      {
+        "altitude"  : "569.0",
+        "latitude"  : "43.6772003174",
+        "longitude" : "-79.63059997559999"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "625.0",
         "latitude"  : "43.68392168465307",
         "longitude" : "-79.64989798409599"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "1726.016785788144",
+      "vertical_distance"   : "56.0"
     },
     "arrival"   :
     {
       "airport"             : "KSFO",
-      "time"                : "2020-02-12 00:45:38+00:00",
+      "time"                : "2020-02-11 19:43:15",
       "airport_position"    : 
       {
         "altitude"  : "13.0",
@@ -168,7 +178,7 @@
     "departure" :
     {
       "airport"             : "KSFO",
-      "time"                : "2020-02-13 15:50:51+00:00",
+      "time"                : "2020-02-13 15:50:51",
       "airport_position"    : 
       {
         "altitude"  : "13.0",
@@ -187,7 +197,7 @@
     "arrival"   :
     {
       "airport"             : "KPIE",
-      "time"                : "2020-02-13 20:11:20+00:00",
+      "time"                : "2020-02-13 15:50:51",
       "airport_position"    : 
       {
         "altitude"  : "11.0",
@@ -211,7 +221,7 @@
     "departure" :
     {
       "airport"             : "KPIE",
-      "time"                : "2020-02-18 20:25:03+00:00",
+      "time"                : "2020-02-18 20:25:03",
       "airport_position"    : 
       {
         "altitude"  : "11.0",
@@ -230,7 +240,7 @@
     "arrival"   :
     {
       "airport"             : "KSJC",
-      "time"                : "2020-02-19 02:01:35+00:00",
+      "time"                : "2020-02-18 20:25:03",
       "airport_position"    : 
       {
         "altitude"  : "62.0",
@@ -254,7 +264,7 @@
     "departure" :
     {
       "airport"             : "KSJC",
-      "time"                : "2020-02-20 16:00:36+00:00",
+      "time"                : "2020-02-20 16:00:36",
       "airport_position"    : 
       {
         "altitude"  : "62.0",
@@ -273,7 +283,7 @@
     "arrival"   :
     {
       "airport"             : "KPIE",
-      "time"                : "2020-02-20 20:04:19+00:00",
+      "time"                : "2020-02-20 16:00:36",
       "airport_position"    : 
       {
         "altitude"  : "11.0",
@@ -297,7 +307,7 @@
     "departure" :
     {
       "airport"             : "KPIE",
-      "time"                : "2020-02-24 14:52:54+00:00",
+      "time"                : "2020-02-24 14:52:54",
       "airport_position"    : 
       {
         "altitude"  : "11.0",
@@ -316,7 +326,7 @@
     "arrival"   :
     {
       "airport"             : "KCMH",
-      "time"                : "2020-02-24 16:43:19+00:00",
+      "time"                : "2020-02-24 14:52:54",
       "airport_position"    : 
       {
         "altitude"  : "815.0",
@@ -340,7 +350,7 @@
     "departure" :
     {
       "airport"             : "KCMH",
-      "time"                : "2020-02-24 21:05:47+00:00",
+      "time"                : "2020-02-24 21:05:47",
       "airport_position"    : 
       {
         "altitude"  : "815.0",
@@ -359,7 +369,7 @@
     "arrival"   :
     {
       "airport"             : "KPIE",
-      "time"                : "2020-02-24 23:01:15+00:00",
+      "time"                : "2020-02-24 21:05:47",
       "airport_position"    : 
       {
         "altitude"  : "11.0",

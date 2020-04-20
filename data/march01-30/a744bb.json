@@ -6,7 +6,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-03-01 21:00:18+00:00",
+      "time"                : "2020-03-01 21:00:18",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -20,16 +20,21 @@
     "arrival"   :
     {
       "airport"             : "CYHU",
-      "time"                : "2020-03-01 21:39:37+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-01 21:00:18",
+      "airport_position"    : 
+      {
+        "altitude"  : "90.0",
+        "latitude"  : "45.5175018311",
+        "longitude" : "-73.4169006348"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "-125.0",
         "latitude"  : "45.51613998413086",
         "longitude" : "-73.4086663382394"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "660.9490061248267",
+      "vertical_distance"   : "-215.0"
     }
   },
   {
@@ -39,21 +44,26 @@
     "departure" :
     {
       "airport"             : "CYHU",
-      "time"                : "2020-03-02 12:14:24+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-02 12:14:24",
+      "airport_position"    : 
+      {
+        "altitude"  : "90.0",
+        "latitude"  : "45.5175018311",
+        "longitude" : "-73.4169006348"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "nan",
         "latitude"  : "45.52216481354277",
         "longitude" : "-73.41176661049445"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "655.3525201591353",
+      "vertical_distance"   : "nan"
     },
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2020-03-02 12:53:10+00:00",
+      "time"                : "2020-03-02 12:14:24",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -72,7 +82,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-03-03 22:57:40+00:00",
+      "time"                : "2020-03-03 22:57:40",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -86,16 +96,21 @@
     "arrival"   :
     {
       "airport"             : "CYHU",
-      "time"                : "2020-03-03 23:49:24+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-03 22:57:40",
+      "airport_position"    : 
+      {
+        "altitude"  : "90.0",
+        "latitude"  : "45.5175018311",
+        "longitude" : "-73.4169006348"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "525.0",
         "latitude"  : "45.5214729309082",
         "longitude" : "-73.41077532087053"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "651.0232495591107",
+      "vertical_distance"   : "435.0"
     }
   },
   {
@@ -105,7 +120,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-03-20 22:11:29+00:00",
+      "time"                : "2020-03-20 22:11:29",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -119,16 +134,21 @@
     "arrival"   :
     {
       "airport"             : "CYHU",
-      "time"                : "2020-03-20 23:00:11+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-20 22:11:29",
+      "airport_position"    : 
+      {
+        "altitude"  : "90.0",
+        "latitude"  : "45.5175018311",
+        "longitude" : "-73.4169006348"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "350.0",
         "latitude"  : "45.51515579223633",
         "longitude" : "-73.42027391706193"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "370.7528922501555",
+      "vertical_distance"   : "260.0"
     }
   }
 ]

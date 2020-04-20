@@ -6,7 +6,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-03-01 22:17:20+00:00",
+      "time"                : "2020-03-01 22:17:20",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -20,7 +20,7 @@
     "arrival"   :
     {
       "airport"             : "NJ25",
-      "time"                : "2020-03-01 23:11:21+00:00",
+      "time"                : "2020-03-01 22:17:20",
       "airport_position"    : 
       {
         "altitude"  : "99.0",
@@ -44,7 +44,7 @@
     "departure" :
     {
       "airport"             : "KPHL",
-      "time"                : "2020-03-01 23:44:16+00:00",
+      "time"                : "2020-03-01 23:44:16",
       "airport_position"    : 
       {
         "altitude"  : "36.0",
@@ -63,16 +63,21 @@
     "arrival"   :
     {
       "airport"             : "CYUL",
-      "time"                : "2020-03-02 01:00:08+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-01 23:44:16",
+      "airport_position"    : 
+      {
+        "altitude"  : "118.0",
+        "latitude"  : "45.4706001282",
+        "longitude" : "-73.7407989502"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "-50.0",
         "latitude"  : "45.471318131786276",
         "longitude" : "-73.71749133598513"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "1824.360344179555",
+      "vertical_distance"   : "-168.0"
     }
   },
   {
@@ -82,7 +87,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-03-08 18:16:28+00:00",
+      "time"                : "2020-03-08 18:16:28",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -96,16 +101,21 @@
     "arrival"   :
     {
       "airport"             : "CYUL",
-      "time"                : "2020-03-08 20:32:21+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-08 18:16:28",
+      "airport_position"    : 
+      {
+        "altitude"  : "118.0",
+        "latitude"  : "45.4706001282",
+        "longitude" : "-73.7407989502"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "40999.99999999999",
         "latitude"  : "46.804271633342154",
         "longitude" : "-96.41072845458984"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "1751870.5463836326",
+      "vertical_distance"   : "40881.99999999999"
     }
   },
   {
@@ -115,21 +125,26 @@
     "departure" :
     {
       "airport"             : "CYUL",
-      "time"                : "2020-03-18 11:56:04+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-18 11:56:04",
+      "airport_position"    : 
+      {
+        "altitude"  : "118.0",
+        "latitude"  : "45.4706001282",
+        "longitude" : "-73.7407989502"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "-375.0",
         "latitude"  : "45.472109519829175",
         "longitude" : "-73.72221411728276"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "1462.9409922791758",
+      "vertical_distance"   : "-493.0"
     },
     "arrival"   :
     {
       "airport"             : "5FL0",
-      "time"                : "2020-03-18 14:47:59+00:00",
+      "time"                : "2020-03-18 11:56:04",
       "airport_position"    : 
       {
         "altitude"  : "120.0",

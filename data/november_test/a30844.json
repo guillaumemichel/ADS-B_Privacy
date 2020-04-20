@@ -6,8 +6,13 @@
     "departure" :
     {
       "airport"             : "KGKY",
-      "time"                : "2019-11-13 23:13:04+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-13 23:13:04",
+      "airport_position"    : 
+      {
+        "altitude"  : "628.0",
+        "latitude"  : "32.66389846801758",
+        "longitude" : "-97.09429931640624"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -15,8 +20,13 @@
     "arrival"   :
     {
       "airport"             : "KEDC",
-      "time"                : "2019-11-13 23:46:44+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-13 23:13:04",
+      "airport_position"    : 
+      {
+        "altitude"  : "620.0",
+        "latitude"  : "30.397493100000005",
+        "longitude" : "-97.5663935"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -29,8 +39,13 @@
     "departure" :
     {
       "airport"             : "KEDC",
-      "time"                : "2019-11-23 15:07:18+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-23 15:07:18",
+      "airport_position"    : 
+      {
+        "altitude"  : "620.0",
+        "latitude"  : "30.397493100000005",
+        "longitude" : "-97.5663935"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -38,8 +53,13 @@
     "arrival"   :
     {
       "airport"             : "6TS2",
-      "time"                : "2019-11-23 15:31:44+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-23 15:07:18",
+      "airport_position"    : 
+      {
+        "altitude"  : "906.0",
+        "latitude"  : "29.0993995667",
+        "longitude" : "-98.46559906"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -52,8 +72,13 @@
     "departure" :
     {
       "airport"             : "6TS2",
-      "time"                : "2019-11-23 16:00:33+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-23 16:00:33",
+      "airport_position"    : 
+      {
+        "altitude"  : "906.0",
+        "latitude"  : "29.0993995667",
+        "longitude" : "-98.46559906"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -61,8 +86,13 @@
     "arrival"   :
     {
       "airport"             : "KINJ",
-      "time"                : "2019-11-23 16:43:29+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-23 16:00:33",
+      "airport_position"    : 
+      {
+        "altitude"  : "686.0",
+        "latitude"  : "32.08349991",
+        "longitude" : "-97.09719849"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -75,8 +105,13 @@
     "departure" :
     {
       "airport"             : "KINJ",
-      "time"                : "2019-11-23 20:38:11+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-23 20:38:11",
+      "airport_position"    : 
+      {
+        "altitude"  : "686.0",
+        "latitude"  : "32.08349991",
+        "longitude" : "-97.09719849"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -84,8 +119,13 @@
     "arrival"   :
     {
       "airport"             : "6TS2",
-      "time"                : "2019-11-23 21:22:56+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-23 20:38:11",
+      "airport_position"    : 
+      {
+        "altitude"  : "906.0",
+        "latitude"  : "29.0993995667",
+        "longitude" : "-98.46559906"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -98,8 +138,13 @@
     "departure" :
     {
       "airport"             : "6TS2",
-      "time"                : "2019-11-23 21:41:00+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-23 21:41:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "906.0",
+        "latitude"  : "29.0993995667",
+        "longitude" : "-98.46559906"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -107,8 +152,13 @@
     "arrival"   :
     {
       "airport"             : "TX05",
-      "time"                : "2019-11-23 22:01:19+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-23 21:41:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "500.0",
+        "latitude"  : "30.26049995",
+        "longitude" : "-97.62529755"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -121,8 +171,13 @@
     "departure" :
     {
       "airport"             : "1XS2",
-      "time"                : "2019-11-25 19:11:49+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-25 19:11:49",
+      "airport_position"    : 
+      {
+        "altitude"  : "532.0",
+        "latitude"  : "30.380800247192386",
+        "longitude" : "-97.42749786376952"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -130,8 +185,13 @@
     "arrival"   :
     {
       "airport"             : "KSUS",
-      "time"                : "2019-11-25 21:20:26+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-25 19:11:49",
+      "airport_position"    : 
+      {
+        "altitude"  : "463.0",
+        "latitude"  : "38.662101745605",
+        "longitude" : "-90.652000427246"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -144,8 +204,13 @@
     "departure" :
     {
       "airport"             : "KSUS",
-      "time"                : "2019-11-25 22:31:33+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-25 22:31:33",
+      "airport_position"    : 
+      {
+        "altitude"  : "463.0",
+        "latitude"  : "38.662101745605",
+        "longitude" : "-90.652000427246"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -153,8 +218,13 @@
     "arrival"   :
     {
       "airport"             : "KEDC",
-      "time"                : "2019-11-26 01:04:29+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-25 22:31:33",
+      "airport_position"    : 
+      {
+        "altitude"  : "620.0",
+        "latitude"  : "30.397493100000005",
+        "longitude" : "-97.5663935"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -167,7 +237,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-11-30 21:10:05+00:00",
+      "time"                : "2019-11-30 21:10:05",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -176,8 +246,13 @@
     "arrival"   :
     {
       "airport"             : "TX61",
-      "time"                : "2019-11-30 21:34:43+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-30 21:10:05",
+      "airport_position"    : 
+      {
+        "altitude"  : "460.0",
+        "latitude"  : "30.3302001953125",
+        "longitude" : "-97.45890045166016"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"

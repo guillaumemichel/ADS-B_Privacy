@@ -6,7 +6,7 @@
     "departure" :
     {
       "airport"             : "LSZM",
-      "time"                : "2020-02-17 13:25:26+00:00",
+      "time"                : "2020-02-17 13:25:26",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -20,16 +20,21 @@
     "arrival"   :
     {
       "airport"             : "EDNY",
-      "time"                : "2020-02-17 13:57:28+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-17 13:25:26",
+      "airport_position"    : 
+      {
+        "altitude"  : "1367.0",
+        "latitude"  : "47.671298980699994",
+        "longitude" : "9.511489868160002"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "3050.0",
         "latitude"  : "47.72245788574219",
         "longitude" : "9.643936157226562"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "11453.809463028414",
+      "vertical_distance"   : "1683.0"
     }
   },
   {
@@ -39,30 +44,40 @@
     "departure" :
     {
       "airport"             : "EDNY",
-      "time"                : "2020-02-17 14:47:17+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-17 14:47:17",
+      "airport_position"    : 
+      {
+        "altitude"  : "1367.0",
+        "latitude"  : "47.671298980699994",
+        "longitude" : "9.511489868160002"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "3774.9999999999995",
         "latitude"  : "47.65124304819915",
         "longitude" : "9.455777681790863"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "4741.729935067903",
+      "vertical_distance"   : "2407.9999999999995"
     },
     "arrival"   :
     {
       "airport"             : "EDMO",
-      "time"                : "2020-02-17 15:11:22+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-17 14:47:17",
+      "airport_position"    : 
+      {
+        "altitude"  : "1947.0",
+        "latitude"  : "48.081402000000004",
+        "longitude" : "11.2831"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "1799.9999999999998",
         "latitude"  : "48.089672023967154",
         "longitude" : "11.294438288762018"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "1248.6593756644813",
+      "vertical_distance"   : "-147.00000000000023"
     }
   }
 ]

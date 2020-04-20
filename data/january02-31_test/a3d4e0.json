@@ -6,7 +6,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-01-07 13:04:28+00:00",
+      "time"                : "2020-01-07 13:04:28",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -20,7 +20,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2020-01-07 13:22:41+00:00",
+      "time"                : "2020-01-07 13:04:28",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -39,7 +39,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-01-10 19:41:57+00:00",
+      "time"                : "2020-01-10 19:41:57",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -53,16 +53,21 @@
     "arrival"   :
     {
       "airport"             : "MDBG",
-      "time"                : "2020-01-10 19:59:15+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-10 19:41:57",
+      "airport_position"    : 
+      {
+        "altitude"  : "429.0",
+        "latitude"  : "18.5324",
+        "longitude" : "-68.67"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "2850.0000000000005",
         "latitude"  : "18.547994322695967",
         "longitude" : "-68.55898215553975"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "11847.43652760814",
+      "vertical_distance"   : "2421.0000000000005"
     }
   },
   {
@@ -72,7 +77,7 @@
     "departure" :
     {
       "airport"             : "KTEB",
-      "time"                : "2020-01-14 14:28:16+00:00",
+      "time"                : "2020-01-14 14:28:16",
       "airport_position"    : 
       {
         "altitude"  : "9.0",
@@ -91,7 +96,7 @@
     "arrival"   :
     {
       "airport"             : "KFLL",
-      "time"                : "2020-01-14 16:55:36+00:00",
+      "time"                : "2020-01-14 14:28:16",
       "airport_position"    : 
       {
         "altitude"  : "9.0",
@@ -115,7 +120,7 @@
     "departure" :
     {
       "airport"             : "KFLL",
-      "time"                : "2020-01-14 17:51:06+00:00",
+      "time"                : "2020-01-14 17:51:06",
       "airport_position"    : 
       {
         "altitude"  : "9.0",
@@ -134,7 +139,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2020-01-14 18:07:53+00:00",
+      "time"                : "2020-01-14 17:51:06",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {

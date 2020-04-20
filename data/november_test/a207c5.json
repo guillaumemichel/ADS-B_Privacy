@@ -6,7 +6,7 @@
     "departure" :
     {
       "airport"             : "KHQZ",
-      "time"                : "2019-11-07 23:29:11+00:00",
+      "time"                : "2019-11-07 23:29:11",
       "airport_position"    : 
       {
         "altitude"  : "447.0",
@@ -25,7 +25,7 @@
     "arrival"   :
     {
       "airport"             : "KDAL",
-      "time"                : "2019-11-07 23:47:46+00:00",
+      "time"                : "2019-11-07 23:29:11",
       "airport_position"    : 
       {
         "altitude"  : "487.0",
@@ -49,8 +49,13 @@
     "departure" :
     {
       "airport"             : "KDAL",
-      "time"                : "2019-11-08 17:02:45+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-08 17:02:45",
+      "airport_position"    : 
+      {
+        "altitude"  : "487.0",
+        "latitude"  : "32.847099",
+        "longitude" : "-96.851799"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -58,8 +63,13 @@
     "arrival"   :
     {
       "airport"             : "KPWK",
-      "time"                : "2019-11-08 18:52:30+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-08 17:02:45",
+      "airport_position"    : 
+      {
+        "altitude"  : "647.0",
+        "latitude"  : "42.114222",
+        "longitude" : "-87.901494"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -72,7 +82,7 @@
     "departure" :
     {
       "airport"             : "KPWK",
-      "time"                : "2019-11-11 19:24:03+00:00",
+      "time"                : "2019-11-11 19:24:03",
       "airport_position"    : 
       {
         "altitude"  : "647.0",
@@ -91,7 +101,7 @@
     "arrival"   :
     {
       "airport"             : "KHQZ",
-      "time"                : "2019-11-11 21:44:36+00:00",
+      "time"                : "2019-11-11 19:24:03",
       "airport_position"    : 
       {
         "altitude"  : "447.0",
@@ -115,7 +125,7 @@
     "departure" :
     {
       "airport"             : "KHQZ",
-      "time"                : "2019-11-14 15:19:20+00:00",
+      "time"                : "2019-11-14 15:19:20",
       "airport_position"    : 
       {
         "altitude"  : "447.0",
@@ -134,7 +144,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2019-11-14 15:44:15+00:00",
+      "time"                : "2019-11-14 15:19:20",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -153,7 +163,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-11-14 21:26:55+00:00",
+      "time"                : "2019-11-14 21:26:55",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -167,7 +177,7 @@
     "arrival"   :
     {
       "airport"             : "KHQZ",
-      "time"                : "2019-11-14 21:56:09+00:00",
+      "time"                : "2019-11-14 21:26:55",
       "airport_position"    : 
       {
         "altitude"  : "447.0",
@@ -191,7 +201,7 @@
     "departure" :
     {
       "airport"             : "KHQZ",
-      "time"                : "2019-11-27 16:25:35+00:00",
+      "time"                : "2019-11-27 16:25:35",
       "airport_position"    : 
       {
         "altitude"  : "447.0",
@@ -210,7 +220,7 @@
     "arrival"   :
     {
       "airport"             : "KBJC",
-      "time"                : "2019-11-27 19:10:04+00:00",
+      "time"                : "2019-11-27 16:25:35",
       "airport_position"    : 
       {
         "altitude"  : "5673.0",
@@ -234,7 +244,7 @@
     "departure" :
     {
       "airport"             : "KBJC",
-      "time"                : "2019-11-27 19:53:04+00:00",
+      "time"                : "2019-11-27 19:53:04",
       "airport_position"    : 
       {
         "altitude"  : "5673.0",
@@ -253,7 +263,7 @@
     "arrival"   :
     {
       "airport"             : "KHQZ",
-      "time"                : "2019-11-27 21:33:33+00:00",
+      "time"                : "2019-11-27 19:53:04",
       "airport_position"    : 
       {
         "altitude"  : "447.0",

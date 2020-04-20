@@ -6,7 +6,7 @@
     "departure" :
     {
       "airport"             : "KIAH",
-      "time"                : "2020-02-04 18:00:50+00:00",
+      "time"                : "2020-02-04 18:00:50",
       "airport_position"    : 
       {
         "altitude"  : "97.0",
@@ -25,16 +25,21 @@
     "arrival"   :
     {
       "airport"             : "CYYC",
-      "time"                : "2020-02-04 21:31:06+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-04 18:00:50",
+      "airport_position"    : 
+      {
+        "altitude"  : "3557.0",
+        "latitude"  : "51.113899231000005",
+        "longitude" : "-114.019996643"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "40025.0",
         "latitude"  : "42.40941451767743",
         "longitude" : "-104.1773454533067"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "1223184.7004859403",
+      "vertical_distance"   : "36468.0"
     }
   },
   {
@@ -44,21 +49,26 @@
     "departure" :
     {
       "airport"             : "CYYC",
-      "time"                : "2020-02-09 20:05:08+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-09 20:05:08",
+      "airport_position"    : 
+      {
+        "altitude"  : "3557.0",
+        "latitude"  : "51.113899231000005",
+        "longitude" : "-114.019996643"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "3649.9999999999995",
         "latitude"  : "51.116917497020644",
         "longitude" : "-114.0213775634766"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "349.42933203305853",
+      "vertical_distance"   : "92.99999999999955"
     },
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2020-02-09 20:39:55+00:00",
+      "time"                : "2020-02-09 20:05:08",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -77,7 +87,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-02-10 20:28:02+00:00",
+      "time"                : "2020-02-10 20:28:02",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -91,7 +101,7 @@
     "arrival"   :
     {
       "airport"             : "27XS",
-      "time"                : "2020-02-10 22:20:48+00:00",
+      "time"                : "2020-02-10 20:28:02",
       "airport_position"    : 
       {
         "altitude"  : "180.0",
@@ -115,7 +125,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-02-17 21:18:48+00:00",
+      "time"                : "2020-02-17 21:18:48",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -129,7 +139,7 @@
     "arrival"   :
     {
       "airport"             : "KLAS",
-      "time"                : "2020-02-17 21:47:46+00:00",
+      "time"                : "2020-02-17 21:18:48",
       "airport_position"    : 
       {
         "altitude"  : "2181.0",
@@ -153,7 +163,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-02-23 19:53:18+00:00",
+      "time"                : "2020-02-23 19:53:18",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -167,7 +177,7 @@
     "arrival"   :
     {
       "airport"             : "KLAS",
-      "time"                : "2020-02-23 20:22:00+00:00",
+      "time"                : "2020-02-23 19:53:18",
       "airport_position"    : 
       {
         "altitude"  : "2181.0",
@@ -191,7 +201,7 @@
     "departure" :
     {
       "airport"             : "KLAS",
-      "time"                : "2020-02-24 00:51:56+00:00",
+      "time"                : "2020-02-24 00:51:56",
       "airport_position"    : 
       {
         "altitude"  : "2181.0",
@@ -210,7 +220,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2020-02-24 01:04:53+00:00",
+      "time"                : "2020-02-24 00:51:56",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -229,7 +239,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-02-24 20:24:56+00:00",
+      "time"                : "2020-02-24 20:24:56",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -243,7 +253,7 @@
     "arrival"   :
     {
       "airport"             : "KLAS",
-      "time"                : "2020-02-24 20:55:20+00:00",
+      "time"                : "2020-02-24 20:24:56",
       "airport_position"    : 
       {
         "altitude"  : "2181.0",

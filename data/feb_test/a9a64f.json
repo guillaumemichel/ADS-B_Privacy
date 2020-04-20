@@ -6,8 +6,13 @@
     "departure" :
     {
       "airport"             : "13CL",
-      "time"                : "2020-02-21 02:48:59+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-21 02:48:59",
+      "airport_position"    : 
+      {
+        "altitude"  : "40.0",
+        "latitude"  : "38.38130187988281",
+        "longitude" : "-121.8239974975586"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -15,8 +20,13 @@
     "arrival"   :
     {
       "airport"             : "CN13",
-      "time"                : "2020-02-21 03:22:04+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-21 02:48:59",
+      "airport_position"    : 
+      {
+        "altitude"  : "12.0",
+        "latitude"  : "38.4431991577",
+        "longitude" : "-121.509002686"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"

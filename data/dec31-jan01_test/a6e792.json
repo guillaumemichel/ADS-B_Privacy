@@ -6,8 +6,13 @@
     "departure" :
     {
       "airport"             : "KHOU",
-      "time"                : "2019-12-31 16:07:15+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-31 16:07:15",
+      "airport_position"    : 
+      {
+        "altitude"  : "46.0",
+        "latitude"  : "29.64539909",
+        "longitude" : "-95.27890015"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -15,8 +20,13 @@
     "arrival"   :
     {
       "airport"             : "KHOU",
-      "time"                : "2019-12-31 16:58:46+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-31 16:07:15",
+      "airport_position"    : 
+      {
+        "altitude"  : "46.0",
+        "latitude"  : "29.64539909",
+        "longitude" : "-95.27890015"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"

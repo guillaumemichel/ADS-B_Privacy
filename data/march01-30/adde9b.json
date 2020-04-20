@@ -6,7 +6,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-03-03 14:16:18+00:00",
+      "time"                : "2020-03-03 14:16:18",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -20,7 +20,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2020-03-03 14:46:22+00:00",
+      "time"                : "2020-03-03 14:16:18",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -39,7 +39,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-03-03 15:52:33+00:00",
+      "time"                : "2020-03-03 15:52:33",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -53,7 +53,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2020-03-03 16:31:49+00:00",
+      "time"                : "2020-03-03 15:52:33",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -72,7 +72,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-03-08 12:13:21+00:00",
+      "time"                : "2020-03-08 12:13:21",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -86,7 +86,7 @@
     "arrival"   :
     {
       "airport"             : "KDAL",
-      "time"                : "2020-03-08 12:51:16+00:00",
+      "time"                : "2020-03-08 12:13:21",
       "airport_position"    : 
       {
         "altitude"  : "487.0",
@@ -110,7 +110,7 @@
     "departure" :
     {
       "airport"             : "KDAL",
-      "time"                : "2020-03-08 13:30:00+00:00",
+      "time"                : "2020-03-08 13:30:00",
       "airport_position"    : 
       {
         "altitude"  : "487.0",
@@ -129,16 +129,21 @@
     "arrival"   :
     {
       "airport"             : "CYYC",
-      "time"                : "2020-03-08 16:46:57+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-08 13:30:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "3557.0",
+        "latitude"  : "51.113899231000005",
+        "longitude" : "-114.019996643"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "43000.0",
         "latitude"  : "37.05148315429688",
         "longitude" : "-98.77889430269282"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "1974526.4196935042",
+      "vertical_distance"   : "39443.0"
     }
   },
   {
@@ -148,21 +153,26 @@
     "departure" :
     {
       "airport"             : "CYYC",
-      "time"                : "2020-03-15 15:54:15+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-15 15:54:15",
+      "airport_position"    : 
+      {
+        "altitude"  : "3557.0",
+        "latitude"  : "51.113899231000005",
+        "longitude" : "-114.019996643"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "3200.0",
         "latitude"  : "51.11618041992188",
         "longitude" : "-113.99035479571371"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "2091.0962895676507",
+      "vertical_distance"   : "-357.0"
     },
     "arrival"   :
     {
       "airport"             : "KDAL",
-      "time"                : "2020-03-15 19:03:46+00:00",
+      "time"                : "2020-03-15 15:54:15",
       "airport_position"    : 
       {
         "altitude"  : "487.0",

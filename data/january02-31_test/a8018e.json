@@ -6,7 +6,7 @@
     "departure" :
     {
       "airport"             : "KJWN",
-      "time"                : "2020-01-02 13:50:03+00:00",
+      "time"                : "2020-01-02 13:50:03",
       "airport_position"    : 
       {
         "altitude"  : "495.0",
@@ -25,7 +25,7 @@
     "arrival"   :
     {
       "airport"             : "KOPF",
-      "time"                : "2020-01-02 17:04:21+00:00",
+      "time"                : "2020-01-02 13:50:03",
       "airport_position"    : 
       {
         "altitude"  : "8.0",
@@ -49,7 +49,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-01-08 00:00:05+00:00",
+      "time"                : "2020-01-08 00:00:05",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -63,7 +63,7 @@
     "arrival"   :
     {
       "airport"             : "KJWN",
-      "time"                : "2020-01-08 02:28:04+00:00",
+      "time"                : "2020-01-08 00:00:05",
       "airport_position"    : 
       {
         "altitude"  : "495.0",
@@ -87,7 +87,7 @@
     "departure" :
     {
       "airport"             : "TN79",
-      "time"                : "2020-01-22 16:23:56+00:00",
+      "time"                : "2020-01-22 16:23:56",
       "airport_position"    : 
       {
         "altitude"  : "400.0",
@@ -106,7 +106,7 @@
     "arrival"   :
     {
       "airport"             : "K2R7",
-      "time"                : "2020-01-22 17:46:59+00:00",
+      "time"                : "2020-01-22 16:23:56",
       "airport_position"    : 
       {
         "altitude"  : "175.0",
@@ -130,7 +130,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-01-22 18:34:48+00:00",
+      "time"                : "2020-01-22 18:34:48",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -144,16 +144,21 @@
     "arrival"   :
     {
       "airport"             : "MMUN",
-      "time"                : "2020-01-22 20:46:24+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-22 18:34:48",
+      "airport_position"    : 
+      {
+        "altitude"  : "22.0",
+        "latitude"  : "21.036500930800003",
+        "longitude" : "-86.8770980835"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "29000.0",
         "latitude"  : "29.28708351264565",
         "longitude" : "-90.14696906594669"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "971442.9447962604",
+      "vertical_distance"   : "28978.0"
     }
   },
   {
@@ -163,7 +168,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-01-26 16:56:08+00:00",
+      "time"                : "2020-01-26 16:56:08",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -177,7 +182,7 @@
     "arrival"   :
     {
       "airport"             : "KTPA",
-      "time"                : "2020-01-26 18:38:06+00:00",
+      "time"                : "2020-01-26 16:56:08",
       "airport_position"    : 
       {
         "altitude"  : "26.0",
@@ -201,7 +206,7 @@
     "departure" :
     {
       "airport"             : "KTPA",
-      "time"                : "2020-01-26 19:35:49+00:00",
+      "time"                : "2020-01-26 19:35:49",
       "airport_position"    : 
       {
         "altitude"  : "26.0",
@@ -220,7 +225,7 @@
     "arrival"   :
     {
       "airport"             : "TN79",
-      "time"                : "2020-01-26 21:41:01+00:00",
+      "time"                : "2020-01-26 19:35:49",
       "airport_position"    : 
       {
         "altitude"  : "400.0",

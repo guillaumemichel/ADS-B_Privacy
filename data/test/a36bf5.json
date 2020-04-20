@@ -1,0 +1,126 @@
+[
+  {
+    "icao"      : "a36bf5",
+    "callsign"  : "DCM6099",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KHND",
+      "time"                : "2019-10-27 21:50:52+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "2492.0",
+        "latitude"  : "35.9728012085",
+        "longitude" : "-115.134002686"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "3649.9999999999995",
+        "latitude"  : "35.96163940429688",
+        "longitude" : "-115.12344360351558"
+      },
+      "horizontal_distance" : "1562.3742444903987",
+      "vertical_distance"   : "1157.9999999999995"
+    },
+    "arrival"   :
+    {
+      "airport"             : "57AZ",
+      "time"                : "2019-10-27 23:48:58+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "2940.0",
+        "latitude"  : "32.446701049804695",
+        "longitude" : "-111.00299835205078"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "13100.0",
+        "latitude"  : "35.57796672239142",
+        "longitude" : "-114.4587220536901"
+      },
+      "horizontal_distance" : "471659.27023879916",
+      "vertical_distance"   : "10160.0"
+    }
+  },
+  {
+    "icao"      : "a36bf5",
+    "callsign"  : "DCM6099",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-10-28 01:09:04+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "7150.0",
+        "latitude"  : "33.163558959960945",
+        "longitude" : "-111.94464111328121"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDVT",
+      "time"                : "2019-10-28 01:44:16+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1478.0",
+        "latitude"  : "33.688301086399996",
+        "longitude" : "-112.083000183"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1700.0000000000005",
+        "latitude"  : "33.692092895507805",
+        "longitude" : "-112.04670185945471"
+      },
+      "horizontal_distance" : "3391.7144548492493",
+      "vertical_distance"   : "222.00000000000045"
+    }
+  },
+  {
+    "icao"      : "a36bf5",
+    "callsign"  : "DCM6099",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KDVT",
+      "time"                : "2019-10-30 21:37:19+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1478.0",
+        "latitude"  : "33.688301086399996",
+        "longitude" : "-112.083000183"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "3399.9999999999995",
+        "latitude"  : "33.70193481445312",
+        "longitude" : "-112.03061473612878"
+      },
+      "horizontal_distance" : "5086.813698661129",
+      "vertical_distance"   : "1921.9999999999995"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHND",
+      "time"                : "2019-10-30 23:05:29+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "2492.0",
+        "latitude"  : "35.9728012085",
+        "longitude" : "-115.134002686"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "11599.999999999998",
+        "latitude"  : "34.567611694335945",
+        "longitude" : "-112.71199129065691"
+      },
+      "horizontal_distance" : "269925.62488923926",
+      "vertical_distance"   : "9107.999999999998"
+    }
+  }
+]

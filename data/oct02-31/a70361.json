@@ -6,7 +6,7 @@
     "departure" :
     {
       "airport"             : "KIXD",
-      "time"                : "2019-10-03 18:36:05+00:00",
+      "time"                : "2019-10-03 18:36:05",
       "airport_position"    : 
       {
         "altitude"  : "1087.0",
@@ -20,7 +20,7 @@
     "arrival"   :
     {
       "airport"             : "00KS",
-      "time"                : "2019-10-03 19:52:39+00:00",
+      "time"                : "2019-10-03 18:36:05",
       "airport_position"    : 
       {
         "altitude"  : "1100.0",
@@ -39,8 +39,13 @@
     "departure" :
     {
       "airport"             : "KIXD",
-      "time"                : "2019-10-08 00:22:56+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-10-08 00:22:56",
+      "airport_position"    : 
+      {
+        "altitude"  : "1087.0",
+        "latitude"  : "38.830898284899995",
+        "longitude" : "-94.890296936"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -48,8 +53,13 @@
     "arrival"   :
     {
       "airport"             : "KIXD",
-      "time"                : "2019-10-08 00:55:12+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-10-08 00:22:56",
+      "airport_position"    : 
+      {
+        "altitude"  : "1087.0",
+        "latitude"  : "38.830898284899995",
+        "longitude" : "-94.890296936"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -62,7 +72,7 @@
     "departure" :
     {
       "airport"             : "00KS",
-      "time"                : "2019-10-17 18:43:37+00:00",
+      "time"                : "2019-10-17 18:43:37",
       "airport_position"    : 
       {
         "altitude"  : "1100.0",
@@ -76,7 +86,7 @@
     "arrival"   :
     {
       "airport"             : "SN59",
-      "time"                : "2019-10-17 18:57:53+00:00",
+      "time"                : "2019-10-17 18:43:37",
       "airport_position"    : 
       {
         "altitude"  : "1060.0",
@@ -95,7 +105,7 @@
     "departure" :
     {
       "airport"             : "KIXD",
-      "time"                : "2019-10-18 13:02:36+00:00",
+      "time"                : "2019-10-18 13:02:36",
       "airport_position"    : 
       {
         "altitude"  : "1087.0",
@@ -109,7 +119,7 @@
     "arrival"   :
     {
       "airport"             : "9TX7",
-      "time"                : "2019-10-18 14:31:57+00:00",
+      "time"                : "2019-10-18 13:02:36",
       "airport_position"    : 
       {
         "altitude"  : "700.0",
@@ -128,7 +138,7 @@
     "departure" :
     {
       "airport"             : "TE68",
-      "time"                : "2019-10-21 20:29:09+00:00",
+      "time"                : "2019-10-21 20:29:09",
       "airport_position"    : 
       {
         "altitude"  : "725.0",
@@ -142,7 +152,7 @@
     "arrival"   :
     {
       "airport"             : "KDUA",
-      "time"                : "2019-10-21 20:41:51+00:00",
+      "time"                : "2019-10-21 20:29:09",
       "airport_position"    : 
       {
         "altitude"  : "699.0",
@@ -161,7 +171,7 @@
     "departure" :
     {
       "airport"             : "OK90",
-      "time"                : "2019-10-21 20:56:39+00:00",
+      "time"                : "2019-10-21 20:56:39",
       "airport_position"    : 
       {
         "altitude"  : "734.0",
@@ -175,7 +185,7 @@
     "arrival"   :
     {
       "airport"             : "11TX",
-      "time"                : "2019-10-21 21:12:54+00:00",
+      "time"                : "2019-10-21 20:56:39",
       "airport_position"    : 
       {
         "altitude"  : "840.0",
@@ -194,7 +204,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-10-26 17:06:27+00:00",
+      "time"                : "2019-10-26 17:06:27",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -208,7 +218,7 @@
     "arrival"   :
     {
       "airport"             : "KSEE",
-      "time"                : "2019-10-26 18:07:13+00:00",
+      "time"                : "2019-10-26 17:06:27",
       "airport_position"    : 
       {
         "altitude"  : "388.0",
@@ -232,7 +242,7 @@
     "departure" :
     {
       "airport"             : "KSEE",
-      "time"                : "2019-10-28 00:30:42+00:00",
+      "time"                : "2019-10-28 00:30:42",
       "airport_position"    : 
       {
         "altitude"  : "388.0",
@@ -251,7 +261,7 @@
     "arrival"   :
     {
       "airport"             : "KABQ",
-      "time"                : "2019-10-28 02:20:29+00:00",
+      "time"                : "2019-10-28 00:30:42",
       "airport_position"    : 
       {
         "altitude"  : "5355.0",
@@ -275,7 +285,7 @@
     "departure" :
     {
       "airport"             : "KABQ",
-      "time"                : "2019-10-28 02:45:30+00:00",
+      "time"                : "2019-10-28 02:45:30",
       "airport_position"    : 
       {
         "altitude"  : "5355.0",
@@ -294,7 +304,7 @@
     "arrival"   :
     {
       "airport"             : "TS85",
-      "time"                : "2019-10-28 04:34:48+00:00",
+      "time"                : "2019-10-28 02:45:30",
       "airport_position"    : 
       {
         "altitude"  : "802.0",
@@ -318,7 +328,7 @@
     "departure" :
     {
       "airport"             : "TE68",
-      "time"                : "2019-10-28 12:09:40+00:00",
+      "time"                : "2019-10-28 12:09:40",
       "airport_position"    : 
       {
         "altitude"  : "725.0",
@@ -337,7 +347,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2019-10-28 12:21:48+00:00",
+      "time"                : "2019-10-28 12:09:40",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {

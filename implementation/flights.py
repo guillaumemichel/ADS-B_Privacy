@@ -1,4 +1,5 @@
 from geopy.distance import geodesic
+from datetime import datetime
 import json
 
 """
@@ -6,9 +7,17 @@ Implement useful Flight structure that is used in other scripts
 """
 
 align = 2
+time_format = '%Y-%m-%d %H:%M:%S'
 
 class Position:
     def __init__(self, altitude, latitude, longitude):
+        if altitude == 'None':
+            altitude=None
+        if latitude == 'None':
+            latitude=None
+        if longitude == 'None':
+            longitude=None
+
         self.altitude = altitude
         self.latitude = latitude
         self.longitude = longitude
@@ -36,6 +45,15 @@ class Position:
 
 class TakeoffLanding:
     def __init__(self, airport=None, time=None, airport_position=None, aircraft_position=None):
+        if airport == 'None':
+            airport=None
+        if time=='None':
+            time=None
+        if airport_position=='None':
+            airport_position=None
+        if aircraft_position=='None':
+            aircraft_position=None
+
         self.airport = airport
         self.time = time
         self.airport_position = airport_position
@@ -59,7 +77,7 @@ class TakeoffLanding:
     def to_json(self, shift=0):
         string = align*shift*' ' + '{\n'
         string += align*(shift+1)*' ' + '"airport"             : "' + str(self.airport) +'",\n'
-        string += align*(shift+1)*' ' + '"time"                : "' + str(self.time)    +'",\n'
+        string += align*(shift+1)*' ' + '"time"                : "' + str(datetime.strftime(self.time, time_format))    +'",\n'
 
         if self.airport_position is None:
             string += align*(shift+1)*' ' + '"airport_position"    : "None",\n'
@@ -86,6 +104,17 @@ class TakeoffLanding:
 
 class MyFlight:
     def __init__(self, callsign=None, icao=None, nnumber=None, departure=None, arrival=None):
+        if callsign=='None':
+            callsign=None
+        if icao=='None':
+            icao=None
+        if nnumber=='None':
+            nnumber=None
+        if departure=='None':
+            departure=None
+        if arrival=='None':
+            arrival=None
+
         self.callsign = callsign
         self.icao = icao
         self.nnumber = nnumber
@@ -171,6 +200,7 @@ class Flights:
 
             dep = d['departure']
             dep_ap_pos = dep['airport_position']
+
             if dep_ap_pos != 'None':
                 dep_ap_pos = Position(float(dep_ap_pos['altitude']), float(dep_ap_pos['latitude']), float(dep_ap_pos['longitude']))
             else:
@@ -182,7 +212,7 @@ class Flights:
             else:
                 dep_ac_pos = None
             
-            departure = TakeoffLanding(airport=dep['airport'],time=dep['time'],airport_position=dep_ap_pos, aircraft_position=dep_ac_pos)
+            departure = TakeoffLanding(airport=dep['airport'],time=datetime.strptime(dep['time'][:19], time_format),airport_position=dep_ap_pos, aircraft_position=dep_ac_pos)
 
             arr = d['arrival']
             arr_ap_pos = arr['airport_position']
@@ -197,7 +227,7 @@ class Flights:
             else:
                 arr_ac_pos = None
             
-            arrival = TakeoffLanding(airport=arr['airport'],time=arr['time'],airport_position=arr_ap_pos, aircraft_position=arr_ac_pos)
+            arrival = TakeoffLanding(airport=arr['airport'],time=datetime.strptime(dep['time'][:19], time_format),airport_position=arr_ap_pos, aircraft_position=arr_ac_pos)
 
             f = MyFlight(callsign=d['callsign'],icao=d['icao'],nnumber=d['nnumber'],departure=departure, arrival=arrival)
             self.append(f)

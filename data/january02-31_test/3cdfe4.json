@@ -6,30 +6,40 @@
     "departure" :
     {
       "airport"             : "EDDS",
-      "time"                : "2020-01-14 11:24:17+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-14 11:24:17",
+      "airport_position"    : 
+      {
+        "altitude"  : "1276.0",
+        "latitude"  : "48.6898994446",
+        "longitude" : "9.22196006775"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "nan",
         "latitude"  : "48.69157791137695",
         "longitude" : "9.212599534254807"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "713.9866866237915",
+      "vertical_distance"   : "nan"
     },
     "arrival"   :
     {
       "airport"             : "EDDB",
-      "time"                : "2020-01-14 12:17:55+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-14 11:24:17",
+      "airport_position"    : 
+      {
+        "altitude"  : "157.0",
+        "latitude"  : "52.380001",
+        "longitude" : "13.5225"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "224.99999999999997",
         "latitude"  : "52.36478805541992",
         "longitude" : "13.50109100341797"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "2234.2009264686035",
+      "vertical_distance"   : "67.99999999999997"
     }
   },
   {
@@ -39,30 +49,40 @@
     "departure" :
     {
       "airport"             : "EDDB",
-      "time"                : "2020-01-15 15:13:23+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-15 15:13:23",
+      "airport_position"    : 
+      {
+        "altitude"  : "157.0",
+        "latitude"  : "52.380001",
+        "longitude" : "13.5225"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "100.0",
         "latitude"  : "52.36479949951172",
         "longitude" : "13.50107192993164"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "2234.084465609413",
+      "vertical_distance"   : "-57.0"
     },
     "arrival"   :
     {
       "airport"             : "EDDS",
-      "time"                : "2020-01-15 16:17:53+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-15 15:13:23",
+      "airport_position"    : 
+      {
+        "altitude"  : "1276.0",
+        "latitude"  : "48.6898994446",
+        "longitude" : "9.22196006775"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "1075.0",
         "latitude"  : "48.69136047363281",
         "longitude" : "9.209588857797476"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "925.1941923833709",
+      "vertical_distance"   : "-201.0"
     }
   },
   {
@@ -72,30 +92,40 @@
     "departure" :
     {
       "airport"             : "EDDL",
-      "time"                : "2020-01-26 15:14:03+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-26 15:14:03",
+      "airport_position"    : 
+      {
+        "altitude"  : "147.0",
+        "latitude"  : "51.289501",
+        "longitude" : "6.766780000000001"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "nan",
         "latitude"  : "51.274818420410156",
         "longitude" : "6.752657503695103"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "1907.6662271254727",
+      "vertical_distance"   : "nan"
     },
     "arrival"   :
     {
       "airport"             : "EDDS",
-      "time"                : "2020-01-26 15:56:50+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-26 15:14:03",
+      "airport_position"    : 
+      {
+        "altitude"  : "1276.0",
+        "latitude"  : "48.6898994446",
+        "longitude" : "9.22196006775"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "1149.9999999999998",
         "latitude"  : "48.69140625",
         "longitude" : "9.209571251502405"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "927.3761601336059",
+      "vertical_distance"   : "-126.00000000000023"
     }
   },
   {
@@ -105,30 +135,40 @@
     "departure" :
     {
       "airport"             : "EDDS",
-      "time"                : "2020-01-31 10:10:34+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-31 10:10:34",
+      "airport_position"    : 
+      {
+        "altitude"  : "1276.0",
+        "latitude"  : "48.6898994446",
+        "longitude" : "9.22196006775"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "nan",
         "latitude"  : "48.690467834472656",
         "longitude" : "9.211032573993387"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "807.0109275728158",
+      "vertical_distance"   : "nan"
     },
     "arrival"   :
     {
       "airport"             : "LEPA",
-      "time"                : "2020-01-31 11:52:27+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-31 10:10:34",
+      "airport_position"    : 
+      {
+        "altitude"  : "27.0",
+        "latitude"  : "39.551700591999996",
+        "longitude" : "2.73881006241"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "-224.99999999999997",
         "latitude"  : "39.540687561035156",
         "longitude" : "2.7254154371178667"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "1679.4911627890506",
+      "vertical_distance"   : "-251.99999999999997"
     }
   }
 ]

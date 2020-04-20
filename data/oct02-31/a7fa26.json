@@ -6,30 +6,40 @@
     "departure" :
     {
       "airport"             : "EGKB",
-      "time"                : "2019-10-02 07:39:48+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-10-02 07:39:48",
+      "airport_position"    : 
+      {
+        "altitude"  : "598.0",
+        "latitude"  : "51.330799102799986",
+        "longitude" : "0.032499998807900006"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "29500.0",
         "latitude"  : "46.49565124511719",
         "longitude" : "-68.89211515100989"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "4892060.811991806",
+      "vertical_distance"   : "28902.0"
     },
     "arrival"   :
     {
       "airport"             : "EGBB",
-      "time"                : "2019-10-02 08:11:04+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-10-02 07:39:48",
+      "airport_position"    : 
+      {
+        "altitude"  : "327.0",
+        "latitude"  : "52.4538993835",
+        "longitude" : "-1.7480299472799998"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "11499.999999999998",
         "latitude"  : "42.82406616210938",
         "longitude" : "-82.09878611010177"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "5813037.449839309",
+      "vertical_distance"   : "11172.999999999998"
     }
   },
   {
@@ -39,30 +49,40 @@
     "departure" :
     {
       "airport"             : "EGBB",
-      "time"                : "2019-10-02 11:43:44+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-10-02 11:43:44",
+      "airport_position"    : 
+      {
+        "altitude"  : "327.0",
+        "latitude"  : "52.4538993835",
+        "longitude" : "-1.7480299472799998"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "29500.0",
         "latitude"  : "46.49565124511719",
         "longitude" : "-68.89211515100989"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "4732842.960109292",
+      "vertical_distance"   : "29173.0"
     },
     "arrival"   :
     {
       "airport"             : "EGMC",
-      "time"                : "2019-10-02 12:12:45+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-10-02 11:43:44",
+      "airport_position"    : 
+      {
+        "altitude"  : "49.0",
+        "latitude"  : "51.5713996887207",
+        "longitude" : "0.6955559849739075"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "11499.999999999998",
         "latitude"  : "42.82406616210938",
         "longitude" : "-82.09878611010177"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "6006484.988762745",
+      "vertical_distance"   : "11450.999999999998"
     }
   },
   {
@@ -72,30 +92,40 @@
     "departure" :
     {
       "airport"             : "EGMC",
-      "time"                : "2019-10-02 15:43:49+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-10-02 15:43:49",
+      "airport_position"    : 
+      {
+        "altitude"  : "49.0",
+        "latitude"  : "51.5713996887207",
+        "longitude" : "0.6955559849739075"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "29500.0",
         "latitude"  : "46.49565124511719",
         "longitude" : "-68.89211515100989"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "4924686.155403885",
+      "vertical_distance"   : "29451.0"
     },
     "arrival"   :
     {
       "airport"             : "EGSS",
-      "time"                : "2019-10-02 15:56:44+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-10-02 15:43:49",
+      "airport_position"    : 
+      {
+        "altitude"  : "348.0",
+        "latitude"  : "51.8849983215",
+        "longitude" : "0.23499999940400002"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "11499.999999999998",
         "latitude"  : "42.82406616210938",
         "longitude" : "-82.09878611010177"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "5962740.697319594",
+      "vertical_distance"   : "11151.999999999998"
     }
   },
   {
@@ -105,21 +135,26 @@
     "departure" :
     {
       "airport"             : "EGSS",
-      "time"                : "2019-10-03 11:31:10+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-10-03 11:31:10",
+      "airport_position"    : 
+      {
+        "altitude"  : "348.0",
+        "latitude"  : "51.8849983215",
+        "longitude" : "0.23499999940400002"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "29500.0",
         "latitude"  : "46.49565124511719",
         "longitude" : "-68.89211515100989"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "4882146.697345165",
+      "vertical_distance"   : "29152.0"
     },
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2019-10-03 17:33:49+00:00",
+      "time"                : "2019-10-03 11:31:10",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -138,7 +173,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-10-15 12:37:44+00:00",
+      "time"                : "2019-10-15 12:37:44",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -152,7 +187,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2019-10-15 13:41:28+00:00",
+      "time"                : "2019-10-15 12:37:44",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -171,7 +206,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-10-15 16:19:04+00:00",
+      "time"                : "2019-10-15 16:19:04",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -185,7 +220,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2019-10-15 16:38:59+00:00",
+      "time"                : "2019-10-15 16:19:04",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -204,7 +239,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-10-15 18:35:27+00:00",
+      "time"                : "2019-10-15 18:35:27",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -218,7 +253,7 @@
     "arrival"   :
     {
       "airport"             : "97GA",
-      "time"                : "2019-10-15 18:48:29+00:00",
+      "time"                : "2019-10-15 18:35:27",
       "airport_position"    : 
       {
         "altitude"  : "1000.0",
@@ -242,7 +277,7 @@
     "departure" :
     {
       "airport"             : "KLZU",
-      "time"                : "2019-10-16 13:38:03+00:00",
+      "time"                : "2019-10-16 13:38:03",
       "airport_position"    : 
       {
         "altitude"  : "1061.0",
@@ -261,7 +296,7 @@
     "arrival"   :
     {
       "airport"             : "KDAL",
-      "time"                : "2019-10-16 15:42:09+00:00",
+      "time"                : "2019-10-16 13:38:03",
       "airport_position"    : 
       {
         "altitude"  : "487.0",
@@ -285,7 +320,7 @@
     "departure" :
     {
       "airport"             : "KDAL",
-      "time"                : "2019-10-16 18:50:49+00:00",
+      "time"                : "2019-10-16 18:50:49",
       "airport_position"    : 
       {
         "altitude"  : "487.0",
@@ -304,7 +339,7 @@
     "arrival"   :
     {
       "airport"             : "7TX7",
-      "time"                : "2019-10-16 19:33:53+00:00",
+      "time"                : "2019-10-16 18:50:49",
       "airport_position"    : 
       {
         "altitude"  : "2740.0",
@@ -328,7 +363,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-10-16 22:28:20+00:00",
+      "time"                : "2019-10-16 22:28:20",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -342,7 +377,7 @@
     "arrival"   :
     {
       "airport"             : "7MY9",
-      "time"                : "2019-10-17 00:22:29+00:00",
+      "time"                : "2019-10-16 22:28:20",
       "airport_position"    : 
       {
         "altitude"  : "1337.0",
@@ -366,7 +401,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-10-17 16:37:43+00:00",
+      "time"                : "2019-10-17 16:37:43",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -380,7 +415,7 @@
     "arrival"   :
     {
       "airport"             : "KMKE",
-      "time"                : "2019-10-17 17:09:18+00:00",
+      "time"                : "2019-10-17 16:37:43",
       "airport_position"    : 
       {
         "altitude"  : "723.0",
@@ -404,7 +439,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-10-21 16:00:48+00:00",
+      "time"                : "2019-10-21 16:00:48",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -418,7 +453,7 @@
     "arrival"   :
     {
       "airport"             : "KLAS",
-      "time"                : "2019-10-21 19:40:17+00:00",
+      "time"                : "2019-10-21 16:00:48",
       "airport_position"    : 
       {
         "altitude"  : "2181.0",
@@ -442,7 +477,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-10-29 12:51:49+00:00",
+      "time"                : "2019-10-29 12:51:49",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -456,7 +491,7 @@
     "arrival"   :
     {
       "airport"             : "KBUF",
-      "time"                : "2019-10-29 13:21:27+00:00",
+      "time"                : "2019-10-29 12:51:49",
       "airport_position"    : 
       {
         "altitude"  : "728.0",
@@ -480,7 +515,7 @@
     "departure" :
     {
       "airport"             : "KBUF",
-      "time"                : "2019-10-29 16:17:02+00:00",
+      "time"                : "2019-10-29 16:17:02",
       "airport_position"    : 
       {
         "altitude"  : "728.0",
@@ -499,7 +534,7 @@
     "arrival"   :
     {
       "airport"             : "KJYO",
-      "time"                : "2019-10-29 16:59:28+00:00",
+      "time"                : "2019-10-29 16:17:02",
       "airport_position"    : 
       {
         "altitude"  : "389.0",
@@ -523,7 +558,7 @@
     "departure" :
     {
       "airport"             : "KJYO",
-      "time"                : "2019-10-29 18:31:00+00:00",
+      "time"                : "2019-10-29 18:31:00",
       "airport_position"    : 
       {
         "altitude"  : "389.0",
@@ -542,7 +577,7 @@
     "arrival"   :
     {
       "airport"             : "KFXE",
-      "time"                : "2019-10-29 20:52:06+00:00",
+      "time"                : "2019-10-29 18:31:00",
       "airport_position"    : 
       {
         "altitude"  : "13.0",
@@ -566,7 +601,7 @@
     "departure" :
     {
       "airport"             : "KPMP",
-      "time"                : "2019-10-30 17:56:25+00:00",
+      "time"                : "2019-10-30 17:56:25",
       "airport_position"    : 
       {
         "altitude"  : "19.0",
@@ -585,7 +620,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2019-10-30 18:36:29+00:00",
+      "time"                : "2019-10-30 17:56:25",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -604,7 +639,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-10-30 20:19:30+00:00",
+      "time"                : "2019-10-30 20:19:30",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -618,7 +653,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2019-10-30 20:56:02+00:00",
+      "time"                : "2019-10-30 20:19:30",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {

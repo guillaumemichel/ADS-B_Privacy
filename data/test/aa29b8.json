@@ -1,0 +1,45 @@
+[
+  {
+    "icao"      : "aa29b8",
+    "callsign"  : "DCM3296",
+    "nnumber"   : "N754JL",
+    "departure" :
+    {
+      "airport"             : "KGKY",
+      "time"                : "2019-10-31 17:31:16+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "628.0",
+        "latitude"  : "32.66389846801758",
+        "longitude" : "-97.09429931640624"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1025.0",
+        "latitude"  : "32.68209166445975",
+        "longitude" : "-97.1015400789222"
+      },
+      "horizontal_distance" : "2128.842152932848",
+      "vertical_distance"   : "397.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "6TX7",
+      "time"                : "2019-10-31 21:26:20+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "680.0",
+        "latitude"  : "32.537601470947266",
+        "longitude" : "-97.13079833984376"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "40675.0",
+        "latitude"  : "37.38661426608845",
+        "longitude" : "-97.13705311650813"
+      },
+      "horizontal_distance" : "537950.3371725293",
+      "vertical_distance"   : "39995.0"
+    }
+  }
+]

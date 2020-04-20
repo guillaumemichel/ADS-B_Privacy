@@ -6,7 +6,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-11-01 15:31:56+00:00",
+      "time"                : "2019-11-01 15:31:56",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -15,8 +15,13 @@
     "arrival"   :
     {
       "airport"             : "KFLL",
-      "time"                : "2019-11-01 16:32:24+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-11-01 15:31:56",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "26.072599",
+        "longitude" : "-80.152702"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"

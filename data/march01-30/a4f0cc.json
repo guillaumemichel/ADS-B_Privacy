@@ -6,8 +6,13 @@
     "departure" :
     {
       "airport"             : "KSDM",
-      "time"                : "2020-03-03 14:09:03+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-03 14:09:03",
+      "airport_position"    : 
+      {
+        "altitude"  : "526.0",
+        "latitude"  : "32.572299957275",
+        "longitude" : "-116.98000335693001"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -15,8 +20,13 @@
     "arrival"   :
     {
       "airport"             : "54AZ",
-      "time"                : "2020-03-03 15:29:25+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-03 14:09:03",
+      "airport_position"    : 
+      {
+        "altitude"  : "177.0",
+        "latitude"  : "32.60089874267578",
+        "longitude" : "-114.66600036621094"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -29,7 +39,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-03-03 18:31:37+00:00",
+      "time"                : "2020-03-03 18:31:37",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -38,8 +48,13 @@
     "arrival"   :
     {
       "airport"             : "KSDM",
-      "time"                : "2020-03-03 19:40:50+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-03 18:31:37",
+      "airport_position"    : 
+      {
+        "altitude"  : "526.0",
+        "latitude"  : "32.572299957275",
+        "longitude" : "-116.98000335693001"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -52,8 +67,13 @@
     "departure" :
     {
       "airport"             : "KSDM",
-      "time"                : "2020-03-17 20:10:16+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-17 20:10:16",
+      "airport_position"    : 
+      {
+        "altitude"  : "526.0",
+        "latitude"  : "32.572299957275",
+        "longitude" : "-116.98000335693001"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -61,8 +81,13 @@
     "arrival"   :
     {
       "airport"             : "KSDM",
-      "time"                : "2020-03-17 21:18:46+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-17 20:10:16",
+      "airport_position"    : 
+      {
+        "altitude"  : "526.0",
+        "latitude"  : "32.572299957275",
+        "longitude" : "-116.98000335693001"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -75,8 +100,13 @@
     "departure" :
     {
       "airport"             : "KSDM",
-      "time"                : "2020-03-21 22:03:20+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-21 22:03:20",
+      "airport_position"    : 
+      {
+        "altitude"  : "526.0",
+        "latitude"  : "32.572299957275",
+        "longitude" : "-116.98000335693001"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -84,8 +114,13 @@
     "arrival"   :
     {
       "airport"             : "58CL",
-      "time"                : "2020-03-21 23:06:59+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-21 22:03:20",
+      "airport_position"    : 
+      {
+        "altitude"  : "575.0",
+        "latitude"  : "33.191699981689446",
+        "longitude" : "-116.2760009765625"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -98,8 +133,13 @@
     "departure" :
     {
       "airport"             : "04CL",
-      "time"                : "2020-03-21 23:51:28+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-21 23:51:28",
+      "airport_position"    : 
+      {
+        "altitude"  : "2310.0",
+        "latitude"  : "33.08169937133789",
+        "longitude" : "-116.44100189208984"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -107,8 +147,13 @@
     "arrival"   :
     {
       "airport"             : "KSDM",
-      "time"                : "2020-03-22 00:19:37+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-21 23:51:28",
+      "airport_position"    : 
+      {
+        "altitude"  : "526.0",
+        "latitude"  : "32.572299957275",
+        "longitude" : "-116.98000335693001"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"

@@ -6,7 +6,7 @@
     "departure" :
     {
       "airport"             : "KFLL",
-      "time"                : "2020-02-05 15:53:26+00:00",
+      "time"                : "2020-02-05 15:53:26",
       "airport_position"    : 
       {
         "altitude"  : "9.0",
@@ -25,16 +25,21 @@
     "arrival"   :
     {
       "airport"             : "MMUN",
-      "time"                : "2020-02-05 17:53:08+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-05 15:53:26",
+      "airport_position"    : 
+      {
+        "altitude"  : "22.0",
+        "latitude"  : "21.036500930800003",
+        "longitude" : "-86.8770980835"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "34000.0",
         "latitude"  : "24.1365966796875",
         "longitude" : "-82.73869832356772"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "546697.1919086343",
+      "vertical_distance"   : "33978.0"
     }
   },
   {
@@ -44,7 +49,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-02-05 22:08:33+00:00",
+      "time"                : "2020-02-05 22:08:33",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -58,7 +63,7 @@
     "arrival"   :
     {
       "airport"             : "KFLL",
-      "time"                : "2020-02-05 23:24:14+00:00",
+      "time"                : "2020-02-05 22:08:33",
       "airport_position"    : 
       {
         "altitude"  : "9.0",

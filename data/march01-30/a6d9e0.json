@@ -6,7 +6,7 @@
     "departure" :
     {
       "airport"             : "KPHX",
-      "time"                : "2020-03-04 20:26:33+00:00",
+      "time"                : "2020-03-04 20:26:33",
       "airport_position"    : 
       {
         "altitude"  : "1135.0",
@@ -25,7 +25,7 @@
     "arrival"   :
     {
       "airport"             : "KSBA",
-      "time"                : "2020-03-04 21:32:26+00:00",
+      "time"                : "2020-03-04 20:26:33",
       "airport_position"    : 
       {
         "altitude"  : "13.0",
@@ -49,7 +49,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-03-04 23:52:41+00:00",
+      "time"                : "2020-03-04 23:52:41",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -63,7 +63,7 @@
     "arrival"   :
     {
       "airport"             : "KAPA",
-      "time"                : "2020-03-05 01:30:58+00:00",
+      "time"                : "2020-03-04 23:52:41",
       "airport_position"    : 
       {
         "altitude"  : "5885.0",
@@ -87,21 +87,26 @@
     "departure" :
     {
       "airport"             : "TVSC",
-      "time"                : "2020-03-11 18:47:58+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-03-11 18:47:58",
+      "airport_position"    : 
+      {
+        "altitude"  : "11.0",
+        "latitude"  : "12.699000000000002",
+        "longitude" : "-61.3424"
+      },
       "aircraft_position"   : 
       {
         "altitude"  : "6750.0",
         "latitude"  : "34.367752075195305",
         "longitude" : "-119.7375799685108"
       },
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
+      "horizontal_distance" : "6332537.03132222",
+      "vertical_distance"   : "6739.0"
     },
     "arrival"   :
     {
       "airport"             : "KHOU",
-      "time"                : "2020-03-12 00:04:54+00:00",
+      "time"                : "2020-03-11 18:47:58",
       "airport_position"    : 
       {
         "altitude"  : "46.0",
@@ -125,7 +130,7 @@
     "departure" :
     {
       "airport"             : "KHOU",
-      "time"                : "2020-03-12 01:06:42+00:00",
+      "time"                : "2020-03-12 01:06:42",
       "airport_position"    : 
       {
         "altitude"  : "46.0",
@@ -144,7 +149,7 @@
     "arrival"   :
     {
       "airport"             : "KSBA",
-      "time"                : "2020-03-12 04:04:28+00:00",
+      "time"                : "2020-03-12 01:06:42",
       "airport_position"    : 
       {
         "altitude"  : "13.0",
@@ -168,7 +173,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-03-14 18:28:23+00:00",
+      "time"                : "2020-03-14 18:28:23",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -182,7 +187,7 @@
     "arrival"   :
     {
       "airport"             : "KPHX",
-      "time"                : "2020-03-14 19:24:19+00:00",
+      "time"                : "2020-03-14 18:28:23",
       "airport_position"    : 
       {
         "altitude"  : "1135.0",
@@ -206,7 +211,7 @@
     "departure" :
     {
       "airport"             : "KPHX",
-      "time"                : "2020-03-19 23:07:51+00:00",
+      "time"                : "2020-03-19 23:07:51",
       "airport_position"    : 
       {
         "altitude"  : "1135.0",
@@ -225,7 +230,7 @@
     "arrival"   :
     {
       "airport"             : "KDPA",
-      "time"                : "2020-03-20 01:33:11+00:00",
+      "time"                : "2020-03-19 23:07:51",
       "airport_position"    : 
       {
         "altitude"  : "759.0",
@@ -249,7 +254,7 @@
     "departure" :
     {
       "airport"             : "KDPA",
-      "time"                : "2020-03-20 01:50:32+00:00",
+      "time"                : "2020-03-20 01:50:32",
       "airport_position"    : 
       {
         "altitude"  : "759.0",
@@ -268,7 +273,7 @@
     "arrival"   :
     {
       "airport"             : "KSBA",
-      "time"                : "2020-03-20 05:27:44+00:00",
+      "time"                : "2020-03-20 01:50:32",
       "airport_position"    : 
       {
         "altitude"  : "13.0",
@@ -292,7 +297,7 @@
     "departure" :
     {
       "airport"             : "KSBA",
-      "time"                : "2020-03-20 06:04:02+00:00",
+      "time"                : "2020-03-20 06:04:02",
       "airport_position"    : 
       {
         "altitude"  : "13.0",
@@ -311,7 +316,7 @@
     "arrival"   :
     {
       "airport"             : "KPHX",
-      "time"                : "2020-03-20 06:59:49+00:00",
+      "time"                : "2020-03-20 06:04:02",
       "airport_position"    : 
       {
         "altitude"  : "1135.0",

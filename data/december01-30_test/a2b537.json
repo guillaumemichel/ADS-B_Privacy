@@ -6,8 +6,13 @@
     "departure" :
     {
       "airport"             : "KRYY",
-      "time"                : "2019-12-01 16:03:24+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-01 16:03:24",
+      "airport_position"    : 
+      {
+        "altitude"  : "1040.0",
+        "latitude"  : "34.01319885",
+        "longitude" : "-84.59860229"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -15,8 +20,13 @@
     "arrival"   :
     {
       "airport"             : "KPDK",
-      "time"                : "2019-12-01 16:14:14+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-01 16:03:24",
+      "airport_position"    : 
+      {
+        "altitude"  : "1003.0",
+        "latitude"  : "33.8755989075",
+        "longitude" : "-84.3020019531"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -29,8 +39,13 @@
     "departure" :
     {
       "airport"             : "KPDK",
-      "time"                : "2019-12-01 16:56:44+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-01 16:56:44",
+      "airport_position"    : 
+      {
+        "altitude"  : "1003.0",
+        "latitude"  : "33.8755989075",
+        "longitude" : "-84.3020019531"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -38,8 +53,13 @@
     "arrival"   :
     {
       "airport"             : "KRYY",
-      "time"                : "2019-12-01 17:12:22+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-01 16:56:44",
+      "airport_position"    : 
+      {
+        "altitude"  : "1040.0",
+        "latitude"  : "34.01319885",
+        "longitude" : "-84.59860229"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -52,8 +72,13 @@
     "departure" :
     {
       "airport"             : "KRYY",
-      "time"                : "2019-12-03 23:20:20+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-03 23:20:20",
+      "airport_position"    : 
+      {
+        "altitude"  : "1040.0",
+        "latitude"  : "34.01319885",
+        "longitude" : "-84.59860229"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -61,8 +86,13 @@
     "arrival"   :
     {
       "airport"             : "20GA",
-      "time"                : "2019-12-03 23:36:45+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-03 23:20:20",
+      "airport_position"    : 
+      {
+        "altitude"  : "1110.0",
+        "latitude"  : "33.756500244099996",
+        "longitude" : "-84.88469696039998"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -75,8 +105,13 @@
     "departure" :
     {
       "airport"             : "20GA",
-      "time"                : "2019-12-03 23:57:18+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-03 23:57:18",
+      "airport_position"    : 
+      {
+        "altitude"  : "1110.0",
+        "latitude"  : "33.756500244099996",
+        "longitude" : "-84.88469696039998"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -84,8 +119,13 @@
     "arrival"   :
     {
       "airport"             : "KRYY",
-      "time"                : "2019-12-04 01:32:27+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-03 23:57:18",
+      "airport_position"    : 
+      {
+        "altitude"  : "1040.0",
+        "latitude"  : "34.01319885",
+        "longitude" : "-84.59860229"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -98,8 +138,13 @@
     "departure" :
     {
       "airport"             : "KRYY",
-      "time"                : "2019-12-04 23:55:52+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-04 23:55:52",
+      "airport_position"    : 
+      {
+        "altitude"  : "1040.0",
+        "latitude"  : "34.01319885",
+        "longitude" : "-84.59860229"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -107,8 +152,13 @@
     "arrival"   :
     {
       "airport"             : "KRYY",
-      "time"                : "2019-12-05 01:32:43+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-04 23:55:52",
+      "airport_position"    : 
+      {
+        "altitude"  : "1040.0",
+        "latitude"  : "34.01319885",
+        "longitude" : "-84.59860229"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -121,8 +171,13 @@
     "departure" :
     {
       "airport"             : "KRYY",
-      "time"                : "2019-12-05 17:58:00+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-05 17:58:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "1040.0",
+        "latitude"  : "34.01319885",
+        "longitude" : "-84.59860229"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -130,8 +185,13 @@
     "arrival"   :
     {
       "airport"             : "67GA",
-      "time"                : "2019-12-05 18:22:29+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-05 17:58:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "735.0",
+        "latitude"  : "33.8592987061",
+        "longitude" : "-83.58769989010001"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -144,8 +204,13 @@
     "departure" :
     {
       "airport"             : "KLZU",
-      "time"                : "2019-12-05 20:27:31+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-05 20:27:31",
+      "airport_position"    : 
+      {
+        "altitude"  : "1061.0",
+        "latitude"  : "33.97809982",
+        "longitude" : "-83.96240234"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -153,8 +218,13 @@
     "arrival"   :
     {
       "airport"             : "KRYY",
-      "time"                : "2019-12-05 20:42:20+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-05 20:27:31",
+      "airport_position"    : 
+      {
+        "altitude"  : "1040.0",
+        "latitude"  : "34.01319885",
+        "longitude" : "-84.59860229"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -167,8 +237,13 @@
     "departure" :
     {
       "airport"             : "KRYY",
-      "time"                : "2019-12-07 15:24:48+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-07 15:24:48",
+      "airport_position"    : 
+      {
+        "altitude"  : "1040.0",
+        "latitude"  : "34.01319885",
+        "longitude" : "-84.59860229"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -176,8 +251,13 @@
     "arrival"   :
     {
       "airport"             : "KPUJ",
-      "time"                : "2019-12-07 16:24:12+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-07 15:24:48",
+      "airport_position"    : 
+      {
+        "altitude"  : "1289.0",
+        "latitude"  : "33.913306",
+        "longitude" : "-84.942083"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -190,8 +270,13 @@
     "departure" :
     {
       "airport"             : "KCTJ",
-      "time"                : "2019-12-07 17:49:39+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-07 17:49:39",
+      "airport_position"    : 
+      {
+        "altitude"  : "1161.0",
+        "latitude"  : "33.63100051879883",
+        "longitude" : "-85.1520004272461"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -199,8 +284,13 @@
     "arrival"   :
     {
       "airport"             : "KRYY",
-      "time"                : "2019-12-07 18:04:56+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-07 17:49:39",
+      "airport_position"    : 
+      {
+        "altitude"  : "1040.0",
+        "latitude"  : "34.01319885",
+        "longitude" : "-84.59860229"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -213,8 +303,13 @@
     "departure" :
     {
       "airport"             : "KRYY",
-      "time"                : "2019-12-13 20:33:29+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-13 20:33:29",
+      "airport_position"    : 
+      {
+        "altitude"  : "1040.0",
+        "latitude"  : "34.01319885",
+        "longitude" : "-84.59860229"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -222,8 +317,13 @@
     "arrival"   :
     {
       "airport"             : "KDNN",
-      "time"                : "2019-12-13 20:51:28+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-13 20:33:29",
+      "airport_position"    : 
+      {
+        "altitude"  : "709.0",
+        "latitude"  : "34.72290039",
+        "longitude" : "-84.87020111"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -236,8 +336,13 @@
     "departure" :
     {
       "airport"             : "KJZP",
-      "time"                : "2019-12-13 23:01:05+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-13 23:01:05",
+      "airport_position"    : 
+      {
+        "altitude"  : "1535.0",
+        "latitude"  : "34.453399658203125",
+        "longitude" : "-84.4573974609375"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -245,8 +350,13 @@
     "arrival"   :
     {
       "airport"             : "KRYY",
-      "time"                : "2019-12-13 23:20:10+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-13 23:01:05",
+      "airport_position"    : 
+      {
+        "altitude"  : "1040.0",
+        "latitude"  : "34.01319885",
+        "longitude" : "-84.59860229"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -259,8 +369,13 @@
     "departure" :
     {
       "airport"             : "KDTS",
-      "time"                : "2019-12-15 19:11:50+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-15 19:11:50",
+      "airport_position"    : 
+      {
+        "altitude"  : "23.0",
+        "latitude"  : "30.40010071",
+        "longitude" : "-86.47149658"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -268,8 +383,13 @@
     "arrival"   :
     {
       "airport"             : "KRYY",
-      "time"                : "2019-12-15 20:55:45+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-15 19:11:50",
+      "airport_position"    : 
+      {
+        "altitude"  : "1040.0",
+        "latitude"  : "34.01319885",
+        "longitude" : "-84.59860229"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -282,8 +402,13 @@
     "departure" :
     {
       "airport"             : "KRYY",
-      "time"                : "2019-12-19 15:10:51+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-19 15:10:51",
+      "airport_position"    : 
+      {
+        "altitude"  : "1040.0",
+        "latitude"  : "34.01319885",
+        "longitude" : "-84.59860229"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -291,8 +416,13 @@
     "arrival"   :
     {
       "airport"             : "0GE0",
-      "time"                : "2019-12-19 15:21:21+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-19 15:10:51",
+      "airport_position"    : 
+      {
+        "altitude"  : "1085.0",
+        "latitude"  : "33.782100677490234",
+        "longitude" : "-84.80079650878906"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -305,8 +435,13 @@
     "departure" :
     {
       "airport"             : "KPUJ",
-      "time"                : "2019-12-19 16:16:10+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-19 16:16:10",
+      "airport_position"    : 
+      {
+        "altitude"  : "1289.0",
+        "latitude"  : "33.913306",
+        "longitude" : "-84.942083"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -314,8 +449,13 @@
     "arrival"   :
     {
       "airport"             : "0GE0",
-      "time"                : "2019-12-19 16:27:25+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-19 16:16:10",
+      "airport_position"    : 
+      {
+        "altitude"  : "1085.0",
+        "latitude"  : "33.782100677490234",
+        "longitude" : "-84.80079650878906"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -328,8 +468,13 @@
     "departure" :
     {
       "airport"             : "0GA7",
-      "time"                : "2019-12-19 17:45:41+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-19 17:45:41",
+      "airport_position"    : 
+      {
+        "altitude"  : "1080.0",
+        "latitude"  : "33.683399200439446",
+        "longitude" : "-84.9999008178711"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -337,8 +482,13 @@
     "arrival"   :
     {
       "airport"             : "KRYY",
-      "time"                : "2019-12-19 18:02:10+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-19 17:45:41",
+      "airport_position"    : 
+      {
+        "altitude"  : "1040.0",
+        "latitude"  : "34.01319885",
+        "longitude" : "-84.59860229"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -351,8 +501,13 @@
     "departure" :
     {
       "airport"             : "KRYY",
-      "time"                : "2019-12-20 16:41:42+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-20 16:41:42",
+      "airport_position"    : 
+      {
+        "altitude"  : "1040.0",
+        "latitude"  : "34.01319885",
+        "longitude" : "-84.59860229"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -360,8 +515,13 @@
     "arrival"   :
     {
       "airport"             : "KLZU",
-      "time"                : "2019-12-20 16:53:59+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-20 16:41:42",
+      "airport_position"    : 
+      {
+        "altitude"  : "1061.0",
+        "latitude"  : "33.97809982",
+        "longitude" : "-83.96240234"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -374,8 +534,13 @@
     "departure" :
     {
       "airport"             : "KLZU",
-      "time"                : "2019-12-20 18:17:32+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-20 18:17:32",
+      "airport_position"    : 
+      {
+        "altitude"  : "1061.0",
+        "latitude"  : "33.97809982",
+        "longitude" : "-83.96240234"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -383,8 +548,13 @@
     "arrival"   :
     {
       "airport"             : "KRYY",
-      "time"                : "2019-12-20 18:29:56+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-20 18:17:32",
+      "airport_position"    : 
+      {
+        "altitude"  : "1040.0",
+        "latitude"  : "34.01319885",
+        "longitude" : "-84.59860229"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -397,8 +567,13 @@
     "departure" :
     {
       "airport"             : "KRHP",
-      "time"                : "2019-12-26 19:58:56+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-26 19:58:56",
+      "airport_position"    : 
+      {
+        "altitude"  : "1697.0",
+        "latitude"  : "35.195202",
+        "longitude" : "-83.862999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -406,8 +581,13 @@
     "arrival"   :
     {
       "airport"             : "KJZP",
-      "time"                : "2019-12-26 20:22:15+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-26 19:58:56",
+      "airport_position"    : 
+      {
+        "altitude"  : "1535.0",
+        "latitude"  : "34.453399658203125",
+        "longitude" : "-84.4573974609375"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"

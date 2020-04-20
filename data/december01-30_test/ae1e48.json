@@ -6,7 +6,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-12-02 15:14:21+00:00",
+      "time"                : "2019-12-02 15:14:21",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -15,7 +15,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2019-12-02 16:00:59+00:00",
+      "time"                : "2019-12-02 15:14:21",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -29,7 +29,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-12-03 18:11:55+00:00",
+      "time"                : "2019-12-03 18:11:55",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -38,7 +38,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2019-12-03 18:32:52+00:00",
+      "time"                : "2019-12-03 18:11:55",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -52,7 +52,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-12-04 15:11:32+00:00",
+      "time"                : "2019-12-04 15:11:32",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -61,7 +61,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2019-12-04 15:42:39+00:00",
+      "time"                : "2019-12-04 15:11:32",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -75,7 +75,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-12-04 21:46:04+00:00",
+      "time"                : "2019-12-04 21:46:04",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -84,8 +84,13 @@
     "arrival"   :
     {
       "airport"             : "OK79",
-      "time"                : "2019-12-04 21:57:41+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-04 21:46:04",
+      "airport_position"    : 
+      {
+        "altitude"  : "1005.0",
+        "latitude"  : "34.25680160522461",
+        "longitude" : "-98.24120330810548"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -98,8 +103,13 @@
     "departure" :
     {
       "airport"             : "XA09",
-      "time"                : "2019-12-05 00:50:39+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-05 00:50:39",
+      "airport_position"    : 
+      {
+        "altitude"  : "1055.0",
+        "latitude"  : "33.58190155029297",
+        "longitude" : "-98.06109619140624"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -107,8 +117,13 @@
     "arrival"   :
     {
       "airport"             : "XA09",
-      "time"                : "2019-12-05 01:45:04+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-05 00:50:39",
+      "airport_position"    : 
+      {
+        "altitude"  : "1055.0",
+        "latitude"  : "33.58190155029297",
+        "longitude" : "-98.06109619140624"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -121,7 +136,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-12-05 15:56:55+00:00",
+      "time"                : "2019-12-05 15:56:55",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -130,7 +145,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2019-12-05 16:11:16+00:00",
+      "time"                : "2019-12-05 15:56:55",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -144,7 +159,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-12-06 00:25:45+00:00",
+      "time"                : "2019-12-06 00:25:45",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -153,7 +168,35 @@
     "arrival"   :
     {
       "airport"             : "OK79",
-      "time"                : "2019-12-06 01:23:28+00:00",
+      "time"                : "2019-12-06 00:25:45",
+      "airport_position"    : 
+      {
+        "altitude"  : "1005.0",
+        "latitude"  : "34.25680160522461",
+        "longitude" : "-98.24120330810548"
+      },
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "ae1e48",
+    "callsign"  : "GHOST81",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-12-06 14:35:05",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-12-06 14:35:05",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -167,30 +210,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-12-06 14:35:05+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    },
-    "arrival"   :
-    {
-      "airport"             : "None",
-      "time"                : "2019-12-06 14:55:44+00:00",
-      "airport_position"    : "None",
-      "aircraft_position"   : "None",
-      "horizontal_distance" : "None",
-      "vertical_distance"   : "None"
-    }
-  },
-  {
-    "icao"      : "ae1e48",
-    "callsign"  : "GHOST81",
-    "nnumber"   : "None",
-    "departure" :
-    {
-      "airport"             : "None",
-      "time"                : "2019-12-06 18:42:31+00:00",
+      "time"                : "2019-12-06 18:42:31",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -199,8 +219,13 @@
     "arrival"   :
     {
       "airport"             : "OK97",
-      "time"                : "2019-12-06 19:16:29+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-06 18:42:31",
+      "airport_position"    : 
+      {
+        "altitude"  : "1100.0",
+        "latitude"  : "34.533401489257805",
+        "longitude" : "-97.76699829101562"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -213,8 +238,13 @@
     "departure" :
     {
       "airport"             : "KAFW",
-      "time"                : "2019-12-08 15:17:40+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-08 15:17:40",
+      "airport_position"    : 
+      {
+        "altitude"  : "722.0",
+        "latitude"  : "32.9875984192",
+        "longitude" : "-97.3188018799"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -222,8 +252,13 @@
     "arrival"   :
     {
       "airport"             : "TX21",
-      "time"                : "2019-12-08 15:32:59+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-08 15:17:40",
+      "airport_position"    : 
+      {
+        "altitude"  : "1165.0",
+        "latitude"  : "33.477901458740234",
+        "longitude" : "-98.54759979248048"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -236,7 +271,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-12-11 19:21:40+00:00",
+      "time"                : "2019-12-11 19:21:40",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -245,8 +280,13 @@
     "arrival"   :
     {
       "airport"             : "OK12",
-      "time"                : "2019-12-11 19:49:59+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-11 19:21:40",
+      "airport_position"    : 
+      {
+        "altitude"  : "1042.0",
+        "latitude"  : "34.399167",
+        "longitude" : "-98.266389"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -259,8 +299,13 @@
     "departure" :
     {
       "airport"             : "98OL",
-      "time"                : "2019-12-11 22:12:36+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-11 22:12:36",
+      "airport_position"    : 
+      {
+        "altitude"  : "1120.0",
+        "latitude"  : "34.500099",
+        "longitude" : "-97.99479699999999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -268,7 +313,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2019-12-11 22:32:49+00:00",
+      "time"                : "2019-12-11 22:12:36",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -282,7 +327,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-12-12 19:27:52+00:00",
+      "time"                : "2019-12-12 19:27:52",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -291,8 +336,13 @@
     "arrival"   :
     {
       "airport"             : "TE10",
-      "time"                : "2019-12-12 20:03:44+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-12 19:27:52",
+      "airport_position"    : 
+      {
+        "altitude"  : "885.0",
+        "latitude"  : "33.815399169921875",
+        "longitude" : "-98.22810363769531"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -305,7 +355,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-12-13 15:39:38+00:00",
+      "time"                : "2019-12-13 15:39:38",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -314,7 +364,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2019-12-13 15:53:14+00:00",
+      "time"                : "2019-12-13 15:39:38",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -328,7 +378,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-12-13 18:41:13+00:00",
+      "time"                : "2019-12-13 18:41:13",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -337,7 +387,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2019-12-13 19:12:41+00:00",
+      "time"                : "2019-12-13 18:41:13",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -351,7 +401,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2019-12-19 15:15:03+00:00",
+      "time"                : "2019-12-19 15:15:03",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -360,7 +410,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2019-12-19 15:42:09+00:00",
+      "time"                : "2019-12-19 15:15:03",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",

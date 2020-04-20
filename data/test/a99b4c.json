@@ -1,0 +1,116 @@
+[
+  {
+    "icao"      : "a99b4c",
+    "callsign"  : "N718RR",
+    "nnumber"   : "N718RR",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-10-11 00:20:18+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "10874.999999999998",
+        "latitude"  : "25.55900573730469",
+        "longitude" : "-80.89650472005209"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KFLL",
+      "time"                : "2019-10-11 00:44:12+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "26.072599",
+        "longitude" : "-80.152702"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "325.0",
+        "latitude"  : "26.066087625794488",
+        "longitude" : "-80.17452533428484"
+      },
+      "horizontal_distance" : "2299.6933998803606",
+      "vertical_distance"   : "316.0"
+    }
+  },
+  {
+    "icao"      : "a99b4c",
+    "callsign"  : "DCM3520",
+    "nnumber"   : "N718RR",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-10-18 23:19:18+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "10874.999999999998",
+        "latitude"  : "25.55900573730469",
+        "longitude" : "-80.89650472005209"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KFLL",
+      "time"                : "2019-10-18 23:36:04+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "26.072599",
+        "longitude" : "-80.152702"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "325.0",
+        "latitude"  : "26.066087625794488",
+        "longitude" : "-80.17452533428484"
+      },
+      "horizontal_distance" : "2299.6933998803606",
+      "vertical_distance"   : "316.0"
+    }
+  },
+  {
+    "icao"      : "a99b4c",
+    "callsign"  : "N718RR",
+    "nnumber"   : "N718RR",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-10-27 19:08:41+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2575.0",
+        "latitude"  : "26.0941120729608",
+        "longitude" : "-80.07945134089543"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KFLL",
+      "time"                : "2019-10-27 21:41:51+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "26.072599",
+        "longitude" : "-80.152702"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5625.0",
+        "latitude"  : "26.18234252929688",
+        "longitude" : "-80.11567313716097"
+      },
+      "horizontal_distance" : "12709.940152072937",
+      "vertical_distance"   : "5616.0"
+    }
+  }
+]

@@ -6,8 +6,13 @@
     "departure" :
     {
       "airport"             : "KHOU",
-      "time"                : "2019-12-05 15:12:42+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-05 15:12:42",
+      "airport_position"    : 
+      {
+        "altitude"  : "46.0",
+        "latitude"  : "29.64539909",
+        "longitude" : "-95.27890015"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -15,8 +20,13 @@
     "arrival"   :
     {
       "airport"             : "07TS",
-      "time"                : "2019-12-05 15:51:21+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-05 15:12:42",
+      "airport_position"    : 
+      {
+        "altitude"  : "690.0",
+        "latitude"  : "30.625",
+        "longitude" : "-97.5727996826172"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -29,8 +39,13 @@
     "departure" :
     {
       "airport"             : "KEDC",
-      "time"                : "2019-12-07 20:40:47+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-07 20:40:47",
+      "airport_position"    : 
+      {
+        "altitude"  : "620.0",
+        "latitude"  : "30.397493100000005",
+        "longitude" : "-97.5663935"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -38,8 +53,13 @@
     "arrival"   :
     {
       "airport"             : "KHOU",
-      "time"                : "2019-12-07 21:12:52+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-07 20:40:47",
+      "airport_position"    : 
+      {
+        "altitude"  : "46.0",
+        "latitude"  : "29.64539909",
+        "longitude" : "-95.27890015"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -52,8 +72,13 @@
     "departure" :
     {
       "airport"             : "KHOU",
-      "time"                : "2019-12-16 12:10:43+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-16 12:10:43",
+      "airport_position"    : 
+      {
+        "altitude"  : "46.0",
+        "latitude"  : "29.64539909",
+        "longitude" : "-95.27890015"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -61,8 +86,13 @@
     "arrival"   :
     {
       "airport"             : "KCMH",
-      "time"                : "2019-12-16 14:35:28+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-16 12:10:43",
+      "airport_position"    : 
+      {
+        "altitude"  : "815.0",
+        "latitude"  : "39.998001",
+        "longitude" : "-82.891899"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -75,8 +105,13 @@
     "departure" :
     {
       "airport"             : "KCMH",
-      "time"                : "2019-12-16 18:15:30+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-16 18:15:30",
+      "airport_position"    : 
+      {
+        "altitude"  : "815.0",
+        "latitude"  : "39.998001",
+        "longitude" : "-82.891899"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -84,8 +119,13 @@
     "arrival"   :
     {
       "airport"             : "K7M5",
-      "time"                : "2019-12-16 21:21:11+00:00",
-      "airport_position"    : "None",
+      "time"                : "2019-12-16 18:15:30",
+      "airport_position"    : 
+      {
+        "altitude"  : "648.0",
+        "latitude"  : "35.51070022583008",
+        "longitude" : "-93.83930206298828"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"

@@ -6,8 +6,13 @@
     "departure" :
     {
       "airport"             : "KMRY",
-      "time"                : "2020-01-02 17:13:44+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-02 17:13:44",
+      "airport_position"    : 
+      {
+        "altitude"  : "257.0",
+        "latitude"  : "36.58700180053711",
+        "longitude" : "-121.84300231933594"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -15,8 +20,13 @@
     "arrival"   :
     {
       "airport"             : "KFAT",
-      "time"                : "2020-01-02 17:54:59+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-02 17:13:44",
+      "airport_position"    : 
+      {
+        "altitude"  : "336.0",
+        "latitude"  : "36.77619934082031",
+        "longitude" : "-119.71800231933594"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -29,7 +39,7 @@
     "departure" :
     {
       "airport"             : "KMAE",
-      "time"                : "2020-01-15 18:30:19+00:00",
+      "time"                : "2020-01-15 18:30:19",
       "airport_position"    : 
       {
         "altitude"  : "255.0",
@@ -48,7 +58,7 @@
     "arrival"   :
     {
       "airport"             : "KSNS",
-      "time"                : "2020-01-15 18:50:09+00:00",
+      "time"                : "2020-01-15 18:30:19",
       "airport_position"    : 
       {
         "altitude"  : "85.0",
@@ -72,7 +82,7 @@
     "departure" :
     {
       "airport"             : "KSNS",
-      "time"                : "2020-01-15 20:11:44+00:00",
+      "time"                : "2020-01-15 20:11:44",
       "airport_position"    : 
       {
         "altitude"  : "85.0",
@@ -91,7 +101,7 @@
     "arrival"   :
     {
       "airport"             : "49CL",
-      "time"                : "2020-01-15 20:28:43+00:00",
+      "time"                : "2020-01-15 20:11:44",
       "airport_position"    : 
       {
         "altitude"  : "213.0",
@@ -115,7 +125,7 @@
     "departure" :
     {
       "airport"             : "37CN",
-      "time"                : "2020-01-28 20:16:01+00:00",
+      "time"                : "2020-01-28 20:16:01",
       "airport_position"    : 
       {
         "altitude"  : "382.0",
@@ -134,7 +144,7 @@
     "arrival"   :
     {
       "airport"             : "KSNS",
-      "time"                : "2020-01-28 20:41:14+00:00",
+      "time"                : "2020-01-28 20:16:01",
       "airport_position"    : 
       {
         "altitude"  : "85.0",
@@ -158,7 +168,7 @@
     "departure" :
     {
       "airport"             : "KOAR",
-      "time"                : "2020-01-28 23:37:12+00:00",
+      "time"                : "2020-01-28 23:37:12",
       "airport_position"    : 
       {
         "altitude"  : "137.0",
@@ -177,7 +187,7 @@
     "arrival"   :
     {
       "airport"             : "KFCH",
-      "time"                : "2020-01-29 00:01:38+00:00",
+      "time"                : "2020-01-28 23:37:12",
       "airport_position"    : 
       {
         "altitude"  : "279.0",

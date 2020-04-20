@@ -1,0 +1,293 @@
+[
+  {
+    "icao"      : "a1d091",
+    "callsign"  : "DCM4050",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-10-10 00:57:56+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "18900.0",
+        "latitude"  : "38.071676997815146",
+        "longitude" : "-85.14941671620244"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSNA",
+      "time"                : "2019-10-10 05:16:44+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "56.0",
+        "latitude"  : "33.67570114",
+        "longitude" : "-117.86799620000001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "35549.99999999999",
+        "latitude"  : "33.707290649414055",
+        "longitude" : "-117.8491086375957"
+      },
+      "horizontal_distance" : "3917.064458577105",
+      "vertical_distance"   : "35493.99999999999"
+    }
+  },
+  {
+    "icao"      : "a1d091",
+    "callsign"  : "DCM4050",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KSNA",
+      "time"                : "2019-10-15 04:48:13+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "56.0",
+        "latitude"  : "33.67570114",
+        "longitude" : "-117.86799620000001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1250.0",
+        "latitude"  : "33.65908347954184",
+        "longitude" : "-117.8799819946289"
+      },
+      "horizontal_distance" : "2152.4261717883837",
+      "vertical_distance"   : "1194.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KBUR",
+      "time"                : "2019-10-15 05:01:18+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "778.0",
+        "latitude"  : "34.200698852539055",
+        "longitude" : "-118.35900115966795"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "700.0",
+        "latitude"  : "34.20137049788136",
+        "longitude" : "-118.35742950439449"
+      },
+      "horizontal_distance" : "162.89075355183064",
+      "vertical_distance"   : "-78.0"
+    }
+  },
+  {
+    "icao"      : "a1d091",
+    "callsign"  : "DCM4050",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KBUR",
+      "time"                : "2019-10-19 22:28:47+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "778.0",
+        "latitude"  : "34.200698852539055",
+        "longitude" : "-118.35900115966795"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "nan",
+        "latitude"  : "34.187210083007805",
+        "longitude" : "-118.3507242008131"
+      },
+      "horizontal_distance" : "1679.5316745236855",
+      "vertical_distance"   : "nan"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSNA",
+      "time"                : "2019-10-19 22:39:57+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "56.0",
+        "latitude"  : "33.67570114",
+        "longitude" : "-117.86799620000001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "500.0",
+        "latitude"  : "33.701522827148445",
+        "longitude" : "-117.8521354830995"
+      },
+      "horizontal_distance" : "3219.555061157028",
+      "vertical_distance"   : "444.0"
+    }
+  },
+  {
+    "icao"      : "a1d091",
+    "callsign"  : "DCM4050",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-10-22 23:38:54+00:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "22325.000000000004",
+        "latitude"  : "37.98312377929688",
+        "longitude" : "-85.26056817237368"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSNA",
+      "time"                : "2019-10-23 03:52:14+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "56.0",
+        "latitude"  : "33.67570114",
+        "longitude" : "-117.86799620000001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "475.0",
+        "latitude"  : "33.70624089645127",
+        "longitude" : "-117.84948348999019"
+      },
+      "horizontal_distance" : "3797.437523363226",
+      "vertical_distance"   : "419.0"
+    }
+  },
+  {
+    "icao"      : "a1d091",
+    "callsign"  : "DCM4050",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KSNA",
+      "time"                : "2019-10-23 04:32:42+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "56.0",
+        "latitude"  : "33.67570114",
+        "longitude" : "-117.86799620000001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1175.0",
+        "latitude"  : "33.65466101694915",
+        "longitude" : "-117.8810691833496"
+      },
+      "horizontal_distance" : "2629.8653781980693",
+      "vertical_distance"   : "1119.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KBUR",
+      "time"                : "2019-10-23 04:50:01+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "778.0",
+        "latitude"  : "34.200698852539055",
+        "longitude" : "-118.35900115966795"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "700.0",
+        "latitude"  : "34.20034634864936",
+        "longitude" : "-118.3572006225586"
+      },
+      "horizontal_distance" : "170.49479384239714",
+      "vertical_distance"   : "-78.0"
+    }
+  },
+  {
+    "icao"      : "a1d091",
+    "callsign"  : "DCM4050",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KLGB",
+      "time"                : "2019-10-24 14:06:26+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "60.0",
+        "latitude"  : "33.81769943",
+        "longitude" : "-118.15200039999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "750.0",
+        "latitude"  : "33.823379516601555",
+        "longitude" : "-118.1587437220982"
+      },
+      "horizontal_distance" : "886.9458947517138",
+      "vertical_distance"   : "690.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KTEB",
+      "time"                : "2019-10-24 18:44:33+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "40.85010147089999",
+        "longitude" : "-74.060798645"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-25.0",
+        "latitude"  : "40.86689758300781",
+        "longitude" : "-74.05828857421875"
+      },
+      "horizontal_distance" : "1877.1961186318244",
+      "vertical_distance"   : "-34.0"
+    }
+  },
+  {
+    "icao"      : "a1d091",
+    "callsign"  : "DCM4050",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KTEB",
+      "time"                : "2019-10-27 17:22:05+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "40.85010147089999",
+        "longitude" : "-74.060798645"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1350.0",
+        "latitude"  : "40.83467102050781",
+        "longitude" : "-74.08642578125"
+      },
+      "horizontal_distance" : "2758.1516668646877",
+      "vertical_distance"   : "1341.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KLGB",
+      "time"                : "2019-10-27 23:16:17+00:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "60.0",
+        "latitude"  : "33.81769943",
+        "longitude" : "-118.15200039999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "200.0",
+        "latitude"  : "33.81198120117188",
+        "longitude" : "-118.14433817960779"
+      },
+      "horizontal_distance" : "951.5994416033415",
+      "vertical_distance"   : "140.0"
+    }
+  }
+]

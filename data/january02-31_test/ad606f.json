@@ -6,7 +6,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-01-02 18:20:06+00:00",
+      "time"                : "2020-01-02 18:20:06",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -15,8 +15,13 @@
     "arrival"   :
     {
       "airport"             : "KEDC",
-      "time"                : "2020-01-02 19:10:43+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-02 18:20:06",
+      "airport_position"    : 
+      {
+        "altitude"  : "620.0",
+        "latitude"  : "30.397493100000005",
+        "longitude" : "-97.5663935"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -29,8 +34,13 @@
     "departure" :
     {
       "airport"             : "KEDC",
-      "time"                : "2020-01-04 16:07:18+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-04 16:07:18",
+      "airport_position"    : 
+      {
+        "altitude"  : "620.0",
+        "latitude"  : "30.397493100000005",
+        "longitude" : "-97.5663935"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -38,7 +48,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2020-01-04 18:36:34+00:00",
+      "time"                : "2020-01-04 16:07:18",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -52,7 +62,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-01-04 22:55:35+00:00",
+      "time"                : "2020-01-04 22:55:35",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -61,8 +71,13 @@
     "arrival"   :
     {
       "airport"             : "TX61",
-      "time"                : "2020-01-05 00:52:29+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-04 22:55:35",
+      "airport_position"    : 
+      {
+        "altitude"  : "460.0",
+        "latitude"  : "30.3302001953125",
+        "longitude" : "-97.45890045166016"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -75,8 +90,13 @@
     "departure" :
     {
       "airport"             : "KDZB",
-      "time"                : "2020-01-05 17:00:38+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-05 17:00:38",
+      "airport_position"    : 
+      {
+        "altitude"  : "1093.0",
+        "latitude"  : "30.52709961",
+        "longitude" : "-98.35870361"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -84,7 +104,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2020-01-05 19:16:27+00:00",
+      "time"                : "2020-01-05 17:00:38",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -98,7 +118,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-01-05 20:32:03+00:00",
+      "time"                : "2020-01-05 20:32:03",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -107,8 +127,13 @@
     "arrival"   :
     {
       "airport"             : "KAPA",
-      "time"                : "2020-01-05 20:51:16+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-05 20:32:03",
+      "airport_position"    : 
+      {
+        "altitude"  : "5885.0",
+        "latitude"  : "39.57009888",
+        "longitude" : "-104.84899899999999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -121,8 +146,13 @@
     "departure" :
     {
       "airport"             : "KAPA",
-      "time"                : "2020-01-09 16:24:47+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-09 16:24:47",
+      "airport_position"    : 
+      {
+        "altitude"  : "5885.0",
+        "latitude"  : "39.57009888",
+        "longitude" : "-104.84899899999999"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -130,7 +160,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2020-01-09 16:39:43+00:00",
+      "time"                : "2020-01-09 16:24:47",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -144,7 +174,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-01-09 23:07:55+00:00",
+      "time"                : "2020-01-09 23:07:55",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -153,8 +183,13 @@
     "arrival"   :
     {
       "airport"             : "KEDC",
-      "time"                : "2020-01-10 01:01:16+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-09 23:07:55",
+      "airport_position"    : 
+      {
+        "altitude"  : "620.0",
+        "latitude"  : "30.397493100000005",
+        "longitude" : "-97.5663935"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -167,8 +202,13 @@
     "departure" :
     {
       "airport"             : "KEDC",
-      "time"                : "2020-01-10 12:30:31+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-10 12:30:31",
+      "airport_position"    : 
+      {
+        "altitude"  : "620.0",
+        "latitude"  : "30.397493100000005",
+        "longitude" : "-97.5663935"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -176,7 +216,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2020-01-10 14:26:41+00:00",
+      "time"                : "2020-01-10 12:30:31",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -190,7 +230,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-01-10 16:17:53+00:00",
+      "time"                : "2020-01-10 16:17:53",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -199,8 +239,13 @@
     "arrival"   :
     {
       "airport"             : "89TX",
-      "time"                : "2020-01-10 18:06:35+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-10 16:17:53",
+      "airport_position"    : 
+      {
+        "altitude"  : "1242.0",
+        "latitude"  : "30.87929916381836",
+        "longitude" : "-98.41699981689452"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -213,7 +258,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-01-22 20:12:52+00:00",
+      "time"                : "2020-01-22 20:12:52",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -222,8 +267,13 @@
     "arrival"   :
     {
       "airport"             : "KEDC",
-      "time"                : "2020-01-22 22:08:13+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-22 20:12:52",
+      "airport_position"    : 
+      {
+        "altitude"  : "620.0",
+        "latitude"  : "30.397493100000005",
+        "longitude" : "-97.5663935"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -236,8 +286,13 @@
     "departure" :
     {
       "airport"             : "KEDC",
-      "time"                : "2020-01-23 15:04:29+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-23 15:04:29",
+      "airport_position"    : 
+      {
+        "altitude"  : "620.0",
+        "latitude"  : "30.397493100000005",
+        "longitude" : "-97.5663935"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -245,8 +300,13 @@
     "arrival"   :
     {
       "airport"             : "KDAL",
-      "time"                : "2020-01-23 15:52:14+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-23 15:04:29",
+      "airport_position"    : 
+      {
+        "altitude"  : "487.0",
+        "latitude"  : "32.847099",
+        "longitude" : "-96.851799"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -259,8 +319,13 @@
     "departure" :
     {
       "airport"             : "KDAL",
-      "time"                : "2020-01-23 19:43:30+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-23 19:43:30",
+      "airport_position"    : 
+      {
+        "altitude"  : "487.0",
+        "latitude"  : "32.847099",
+        "longitude" : "-96.851799"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -268,8 +333,13 @@
     "arrival"   :
     {
       "airport"             : "TX61",
-      "time"                : "2020-01-23 20:17:10+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-23 19:43:30",
+      "airport_position"    : 
+      {
+        "altitude"  : "460.0",
+        "latitude"  : "30.3302001953125",
+        "longitude" : "-97.45890045166016"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"

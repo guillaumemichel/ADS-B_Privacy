@@ -6,7 +6,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-02-03 13:28:16+00:00",
+      "time"                : "2020-02-03 13:28:16",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -20,7 +20,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2020-02-03 13:42:21+00:00",
+      "time"                : "2020-02-03 13:28:16",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -39,7 +39,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-02-04 19:43:40+00:00",
+      "time"                : "2020-02-04 19:43:40",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -53,7 +53,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2020-02-04 19:53:53+00:00",
+      "time"                : "2020-02-04 19:43:40",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -72,7 +72,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-02-04 21:10:30+00:00",
+      "time"                : "2020-02-04 21:10:30",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -86,7 +86,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2020-02-04 22:18:53+00:00",
+      "time"                : "2020-02-04 21:10:30",
       "airport_position"    : "None",
       "aircraft_position"   : 
       {
@@ -105,7 +105,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-02-23 14:38:35+00:00",
+      "time"                : "2020-02-23 14:38:35",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -114,8 +114,13 @@
     "arrival"   :
     {
       "airport"             : "KPDK",
-      "time"                : "2020-02-23 15:24:38+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-23 14:38:35",
+      "airport_position"    : 
+      {
+        "altitude"  : "1003.0",
+        "latitude"  : "33.8755989075",
+        "longitude" : "-84.3020019531"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -128,8 +133,13 @@
     "departure" :
     {
       "airport"             : "KPDK",
-      "time"                : "2020-02-23 20:57:46+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-23 20:57:46",
+      "airport_position"    : 
+      {
+        "altitude"  : "1003.0",
+        "latitude"  : "33.8755989075",
+        "longitude" : "-84.3020019531"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -137,7 +147,7 @@
     "arrival"   :
     {
       "airport"             : "None",
-      "time"                : "2020-02-23 21:44:23+00:00",
+      "time"                : "2020-02-23 20:57:46",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -151,7 +161,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-02-24 16:38:14+00:00",
+      "time"                : "2020-02-24 16:38:14",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -160,8 +170,13 @@
     "arrival"   :
     {
       "airport"             : "KU42",
-      "time"                : "2020-02-24 20:26:44+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-24 16:38:14",
+      "airport_position"    : 
+      {
+        "altitude"  : "4607.0",
+        "latitude"  : "40.61949921",
+        "longitude" : "-111.99299620000001"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -174,8 +189,13 @@
     "departure" :
     {
       "airport"             : "KSLC",
-      "time"                : "2020-02-25 03:02:24+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-25 03:02:24",
+      "airport_position"    : 
+      {
+        "altitude"  : "4227.0",
+        "latitude"  : "40.78839874267578",
+        "longitude" : "-111.97799682617188"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -183,8 +203,13 @@
     "arrival"   :
     {
       "airport"             : "KPHX",
-      "time"                : "2020-02-25 04:14:00+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-25 03:02:24",
+      "airport_position"    : 
+      {
+        "altitude"  : "1135.0",
+        "latitude"  : "33.43429946899414",
+        "longitude" : "-112.01200103759766"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -197,8 +222,13 @@
     "departure" :
     {
       "airport"             : "KPHX",
-      "time"                : "2020-02-29 14:15:36+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-29 14:15:36",
+      "airport_position"    : 
+      {
+        "altitude"  : "1135.0",
+        "latitude"  : "33.43429946899414",
+        "longitude" : "-112.01200103759766"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
@@ -206,8 +236,13 @@
     "arrival"   :
     {
       "airport"             : "KSLC",
-      "time"                : "2020-02-29 15:24:28+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-02-29 14:15:36",
+      "airport_position"    : 
+      {
+        "altitude"  : "4227.0",
+        "latitude"  : "40.78839874267578",
+        "longitude" : "-111.97799682617188"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"

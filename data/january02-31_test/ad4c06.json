@@ -6,7 +6,7 @@
     "departure" :
     {
       "airport"             : "None",
-      "time"                : "2020-01-03 18:49:52+00:00",
+      "time"                : "2020-01-03 18:49:52",
       "airport_position"    : "None",
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
@@ -15,8 +15,13 @@
     "arrival"   :
     {
       "airport"             : "KDWH",
-      "time"                : "2020-01-03 20:50:51+00:00",
-      "airport_position"    : "None",
+      "time"                : "2020-01-03 18:49:52",
+      "airport_position"    : 
+      {
+        "altitude"  : "152.0",
+        "latitude"  : "30.0618000031",
+        "longitude" : "-95.5528030396"
+      },
       "aircraft_position"   : "None",
       "horizontal_distance" : "None",
       "vertical_distance"   : "None"
