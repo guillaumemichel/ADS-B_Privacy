@@ -1,0 +1,40 @@
+[
+  {
+    "icao"      : "a138e0",
+    "callsign"  : "DCM3767",
+    "nnumber"   : "N178WG",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-07-02 16:20:27",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "13025.0",
+        "latitude"  : "33.497314453125",
+        "longitude" : "-94.41347706074616"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KADS",
+      "time"                : "2019-07-02 16:48:04",
+      "airport_position"    : 
+      {
+        "altitude"  : "644.0",
+        "latitude"  : "32.9686012268",
+        "longitude" : "-96.8364028931"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "724.9999999999999",
+        "latitude"  : "32.98251342773438",
+        "longitude" : "-96.84261474609372"
+      },
+      "horizontal_distance" : "1648.5708045760248",
+      "vertical_distance"   : "80.99999999999989"
+    }
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "icao"      : "a18e6b",
+    "callsign"  : "N2MG",
+    "nnumber"   : "N2MG",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-08-07 11:42:21",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1824.9999999999998",
+        "latitude"  : "33.62663656978284",
+        "longitude" : "-111.9061660766602"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSDL",
+      "time"                : "2019-08-08 00:57:49",
+      "airport_position"    : 
+      {
+        "altitude"  : "1510.0",
+        "latitude"  : "33.622898101806996",
+        "longitude" : "-111.91100311279"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "23025.0",
+        "latitude"  : "38.36393737792969",
+        "longitude" : "-109.2620135368185"
+      },
+      "horizontal_distance" : "577674.7734198158",
+      "vertical_distance"   : "21515.0"
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "icao"      : "3ce0ce",
+    "callsign"  : "DCMLA",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "EDVE",
+      "time"                : "2019-08-31 07:48:34",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "325.0",
+        "latitude"  : "52.31932067871094",
+        "longitude" : "10.55709838867188"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "EDDL",
+      "time"                : "2019-08-31 08:22:21",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "75.0",
+        "latitude"  : "51.28321838378906",
+        "longitude" : "6.760526090054898"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "icao"      : "a4ae8c",
+    "callsign"  : "DCM4000",
+    "nnumber"   : "N400VR",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-09-17 19:08:11",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "20800.0",
+        "latitude"  : "30.97711595438294",
+        "longitude" : "-95.88872680664059"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-09-17 20:49:10",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "17725.0",
+        "latitude"  : "40.00877380371094",
+        "longitude" : "-106.1380615234375"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a4ae8c",
+    "callsign"  : "DCM4000",
+    "nnumber"   : "N400VR",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-09-17 22:41:27",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "29500.0",
+        "latitude"  : "39.86988830566406",
+        "longitude" : "-106.1340199346128"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KEYQ",
+      "time"                : "2019-09-18 00:35:07",
+      "airport_position"    : 
+      {
+        "altitude"  : "137.0",
+        "latitude"  : "29.9352",
+        "longitude" : "-95.63960300000001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "12749.999999999998",
+        "latitude"  : "30.817953853283896",
+        "longitude" : "-96.20079345703122"
+      },
+      "horizontal_distance" : "111742.36756304803",
+      "vertical_distance"   : "12612.999999999998"
+    }
+  },
+  {
+    "icao"      : "a4ae8c",
+    "callsign"  : "DCM4000",
+    "nnumber"   : "N400VR",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-09-27 21:12:10",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2125.0",
+        "latitude"  : "30.050537109375",
+        "longitude" : "-95.6143906537224"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KOPF",
+      "time"                : "2019-09-27 23:06:52",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "25.906999999999996",
+        "longitude" : "-80.278397"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "30800.0",
+        "latitude"  : "29.62985229492188",
+        "longitude" : "-93.7674126258263"
+      },
+      "horizontal_distance" : "1391113.1927838656",
+      "vertical_distance"   : "30792.0"
+    }
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "icao"      : "a174e5",
+    "callsign"  : "DCM6154",
+    "nnumber"   : "N193SE",
+    "departure" :
+    {
+      "airport"             : "KDTS",
+      "time"                : "2019-07-26 11:06:43",
+      "airport_position"    : 
+      {
+        "altitude"  : "23.0",
+        "latitude"  : "30.40010071",
+        "longitude" : "-86.47149658"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "150.0",
+        "latitude"  : "30.39297847424523",
+        "longitude" : "-86.46536865234373"
+      },
+      "horizontal_distance" : "984.9931802647307",
+      "vertical_distance"   : "127.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "30TX",
+      "time"                : "2019-07-26 12:59:55",
+      "airport_position"    : 
+      {
+        "altitude"  : "1463.0",
+        "latitude"  : "30.232361100000002",
+        "longitude" : "-98.6549722"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "35374.99999999999",
+        "latitude"  : "30.77407836914062",
+        "longitude" : "-87.59517894071689"
+      },
+      "horizontal_distance" : "1062957.2973262006",
+      "vertical_distance"   : "33911.99999999999"
+    }
+  },
+  {
+    "icao"      : "a174e5",
+    "callsign"  : "DCM6154",
+    "nnumber"   : "N193SE",
+    "departure" :
+    {
+      "airport"             : "8XS0",
+      "time"                : "2019-07-26 13:53:20",
+      "airport_position"    : 
+      {
+        "altitude"  : "1910.0",
+        "latitude"  : "30.2544",
+        "longitude" : "-99.099701"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5200.0",
+        "latitude"  : "30.30299377441406",
+        "longitude" : "-99.02214499080885"
+      },
+      "horizontal_distance" : "9203.382120893708",
+      "vertical_distance"   : "3290.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-07-26 14:37:35",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "22700.0",
+        "latitude"  : "31.401812019994697",
+        "longitude" : "-104.0628845214844"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a174e5",
+    "callsign"  : "DCM6154",
+    "nnumber"   : "N193SE",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-07-31 13:37:11",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "11050.0",
+        "latitude"  : "32.45407880362818",
+        "longitude" : "-94.93745764907528"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KAPA",
+      "time"                : "2019-07-31 15:31:23",
+      "airport_position"    : 
+      {
+        "altitude"  : "5885.0",
+        "latitude"  : "39.57009888",
+        "longitude" : "-104.84899899999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5849.999999999999",
+        "latitude"  : "39.54142425019862",
+        "longitude" : "-104.84954833984379"
+      },
+      "horizontal_distance" : "3183.982608152121",
+      "vertical_distance"   : "-35.00000000000091"
+    }
+  },
+  {
+    "icao"      : "a174e5",
+    "callsign"  : "DCM6154",
+    "nnumber"   : "N193SE",
+    "departure" :
+    {
+      "airport"             : "KAPA",
+      "time"                : "2019-07-31 16:53:21",
+      "airport_position"    : 
+      {
+        "altitude"  : "5885.0",
+        "latitude"  : "39.57009888",
+        "longitude" : "-104.84899899999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5799.999999999999",
+        "latitude"  : "39.57586669921875",
+        "longitude" : "-104.8511870011039"
+      },
+      "horizontal_distance" : "667.4063728553076",
+      "vertical_distance"   : "-85.00000000000091"
+    },
+    "arrival"   :
+    {
+      "airport"             : "18TE",
+      "time"                : "2019-07-31 18:37:50",
+      "airport_position"    : 
+      {
+        "altitude"  : "390.0",
+        "latitude"  : "32.58520126342773",
+        "longitude" : "-95.06390380859376"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5024.999999999999",
+        "latitude"  : "32.576511189088976",
+        "longitude" : "-94.98790507413904"
+      },
+      "horizontal_distance" : "7200.4988478713585",
+      "vertical_distance"   : "4634.999999999999"
+    }
+  }
+]

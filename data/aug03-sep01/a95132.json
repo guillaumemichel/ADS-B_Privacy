@@ -1,0 +1,131 @@
+[
+  {
+    "icao"      : "a95132",
+    "callsign"  : "DCM2320",
+    "nnumber"   : "N7PS",
+    "departure" :
+    {
+      "airport"             : "KGVT",
+      "time"                : "2019-08-31 12:31:43",
+      "airport_position"    : 
+      {
+        "altitude"  : "535.0",
+        "latitude"  : "33.0677986145",
+        "longitude" : "-96.0652999878"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2250.0000000000005",
+        "latitude"  : "33.106338500976555",
+        "longitude" : "-96.07961425781248"
+      },
+      "horizontal_distance" : "4478.3529354865095",
+      "vertical_distance"   : "1715.0000000000005"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KLAX",
+      "time"                : "2019-08-31 15:14:22",
+      "airport_position"    : 
+      {
+        "altitude"  : "125.0",
+        "latitude"  : "33.94250107",
+        "longitude" : "-118.40799709999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "75.0",
+        "latitude"  : "33.937512413930094",
+        "longitude" : "-118.38134765625"
+      },
+      "horizontal_distance" : "2525.1084383295474",
+      "vertical_distance"   : "-50.0"
+    }
+  },
+  {
+    "icao"      : "a95132",
+    "callsign"  : "DCM2320",
+    "nnumber"   : "N7PS",
+    "departure" :
+    {
+      "airport"             : "KLAX",
+      "time"                : "2019-08-31 15:58:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "125.0",
+        "latitude"  : "33.94250107",
+        "longitude" : "-118.40799709999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "250.0",
+        "latitude"  : "33.9375589661679",
+        "longitude" : "-118.4026336669922"
+      },
+      "horizontal_distance" : "739.1692229294748",
+      "vertical_distance"   : "125.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDAL",
+      "time"                : "2019-08-31 18:46:29",
+      "airport_position"    : 
+      {
+        "altitude"  : "487.0",
+        "latitude"  : "32.847099",
+        "longitude" : "-96.851799"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "724.9999999999999",
+        "latitude"  : "32.86715698242188",
+        "longitude" : "-96.88189086914059"
+      },
+      "horizontal_distance" : "3589.163023203686",
+      "vertical_distance"   : "237.9999999999999"
+    }
+  },
+  {
+    "icao"      : "a95132",
+    "callsign"  : "DCM2320",
+    "nnumber"   : "N7PS",
+    "departure" :
+    {
+      "airport"             : "KDAL",
+      "time"                : "2019-09-01 20:07:22",
+      "airport_position"    : 
+      {
+        "altitude"  : "487.0",
+        "latitude"  : "32.847099",
+        "longitude" : "-96.851799"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1550.0",
+        "latitude"  : "32.816299438476555",
+        "longitude" : "-96.82234497070313"
+      },
+      "horizontal_distance" : "4390.046986749297",
+      "vertical_distance"   : "1063.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KLAX",
+      "time"                : "2019-09-01 22:42:44",
+      "airport_position"    : 
+      {
+        "altitude"  : "125.0",
+        "latitude"  : "33.94250107",
+        "longitude" : "-118.40799709999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "275.00000000000006",
+        "latitude"  : "33.938003540039055",
+        "longitude" : "-118.3763402822066"
+      },
+      "horizontal_distance" : "2968.868270655925",
+      "vertical_distance"   : "150.00000000000006"
+    }
+  }
+]

@@ -162,6 +162,9 @@ class Flights:
     def append(self, flight):
         self.elements.append(flight)
 
+    def extend(self, others):
+        self.elements.extend(others.elements)
+
     def concat(self, flights):
         self.elements = self.elements + flights.elements
 

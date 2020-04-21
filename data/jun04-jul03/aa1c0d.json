@@ -1,0 +1,131 @@
+[
+  {
+    "icao"      : "aa1c0d",
+    "callsign"  : "DCM6474",
+    "nnumber"   : "N750WR",
+    "departure" :
+    {
+      "airport"             : "KDTO",
+      "time"                : "2019-06-21 13:41:36",
+      "airport_position"    : 
+      {
+        "altitude"  : "642.0",
+        "latitude"  : "33.2006988525",
+        "longitude" : "-97.19799804690001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1200.0",
+        "latitude"  : "33.194492146120226",
+        "longitude" : "-97.19834308235012"
+      },
+      "horizontal_distance" : "689.1246733369181",
+      "vertical_distance"   : "558.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KAPA",
+      "time"                : "2019-06-21 15:01:15",
+      "airport_position"    : 
+      {
+        "altitude"  : "5885.0",
+        "latitude"  : "39.57009888",
+        "longitude" : "-104.84899899999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-600.0",
+        "latitude"  : "39.593981726694906",
+        "longitude" : "-104.85198974609379"
+      },
+      "horizontal_distance" : "2664.0512074821017",
+      "vertical_distance"   : "-6485.0"
+    }
+  },
+  {
+    "icao"      : "aa1c0d",
+    "callsign"  : "DCM6474",
+    "nnumber"   : "N750WR",
+    "departure" :
+    {
+      "airport"             : "KAPA",
+      "time"                : "2019-06-21 20:23:39",
+      "airport_position"    : 
+      {
+        "altitude"  : "5885.0",
+        "latitude"  : "39.57009888",
+        "longitude" : "-104.84899899999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5975.0",
+        "latitude"  : "39.57083129882812",
+        "longitude" : "-104.8508884595788"
+      },
+      "horizontal_distance" : "181.58089153249057",
+      "vertical_distance"   : "90.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KLAS",
+      "time"                : "2019-06-21 21:50:13",
+      "airport_position"    : 
+      {
+        "altitude"  : "2181.0",
+        "latitude"  : "36.08010101",
+        "longitude" : "-115.15200039999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "35999.99999999999",
+        "latitude"  : "38.10966362387447",
+        "longitude" : "-109.1064187754755"
+      },
+      "horizontal_distance" : "582592.7513243177",
+      "vertical_distance"   : "33818.99999999999"
+    }
+  },
+  {
+    "icao"      : "aa1c0d",
+    "callsign"  : "DCM6474",
+    "nnumber"   : "N750WR",
+    "departure" :
+    {
+      "airport"             : "KLAS",
+      "time"                : "2019-06-23 14:17:04",
+      "airport_position"    : 
+      {
+        "altitude"  : "2181.0",
+        "latitude"  : "36.08010101",
+        "longitude" : "-115.15200039999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2050.0",
+        "latitude"  : "36.08505249023438",
+        "longitude" : "-115.16481399536129"
+      },
+      "horizontal_distance" : "1278.2188293328895",
+      "vertical_distance"   : "-131.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "4TX8",
+      "time"                : "2019-06-23 16:09:57",
+      "airport_position"    : 
+      {
+        "altitude"  : "705.0",
+        "latitude"  : "33.24869918823242",
+        "longitude" : "-97.2238998413086"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1050.0",
+        "latitude"  : "33.22647353350106",
+        "longitude" : "-97.19744623923788"
+      },
+      "horizontal_distance" : "3486.4220353760256",
+      "vertical_distance"   : "345.0"
+    }
+  }
+]

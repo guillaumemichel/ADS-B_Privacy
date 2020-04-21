@@ -2,6 +2,7 @@ from flights import *
 import math
 from traffic.core import Traffic
 from traffic.data import airports
+from datetime import datetime
 
 """
 Couple of useful function about flights, airports, coordinates etc.
@@ -43,10 +44,12 @@ def getAicraftPosition(flight, prop):
     return Position(alt, lat, lon)
 
 def getFlightAirports(airportsList, flight, row):
+    dep_time = datetime.strptime(str(row['firstSeen'])[:19], time_format)
+    arr_time = datetime.strptime(str(row['lastSeen'])[:19], time_format)
 
     if airportsList is None and flight is None:
-        dep = TakeoffLanding(airport=row['estDepartureAirport'], time=row['firstSeen'], airport_position=None, aircraft_position=None)
-        arr = TakeoffLanding(airport=row['estArrivalAirport'], time=row['lastSeen'], airport_position=None, aircraft_position=None)
+        dep = TakeoffLanding(airport=row['estDepartureAirport'], time=dep_time, airport_position=None, aircraft_position=None)
+        arr = TakeoffLanding(airport=row['estArrivalAirport'], time=arr_time, airport_position=None, aircraft_position=None)
         return dep, arr
 
 
@@ -56,9 +59,9 @@ def getFlightAirports(airportsList, flight, row):
         dep_ap_pos = getAirportPosition(airportsList, row['estDepartureAirport'])
     dep_ac_pos = getAicraftPosition(flight, 0)
     if dep_ac_pos != None:
-        dep = TakeoffLanding(airport=row['estDepartureAirport'], time=row['firstSeen'], airport_position=dep_ap_pos, aircraft_position=dep_ac_pos)
+        dep = TakeoffLanding(airport=row['estDepartureAirport'], time=dep_time, airport_position=dep_ap_pos, aircraft_position=dep_ac_pos)
     else:
-        dep = TakeoffLanding(airport=row['estDepartureAirport'], time=row['firstSeen'], airport_position=dep_ap_pos, aircraft_position=None)
+        dep = TakeoffLanding(airport=row['estDepartureAirport'], time=dep_time, airport_position=dep_ap_pos, aircraft_position=None)
 
     if row['estArrivalAirport'] is None:
         arr_ap_pos = None
@@ -66,9 +69,9 @@ def getFlightAirports(airportsList, flight, row):
         arr_ap_pos = getAirportPosition(airportsList, row['estArrivalAirport'])
     arr_ac_pos = getAicraftPosition(flight, 1)
     if arr_ac_pos != None:
-        arr = TakeoffLanding(airport=row['estArrivalAirport'], time=row['lastSeen'], airport_position=arr_ap_pos, aircraft_position=arr_ac_pos)
+        arr = TakeoffLanding(airport=row['estArrivalAirport'], time=arr_time, airport_position=arr_ap_pos, aircraft_position=arr_ac_pos)
     else:
-        arr = TakeoffLanding(airport=row['estArrivalAirport'], time=row['lastSeen'], airport_position=arr_ap_pos, aircraft_position=None)
+        arr = TakeoffLanding(airport=row['estArrivalAirport'], time=arr_time, airport_position=arr_ap_pos, aircraft_position=None)
 
     return dep, arr
 
@@ -88,7 +91,6 @@ def parseAirportsICAO():
     icaos = list()
 
     while True:
-    #for i in range(10):
         start = txt.find(':"')
         if txt.find('}') < start:
             break

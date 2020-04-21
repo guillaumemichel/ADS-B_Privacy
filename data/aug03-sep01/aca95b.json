@@ -1,0 +1,40 @@
+[
+  {
+    "icao"      : "aca95b",
+    "callsign"  : "DCM4080",
+    "nnumber"   : "N915BD",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-08-08 13:09:39",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "17150.000000000004",
+        "latitude"  : "34.41197282176907",
+        "longitude" : "-92.63689041137695"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSAT",
+      "time"                : "2019-08-08 14:09:32",
+      "airport_position"    : 
+      {
+        "altitude"  : "809.0",
+        "latitude"  : "29.533700942993164",
+        "longitude" : "-98.46980285644531"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1774.9999999999998",
+        "latitude"  : "29.57858276367188",
+        "longitude" : "-98.53162325345552"
+      },
+      "horizontal_distance" : "7787.437006870514",
+      "vertical_distance"   : "965.9999999999998"
+    }
+  }
+]

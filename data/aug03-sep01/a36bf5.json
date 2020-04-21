@@ -1,0 +1,40 @@
+[
+  {
+    "icao"      : "a36bf5",
+    "callsign"  : "DCM6099",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KHND",
+      "time"                : "2019-08-10 20:55:04",
+      "airport_position"    : 
+      {
+        "altitude"  : "2492.0",
+        "latitude"  : "35.9728012085",
+        "longitude" : "-115.134002686"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "3449.9999999999995",
+        "latitude"  : "35.94039916992188",
+        "longitude" : "-115.1348876953125"
+      },
+      "horizontal_distance" : "3596.1581375982246",
+      "vertical_distance"   : "957.9999999999995"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-08-10 21:17:59",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "12024.999999999998",
+        "latitude"  : "35.31802368164062",
+        "longitude" : "-115.5585479736328"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  }
+]

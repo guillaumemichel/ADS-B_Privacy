@@ -1,0 +1,164 @@
+[
+  {
+    "icao"      : "a46a32",
+    "callsign"  : "DCM2028",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "11TX",
+      "time"                : "2019-06-25 18:15:47",
+      "airport_position"    : 
+      {
+        "altitude"  : "840.0",
+        "latitude"  : "33.66680145263672",
+        "longitude" : "-96.69059753417969"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2300.0000000000005",
+        "latitude"  : "33.70513916015625",
+        "longitude" : "-96.72217544244263"
+      },
+      "horizontal_distance" : "5162.870858194925",
+      "vertical_distance"   : "1460.0000000000005"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-06-25 18:52:48",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2500.0",
+        "latitude"  : "33.79627292439089",
+        "longitude" : "-96.771240234375"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a46a32",
+    "callsign"  : "DCM2028",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KPWA",
+      "time"                : "2019-06-26 15:50:32",
+      "airport_position"    : 
+      {
+        "altitude"  : "1300.0",
+        "latitude"  : "35.53419876",
+        "longitude" : "-97.64710236"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2200.0000000000005",
+        "latitude"  : "35.573590812036535",
+        "longitude" : "-97.6190185546875"
+      },
+      "horizontal_distance" : "5058.232186483075",
+      "vertical_distance"   : "900.0000000000005"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSUD",
+      "time"                : "2019-06-26 16:05:53",
+      "airport_position"    : 
+      {
+        "altitude"  : "900.0",
+        "latitude"  : "35.789600372314",
+        "longitude" : "-96.65570068359399"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "899.9999999999999",
+        "latitude"  : "35.838100627317274",
+        "longitude" : "-96.7200096617353"
+      },
+      "horizontal_distance" : "7920.713559906134",
+      "vertical_distance"   : "-1.1368683772161603e-13"
+    }
+  },
+  {
+    "icao"      : "a46a32",
+    "callsign"  : "DCM2028",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-06-26 18:29:30",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "8400.0",
+        "latitude"  : "35.78670695676642",
+        "longitude" : "-96.74765079579457"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KPWA",
+      "time"                : "2019-06-26 18:42:53",
+      "airport_position"    : 
+      {
+        "altitude"  : "1300.0",
+        "latitude"  : "35.53419876",
+        "longitude" : "-97.64710236"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2500.0",
+        "latitude"  : "35.57522014036017",
+        "longitude" : "-97.58553362907247"
+      },
+      "horizontal_distance" : "7202.563749512273",
+      "vertical_distance"   : "1200.0"
+    }
+  },
+  {
+    "icao"      : "a46a32",
+    "callsign"  : "DCM2028",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KTIK",
+      "time"                : "2019-06-26 20:21:02",
+      "airport_position"    : 
+      {
+        "altitude"  : "1291.0",
+        "latitude"  : "35.414699554443004",
+        "longitude" : "-97.386596679688"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "6000.0",
+        "latitude"  : "35.3709954730535",
+        "longitude" : "-97.48262445977394"
+      },
+      "horizontal_distance" : "9981.05258905677",
+      "vertical_distance"   : "4709.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "TA80",
+      "time"                : "2019-06-26 21:15:01",
+      "airport_position"    : 
+      {
+        "altitude"  : "740.0",
+        "latitude"  : "33.893199920654304",
+        "longitude" : "-96.9281005859375"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "8200.0",
+        "latitude"  : "35.24789428710938",
+        "longitude" : "-97.42103576660156"
+      },
+      "horizontal_distance" : "156939.02781079986",
+      "vertical_distance"   : "7460.0"
+    }
+  }
+]

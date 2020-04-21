@@ -1,0 +1,40 @@
+[
+  {
+    "icao"      : "a6592c",
+    "callsign"  : "DCM3182",
+    "nnumber"   : "N508RN",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-07-28 18:23:21",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "19025.000000000004",
+        "latitude"  : "45.96670532226562",
+        "longitude" : "-120.61494408584221"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KMHR",
+      "time"                : "2019-07-28 19:35:04",
+      "airport_position"    : 
+      {
+        "altitude"  : "98.0",
+        "latitude"  : "38.55390167",
+        "longitude" : "-121.29799650000001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "35000.0",
+        "latitude"  : "43.39068603515625",
+        "longitude" : "-120.53388018940771"
+      },
+      "horizontal_distance" : "540971.0582871044",
+      "vertical_distance"   : "34902.0"
+    }
+  }
+]

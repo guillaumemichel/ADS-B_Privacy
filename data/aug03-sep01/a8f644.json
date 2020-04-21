@@ -1,0 +1,35 @@
+[
+  {
+    "icao"      : "a8f644",
+    "callsign"  : "DCM2777",
+    "nnumber"   : "N677FP",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-08-11 07:53:56",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "21675.0",
+        "latitude"  : "35.78335519564354",
+        "longitude" : "140.0444193089262"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "RKSS",
+      "time"                : "2019-08-11 09:44:15",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "31474.999999999996",
+        "latitude"  : "35.912863521252646",
+        "longitude" : "139.451449779754"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  }
+]

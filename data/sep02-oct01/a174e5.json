@@ -1,0 +1,116 @@
+[
+  {
+    "icao"      : "a174e5",
+    "callsign"  : "DCM6154",
+    "nnumber"   : "N193SE",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-09-05 23:58:25",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "24025.000000000004",
+        "latitude"  : "30.830848823159428",
+        "longitude" : "-87.98692016601562"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDTS",
+      "time"                : "2019-09-06 00:18:37",
+      "airport_position"    : 
+      {
+        "altitude"  : "23.0",
+        "latitude"  : "30.40010071",
+        "longitude" : "-86.47149658"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "25.0",
+        "latitude"  : "30.40352255611096",
+        "longitude" : "-86.4762588500977"
+      },
+      "horizontal_distance" : "594.4137967789021",
+      "vertical_distance"   : "2.0"
+    }
+  },
+  {
+    "icao"      : "a174e5",
+    "callsign"  : "DCM6154",
+    "nnumber"   : "N193SE",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-09-14 17:42:37",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "34974.99999999999",
+        "latitude"  : "31.179338875463447",
+        "longitude" : "-88.83726196289065"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDTS",
+      "time"                : "2019-09-14 18:09:22",
+      "airport_position"    : 
+      {
+        "altitude"  : "23.0",
+        "latitude"  : "30.40010071",
+        "longitude" : "-86.47149658"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-125.0",
+        "latitude"  : "30.40337126133806",
+        "longitude" : "-86.47645111083982"
+      },
+      "horizontal_distance" : "598.4442618637796",
+      "vertical_distance"   : "-148.0"
+    }
+  },
+  {
+    "icao"      : "a174e5",
+    "callsign"  : "DCM6154",
+    "nnumber"   : "N193SE",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-09-28 21:22:12",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "26325.000000000004",
+        "latitude"  : "31.067334191273826",
+        "longitude" : "-88.19538574218753"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDTS",
+      "time"                : "2019-09-28 21:43:28",
+      "airport_position"    : 
+      {
+        "altitude"  : "23.0",
+        "latitude"  : "30.40010071",
+        "longitude" : "-86.47149658"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-100.0",
+        "latitude"  : "30.40338289939751",
+        "longitude" : "-86.4761764526367"
+      },
+      "horizontal_distance" : "578.4783703966614",
+      "vertical_distance"   : "-123.0"
+    }
+  }
+]

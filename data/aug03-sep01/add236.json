@@ -1,0 +1,40 @@
+[
+  {
+    "icao"      : "add236",
+    "callsign"  : "DCM4068",
+    "nnumber"   : "N99VS",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-08-26 19:08:28",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "10100.0",
+        "latitude"  : "39.66739460573358",
+        "longitude" : "-84.6214599609375"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KPDK",
+      "time"                : "2019-08-26 20:06:48",
+      "airport_position"    : 
+      {
+        "altitude"  : "1003.0",
+        "latitude"  : "33.8755989075",
+        "longitude" : "-84.3020019531"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1200.0",
+        "latitude"  : "33.89463780289989",
+        "longitude" : "-84.29237365722656"
+      },
+      "horizontal_distance" : "2291.9540366418323",
+      "vertical_distance"   : "197.0"
+    }
+  }
+]

@@ -1,0 +1,544 @@
+[
+  {
+    "icao"      : "a789fd",
+    "callsign"  : "DCM2627",
+    "nnumber"   : "N585RL",
+    "departure" :
+    {
+      "airport"             : "KROC",
+      "time"                : "2019-07-18 11:57:29",
+      "airport_position"    : 
+      {
+        "altitude"  : "559.0",
+        "latitude"  : "43.118900299072266",
+        "longitude" : "-77.67240142822266"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "4900.0",
+        "latitude"  : "43.09757995605469",
+        "longitude" : "-77.5630933184956"
+      },
+      "horizontal_distance" : "9207.300172984673",
+      "vertical_distance"   : "4341.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-07-18 13:02:07",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "27025.000000000004",
+        "latitude"  : "37.70284361758475",
+        "longitude" : "-84.84657619310462"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a789fd",
+    "callsign"  : "DCM2627",
+    "nnumber"   : "N585RL",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-07-18 21:17:30",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "40350.0",
+        "latitude"  : "37.55360412597656",
+        "longitude" : "-84.11413314494679"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "20NY",
+      "time"                : "2019-07-18 22:14:25",
+      "airport_position"    : 
+      {
+        "altitude"  : "891.0",
+        "latitude"  : "43.0088996887207",
+        "longitude" : "-78.04309844970703"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2700.0",
+        "latitude"  : "43.03976440429688",
+        "longitude" : "-77.74717818859013"
+      },
+      "horizontal_distance" : "24362.58808055954",
+      "vertical_distance"   : "1809.0"
+    }
+  },
+  {
+    "icao"      : "a789fd",
+    "callsign"  : "DCM2627",
+    "nnumber"   : "N585RL",
+    "departure" :
+    {
+      "airport"             : "KROC",
+      "time"                : "2019-07-22 11:09:36",
+      "airport_position"    : 
+      {
+        "altitude"  : "559.0",
+        "latitude"  : "43.118900299072266",
+        "longitude" : "-77.67240142822266"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1200.0",
+        "latitude"  : "43.1220703125",
+        "longitude" : "-77.68624239189677"
+      },
+      "horizontal_distance" : "1180.1685965334877",
+      "vertical_distance"   : "641.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-07-22 12:33:40",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "13999.999999999998",
+        "latitude"  : "33.31026756157309",
+        "longitude" : "-80.70562245894452"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a789fd",
+    "callsign"  : "DCM2627",
+    "nnumber"   : "N585RL",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-07-22 15:43:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "25450.000000000004",
+        "latitude"  : "33.715691000728285",
+        "longitude" : "-80.789794921875"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-07-22 16:06:13",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "15325.0",
+        "latitude"  : "35.42657884500795",
+        "longitude" : "-83.38850954745675"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a789fd",
+    "callsign"  : "DCM2627",
+    "nnumber"   : "N585RL",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-07-22 23:34:52",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "30525.0",
+        "latitude"  : "37.46305304058527",
+        "longitude" : "-85.66798334536344"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KROC",
+      "time"                : "2019-07-23 00:37:18",
+      "airport_position"    : 
+      {
+        "altitude"  : "559.0",
+        "latitude"  : "43.118900299072266",
+        "longitude" : "-77.67240142822266"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1124.9999999999998",
+        "latitude"  : "43.08772717492055",
+        "longitude" : "-77.70381382533482"
+      },
+      "horizontal_distance" : "4304.917804139552",
+      "vertical_distance"   : "565.9999999999998"
+    }
+  },
+  {
+    "icao"      : "a789fd",
+    "callsign"  : "DCM2627",
+    "nnumber"   : "N585RL",
+    "departure" :
+    {
+      "airport"             : "KROC",
+      "time"                : "2019-07-24 11:14:05",
+      "airport_position"    : 
+      {
+        "altitude"  : "559.0",
+        "latitude"  : "43.118900299072266",
+        "longitude" : "-77.67240142822266"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1500.0",
+        "latitude"  : "43.12147521972656",
+        "longitude" : "-77.69984755405159"
+      },
+      "horizontal_distance" : "2251.860204998289",
+      "vertical_distance"   : "941.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-07-24 12:18:10",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "7600.0",
+        "latitude"  : "36.30610656738281",
+        "longitude" : "-80.09977340698242"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a789fd",
+    "callsign"  : "DCM2627",
+    "nnumber"   : "N585RL",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-07-24 17:02:16",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "12375.0",
+        "latitude"  : "36.258281125860705",
+        "longitude" : "-80.03037472988694"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KROC",
+      "time"                : "2019-07-24 18:00:35",
+      "airport_position"    : 
+      {
+        "altitude"  : "559.0",
+        "latitude"  : "43.118900299072266",
+        "longitude" : "-77.67240142822266"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "899.9999999999999",
+        "latitude"  : "43.08705139160156",
+        "longitude" : "-77.70393549009812"
+      },
+      "horizontal_distance" : "4371.358572069176",
+      "vertical_distance"   : "340.9999999999999"
+    }
+  },
+  {
+    "icao"      : "a789fd",
+    "callsign"  : "DCM2627",
+    "nnumber"   : "N585RL",
+    "departure" :
+    {
+      "airport"             : "KROC",
+      "time"                : "2019-07-25 11:57:16",
+      "airport_position"    : 
+      {
+        "altitude"  : "559.0",
+        "latitude"  : "43.118900299072266",
+        "longitude" : "-77.67240142822266"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1550.0",
+        "latitude"  : "43.12074279785156",
+        "longitude" : "-77.7052129701126"
+      },
+      "horizontal_distance" : "2678.114070020278",
+      "vertical_distance"   : "991.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-07-25 12:18:56",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "14624.999999999998",
+        "latitude"  : "42.41644390558792",
+        "longitude" : "-73.98059223973473"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a789fd",
+    "callsign"  : "DCM2627",
+    "nnumber"   : "N585RL",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-07-25 18:24:02",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "9350.0",
+        "latitude"  : "41.31189895888507",
+        "longitude" : "-72.14247270063919"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-07-25 20:10:52",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "15825.0",
+        "latitude"  : "35.81515502929688",
+        "longitude" : "-84.55032348632812"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a789fd",
+    "callsign"  : "DCM2627",
+    "nnumber"   : "N585RL",
+    "departure" :
+    {
+      "airport"             : "KDCU",
+      "time"                : "2019-07-25 23:13:58",
+      "airport_position"    : 
+      {
+        "altitude"  : "592.0",
+        "latitude"  : "34.6526985168",
+        "longitude" : "-86.94539642330002"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "3874.9999999999995",
+        "latitude"  : "34.614428504038656",
+        "longitude" : "-86.89962387084961"
+      },
+      "horizontal_distance" : "5969.829763923371",
+      "vertical_distance"   : "3282.9999999999995"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KROC",
+      "time"                : "2019-07-26 01:26:52",
+      "airport_position"    : 
+      {
+        "altitude"  : "559.0",
+        "latitude"  : "43.118900299072266",
+        "longitude" : "-77.67240142822266"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "48400.0",
+        "latitude"  : "35.01165874933793",
+        "longitude" : "-86.10815048217773"
+      },
+      "horizontal_distance" : "1157612.423511853",
+      "vertical_distance"   : "47841.0"
+    }
+  },
+  {
+    "icao"      : "a789fd",
+    "callsign"  : "DCM2627",
+    "nnumber"   : "N585RL",
+    "departure" :
+    {
+      "airport"             : "KROC",
+      "time"                : "2019-07-29 16:53:45",
+      "airport_position"    : 
+      {
+        "altitude"  : "559.0",
+        "latitude"  : "43.118900299072266",
+        "longitude" : "-77.67240142822266"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1350.0",
+        "latitude"  : "43.12174987792969",
+        "longitude" : "-77.69454601199124"
+      },
+      "horizontal_distance" : "1829.7573176765507",
+      "vertical_distance"   : "791.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KIAD",
+      "time"                : "2019-07-29 17:42:28",
+      "airport_position"    : 
+      {
+        "altitude"  : "312.0",
+        "latitude"  : "38.94449997",
+        "longitude" : "-77.45580292"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "175.0",
+        "latitude"  : "38.9688835144043",
+        "longitude" : "-77.45424021845281"
+      },
+      "horizontal_distance" : "2710.3176703462973",
+      "vertical_distance"   : "-137.0"
+    }
+  },
+  {
+    "icao"      : "a789fd",
+    "callsign"  : "DCM2627",
+    "nnumber"   : "N585RL",
+    "departure" :
+    {
+      "airport"             : "KIAD",
+      "time"                : "2019-07-29 18:20:43",
+      "airport_position"    : 
+      {
+        "altitude"  : "312.0",
+        "latitude"  : "38.94449997",
+        "longitude" : "-77.45580292"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "nan",
+        "latitude"  : "38.97047424316406",
+        "longitude" : "-77.45510598887569"
+      },
+      "horizontal_distance" : "2884.1580645338818",
+      "vertical_distance"   : "nan"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KROC",
+      "time"                : "2019-07-29 19:02:53",
+      "airport_position"    : 
+      {
+        "altitude"  : "559.0",
+        "latitude"  : "43.118900299072266",
+        "longitude" : "-77.67240142822266"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "825.0",
+        "latitude"  : "43.12367248535156",
+        "longitude" : "-77.64274419740185"
+      },
+      "horizontal_distance" : "2471.0609873648173",
+      "vertical_distance"   : "266.0"
+    }
+  },
+  {
+    "icao"      : "a789fd",
+    "callsign"  : "DCM2627",
+    "nnumber"   : "N585RL",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-07-31 15:23:43",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "43000.0",
+        "latitude"  : "42.23291015625",
+        "longitude" : "-95.74659867720169"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KIAD",
+      "time"                : "2019-07-31 17:28:28",
+      "airport_position"    : 
+      {
+        "altitude"  : "312.0",
+        "latitude"  : "38.94449997",
+        "longitude" : "-77.45580292"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "125.0",
+        "latitude"  : "38.96951293945312",
+        "longitude" : "-77.45377747908884"
+      },
+      "horizontal_distance" : "2782.3507389734077",
+      "vertical_distance"   : "-187.0"
+    }
+  },
+  {
+    "icao"      : "a789fd",
+    "callsign"  : "DCM2627",
+    "nnumber"   : "N585RL",
+    "departure" :
+    {
+      "airport"             : "KIAD",
+      "time"                : "2019-07-31 17:58:36",
+      "airport_position"    : 
+      {
+        "altitude"  : "312.0",
+        "latitude"  : "38.94449997",
+        "longitude" : "-77.45580292"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "nan",
+        "latitude"  : "38.9704726914228",
+        "longitude" : "-77.45539855957031"
+      },
+      "horizontal_distance" : "2883.5661140820885",
+      "vertical_distance"   : "nan"
+    },
+    "arrival"   :
+    {
+      "airport"             : "52NY",
+      "time"                : "2019-07-31 18:40:58",
+      "airport_position"    : 
+      {
+        "altitude"  : "804.0",
+        "latitude"  : "42.93059921264648",
+        "longitude" : "-77.64420318603516"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "78100.0",
+        "latitude"  : "43.08769226074219",
+        "longitude" : "-77.70380774209666"
+      },
+      "horizontal_distance" : "18115.857175759334",
+      "vertical_distance"   : "77296.0"
+    }
+  }
+]

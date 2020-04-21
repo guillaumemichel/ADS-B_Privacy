@@ -1,0 +1,225 @@
+[
+  {
+    "icao"      : "a37226",
+    "callsign"  : "DCM3901",
+    "nnumber"   : "N321BF",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-09-09 13:37:34",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "13725.0",
+        "latitude"  : "30.30239868164062",
+        "longitude" : "-87.70617316750919"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDTS",
+      "time"                : "2019-09-09 13:51:16",
+      "airport_position"    : 
+      {
+        "altitude"  : "23.0",
+        "latitude"  : "30.40010071",
+        "longitude" : "-86.47149658"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-150.0",
+        "latitude"  : "30.4008807166148",
+        "longitude" : "-86.47222137451172"
+      },
+      "horizontal_distance" : "111.03320986583523",
+      "vertical_distance"   : "-173.0"
+    }
+  },
+  {
+    "icao"      : "a37226",
+    "callsign"  : "DCM3901",
+    "nnumber"   : "N321BF",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-09-09 14:40:51",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "nan",
+        "latitude"  : "30.40525662696967",
+        "longitude" : "-86.47656097412106"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-09-09 15:13:29",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "19275.0",
+        "latitude"  : "30.70051574707031",
+        "longitude" : "-88.8874188591452"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a37226",
+    "callsign"  : "DCM3901",
+    "nnumber"   : "N321BF",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-09-10 23:18:06",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "21000.0",
+        "latitude"  : "30.44380187988281",
+        "longitude" : "-88.93642649931064"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHRT",
+      "time"                : "2019-09-10 23:43:29",
+      "airport_position"    : 
+      {
+        "altitude"  : "38.0",
+        "latitude"  : "30.42779922485352",
+        "longitude" : "-86.68930053710938"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-175.0",
+        "latitude"  : "30.398704399496822",
+        "longitude" : "-86.4712738037109"
+      },
+      "horizontal_distance" : "21195.72934244159",
+      "vertical_distance"   : "-213.0"
+    }
+  },
+  {
+    "icao"      : "a37226",
+    "callsign"  : "DCM3901",
+    "nnumber"   : "N321BF",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-09-17 12:43:10",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "24000.000000000004",
+        "latitude"  : "32.174148559570305",
+        "longitude" : "-95.14193115234372"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDFW",
+      "time"                : "2019-09-17 13:17:12",
+      "airport_position"    : 
+      {
+        "altitude"  : "607.0",
+        "latitude"  : "32.896801",
+        "longitude" : "-97.038002"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "600.0",
+        "latitude"  : "32.922580525026476",
+        "longitude" : "-97.02598104671557"
+      },
+      "horizontal_distance" : "3072.230671100905",
+      "vertical_distance"   : "-7.0"
+    }
+  },
+  {
+    "icao"      : "a37226",
+    "callsign"  : "DCM3901",
+    "nnumber"   : "N321BF",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-09-20 13:26:26",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "21000.0",
+        "latitude"  : "31.01545715332031",
+        "longitude" : "-88.37822409237133"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KEGI",
+      "time"                : "2019-09-20 13:48:10",
+      "airport_position"    : 
+      {
+        "altitude"  : "191.0",
+        "latitude"  : "30.65040016",
+        "longitude" : "-86.52290344"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-200.0",
+        "latitude"  : "30.39875793457031",
+        "longitude" : "-86.47030549890854"
+      },
+      "horizontal_distance" : "28350.440376822145",
+      "vertical_distance"   : "-391.0"
+    }
+  },
+  {
+    "icao"      : "a37226",
+    "callsign"  : "DCM3901",
+    "nnumber"   : "N321BF",
+    "departure" :
+    {
+      "airport"             : "KDTS",
+      "time"                : "2019-09-22 23:05:23",
+      "airport_position"    : 
+      {
+        "altitude"  : "23.0",
+        "latitude"  : "30.40010071",
+        "longitude" : "-86.47149658"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "nan",
+        "latitude"  : "30.40491485595703",
+        "longitude" : "-86.47690268123854"
+      },
+      "horizontal_distance" : "744.7849982760366",
+      "vertical_distance"   : "nan"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-09-22 23:36:19",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "20000.0",
+        "latitude"  : "30.481148412672145",
+        "longitude" : "-89.08115844726562"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  }
+]

@@ -19,9 +19,9 @@ Might generate false positive
 #aircraft.download_opensky()
 
 callsigns = ['FFL', 'DCM']
-month = 'oct02-31'
-start = "2019-10-02"
-end = "2019-10-31"
+month = 'jun04-jul03'
+start = "2019-06-04"
+end = "2019-07-03"
 output_path = '../data/'+month+'/'
 
 

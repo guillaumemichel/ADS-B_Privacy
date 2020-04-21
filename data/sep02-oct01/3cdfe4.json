@@ -1,0 +1,134 @@
+[
+  {
+    "icao"      : "3cdfe4",
+    "callsign"  : "DCMCA",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "EDDS",
+      "time"                : "2019-09-13 10:54:50",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "724.9999999999999",
+        "latitude"  : "48.6915575447729",
+        "longitude" : "9.210644772178249"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "LEPA",
+      "time"                : "2019-09-13 13:21:39",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-275.00000000000006",
+        "latitude"  : "39.541236877441406",
+        "longitude" : "2.7258333952530567"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "3cdfe4",
+    "callsign"  : "DCMCA",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "LEPA",
+      "time"                : "2019-09-16 08:00:15",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "nan",
+        "latitude"  : "39.541249679306794",
+        "longitude" : "2.725814819335938"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "EDDS",
+      "time"                : "2019-09-16 09:48:47",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1025.0",
+        "latitude"  : "48.69190668655654",
+        "longitude" : "9.210156892475329"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "3cdfe4",
+    "callsign"  : "DCMCA",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "EDDS",
+      "time"                : "2019-09-29 08:58:27",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1275.0",
+        "latitude"  : "48.69158935546875",
+        "longitude" : "9.217229989858774"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "LEPA",
+      "time"                : "2019-09-29 10:56:14",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-125.0",
+        "latitude"  : "39.54323959350586",
+        "longitude" : "2.727953040081522"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "3cdfe4",
+    "callsign"  : "DCMCA",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "LEPA",
+      "time"                : "2019-09-29 11:56:36",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-125.0",
+        "latitude"  : "39.54349136352539",
+        "longitude" : "2.730207028596297"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "EDDS",
+      "time"                : "2019-09-29 13:48:40",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1375.0",
+        "latitude"  : "48.69192123413086",
+        "longitude" : "9.210169865534855"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  }
+]

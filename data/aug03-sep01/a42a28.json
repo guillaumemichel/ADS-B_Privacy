@@ -1,0 +1,164 @@
+[
+  {
+    "icao"      : "a42a28",
+    "callsign"  : "DCM22",
+    "nnumber"   : "N368BL",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-08-05 16:55:35",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "7575.0",
+        "latitude"  : "36.394306764764295",
+        "longitude" : "-92.38245537940493"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KTYQ",
+      "time"                : "2019-08-05 18:05:56",
+      "airport_position"    : 
+      {
+        "altitude"  : "922.0",
+        "latitude"  : "40.030701",
+        "longitude" : "-86.25140400000001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1724.9999999999998",
+        "latitude"  : "39.96733067399364",
+        "longitude" : "-86.25166459517044"
+      },
+      "horizontal_distance" : "7036.334857478894",
+      "vertical_distance"   : "802.9999999999998"
+    }
+  },
+  {
+    "icao"      : "a42a28",
+    "callsign"  : "DCM22",
+    "nnumber"   : "N368BL",
+    "departure" :
+    {
+      "airport"             : "KTYQ",
+      "time"                : "2019-08-05 21:46:39",
+      "airport_position"    : 
+      {
+        "altitude"  : "922.0",
+        "latitude"  : "40.030701",
+        "longitude" : "-86.25140400000001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2725.0",
+        "latitude"  : "39.98799986758475",
+        "longitude" : "-86.25466086647724"
+      },
+      "horizontal_distance" : "4749.459885085097",
+      "vertical_distance"   : "1803.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "MU48",
+      "time"                : "2019-08-05 22:48:48",
+      "airport_position"    : 
+      {
+        "altitude"  : "820.0",
+        "latitude"  : "36.648399353027344",
+        "longitude" : "-92.22039794921876"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "111300.00000000003",
+        "latitude"  : "36.56039428710938",
+        "longitude" : "-92.24023818969728"
+      },
+      "horizontal_distance" : "9925.96105553275",
+      "vertical_distance"   : "110480.00000000003"
+    }
+  },
+  {
+    "icao"      : "a42a28",
+    "callsign"  : "DCM22",
+    "nnumber"   : "N368BL",
+    "departure" :
+    {
+      "airport"             : "45AR",
+      "time"                : "2019-08-23 17:26:05",
+      "airport_position"    : 
+      {
+        "altitude"  : "789.0",
+        "latitude"  : "36.3671989441",
+        "longitude" : "-92.6401977539"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "6075.0",
+        "latitude"  : "36.41812133789062",
+        "longitude" : "-92.56256103515624"
+      },
+      "horizontal_distance" : "8969.020609435227",
+      "vertical_distance"   : "5286.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KU42",
+      "time"                : "2019-08-23 20:05:37",
+      "airport_position"    : 
+      {
+        "altitude"  : "4607.0",
+        "latitude"  : "40.61949921",
+        "longitude" : "-111.99299620000001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "99200.0",
+        "latitude"  : "39.943359375",
+        "longitude" : "-106.99560546875"
+      },
+      "horizontal_distance" : "431506.9710405162",
+      "vertical_distance"   : "94593.0"
+    }
+  },
+  {
+    "icao"      : "a42a28",
+    "callsign"  : "DCM22",
+    "nnumber"   : "N368BL",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-08-27 18:31:28",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "39000.0",
+        "latitude"  : "40.096326924986755",
+        "longitude" : "-106.8186326460405"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "6AR9",
+      "time"                : "2019-08-27 20:06:32",
+      "airport_position"    : 
+      {
+        "altitude"  : "880.0",
+        "latitude"  : "36.4152984619",
+        "longitude" : "-92.6943969727"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5400.0",
+        "latitude"  : "36.42079498808263",
+        "longitude" : "-92.7149671189328"
+      },
+      "horizontal_distance" : "1943.0541870565678",
+      "vertical_distance"   : "4520.0"
+    }
+  }
+]

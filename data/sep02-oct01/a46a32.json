@@ -1,0 +1,45 @@
+[
+  {
+    "icao"      : "a46a32",
+    "callsign"  : "DCM2028",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KRVS",
+      "time"                : "2019-09-06 00:48:48",
+      "airport_position"    : 
+      {
+        "altitude"  : "638.0",
+        "latitude"  : "36.039600372314",
+        "longitude" : "-95.98459625244101"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1099.9999999999998",
+        "latitude"  : "36.02142333984375",
+        "longitude" : "-95.99000930786131"
+      },
+      "horizontal_distance" : "2075.082824418116",
+      "vertical_distance"   : "461.9999999999998"
+    },
+    "arrival"   :
+    {
+      "airport"             : "3OK0",
+      "time"                : "2019-09-06 01:20:28",
+      "airport_position"    : 
+      {
+        "altitude"  : "780.0",
+        "latitude"  : "34.705001831054695",
+        "longitude" : "-96.57669830322266"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "7299.999999999999",
+        "latitude"  : "34.55553992319915",
+        "longitude" : "-96.63042068481444"
+      },
+      "horizontal_distance" : "17296.710242983187",
+      "vertical_distance"   : "6519.999999999999"
+    }
+  }
+]

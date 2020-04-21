@@ -1,0 +1,321 @@
+[
+  {
+    "icao"      : "a6d9e0",
+    "callsign"  : "DCM2277",
+    "nnumber"   : "N540W",
+    "departure" :
+    {
+      "airport"             : "KPHX",
+      "time"                : "2019-06-14 23:45:07",
+      "airport_position"    : 
+      {
+        "altitude"  : "1135.0",
+        "latitude"  : "33.43429946899414",
+        "longitude" : "-112.01200103759766"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1900.0",
+        "latitude"  : "33.42869645458157",
+        "longitude" : "-112.02854078643179"
+      },
+      "horizontal_distance" : "1658.921082140541",
+      "vertical_distance"   : "765.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "CA97",
+      "time"                : "2019-06-15 00:42:57",
+      "airport_position"    : 
+      {
+        "altitude"  : "250.0",
+        "latitude"  : "34.019699096679695",
+        "longitude" : "-119.85299682617188"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2900.0000000000005",
+        "latitude"  : "34.284988403320305",
+        "longitude" : "-119.6658885722258"
+      },
+      "horizontal_distance" : "34113.020915940506",
+      "vertical_distance"   : "2650.0000000000005"
+    }
+  },
+  {
+    "icao"      : "a6d9e0",
+    "callsign"  : "DCM2277",
+    "nnumber"   : "N540W",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-06-15 18:12:08",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "12100.0",
+        "latitude"  : "34.256332397460945",
+        "longitude" : "-119.8285534917092"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "LL10",
+      "time"                : "2019-06-15 21:22:29",
+      "airport_position"    : 
+      {
+        "altitude"  : "708.0",
+        "latitude"  : "41.73479843139648",
+        "longitude" : "-88.20339965820312"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "40999.99999999999",
+        "latitude"  : "37.04910278320312",
+        "longitude" : "-111.84865099318479"
+      },
+      "horizontal_distance" : "2094970.284963823",
+      "vertical_distance"   : "40291.99999999999"
+    }
+  },
+  {
+    "icao"      : "a6d9e0",
+    "callsign"  : "N540W",
+    "nnumber"   : "N540W",
+    "departure" :
+    {
+      "airport"             : "KDPA",
+      "time"                : "2019-06-15 22:05:02",
+      "airport_position"    : 
+      {
+        "altitude"  : "759.0",
+        "latitude"  : "41.90779877",
+        "longitude" : "-88.24859619"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "43000.0",
+        "latitude"  : "40.922675698490465",
+        "longitude" : "-97.47351212935013"
+      },
+      "horizontal_distance" : "778577.6106692677",
+      "vertical_distance"   : "42241.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "CYHU",
+      "time"                : "2019-06-15 23:35:51",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2325.0000000000005",
+        "latitude"  : "41.81954956054688",
+        "longitude" : "-88.27839244495739"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a6d9e0",
+    "callsign"  : "N540W",
+    "nnumber"   : "N540W",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-06-21 05:23:34",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "43000.0",
+        "latitude"  : "40.922675698490465",
+        "longitude" : "-97.47351212935013"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "0CA3",
+      "time"                : "2019-06-21 07:52:03",
+      "airport_position"    : 
+      {
+        "altitude"  : "570.0",
+        "latitude"  : "34.587501525878906",
+        "longitude" : "-120.01300048828124"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2325.0000000000005",
+        "latitude"  : "41.81954956054688",
+        "longitude" : "-88.27839244495739"
+      },
+      "horizontal_distance" : "2874808.0398808806",
+      "vertical_distance"   : "1755.0000000000005"
+    }
+  },
+  {
+    "icao"      : "a6d9e0",
+    "callsign"  : "N540W",
+    "nnumber"   : "N540W",
+    "departure" :
+    {
+      "airport"             : "KSBA",
+      "time"                : "2019-06-23 16:40:57",
+      "airport_position"    : 
+      {
+        "altitude"  : "13.0",
+        "latitude"  : "34.42620087",
+        "longitude" : "-119.8399963"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "7175.0",
+        "latitude"  : "34.42114361261918",
+        "longitude" : "-120.01052856445308"
+      },
+      "horizontal_distance" : "15685.973522348195",
+      "vertical_distance"   : "7162.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KAWO",
+      "time"                : "2019-06-23 18:41:23",
+      "airport_position"    : 
+      {
+        "altitude"  : "142.0",
+        "latitude"  : "48.16070175",
+        "longitude" : "-122.1589966"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "40000.0",
+        "latitude"  : "33.44027709960938",
+        "longitude" : "-122.79138793945309"
+      },
+      "horizontal_distance" : "1635573.137720811",
+      "vertical_distance"   : "39858.0"
+    }
+  },
+  {
+    "icao"      : "a6d9e0",
+    "callsign"  : "N540W",
+    "nnumber"   : "N540W",
+    "departure" :
+    {
+      "airport"             : "KPAE",
+      "time"                : "2019-06-23 20:55:35",
+      "airport_position"    : 
+      {
+        "altitude"  : "606.0",
+        "latitude"  : "47.90629959",
+        "longitude" : "-122.28199769999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "7175.0",
+        "latitude"  : "34.42114361261918",
+        "longitude" : "-120.01052856445308"
+      },
+      "horizontal_distance" : "1509531.7465165798",
+      "vertical_distance"   : "6569.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "CYVR",
+      "time"                : "2019-06-23 21:21:14",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "40000.0",
+        "latitude"  : "33.44027709960938",
+        "longitude" : "-122.79138793945309"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a6d9e0",
+    "callsign"  : "N540W",
+    "nnumber"   : "N540W",
+    "departure" :
+    {
+      "airport"             : "CYVR",
+      "time"                : "2019-06-25 06:00:43",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "7175.0",
+        "latitude"  : "34.42114361261918",
+        "longitude" : "-120.01052856445308"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KBLI",
+      "time"                : "2019-06-25 06:12:41",
+      "airport_position"    : 
+      {
+        "altitude"  : "170.0",
+        "latitude"  : "48.79280090332031",
+        "longitude" : "-122.53800201416016"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "40000.0",
+        "latitude"  : "33.44027709960938",
+        "longitude" : "-122.79138793945309"
+      },
+      "horizontal_distance" : "1705137.205197593",
+      "vertical_distance"   : "39830.0"
+    }
+  },
+  {
+    "icao"      : "a6d9e0",
+    "callsign"  : "N540W",
+    "nnumber"   : "N540W",
+    "departure" :
+    {
+      "airport"             : "KBLI",
+      "time"                : "2019-06-25 06:37:59",
+      "airport_position"    : 
+      {
+        "altitude"  : "170.0",
+        "latitude"  : "48.79280090332031",
+        "longitude" : "-122.53800201416016"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "7175.0",
+        "latitude"  : "34.42114361261918",
+        "longitude" : "-120.01052856445308"
+      },
+      "horizontal_distance" : "1609807.0114449977",
+      "vertical_distance"   : "7005.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KIZA",
+      "time"                : "2019-06-25 08:24:40",
+      "airport_position"    : 
+      {
+        "altitude"  : "674.0",
+        "latitude"  : "34.60680008",
+        "longitude" : "-120.07599640000001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "40000.0",
+        "latitude"  : "33.44027709960938",
+        "longitude" : "-122.79138793945309"
+      },
+      "horizontal_distance" : "282188.64746505313",
+      "vertical_distance"   : "39326.0"
+    }
+  }
+]

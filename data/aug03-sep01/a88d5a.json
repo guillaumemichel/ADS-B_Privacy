@@ -1,0 +1,78 @@
+[
+  {
+    "icao"      : "a88d5a",
+    "callsign"  : "DCM3350",
+    "nnumber"   : "N650GK",
+    "departure" :
+    {
+      "airport"             : "KSGR",
+      "time"                : "2019-08-30 16:21:27",
+      "airport_position"    : 
+      {
+        "altitude"  : "82.0",
+        "latitude"  : "29.622299194335998",
+        "longitude" : "-95.65650177001999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5625.0",
+        "latitude"  : "29.60247492386123",
+        "longitude" : "-95.74509564568018"
+      },
+      "horizontal_distance" : "8858.00827297475",
+      "vertical_distance"   : "5543.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-08-30 16:31:33",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "31900.0",
+        "latitude"  : "29.62220764160156",
+        "longitude" : "-94.70167306753302"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a88d5a",
+    "callsign"  : "DCM3350",
+    "nnumber"   : "N650GK",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-08-31 17:00:36",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "9875.0",
+        "latitude"  : "29.77997860666049",
+        "longitude" : "-94.75686465992645"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KEYQ",
+      "time"                : "2019-08-31 17:10:52",
+      "airport_position"    : 
+      {
+        "altitude"  : "137.0",
+        "latitude"  : "29.9352",
+        "longitude" : "-95.63960300000001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2825.0000000000005",
+        "latitude"  : "29.85730187367585",
+        "longitude" : "-95.68962545955885"
+      },
+      "horizontal_distance" : "9894.827438090571",
+      "vertical_distance"   : "2688.0000000000005"
+    }
+  }
+]

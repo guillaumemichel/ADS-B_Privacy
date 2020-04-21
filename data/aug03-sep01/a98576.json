@@ -1,0 +1,40 @@
+[
+  {
+    "icao"      : "a98576",
+    "callsign"  : "DCM3720",
+    "nnumber"   : "N712WG",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-08-09 21:01:08",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "9325.0",
+        "latitude"  : "36.17953491210938",
+        "longitude" : "-92.5078582763672"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHOU",
+      "time"                : "2019-08-09 22:43:59",
+      "airport_position"    : 
+      {
+        "altitude"  : "46.0",
+        "latitude"  : "29.64539909",
+        "longitude" : "-95.27890015"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "35999.99999999999",
+        "latitude"  : "33.085189819335945",
+        "longitude" : "-93.02909545898436"
+      },
+      "horizontal_distance" : "437312.0066099115",
+      "vertical_distance"   : "35953.99999999999"
+    }
+  }
+]

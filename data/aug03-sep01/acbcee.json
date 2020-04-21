@@ -1,0 +1,78 @@
+[
+  {
+    "icao"      : "acbcee",
+    "callsign"  : "DCM92",
+    "nnumber"   : "N92MK",
+    "departure" :
+    {
+      "airport"             : "CYHU",
+      "time"                : "2019-08-14 23:35:43",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1375.0",
+        "latitude"  : "45.53187561035156",
+        "longitude" : "-73.39625767299107"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KTEB",
+      "time"                : "2019-08-15 00:38:55",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "40.85010147089999",
+        "longitude" : "-74.060798645"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "200.0",
+        "latitude"  : "40.841023073358045",
+        "longitude" : "-74.07887545498937"
+      },
+      "horizontal_distance" : "1827.6524416541852",
+      "vertical_distance"   : "191.0"
+    }
+  },
+  {
+    "icao"      : "acbcee",
+    "callsign"  : "DCM92",
+    "nnumber"   : "N92MK",
+    "departure" :
+    {
+      "airport"             : "KTEB",
+      "time"                : "2019-08-16 00:28:40",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "40.85010147089999",
+        "longitude" : "-74.060798645"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "600.0",
+        "latitude"  : "40.8419541181144",
+        "longitude" : "-74.07731489701706"
+      },
+      "horizontal_distance" : "1660.8963893638963",
+      "vertical_distance"   : "591.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "CYHU",
+      "time"                : "2019-08-16 01:42:22",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "100.0",
+        "latitude"  : "45.51530456542969",
+        "longitude" : "-73.40726034981864"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  }
+]

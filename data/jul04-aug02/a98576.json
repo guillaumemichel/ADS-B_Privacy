@@ -1,0 +1,106 @@
+[
+  {
+    "icao"      : "a98576",
+    "callsign"  : "DCM3720",
+    "nnumber"   : "N712WG",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-07-07 13:10:42",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "13174.999999999998",
+        "latitude"  : "36.16314697265625",
+        "longitude" : "-92.25637435913086"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-07-07 13:36:29",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "35725.0",
+        "latitude"  : "34.802078247070305",
+        "longitude" : "-90.58911381935587"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a98576",
+    "callsign"  : "DCM3720",
+    "nnumber"   : "N712WG",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-07-11 11:08:41",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "10000.0",
+        "latitude"  : "35.87672424316406",
+        "longitude" : "-92.40983963012695"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-07-11 15:15:44",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "9199.999999999998",
+        "latitude"  : "36.039578712592686",
+        "longitude" : "-92.42955633934507"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a98576",
+    "callsign"  : "DCM3720",
+    "nnumber"   : "N712WG",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-07-20 11:34:25",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "25025.0",
+        "latitude"  : "34.06567072464248",
+        "longitude" : "-80.59272766113281"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "75AR",
+      "time"                : "2019-07-20 13:21:39",
+      "airport_position"    : 
+      {
+        "altitude"  : "782.0",
+        "latitude"  : "36.296199798583984",
+        "longitude" : "-92.21600341796876"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "6550.0",
+        "latitude"  : "36.33718716896186",
+        "longitude" : "-92.23881498296207"
+      },
+      "horizontal_distance" : "4988.204207839276",
+      "vertical_distance"   : "5768.0"
+    }
+  }
+]

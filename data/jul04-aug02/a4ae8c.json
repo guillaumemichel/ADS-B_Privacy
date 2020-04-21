@@ -1,0 +1,111 @@
+[
+  {
+    "icao"      : "a4ae8c",
+    "callsign"  : "DCM4000",
+    "nnumber"   : "N400VR",
+    "departure" :
+    {
+      "airport"             : "LIML",
+      "time"                : "2019-07-07 13:26:35",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2400.0",
+        "latitude"  : "45.47502136230469",
+        "longitude" : "9.268602643694196"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "EINN",
+      "time"                : "2019-07-07 15:39:52",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "3850.0",
+        "latitude"  : "52.527543407375525",
+        "longitude" : "-9.246172223772305"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a4ae8c",
+    "callsign"  : "DCM4000",
+    "nnumber"   : "N400VR",
+    "departure" :
+    {
+      "airport"             : "EINN",
+      "time"                : "2019-07-07 16:27:52",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1925.0",
+        "latitude"  : "52.72467041015625",
+        "longitude" : "-8.875808715820312"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KIAH",
+      "time"                : "2019-07-08 03:00:48",
+      "airport_position"    : 
+      {
+        "altitude"  : "97.0",
+        "latitude"  : "29.98439979553223",
+        "longitude" : "-95.34140014648438"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "43000.0",
+        "latitude"  : "53.01869201660156",
+        "longitude" : "-16.17744445800781"
+      },
+      "horizontal_distance" : "6705772.340421995",
+      "vertical_distance"   : "42903.0"
+    }
+  },
+  {
+    "icao"      : "a4ae8c",
+    "callsign"  : "DCM4000",
+    "nnumber"   : "N400VR",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-07-24 21:14:14",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "15000.0",
+        "latitude"  : "30.07745361328125",
+        "longitude" : "-96.08217127182905"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KOXR",
+      "time"                : "2019-07-25 00:04:09",
+      "airport_position"    : 
+      {
+        "altitude"  : "45.0",
+        "latitude"  : "34.200801849365",
+        "longitude" : "-119.20700073241998"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "125.0",
+        "latitude"  : "34.20071876655191",
+        "longitude" : "-119.197826385498"
+      },
+      "horizontal_distance" : "845.6211562467715",
+      "vertical_distance"   : "80.0"
+    }
+  }
+]

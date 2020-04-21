@@ -1,0 +1,116 @@
+[
+  {
+    "icao"      : "a8f644",
+    "callsign"  : "DCM2777",
+    "nnumber"   : "N677FP",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-06-29 18:51:09",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "47000.0",
+        "latitude"  : "27.67048645019531",
+        "longitude" : "-78.68941972840507"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSTP",
+      "time"                : "2019-06-29 21:55:08",
+      "airport_position"    : 
+      {
+        "altitude"  : "705.0",
+        "latitude"  : "44.93450164794922",
+        "longitude" : "-93.05999755859376"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "800.0",
+        "latitude"  : "44.94907185182733",
+        "longitude" : "-93.07530100752669"
+      },
+      "horizontal_distance" : "2020.0734771875996",
+      "vertical_distance"   : "95.0"
+    }
+  },
+  {
+    "icao"      : "a8f644",
+    "callsign"  : "DCM2777",
+    "nnumber"   : "N677FP",
+    "departure" :
+    {
+      "airport"             : "KSTP",
+      "time"                : "2019-06-29 23:21:31",
+      "airport_position"    : 
+      {
+        "altitude"  : "705.0",
+        "latitude"  : "44.93450164794922",
+        "longitude" : "-93.05999755859376"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "950.0",
+        "latitude"  : "44.93019104003906",
+        "longitude" : "-93.05773053850449"
+      },
+      "horizontal_distance" : "511.3755630201262",
+      "vertical_distance"   : "245.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "MY66",
+      "time"                : "2019-06-29 23:39:51",
+      "airport_position"    : 
+      {
+        "altitude"  : "1330.0",
+        "latitude"  : "46.07049942016602",
+        "longitude" : "-93.84719848632812"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "3924.9999999999995",
+        "latitude"  : "46.283584853350106",
+        "longitude" : "-93.95322418212892"
+      },
+      "horizontal_distance" : "25060.43954186989",
+      "vertical_distance"   : "2594.9999999999995"
+    }
+  },
+  {
+    "icao"      : "a8f644",
+    "callsign"  : "DCM2777",
+    "nnumber"   : "N677FP",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-07-03 03:21:03",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "45000.0",
+        "latitude"  : "38.00917053222656",
+        "longitude" : "-14.92714739860372"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "LSZA",
+      "time"                : "2019-07-03 06:09:15",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "33925.0",
+        "latitude"  : "44.132080078125",
+        "longitude" : "8.389892578125"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  }
+]

@@ -1,8 +1,8 @@
 from traffic.data import opensky
 
 airport = 'KSDM'
-start_day = '2019-11-01'
-end_day = '2019-11-30'
+start_day = '2019-10-01'
+end_day = '2019-10-31'
 
 t_dcm = opensky.history(
     start_day+" 00:00",
@@ -10,7 +10,7 @@ t_dcm = opensky.history(
     airport=airport,
 )
 
-filename = '../data/recordings/KSDM_nov2019_recordings.parquet'
+filename = '../data/recordings/KSDM_oct2019_recordings.parquet'
 t_dcm.to_parquet(filename,allow_truncated_timestamps=True)
 """
 print(len(t_dcm))

@@ -1,0 +1,174 @@
+[
+  {
+    "icao"      : "a95636",
+    "callsign"  : "DCM3028",
+    "nnumber"   : "N700SZ",
+    "departure" :
+    {
+      "airport"             : "KLZU",
+      "time"                : "2019-08-02 13:47:05",
+      "airport_position"    : 
+      {
+        "altitude"  : "1061.0",
+        "latitude"  : "33.97809982",
+        "longitude" : "-83.96240234"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2300.0000000000005",
+        "latitude"  : "33.95887989108845",
+        "longitude" : "-83.93800735473633"
+      },
+      "horizontal_distance" : "3102.9125695324733",
+      "vertical_distance"   : "1239.0000000000005"
+    },
+    "arrival"   :
+    {
+      "airport"             : "GE33",
+      "time"                : "2019-08-02 14:01:43",
+      "airport_position"    : 
+      {
+        "altitude"  : "718.0",
+        "latitude"  : "33.304444000000004",
+        "longitude" : "-84.136667"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2900.0000000000005",
+        "latitude"  : "33.235690876588976",
+        "longitude" : "-84.04714778977996"
+      },
+      "horizontal_distance" : "11300.72154448406",
+      "vertical_distance"   : "2182.0000000000005"
+    }
+  },
+  {
+    "icao"      : "a95636",
+    "callsign"  : "DCM3028",
+    "nnumber"   : "N700SZ",
+    "departure" :
+    {
+      "airport"             : "K6A2",
+      "time"                : "2019-08-02 14:23:10",
+      "airport_position"    : 
+      {
+        "altitude"  : "958.0",
+        "latitude"  : "33.227001190185554",
+        "longitude" : "-84.27490234375"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2400.0",
+        "latitude"  : "33.21958380230402",
+        "longitude" : "-84.23470010562818"
+      },
+      "horizontal_distance" : "3836.767091096314",
+      "vertical_distance"   : "1442.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KPDK",
+      "time"                : "2019-08-02 14:44:37",
+      "airport_position"    : 
+      {
+        "altitude"  : "1003.0",
+        "latitude"  : "33.8755989075",
+        "longitude" : "-84.3020019531"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1099.9999999999998",
+        "latitude"  : "33.893986071570446",
+        "longitude" : "-84.2926025390625"
+      },
+      "horizontal_distance" : "2217.1352837832414",
+      "vertical_distance"   : "96.99999999999977"
+    }
+  },
+  {
+    "icao"      : "a95636",
+    "callsign"  : "DCM3028",
+    "nnumber"   : "N700SZ",
+    "departure" :
+    {
+      "airport"             : "KPDK",
+      "time"                : "2019-08-02 19:48:09",
+      "airport_position"    : 
+      {
+        "altitude"  : "1003.0",
+        "latitude"  : "33.8755989075",
+        "longitude" : "-84.3020019531"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1200.0",
+        "latitude"  : "33.870162963867195",
+        "longitude" : "-84.30297228754785"
+      },
+      "horizontal_distance" : "609.6024662227351",
+      "vertical_distance"   : "197.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "0GE4",
+      "time"                : "2019-08-02 19:58:28",
+      "airport_position"    : 
+      {
+        "altitude"  : "860.0",
+        "latitude"  : "33.33140182495117",
+        "longitude" : "-84.2667007446289"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2000.0",
+        "latitude"  : "33.33966064453125",
+        "longitude" : "-84.22915649414062"
+      },
+      "horizontal_distance" : "3613.321292553972",
+      "vertical_distance"   : "1140.0"
+    }
+  },
+  {
+    "icao"      : "a95636",
+    "callsign"  : "DCM3028",
+    "nnumber"   : "N700SZ",
+    "departure" :
+    {
+      "airport"             : "GE33",
+      "time"                : "2019-08-02 20:14:33",
+      "airport_position"    : 
+      {
+        "altitude"  : "718.0",
+        "latitude"  : "33.304444000000004",
+        "longitude" : "-84.136667"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2200.0000000000005",
+        "latitude"  : "33.33708165055614",
+        "longitude" : "-84.1069560148278"
+      },
+      "horizontal_distance" : "4555.963094090388",
+      "vertical_distance"   : "1482.0000000000005"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KLZU",
+      "time"                : "2019-08-02 20:25:31",
+      "airport_position"    : 
+      {
+        "altitude"  : "1061.0",
+        "latitude"  : "33.97809982",
+        "longitude" : "-83.96240234"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1600.0",
+        "latitude"  : "33.966293334960945",
+        "longitude" : "-83.99115114795916"
+      },
+      "horizontal_distance" : "2962.0473988477256",
+      "vertical_distance"   : "539.0"
+    }
+  }
+]

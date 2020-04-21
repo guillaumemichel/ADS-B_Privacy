@@ -1,0 +1,45 @@
+[
+  {
+    "icao"      : "a247dd",
+    "callsign"  : "DCM7105",
+    "nnumber"   : "N246SD",
+    "departure" :
+    {
+      "airport"             : "KTUL",
+      "time"                : "2019-09-23 19:26:59",
+      "airport_position"    : 
+      {
+        "altitude"  : "677.0",
+        "latitude"  : "36.19839859008789",
+        "longitude" : "-95.88809967041016"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1950.0",
+        "latitude"  : "36.22895321603549",
+        "longitude" : "-95.89802194148932"
+      },
+      "horizontal_distance" : "3505.8615885858035",
+      "vertical_distance"   : "1273.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "43TS",
+      "time"                : "2019-09-23 20:24:07",
+      "airport_position"    : 
+      {
+        "altitude"  : "570.0",
+        "latitude"  : "32.566200256347656",
+        "longitude" : "-95.46829986572266"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2675.0",
+        "latitude"  : "32.502822875976555",
+        "longitude" : "-95.44757080078124"
+      },
+      "horizontal_distance" : "7293.089602360256",
+      "vertical_distance"   : "2105.0"
+    }
+  }
+]

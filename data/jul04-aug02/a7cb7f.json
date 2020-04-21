@@ -1,0 +1,331 @@
+[
+  {
+    "icao"      : "a7cb7f",
+    "callsign"  : "DCM6072",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KSDL",
+      "time"                : "2019-07-07 23:46:51",
+      "airport_position"    : 
+      {
+        "altitude"  : "1510.0",
+        "latitude"  : "33.622898101806996",
+        "longitude" : "-111.91100311279"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1774.9999999999998",
+        "latitude"  : "33.62035201767743",
+        "longitude" : "-111.9134902954102"
+      },
+      "horizontal_distance" : "364.71185449768967",
+      "vertical_distance"   : "264.9999999999998"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KTGI",
+      "time"                : "2019-07-08 03:55:43",
+      "airport_position"    : 
+      {
+        "altitude"  : "5.0",
+        "latitude"  : "37.82509994506836",
+        "longitude" : "-75.997802734375"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "45000.0",
+        "latitude"  : "36.92220914161811",
+        "longitude" : "-100.1136315387228"
+      },
+      "horizontal_distance" : "2132464.6636909265",
+      "vertical_distance"   : "44995.0"
+    }
+  },
+  {
+    "icao"      : "a7cb7f",
+    "callsign"  : "DCM6072",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-07-08 10:41:06",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "12100.0",
+        "latitude"  : "38.270734366724035",
+        "longitude" : "-75.67143979279894"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSDL",
+      "time"                : "2019-07-08 15:30:21",
+      "airport_position"    : 
+      {
+        "altitude"  : "1510.0",
+        "latitude"  : "33.622898101806996",
+        "longitude" : "-111.91100311279"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "43000.0",
+        "latitude"  : "37.69730390128443",
+        "longitude" : "-96.53334244437842"
+      },
+      "horizontal_distance" : "1461908.6511966386",
+      "vertical_distance"   : "41490.0"
+    }
+  },
+  {
+    "icao"      : "a7cb7f",
+    "callsign"  : "DCM6072",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KSDL",
+      "time"                : "2019-07-18 00:06:58",
+      "airport_position"    : 
+      {
+        "altitude"  : "1510.0",
+        "latitude"  : "33.622898101806996",
+        "longitude" : "-111.91100311279"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1975.0",
+        "latitude"  : "33.616814047603285",
+        "longitude" : "-111.917724609375"
+      },
+      "horizontal_distance" : "918.9118755977647",
+      "vertical_distance"   : "465.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KBWI",
+      "time"                : "2019-07-18 04:21:10",
+      "airport_position"    : 
+      {
+        "altitude"  : "146.0",
+        "latitude"  : "39.1754",
+        "longitude" : "-76.668297"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "40999.99999999999",
+        "latitude"  : "36.76579284667969",
+        "longitude" : "-100.63024520874019"
+      },
+      "horizontal_distance" : "2116138.464323131",
+      "vertical_distance"   : "40853.99999999999"
+    }
+  },
+  {
+    "icao"      : "a7cb7f",
+    "callsign"  : "DCM6072",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KBWI",
+      "time"                : "2019-07-22 10:46:06",
+      "airport_position"    : 
+      {
+        "altitude"  : "146.0",
+        "latitude"  : "39.1754",
+        "longitude" : "-76.668297"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "899.9999999999999",
+        "latitude"  : "39.17482537738347",
+        "longitude" : "-76.6878662109375"
+      },
+      "horizontal_distance" : "1692.2267806579948",
+      "vertical_distance"   : "753.9999999999999"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSDL",
+      "time"                : "2019-07-22 15:15:37",
+      "airport_position"    : 
+      {
+        "altitude"  : "1510.0",
+        "latitude"  : "33.622898101806996",
+        "longitude" : "-111.91100311279"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1400.0",
+        "latitude"  : "33.61862182617188",
+        "longitude" : "-111.91548250159441"
+      },
+      "horizontal_distance" : "630.6637007390962",
+      "vertical_distance"   : "-110.0"
+    }
+  },
+  {
+    "icao"      : "a7cb7f",
+    "callsign"  : "DCM6072",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KSDL",
+      "time"                : "2019-07-24 18:58:34",
+      "airport_position"    : 
+      {
+        "altitude"  : "1510.0",
+        "latitude"  : "33.622898101806996",
+        "longitude" : "-111.91100311279"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1500.0",
+        "latitude"  : "33.624774480270126",
+        "longitude" : "-111.9083976745605"
+      },
+      "horizontal_distance" : "319.00006152810766",
+      "vertical_distance"   : "-10.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KBWI",
+      "time"                : "2019-07-24 23:18:53",
+      "airport_position"    : 
+      {
+        "altitude"  : "146.0",
+        "latitude"  : "39.1754",
+        "longitude" : "-76.668297"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "40999.99999999999",
+        "latitude"  : "36.065185546875",
+        "longitude" : "-101.16748809814449"
+      },
+      "horizontal_distance" : "2183384.796806118",
+      "vertical_distance"   : "40853.99999999999"
+    }
+  },
+  {
+    "icao"      : "a7cb7f",
+    "callsign"  : "DCM6072",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KBWI",
+      "time"                : "2019-07-28 21:39:34",
+      "airport_position"    : 
+      {
+        "altitude"  : "146.0",
+        "latitude"  : "39.1754",
+        "longitude" : "-76.668297"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1225.0",
+        "latitude"  : "39.20013427734375",
+        "longitude" : "-76.675733483356"
+      },
+      "horizontal_distance" : "2820.138172424674",
+      "vertical_distance"   : "1079.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-07-28 21:59:37",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "15375.0",
+        "latitude"  : "39.91081237792969",
+        "longitude" : "-78.99534142535663"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a7cb7f",
+    "callsign"  : "DCM6072",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-07-28 22:56:29",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "17375.000000000004",
+        "latitude"  : "40.46653747558594",
+        "longitude" : "-80.69915771484375"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSDL",
+      "time"                : "2019-07-29 02:49:50",
+      "airport_position"    : 
+      {
+        "altitude"  : "1510.0",
+        "latitude"  : "33.622898101806996",
+        "longitude" : "-111.91100311279"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "40000.0",
+        "latitude"  : "38.95161437988281",
+        "longitude" : "-97.42120494013248"
+      },
+      "horizontal_distance" : "1427472.5953222793",
+      "vertical_distance"   : "38490.0"
+    }
+  },
+  {
+    "icao"      : "a7cb7f",
+    "callsign"  : "DCM6072",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KSDL",
+      "time"                : "2019-08-01 22:30:09",
+      "airport_position"    : 
+      {
+        "altitude"  : "1510.0",
+        "latitude"  : "33.622898101806996",
+        "longitude" : "-111.91100311279"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1600.0",
+        "latitude"  : "33.62081754005561",
+        "longitude" : "-111.9130325317383"
+      },
+      "horizontal_distance" : "297.85143574286616",
+      "vertical_distance"   : "90.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KBWI",
+      "time"                : "2019-08-02 02:46:09",
+      "airport_position"    : 
+      {
+        "altitude"  : "146.0",
+        "latitude"  : "39.1754",
+        "longitude" : "-76.668297"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "43000.0",
+        "latitude"  : "37.14385986328125",
+        "longitude" : "-100.0769172830785"
+      },
+      "horizontal_distance" : "2058155.157329266",
+      "vertical_distance"   : "42854.0"
+    }
+  }
+]

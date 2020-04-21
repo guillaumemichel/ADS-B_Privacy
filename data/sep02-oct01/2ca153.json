@@ -1,0 +1,40 @@
+[
+  {
+    "icao"      : "2ca153",
+    "callsign"  : "DCM4080",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-09-23 13:18:03",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "15950.0",
+        "latitude"  : "35.00346555548199",
+        "longitude" : "-92.40285873413086"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KMKC",
+      "time"                : "2019-09-23 14:25:29",
+      "airport_position"    : 
+      {
+        "altitude"  : "759.0",
+        "latitude"  : "39.12319946289063",
+        "longitude" : "-94.5927963256836"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "925.0",
+        "latitude"  : "39.14936828613281",
+        "longitude" : "-94.58535899286682"
+      },
+      "horizontal_distance" : "2975.5251403238503",
+      "vertical_distance"   : "166.0"
+    }
+  }
+]

@@ -1,0 +1,129 @@
+[
+  {
+    "icao"      : "a68936",
+    "callsign"  : "DCM6688",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "JY39",
+      "time"                : "2019-07-08 16:38:12",
+      "airport_position"    : 
+      {
+        "altitude"  : "11.0",
+        "latitude"  : "39.661111",
+        "longitude" : "-75.465278"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2525.0",
+        "latitude"  : "39.67996215820312",
+        "longitude" : "-75.51589965820312"
+      },
+      "horizontal_distance" : "4821.466084775434",
+      "vertical_distance"   : "2514.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDAL",
+      "time"                : "2019-07-08 19:10:46",
+      "airport_position"    : 
+      {
+        "altitude"  : "487.0",
+        "latitude"  : "32.847099",
+        "longitude" : "-96.851799"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "45000.0",
+        "latitude"  : "35.40837692002118",
+        "longitude" : "-90.60559211893283"
+      },
+      "horizontal_distance" : "642243.6750957088",
+      "vertical_distance"   : "44513.0"
+    }
+  },
+  {
+    "icao"      : "a68936",
+    "callsign"  : "DCM6688",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-07-17 15:40:40",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "27700.0",
+        "latitude"  : "27.93315124511719",
+        "longitude" : "-81.01079976783609"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KT67",
+      "time"                : "2019-07-17 17:38:21",
+      "airport_position"    : 
+      {
+        "altitude"  : "855.0",
+        "latitude"  : "32.93119812",
+        "longitude" : "-97.41169739"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "45000.0",
+        "latitude"  : "30.84895764367055",
+        "longitude" : "-91.90349121093747"
+      },
+      "horizontal_distance" : "569859.6199650115",
+      "vertical_distance"   : "44145.0"
+    }
+  },
+  {
+    "icao"      : "a68936",
+    "callsign"  : "N520CX",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KFTW",
+      "time"                : "2019-08-02 15:47:22",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KFTW",
+      "time"                : "2019-08-02 16:12:11",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a68936",
+    "callsign"  : "N520CX",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KFTW",
+      "time"                : "2019-08-02 20:44:19",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KFTW",
+      "time"                : "2019-08-02 21:01:38",
+      "airport_position"    : "None",
+      "aircraft_position"   : "None",
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "icao"      : "aae7a0",
+    "callsign"  : "DCM4038",
+    "nnumber"   : "N801WZ",
+    "departure" :
+    {
+      "airport"             : "KSJT",
+      "time"                : "2019-09-03 14:17:09",
+      "airport_position"    : 
+      {
+        "altitude"  : "1919.0",
+        "latitude"  : "31.35770034790039",
+        "longitude" : "-100.49600219726562"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1850.0",
+        "latitude"  : "31.357633946305608",
+        "longitude" : "-100.4991394042968"
+      },
+      "horizontal_distance" : "298.58331153839856",
+      "vertical_distance"   : "-69.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDAL",
+      "time"                : "2019-09-03 15:06:34",
+      "airport_position"    : 
+      {
+        "altitude"  : "487.0",
+        "latitude"  : "32.847099",
+        "longitude" : "-96.851799"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "650.0",
+        "latitude"  : "32.86131778005826",
+        "longitude" : "-96.87497508769131"
+      },
+      "horizontal_distance" : "2681.9820631867233",
+      "vertical_distance"   : "163.0"
+    }
+  }
+]

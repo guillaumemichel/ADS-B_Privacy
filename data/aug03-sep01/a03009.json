@@ -1,0 +1,83 @@
+[
+  {
+    "icao"      : "a03009",
+    "callsign"  : "DCM6717",
+    "nnumber"   : "N111BF",
+    "departure" :
+    {
+      "airport"             : "KPWG",
+      "time"                : "2019-08-08 13:13:10",
+      "airport_position"    : 
+      {
+        "altitude"  : "592.0",
+        "latitude"  : "31.48489952",
+        "longitude" : "-97.3164978"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "6400.0",
+        "latitude"  : "31.534951420153604",
+        "longitude" : "-97.35682983398435"
+      },
+      "horizontal_distance" : "6743.675016703209",
+      "vertical_distance"   : "5808.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KTUL",
+      "time"                : "2019-08-08 14:12:14",
+      "airport_position"    : 
+      {
+        "altitude"  : "677.0",
+        "latitude"  : "36.19839859008789",
+        "longitude" : "-95.88809967041016"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "700.0",
+        "latitude"  : "36.18988037109375",
+        "longitude" : "-95.90028762817384"
+      },
+      "horizontal_distance" : "1447.442487064616",
+      "vertical_distance"   : "23.0"
+    }
+  },
+  {
+    "icao"      : "a03009",
+    "callsign"  : "DCM6717",
+    "nnumber"   : "N111BF",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-08-22 13:16:36",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "11200.0",
+        "latitude"  : "31.798204325013238",
+        "longitude" : "-97.29991056481184"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KTUL",
+      "time"                : "2019-08-22 14:08:54",
+      "airport_position"    : 
+      {
+        "altitude"  : "677.0",
+        "latitude"  : "36.19839859008789",
+        "longitude" : "-95.88809967041016"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "700.0",
+        "latitude"  : "36.18923950195312",
+        "longitude" : "-95.9003448486328"
+      },
+      "horizontal_distance" : "1498.6320424405783",
+      "vertical_distance"   : "23.0"
+    }
+  }
+]

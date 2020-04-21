@@ -1,0 +1,45 @@
+[
+  {
+    "icao"      : "a72844",
+    "callsign"  : "DCM6737",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KBDR",
+      "time"                : "2019-08-07 14:17:13",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "41.16350173950195",
+        "longitude" : "-73.1261978149414"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "4074.9999999999995",
+        "latitude"  : "41.103996664790785",
+        "longitude" : "-73.1848630038175"
+      },
+      "horizontal_distance" : "8242.264871258332",
+      "vertical_distance"   : "4065.9999999999995"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KJHW",
+      "time"                : "2019-08-07 15:17:34",
+      "airport_position"    : 
+      {
+        "altitude"  : "1723.0",
+        "latitude"  : "42.15340042",
+        "longitude" : "-79.25800323"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "3350.0",
+        "latitude"  : "42.19880676269531",
+        "longitude" : "-79.15580749511719"
+      },
+      "horizontal_distance" : "9835.257029564962",
+      "vertical_distance"   : "1627.0"
+    }
+  }
+]

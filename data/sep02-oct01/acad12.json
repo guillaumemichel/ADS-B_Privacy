@@ -1,0 +1,927 @@
+[
+  {
+    "icao"      : "acad12",
+    "callsign"  : "DCM4081",
+    "nnumber"   : "N916BD",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-09-03 13:07:36",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "22775.000000000004",
+        "latitude"  : "35.161603507349035",
+        "longitude" : "-91.67856216430664"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSDF",
+      "time"                : "2019-09-03 13:58:32",
+      "airport_position"    : 
+      {
+        "altitude"  : "501.0",
+        "latitude"  : "38.1744",
+        "longitude" : "-85.736"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "549.9999999999999",
+        "latitude"  : "38.19220074152542",
+        "longitude" : "-85.75061963952106"
+      },
+      "horizontal_distance" : "2354.729490120591",
+      "vertical_distance"   : "48.999999999999886"
+    }
+  },
+  {
+    "icao"      : "acad12",
+    "callsign"  : "DCM4081",
+    "nnumber"   : "N916BD",
+    "departure" :
+    {
+      "airport"             : "KSDF",
+      "time"                : "2019-09-04 19:07:47",
+      "airport_position"    : 
+      {
+        "altitude"  : "501.0",
+        "latitude"  : "38.1744",
+        "longitude" : "-85.736"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "874.9999999999999",
+        "latitude"  : "38.18801104012182",
+        "longitude" : "-85.73151298191237"
+      },
+      "horizontal_distance" : "1561.135553957861",
+      "vertical_distance"   : "373.9999999999999"
+    },
+    "arrival"   :
+    {
+      "airport"             : "73II",
+      "time"                : "2019-09-04 19:23:57",
+      "airport_position"    : 
+      {
+        "altitude"  : "765.0",
+        "latitude"  : "39.57170104980469",
+        "longitude" : "-85.15859985351562"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "3750.0",
+        "latitude"  : "39.54693603515625",
+        "longitude" : "-85.08899191151495"
+      },
+      "horizontal_distance" : "6583.76167827049",
+      "vertical_distance"   : "2985.0"
+    }
+  },
+  {
+    "icao"      : "acad12",
+    "callsign"  : "DCM4081",
+    "nnumber"   : "N916BD",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-09-09 13:03:55",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "16875.0",
+        "latitude"  : "35.169296264648445",
+        "longitude" : "-92.09648288026148"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSUS",
+      "time"                : "2019-09-09 13:37:19",
+      "airport_position"    : 
+      {
+        "altitude"  : "463.0",
+        "latitude"  : "38.662101745605",
+        "longitude" : "-90.652000427246"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "574.9999999999999",
+        "latitude"  : "38.65544128417969",
+        "longitude" : "-90.67309172257131"
+      },
+      "horizontal_distance" : "1979.1042939774875",
+      "vertical_distance"   : "111.99999999999989"
+    }
+  },
+  {
+    "icao"      : "acad12",
+    "callsign"  : "DCM4081",
+    "nnumber"   : "N916BD",
+    "departure" :
+    {
+      "airport"             : "KSUS",
+      "time"                : "2019-09-10 16:27:03",
+      "airport_position"    : 
+      {
+        "altitude"  : "463.0",
+        "latitude"  : "38.662101745605",
+        "longitude" : "-90.652000427246"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "849.9999999999999",
+        "latitude"  : "38.657490358514295",
+        "longitude" : "-90.66192626953124"
+      },
+      "horizontal_distance" : "1004.2129071884434",
+      "vertical_distance"   : "386.9999999999999"
+    },
+    "arrival"   :
+    {
+      "airport"             : "73MU",
+      "time"                : "2019-09-10 16:39:02",
+      "airport_position"    : 
+      {
+        "altitude"  : "878.0",
+        "latitude"  : "38.88560104370117",
+        "longitude" : "-91.96910095214844"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "6025.0",
+        "latitude"  : "38.88116455078125",
+        "longitude" : "-91.82253630264944"
+      },
+      "horizontal_distance" : "12726.715377440456",
+      "vertical_distance"   : "5147.0"
+    }
+  },
+  {
+    "icao"      : "acad12",
+    "callsign"  : "DCM4081",
+    "nnumber"   : "N916BD",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-09-10 22:14:04",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "10300.0",
+        "latitude"  : "38.593505859375",
+        "longitude" : "-92.22550765327787"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-09-10 22:38:12",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "14474.999999999998",
+        "latitude"  : "35.54263357388771",
+        "longitude" : "-92.16676103307846"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "acad12",
+    "callsign"  : "DCM4081",
+    "nnumber"   : "N916BD",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-09-11 13:06:43",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "15775.0",
+        "latitude"  : "35.33524335440943",
+        "longitude" : "-93.1964371052194"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KFYV",
+      "time"                : "2019-09-11 13:21:10",
+      "airport_position"    : 
+      {
+        "altitude"  : "1251.0",
+        "latitude"  : "36.00510025024414",
+        "longitude" : "-94.17009735107422"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1474.9999999999998",
+        "latitude"  : "36.03286743164062",
+        "longitude" : "-94.17675018310548"
+      },
+      "horizontal_distance" : "3138.8495674201877",
+      "vertical_distance"   : "223.99999999999977"
+    }
+  },
+  {
+    "icao"      : "acad12",
+    "callsign"  : "DCM4081",
+    "nnumber"   : "N916BD",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-09-12 12:47:36",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "21475.0",
+        "latitude"  : "34.85513305664062",
+        "longitude" : "-92.9533043686225"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KRNO",
+      "time"                : "2019-09-12 16:11:13",
+      "airport_position"    : 
+      {
+        "altitude"  : "4415.0",
+        "latitude"  : "39.49909973144531",
+        "longitude" : "-119.76799774169922"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "45000.0",
+        "latitude"  : "37.83357238769531",
+        "longitude" : "-109.24699499251992"
+      },
+      "horizontal_distance" : "933555.7058084239",
+      "vertical_distance"   : "40585.0"
+    }
+  },
+  {
+    "icao"      : "acad12",
+    "callsign"  : "DCM4081",
+    "nnumber"   : "N916BD",
+    "departure" :
+    {
+      "airport"             : "KRNO",
+      "time"                : "2019-09-12 22:15:43",
+      "airport_position"    : 
+      {
+        "altitude"  : "4415.0",
+        "latitude"  : "39.49909973144531",
+        "longitude" : "-119.76799774169922"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5425.0",
+        "latitude"  : "39.46852344577595",
+        "longitude" : "-119.7694091796875"
+      },
+      "horizontal_distance" : "3396.8949785994696",
+      "vertical_distance"   : "1010.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSCK",
+      "time"                : "2019-09-12 22:40:31",
+      "airport_position"    : 
+      {
+        "altitude"  : "33.0",
+        "latitude"  : "37.894199371338",
+        "longitude" : "-121.2379989624"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "125.0",
+        "latitude"  : "37.88309388241525",
+        "longitude" : "-121.2193231997283"
+      },
+      "horizontal_distance" : "2053.8404254186744",
+      "vertical_distance"   : "92.0"
+    }
+  },
+  {
+    "icao"      : "acad12",
+    "callsign"  : "DCM4081",
+    "nnumber"   : "N916BD",
+    "departure" :
+    {
+      "airport"             : "KSCK",
+      "time"                : "2019-09-13 15:45:43",
+      "airport_position"    : 
+      {
+        "altitude"  : "33.0",
+        "latitude"  : "37.894199371338",
+        "longitude" : "-121.2379989624"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "4300.0",
+        "latitude"  : "37.82167053222656",
+        "longitude" : "-121.2326114735705"
+      },
+      "horizontal_distance" : "8064.199596633909",
+      "vertical_distance"   : "4267.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "CL74",
+      "time"                : "2019-09-13 16:20:21",
+      "airport_position"    : 
+      {
+        "altitude"  : "2600.0",
+        "latitude"  : "34.83190155029297",
+        "longitude" : "-118.4010009765625"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "7400.0",
+        "latitude"  : "34.792397709216104",
+        "longitude" : "-118.30747604370121"
+      },
+      "horizontal_distance" : "9614.115849574206",
+      "vertical_distance"   : "4800.0"
+    }
+  },
+  {
+    "icao"      : "acad12",
+    "callsign"  : "DCM4081",
+    "nnumber"   : "N916BD",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-09-16 13:24:48",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "30350.0",
+        "latitude"  : "35.08041640459481",
+        "longitude" : "-90.90797424316406"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-09-16 14:50:07",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "9524.999999999998",
+        "latitude"  : "37.58744062003443",
+        "longitude" : "-78.00143697987431"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "acad12",
+    "callsign"  : "DCM4081",
+    "nnumber"   : "N916BD",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-09-17 20:16:20",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "24750.0",
+        "latitude"  : "36.70880126953125",
+        "longitude" : "-77.0973014831543"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-09-17 21:32:57",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "40000.0",
+        "latitude"  : "35.30877685546875",
+        "longitude" : "-88.79711151123047"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "acad12",
+    "callsign"  : "DCM4081",
+    "nnumber"   : "N916BD",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-09-18 13:24:41",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "37175.0",
+        "latitude"  : "34.16412870762711",
+        "longitude" : "-90.3728485107422"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-09-18 13:56:37",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "11650.0",
+        "latitude"  : "32.718728275622354",
+        "longitude" : "-85.59739716198982"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "acad12",
+    "callsign"  : "DCM4081",
+    "nnumber"   : "N916BD",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-09-18 23:04:47",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "8775.0",
+        "latitude"  : "32.388473510742195",
+        "longitude" : "-86.59171142578123"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-09-18 23:32:09",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "27400.0",
+        "latitude"  : "34.10789360434322",
+        "longitude" : "-90.37267684936523"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "acad12",
+    "callsign"  : "DCM4081",
+    "nnumber"   : "N916BD",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-09-19 13:38:02",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "39200.0",
+        "latitude"  : "33.240646362304695",
+        "longitude" : "-90.48504638671876"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KVPS",
+      "time"                : "2019-09-19 14:16:59",
+      "airport_position"    : 
+      {
+        "altitude"  : "87.0",
+        "latitude"  : "30.4832",
+        "longitude" : "-86.525398"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2050.0",
+        "latitude"  : "30.396900500281376",
+        "longitude" : "-86.47105407714844"
+      },
+      "horizontal_distance" : "10898.64329287385",
+      "vertical_distance"   : "1963.0"
+    }
+  },
+  {
+    "icao"      : "acad12",
+    "callsign"  : "DCM4081",
+    "nnumber"   : "N916BD",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-09-23 22:37:36",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "9500.0",
+        "latitude"  : "37.67156051377118",
+        "longitude" : "-89.03839774753739"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-09-23 22:51:46",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "20925.000000000004",
+        "latitude"  : "36.38639288433527",
+        "longitude" : "-90.43805061502658"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "acad12",
+    "callsign"  : "DCM4081",
+    "nnumber"   : "N916BD",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-09-24 16:23:10",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "19275.0",
+        "latitude"  : "33.894607543945305",
+        "longitude" : "-93.92301598373724"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-09-24 16:47:54",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "9924.999999999998",
+        "latitude"  : "36.81802368164062",
+        "longitude" : "-93.0699348449707"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "acad12",
+    "callsign"  : "DCM4081",
+    "nnumber"   : "N916BD",
+    "departure" :
+    {
+      "airport"             : "KSGF",
+      "time"                : "2019-09-24 21:07:56",
+      "airport_position"    : 
+      {
+        "altitude"  : "1268.0",
+        "latitude"  : "37.24570084",
+        "longitude" : "-93.38860321"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1625.0",
+        "latitude"  : "37.237321239406775",
+        "longitude" : "-93.388147768767"
+      },
+      "horizontal_distance" : "930.8638748193838",
+      "vertical_distance"   : "357.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-09-24 21:22:54",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "15099.999999999998",
+        "latitude"  : "36.3841118246822",
+        "longitude" : "-91.62638562790892"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "acad12",
+    "callsign"  : "DCM4081",
+    "nnumber"   : "N916BD",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-09-25 12:48:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "23825.000000000004",
+        "latitude"  : "34.76646811275159",
+        "longitude" : "-92.97334671020508"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSAF",
+      "time"                : "2019-09-25 14:27:21",
+      "airport_position"    : 
+      {
+        "altitude"  : "6348.0",
+        "latitude"  : "35.617099761999995",
+        "longitude" : "-106.08899688700001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "6075.0",
+        "latitude"  : "35.61163330078125",
+        "longitude" : "-106.0933685302734"
+      },
+      "horizontal_distance" : "724.3849627987987",
+      "vertical_distance"   : "-273.0"
+    }
+  },
+  {
+    "icao"      : "acad12",
+    "callsign"  : "DCM4081",
+    "nnumber"   : "N916BD",
+    "departure" :
+    {
+      "airport"             : "KSAF",
+      "time"                : "2019-09-25 16:49:10",
+      "airport_position"    : 
+      {
+        "altitude"  : "6348.0",
+        "latitude"  : "35.617099761999995",
+        "longitude" : "-106.08899688700001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "6274.999999999999",
+        "latitude"  : "35.60989379882812",
+        "longitude" : "-106.094913482666"
+      },
+      "horizontal_distance" : "962.5886660136497",
+      "vertical_distance"   : "-73.00000000000091"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KABQ",
+      "time"                : "2019-09-25 17:07:25",
+      "airport_position"    : 
+      {
+        "altitude"  : "5355.0",
+        "latitude"  : "35.040199",
+        "longitude" : "-106.609001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5100.0",
+        "latitude"  : "35.02753306243379",
+        "longitude" : "-106.6242027282715"
+      },
+      "horizontal_distance" : "1974.5237383453625",
+      "vertical_distance"   : "-255.0"
+    }
+  },
+  {
+    "icao"      : "acad12",
+    "callsign"  : "DCM4081",
+    "nnumber"   : "N916BD",
+    "departure" :
+    {
+      "airport"             : "KABQ",
+      "time"                : "2019-09-25 22:08:16",
+      "airport_position"    : 
+      {
+        "altitude"  : "5355.0",
+        "latitude"  : "35.040199",
+        "longitude" : "-106.609001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5250.0",
+        "latitude"  : "35.031784057617195",
+        "longitude" : "-106.6191755022321"
+      },
+      "horizontal_distance" : "1316.615883312207",
+      "vertical_distance"   : "-105.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-09-25 23:32:47",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "11725.0",
+        "latitude"  : "34.91024780273438",
+        "longitude" : "-93.02628497688141"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "acad12",
+    "callsign"  : "DCM4081",
+    "nnumber"   : "N916BD",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-09-26 13:34:01",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "40999.99999999999",
+        "latitude"  : "34.251480102539055",
+        "longitude" : "-88.5798489317602"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KCAE",
+      "time"                : "2019-09-26 14:26:52",
+      "airport_position"    : 
+      {
+        "altitude"  : "236.0",
+        "latitude"  : "33.93880081176758",
+        "longitude" : "-81.11949920654297"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "549.9999999999999",
+        "latitude"  : "33.947847010725624",
+        "longitude" : "-81.15480422973633"
+      },
+      "horizontal_distance" : "3414.573339879545",
+      "vertical_distance"   : "313.9999999999999"
+    }
+  },
+  {
+    "icao"      : "acad12",
+    "callsign"  : "DCM4081",
+    "nnumber"   : "N916BD",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-09-30 13:16:37",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "22400.0",
+        "latitude"  : "35.154098510742195",
+        "longitude" : "-92.68654959542408"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "90KS",
+      "time"                : "2019-09-30 13:57:20",
+      "airport_position"    : 
+      {
+        "altitude"  : "1075.0",
+        "latitude"  : "38.98249816894531",
+        "longitude" : "-95.59500122070312"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2200.0000000000005",
+        "latitude"  : "38.991176799192274",
+        "longitude" : "-95.57275390625"
+      },
+      "horizontal_distance" : "2154.9362227660386",
+      "vertical_distance"   : "1125.0000000000005"
+    }
+  },
+  {
+    "icao"      : "acad12",
+    "callsign"  : "DCM4081",
+    "nnumber"   : "N916BD",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-09-30 22:29:09",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "12424.999999999998",
+        "latitude"  : "37.50611386056674",
+        "longitude" : "-97.20058275305706"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-09-30 23:01:17",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "41500.0",
+        "latitude"  : "35.0581644349179",
+        "longitude" : "-92.76100158691406"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "acad12",
+    "callsign"  : "DCM4081",
+    "nnumber"   : "N916BD",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-10-01 13:02:03",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "16074.999999999998",
+        "latitude"  : "35.035629272460945",
+        "longitude" : "-92.47982725805169"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-10-01 13:51:29",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "15950.0",
+        "latitude"  : "40.766120522709215",
+        "longitude" : "-95.09160128506748"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "acad12",
+    "callsign"  : "DCM4081",
+    "nnumber"   : "N916BD",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-10-01 22:46:47",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "36525.0",
+        "latitude"  : "39.3862656415519",
+        "longitude" : "-96.61273193359376"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-10-01 23:28:50",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "9650.0",
+        "latitude"  : "35.19158935546875",
+        "longitude" : "-92.63083321707589"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  }
+]

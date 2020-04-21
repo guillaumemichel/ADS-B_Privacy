@@ -1,0 +1,45 @@
+[
+  {
+    "icao"      : "a1904e",
+    "callsign"  : "DCM405S",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KALN",
+      "time"                : "2019-07-31 15:22:55",
+      "airport_position"    : 
+      {
+        "altitude"  : "544.0",
+        "latitude"  : "38.89030075069999",
+        "longitude" : "-90.04599761959999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "825.0",
+        "latitude"  : "38.89718627929688",
+        "longitude" : "-90.05254330842394"
+      },
+      "horizontal_distance" : "952.2448565908469",
+      "vertical_distance"   : "281.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KALN",
+      "time"                : "2019-07-31 15:35:43",
+      "airport_position"    : 
+      {
+        "altitude"  : "544.0",
+        "latitude"  : "38.89030075069999",
+        "longitude" : "-90.04599761959999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "424.99999999999994",
+        "latitude"  : "38.870327189817274",
+        "longitude" : "-90.04840087890625"
+      },
+      "horizontal_distance" : "2227.1135129364466",
+      "vertical_distance"   : "-119.00000000000006"
+    }
+  }
+]

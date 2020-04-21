@@ -1,0 +1,45 @@
+[
+  {
+    "icao"      : "ac3d98",
+    "callsign"  : "DCM3185",
+    "nnumber"   : "N888WY",
+    "departure" :
+    {
+      "airport"             : "KBOI",
+      "time"                : "2019-06-21 21:47:34",
+      "airport_position"    : 
+      {
+        "altitude"  : "2871.0",
+        "latitude"  : "43.5644",
+        "longitude" : "-116.223"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2800.0000000000005",
+        "latitude"  : "43.565585896120226",
+        "longitude" : "-116.22979300362721"
+      },
+      "horizontal_distance" : "564.4005357296993",
+      "vertical_distance"   : "-70.99999999999955"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KCOE",
+      "time"                : "2019-06-21 22:36:15",
+      "airport_position"    : 
+      {
+        "altitude"  : "2320.0",
+        "latitude"  : "47.77429962",
+        "longitude" : "-116.8199997"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2150.0000000000005",
+        "latitude"  : "47.77386474609375",
+        "longitude" : "-116.82923126220699"
+      },
+      "horizontal_distance" : "693.5983446229792",
+      "vertical_distance"   : "-169.99999999999955"
+    }
+  }
+]

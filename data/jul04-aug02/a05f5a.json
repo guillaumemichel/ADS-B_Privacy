@@ -1,0 +1,111 @@
+[
+  {
+    "icao"      : "a05f5a",
+    "callsign"  : "DCM4133",
+    "nnumber"   : "N123FF",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-07-19 21:27:28",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "15275.000000000004",
+        "latitude"  : "33.740432739257805",
+        "longitude" : "-81.57937186104908"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "ME45",
+      "time"                : "2019-07-19 23:35:46",
+      "airport_position"    : 
+      {
+        "altitude"  : "40.0",
+        "latitude"  : "43.40560150146485",
+        "longitude" : "-70.43229675292969"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "7050.0",
+        "latitude"  : "43.27831203654661",
+        "longitude" : "-70.26960100446428"
+      },
+      "horizontal_distance" : "19339.94392286319",
+      "vertical_distance"   : "7010.0"
+    }
+  },
+  {
+    "icao"      : "a05f5a",
+    "callsign"  : "DCM4133",
+    "nnumber"   : "N123FF",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-07-25 12:26:23",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "11174.999999999998",
+        "latitude"  : "43.4022806458554",
+        "longitude" : "-70.53870064871654"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-07-25 15:36:15",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "43000.0",
+        "latitude"  : "34.3743896484375",
+        "longitude" : "-78.57993612484057"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a05f5a",
+    "callsign"  : "DCM4133",
+    "nnumber"   : "N123FF",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-07-25 23:03:13",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "36500.0",
+        "latitude"  : "28.40440653138241",
+        "longitude" : "-80.97263111787686"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "ME45",
+      "time"                : "2019-07-26 01:27:14",
+      "airport_position"    : 
+      {
+        "altitude"  : "40.0",
+        "latitude"  : "43.40560150146485",
+        "longitude" : "-70.43229675292969"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "39000.0",
+        "latitude"  : "32.72525024414062",
+        "longitude" : "-80.12268676757813"
+      },
+      "horizontal_distance" : "1456684.7811974774",
+      "vertical_distance"   : "38960.0"
+    }
+  }
+]

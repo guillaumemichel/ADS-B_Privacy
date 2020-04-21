@@ -1,5 +1,6 @@
 from traffic.data import opensky
 
+
 """
 Download all flights that used the parameter callsign during the given period
 """
@@ -20,12 +21,12 @@ def save(data, filename):
     data.to_parquet(filename,allow_truncated_timestamps=True)
 
 prefix = '../data/recordings/'
-start = "2019-09-02"
-end = "2019-10-01"
+start = "2019-05-05"
+end = "2019-06-03"
 
 if __name__ == "__main__":
-    #filename = prefix + start + "_" + end + "_"+callsign+"_recordings.parquet"
-    filename = prefix + airport +"_recordings.parquet"
+    filename = prefix + start + "_" + end + "_"+callsign+"_recordings.parquet"
+    #filename = prefix + airport +"_recordings.parquet"
 
     data = query(start, end)
     save(data, filename)

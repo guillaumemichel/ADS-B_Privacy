@@ -1,0 +1,187 @@
+[
+  {
+    "icao"      : "a99e92",
+    "callsign"  : "DCM4241",
+    "nnumber"   : "N719MC",
+    "departure" :
+    {
+      "airport"             : "4MI0",
+      "time"                : "2019-09-02 14:41:46",
+      "airport_position"    : 
+      {
+        "altitude"  : "765.0",
+        "latitude"  : "42.83810043334961",
+        "longitude" : "-82.96880340576172"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "6400.0",
+        "latitude"  : "42.89717102050781",
+        "longitude" : "-82.94735220975654"
+      },
+      "horizontal_distance" : "6792.246809903573",
+      "vertical_distance"   : "5635.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-09-02 15:50:43",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "22125.000000000004",
+        "latitude"  : "44.38641357421875",
+        "longitude" : "-70.31217302594865"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a99e92",
+    "callsign"  : "DCM4241",
+    "nnumber"   : "N719MC",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-09-04 11:23:26",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "7400.0",
+        "latitude"  : "42.83326721191406",
+        "longitude" : "-82.76147886764171"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KTEB",
+      "time"                : "2019-09-04 12:21:28",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "40.85010147089999",
+        "longitude" : "-74.060798645"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-100.0",
+        "latitude"  : "40.86973571777344",
+        "longitude" : "-74.05810546875"
+      },
+      "horizontal_distance" : "2192.1984692795586",
+      "vertical_distance"   : "-109.0"
+    }
+  },
+  {
+    "icao"      : "a99e92",
+    "callsign"  : "DCM4241",
+    "nnumber"   : "N719MC",
+    "departure" :
+    {
+      "airport"             : "KTEB",
+      "time"                : "2019-09-05 00:33:16",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "40.85010147089999",
+        "longitude" : "-74.060798645"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1300.0",
+        "latitude"  : "40.834785073490465",
+        "longitude" : "-74.08786426890981"
+      },
+      "horizontal_distance" : "2846.6213634528963",
+      "vertical_distance"   : "1291.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KMTC",
+      "time"                : "2019-09-05 01:44:15",
+      "airport_position"    : 
+      {
+        "altitude"  : "580.0",
+        "latitude"  : "42.613463",
+        "longitude" : "-82.836919"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2750.0",
+        "latitude"  : "42.65066528320312",
+        "longitude" : "-82.96562888405539"
+      },
+      "horizontal_distance" : "11337.555028631554",
+      "vertical_distance"   : "2170.0"
+    }
+  },
+  {
+    "icao"      : "a99e92",
+    "callsign"  : "DCM4241",
+    "nnumber"   : "N719MC",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-09-09 12:56:13",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "40999.99999999999",
+        "latitude"  : "28.73991394042969",
+        "longitude" : "-78.84956359863281"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-09-09 13:51:37",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "40999.99999999999",
+        "latitude"  : "29.90664724576271",
+        "longitude" : "-78.65640079273895"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a99e92",
+    "callsign"  : "DCM4241",
+    "nnumber"   : "N719MC",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-09-09 14:32:04",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "23250.0",
+        "latitude"  : "36.41981739108845",
+        "longitude" : "-76.19041929853722"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-09-09 15:36:18",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2575.0",
+        "latitude"  : "42.644130900754774",
+        "longitude" : "-82.96562017396441"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  }
+]

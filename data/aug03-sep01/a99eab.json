@@ -1,0 +1,106 @@
+[
+  {
+    "icao"      : "a99eab",
+    "callsign"  : "DCM4240",
+    "nnumber"   : "N719NC",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-08-21 19:07:18",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "17875.0",
+        "latitude"  : "42.10905947927701",
+        "longitude" : "-82.25476641987645"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-08-21 19:56:32",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "14750.0",
+        "latitude"  : "37.49470856230138",
+        "longitude" : "-77.33748062797214"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a99eab",
+    "callsign"  : "DCM4240",
+    "nnumber"   : "N719NC",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-08-25 11:00:17",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "7099.999999999999",
+        "latitude"  : "42.638671875",
+        "longitude" : "-82.95926180752843"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-08-25 13:55:10",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "13825.000000000004",
+        "latitude"  : "37.47990417480469",
+        "longitude" : "-77.1313281769448"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a99eab",
+    "callsign"  : "DCM4240",
+    "nnumber"   : "N719NC",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-08-28 22:27:07",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "21050.0",
+        "latitude"  : "35.091914807335804",
+        "longitude" : "-91.90143585205078"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KVLL",
+      "time"                : "2019-08-28 23:50:55",
+      "airport_position"    : 
+      {
+        "altitude"  : "727.0",
+        "latitude"  : "42.54290009",
+        "longitude" : "-83.17790222"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "3475.0",
+        "latitude"  : "42.66819840770657",
+        "longitude" : "-83.0604730650436"
+      },
+      "horizontal_distance" : "16928.983706340976",
+      "vertical_distance"   : "2748.0"
+    }
+  }
+]

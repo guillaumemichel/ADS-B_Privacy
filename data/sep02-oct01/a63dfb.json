@@ -1,0 +1,45 @@
+[
+  {
+    "icao"      : "a63dfb",
+    "callsign"  : "DCM6344",
+    "nnumber"   : "N501DJ",
+    "departure" :
+    {
+      "airport"             : "FA49",
+      "time"                : "2019-09-25 14:03:12",
+      "airport_position"    : 
+      {
+        "altitude"  : "102.0",
+        "latitude"  : "29.096099853515625",
+        "longitude" : "-82.17900085449219"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "3150.0",
+        "latitude"  : "29.12493896484375",
+        "longitude" : "-82.18829815204326"
+      },
+      "horizontal_distance" : "3322.089922751508",
+      "vertical_distance"   : "3048.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KPSM",
+      "time"                : "2019-09-25 16:39:56",
+      "airport_position"    : 
+      {
+        "altitude"  : "100.0",
+        "latitude"  : "43.0778999329",
+        "longitude" : "-70.8233032227"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "40999.99999999999",
+        "latitude"  : "31.45571951138771",
+        "longitude" : "-81.13782348632813"
+      },
+      "horizontal_distance" : "1578635.1720736881",
+      "vertical_distance"   : "40899.99999999999"
+    }
+  }
+]

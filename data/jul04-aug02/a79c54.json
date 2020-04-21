@@ -1,0 +1,40 @@
+[
+  {
+    "icao"      : "a79c54",
+    "callsign"  : "DCM4224",
+    "nnumber"   : "N59PA",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-07-16 13:17:06",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "26500.000000000004",
+        "latitude"  : "31.9819925599179",
+        "longitude" : "-80.71632852359693"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KTPA",
+      "time"                : "2019-07-16 14:02:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "26.0",
+        "latitude"  : "27.975500106811523",
+        "longitude" : "-82.533203125"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-125.0",
+        "latitude"  : "27.995398569915253",
+        "longitude" : "-82.54130643956802"
+      },
+      "horizontal_distance" : "2344.7981249147306",
+      "vertical_distance"   : "-151.0"
+    }
+  }
+]

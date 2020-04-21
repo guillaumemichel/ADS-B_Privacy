@@ -1,0 +1,106 @@
+[
+  {
+    "icao"      : "a42a28",
+    "callsign"  : "DCM22",
+    "nnumber"   : "N368BL",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-06-04 18:57:58",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "13075.0",
+        "latitude"  : "36.15041959083686",
+        "longitude" : "-92.61299295628322"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-06-04 20:29:21",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "12800.0",
+        "latitude"  : "28.230208057468218",
+        "longitude" : "-97.10535386029413"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a42a28",
+    "callsign"  : "DCM22",
+    "nnumber"   : "N368BL",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-06-05 19:26:09",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "20775.0",
+        "latitude"  : "28.32705688476562",
+        "longitude" : "-97.0570784348708"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-06-05 20:52:39",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "40999.99999999999",
+        "latitude"  : "29.46505737304688",
+        "longitude" : "-93.72859074519232"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a42a28",
+    "callsign"  : "DCM22",
+    "nnumber"   : "N368BL",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-06-06 16:23:00",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "35850.0",
+        "latitude"  : "31.93135070800781",
+        "longitude" : "-94.85260620117188"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDFW",
+      "time"                : "2019-06-06 16:51:14",
+      "airport_position"    : 
+      {
+        "altitude"  : "607.0",
+        "latitude"  : "32.896801",
+        "longitude" : "-97.038002"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "849.9999999999999",
+        "latitude"  : "32.85764015327066",
+        "longitude" : "-97.02631736288264"
+      },
+      "horizontal_distance" : "4478.568391283044",
+      "vertical_distance"   : "242.9999999999999"
+    }
+  }
+]

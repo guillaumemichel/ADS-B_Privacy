@@ -1,0 +1,192 @@
+[
+  {
+    "icao"      : "a8018e",
+    "callsign"  : "DCM405",
+    "nnumber"   : "N615CL",
+    "departure" :
+    {
+      "airport"             : "KORD",
+      "time"                : "2019-08-03 05:34:41",
+      "airport_position"    : 
+      {
+        "altitude"  : "672.0",
+        "latitude"  : "41.9786",
+        "longitude" : "-87.9048"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "750.0",
+        "latitude"  : "41.95225524902344",
+        "longitude" : "-87.90079983797943"
+      },
+      "horizontal_distance" : "2944.9086547918364",
+      "vertical_distance"   : "78.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-08-03 06:35:27",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "22875.0",
+        "latitude"  : "37.38372802734375",
+        "longitude" : "-87.12994119395383"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a8018e",
+    "callsign"  : "DCM6644",
+    "nnumber"   : "N615CL",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-08-03 23:59:34",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "22225.0",
+        "latitude"  : "35.151168823242195",
+        "longitude" : "-86.7004581373565"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-08-04 02:00:13",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "14175.0",
+        "latitude"  : "27.82543634964248",
+        "longitude" : "-80.26421180138222"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a8018e",
+    "callsign"  : "DCM6644",
+    "nnumber"   : "N615CL",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-08-16 15:22:48",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "7500.0",
+        "latitude"  : "36.18063199318061",
+        "longitude" : "-87.01335501163561"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-08-16 16:55:58",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "21150.0",
+        "latitude"  : "41.00816345214844",
+        "longitude" : "-92.88916015625"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a8018e",
+    "callsign"  : "DCM6644",
+    "nnumber"   : "N615CL",
+    "departure" :
+    {
+      "airport"             : "TN79",
+      "time"                : "2019-08-25 17:37:23",
+      "airport_position"    : 
+      {
+        "altitude"  : "400.0",
+        "latitude"  : "36.17229843139648",
+        "longitude" : "-86.95970153808594"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5100.0",
+        "latitude"  : "36.045304637844275",
+        "longitude" : "-86.934814453125"
+      },
+      "horizontal_distance" : "14268.417539204795",
+      "vertical_distance"   : "4700.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KTEB",
+      "time"                : "2019-08-25 20:16:33",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "40.85010147089999",
+        "longitude" : "-74.060798645"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "29000.0",
+        "latitude"  : "36.53421020507812",
+        "longitude" : "-85.02822875976562"
+      },
+      "horizontal_distance" : "1066600.8871714855",
+      "vertical_distance"   : "28991.0"
+    }
+  },
+  {
+    "icao"      : "a8018e",
+    "callsign"  : "DCM6644",
+    "nnumber"   : "N615CL",
+    "departure" :
+    {
+      "airport"             : "KTEB",
+      "time"                : "2019-08-28 15:16:13",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "40.85010147089999",
+        "longitude" : "-74.060798645"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "525.0",
+        "latitude"  : "40.85902404785156",
+        "longitude" : "-74.05902099609375"
+      },
+      "horizontal_distance" : "1002.1351073361989",
+      "vertical_distance"   : "516.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "TN73",
+      "time"                : "2019-08-28 18:06:02",
+      "airport_position"    : 
+      {
+        "altitude"  : "770.0",
+        "latitude"  : "36.32339859008789",
+        "longitude" : "-86.95939636230469"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "26000.0",
+        "latitude"  : "38.187173099841104",
+        "longitude" : "-82.07652879797894"
+      },
+      "horizontal_distance" : "479936.32793341123",
+      "vertical_distance"   : "25230.0"
+    }
+  }
+]

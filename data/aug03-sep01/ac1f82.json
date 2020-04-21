@@ -1,0 +1,121 @@
+[
+  {
+    "icao"      : "ac1f82",
+    "callsign"  : "DCM4163",
+    "nnumber"   : "N880TD",
+    "departure" :
+    {
+      "airport"             : "KVNY",
+      "time"                : "2019-08-18 14:28:53",
+      "airport_position"    : 
+      {
+        "altitude"  : "802.0",
+        "latitude"  : "34.209800720215",
+        "longitude" : "-118.48999786376999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1799.9999999999998",
+        "latitude"  : "34.16296490168168",
+        "longitude" : "-118.4807968139648"
+      },
+      "horizontal_distance" : "5264.079238018732",
+      "vertical_distance"   : "997.9999999999998"
+    },
+    "arrival"   :
+    {
+      "airport"             : "CYQB",
+      "time"                : "2019-08-18 19:20:56",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "39325.0",
+        "latitude"  : "40.74047023967161",
+        "longitude" : "-101.8787175958807"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "ac1f82",
+    "callsign"  : "DCM4163",
+    "nnumber"   : "N880TD",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-08-22 14:51:46",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "16349.999999999998",
+        "latitude"  : "48.11183088916843",
+        "longitude" : "-66.12177922175482"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KGRB",
+      "time"                : "2019-08-22 17:38:50",
+      "airport_position"    : 
+      {
+        "altitude"  : "695.0",
+        "latitude"  : "44.48509979248047",
+        "longitude" : "-88.12960052490234"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1175.0",
+        "latitude"  : "44.438766220868644",
+        "longitude" : "-88.13353003525152"
+      },
+      "horizontal_distance" : "5158.133061339903",
+      "vertical_distance"   : "480.0"
+    }
+  },
+  {
+    "icao"      : "ac1f82",
+    "callsign"  : "DCM4163",
+    "nnumber"   : "N880TD",
+    "departure" :
+    {
+      "airport"             : "KGRB",
+      "time"                : "2019-08-22 18:27:46",
+      "airport_position"    : 
+      {
+        "altitude"  : "695.0",
+        "latitude"  : "44.48509979248047",
+        "longitude" : "-88.12960052490234"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1600.0",
+        "latitude"  : "44.50994459249205",
+        "longitude" : "-88.13406595369663"
+      },
+      "horizontal_distance" : "2783.5522142513732",
+      "vertical_distance"   : "905.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KVNY",
+      "time"                : "2019-08-22 22:23:14",
+      "airport_position"    : 
+      {
+        "altitude"  : "802.0",
+        "latitude"  : "34.209800720215",
+        "longitude" : "-118.48999786376999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "37975.0",
+        "latitude"  : "43.4522311970339",
+        "longitude" : "-94.69240461077007"
+      },
+      "horizontal_distance" : "2295873.271103257",
+      "vertical_distance"   : "37173.0"
+    }
+  }
+]

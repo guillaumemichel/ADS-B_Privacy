@@ -1,0 +1,167 @@
+[
+  {
+    "icao"      : "3cdfe4",
+    "callsign"  : "DCMCA",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "EDDS",
+      "time"                : "2019-07-20 09:20:55",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1200.0",
+        "latitude"  : "48.69156918283235",
+        "longitude" : "9.210644772178249"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "EDDL",
+      "time"                : "2019-07-20 10:02:07",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "200.0",
+        "latitude"  : "51.283993478548716",
+        "longitude" : "6.7612648010253915"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "3cdfe4",
+    "callsign"  : "DCMCA",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "EDDL",
+      "time"                : "2019-07-22 17:02:41",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "nan",
+        "latitude"  : "51.29263687133789",
+        "longitude" : "6.781830658783784"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "EDDS",
+      "time"                : "2019-07-22 17:40:56",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "950.0",
+        "latitude"  : "48.69163513183594",
+        "longitude" : "9.209641676682693"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "3cdfe4",
+    "callsign"  : "DCMCA",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-08-02 12:59:40",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "31124.999999999996",
+        "latitude"  : "39.98519897460938",
+        "longitude" : "3.7496337890625"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "EDDS",
+      "time"                : "2019-08-02 14:36:59",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1200.0",
+        "latitude"  : "48.69192123413086",
+        "longitude" : "9.210205078125"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "3cdfe4",
+    "callsign"  : "DCMCA",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "EDDS",
+      "time"                : "2019-08-02 15:37:25",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "nan",
+        "latitude"  : "48.69256210327148",
+        "longitude" : "9.222353421724758"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "EDDF",
+      "time"                : "2019-08-02 16:05:23",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "32000.0",
+        "latitude"  : "50.0317268371582",
+        "longitude" : "8.55677755255448"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "3cdfe4",
+    "callsign"  : "DCMCA",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "EDDF",
+      "time"                : "2019-08-02 17:58:42",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "nan",
+        "latitude"  : "50.0279559119273",
+        "longitude" : "8.547790114944046"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "EDDS",
+      "time"                : "2019-08-02 18:19:45",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1200.0",
+        "latitude"  : "48.691836858199814",
+        "longitude" : "9.209976196289062"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  }
+]
