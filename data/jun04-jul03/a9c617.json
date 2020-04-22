@@ -1,0 +1,116 @@
+[
+  {
+    "icao"      : "a9c617",
+    "callsign"  : "DCM4217",
+    "nnumber"   : "N729MJ",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-06-04 16:04:04",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "20625.0",
+        "latitude"  : "36.13288879394531",
+        "longitude" : "-104.1086769104004"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "TX82",
+      "time"                : "2019-06-04 18:08:14",
+      "airport_position"    : 
+      {
+        "altitude"  : "620.0",
+        "latitude"  : "31.8636",
+        "longitude" : "-97.380898"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "21000.0",
+        "latitude"  : "36.03561401367188",
+        "longitude" : "-103.8396263122559"
+      },
+      "horizontal_distance" : "755063.151442703",
+      "vertical_distance"   : "20380.0"
+    }
+  },
+  {
+    "icao"      : "a9c617",
+    "callsign"  : "DCM4217",
+    "nnumber"   : "N729MJ",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-06-23 10:46:12",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "26000.0",
+        "latitude"  : "36.12693786621094",
+        "longitude" : "-102.11700439453121"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KFTG",
+      "time"                : "2019-06-23 11:37:06",
+      "airport_position"    : 
+      {
+        "altitude"  : "5512.0",
+        "latitude"  : "39.784194",
+        "longitude" : "-104.537639"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5799.999999999999",
+        "latitude"  : "39.80813598632812",
+        "longitude" : "-104.64202880859379"
+      },
+      "horizontal_distance" : "9327.518165058607",
+      "vertical_distance"   : "287.9999999999991"
+    }
+  },
+  {
+    "icao"      : "a9c617",
+    "callsign"  : "DCM4217",
+    "nnumber"   : "N729MJ",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-07-02 10:39:48",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "27549.999999999996",
+        "latitude"  : "35.90001510361493",
+        "longitude" : "-102.37241704413229"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "60CO",
+      "time"                : "2019-07-02 11:46:44",
+      "airport_position"    : 
+      {
+        "altitude"  : "5180.0",
+        "latitude"  : "39.96670150756836",
+        "longitude" : "-104.6510009765625"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "6075.0",
+        "latitude"  : "39.9378662109375",
+        "longitude" : "-104.68634033203121"
+      },
+      "horizontal_distance" : "4401.180925726036",
+      "vertical_distance"   : "895.0"
+    }
+  }
+]

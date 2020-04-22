@@ -1,0 +1,174 @@
+[
+  {
+    "icao"      : "a7534d",
+    "callsign"  : "N571NA",
+    "nnumber"   : "N571NA",
+    "departure" :
+    {
+      "airport"             : "XA51",
+      "time"                : "2019-07-01 18:32:16",
+      "airport_position"    : 
+      {
+        "altitude"  : "525.0",
+        "latitude"  : "31.41830062866211",
+        "longitude" : "-97.12580108642578"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2350.0000000000005",
+        "latitude"  : "29.61048889160156",
+        "longitude" : "-95.28532174917365"
+      },
+      "horizontal_distance" : "267149.25058897474",
+      "vertical_distance"   : "1825.0000000000005"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHOU",
+      "time"                : "2019-07-01 19:02:21",
+      "airport_position"    : 
+      {
+        "altitude"  : "46.0",
+        "latitude"  : "29.64539909",
+        "longitude" : "-95.27890015"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-125.0",
+        "latitude"  : "31.39454987089513",
+        "longitude" : "-97.11507568359377"
+      },
+      "horizontal_distance" : "262021.77006602898",
+      "vertical_distance"   : "-171.0"
+    }
+  },
+  {
+    "icao"      : "a7534d",
+    "callsign"  : "DCM6074",
+    "nnumber"   : "N571NA",
+    "departure" :
+    {
+      "airport"             : "KHOU",
+      "time"                : "2019-07-01 19:53:08",
+      "airport_position"    : 
+      {
+        "altitude"  : "46.0",
+        "latitude"  : "29.64539909",
+        "longitude" : "-95.27890015"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2350.0000000000005",
+        "latitude"  : "29.61048889160156",
+        "longitude" : "-95.28532174917365"
+      },
+      "horizontal_distance" : "3919.316521734149",
+      "vertical_distance"   : "2304.0000000000005"
+    },
+    "arrival"   :
+    {
+      "airport"             : "XA51",
+      "time"                : "2019-07-01 20:18:38",
+      "airport_position"    : 
+      {
+        "altitude"  : "525.0",
+        "latitude"  : "31.41830062866211",
+        "longitude" : "-97.12580108642578"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-125.0",
+        "latitude"  : "31.39454987089513",
+        "longitude" : "-97.11507568359377"
+      },
+      "horizontal_distance" : "2824.0216906846613",
+      "vertical_distance"   : "-650.0"
+    }
+  },
+  {
+    "icao"      : "a7534d",
+    "callsign"  : "DCM6074",
+    "nnumber"   : "N571NA",
+    "departure" :
+    {
+      "airport"             : "5TA2",
+      "time"                : "2019-07-01 23:26:16",
+      "airport_position"    : 
+      {
+        "altitude"  : "740.0",
+        "latitude"  : "31.454599380493164",
+        "longitude" : "-97.25029754638672"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5124.999999999999",
+        "latitude"  : "31.433560646186443",
+        "longitude" : "-97.27135620117184"
+      },
+      "horizontal_distance" : "3073.890570631755",
+      "vertical_distance"   : "4384.999999999999"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHOU",
+      "time"                : "2019-07-01 23:59:53",
+      "airport_position"    : 
+      {
+        "altitude"  : "46.0",
+        "latitude"  : "29.64539909",
+        "longitude" : "-95.27890015"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1124.9999999999998",
+        "latitude"  : "29.69115693690413",
+        "longitude" : "-95.33278521369488"
+      },
+      "horizontal_distance" : "7275.774430305873",
+      "vertical_distance"   : "1078.9999999999998"
+    }
+  },
+  {
+    "icao"      : "a7534d",
+    "callsign"  : "DCM6074",
+    "nnumber"   : "N571NA",
+    "departure" :
+    {
+      "airport"             : "KHOU",
+      "time"                : "2019-07-02 00:32:19",
+      "airport_position"    : 
+      {
+        "altitude"  : "46.0",
+        "latitude"  : "29.64539909",
+        "longitude" : "-95.27890015"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "3250.0",
+        "latitude"  : "29.60755920410156",
+        "longitude" : "-95.27317340557393"
+      },
+      "horizontal_distance" : "4230.91453059456",
+      "vertical_distance"   : "3204.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "XA15",
+      "time"                : "2019-07-02 00:57:03",
+      "airport_position"    : 
+      {
+        "altitude"  : "425.0",
+        "latitude"  : "31.4269008636",
+        "longitude" : "-96.9796981812"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "3900.0",
+        "latitude"  : "31.42825369107521",
+        "longitude" : "-96.98609619140628"
+      },
+      "horizontal_distance" : "626.5146353309208",
+      "vertical_distance"   : "3475.0"
+    }
+  }
+]

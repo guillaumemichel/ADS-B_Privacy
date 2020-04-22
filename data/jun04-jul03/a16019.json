@@ -1,0 +1,331 @@
+[
+  {
+    "icao"      : "a16019",
+    "callsign"  : "DCM2210",
+    "nnumber"   : "N188TM",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-06-04 23:47:47",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "12000.0",
+        "latitude"  : "30.0443115234375",
+        "longitude" : "-95.02683751723343"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHOU",
+      "time"                : "2019-06-04 23:58:23",
+      "airport_position"    : 
+      {
+        "altitude"  : "46.0",
+        "latitude"  : "29.64539909",
+        "longitude" : "-95.27890015"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1325.0",
+        "latitude"  : "29.71494513042902",
+        "longitude" : "-95.36175896139707"
+      },
+      "horizontal_distance" : "11124.418148955874",
+      "vertical_distance"   : "1279.0"
+    }
+  },
+  {
+    "icao"      : "a16019",
+    "callsign"  : "DCM2210",
+    "nnumber"   : "N188TM",
+    "departure" :
+    {
+      "airport"             : "KHOU",
+      "time"                : "2019-06-05 20:23:12",
+      "airport_position"    : 
+      {
+        "altitude"  : "46.0",
+        "latitude"  : "29.64539909",
+        "longitude" : "-95.27890015"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1325.0",
+        "latitude"  : "29.63129075907044",
+        "longitude" : "-95.26288200827207"
+      },
+      "horizontal_distance" : "2202.6287657830053",
+      "vertical_distance"   : "1279.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDAL",
+      "time"                : "2019-06-05 21:29:37",
+      "airport_position"    : 
+      {
+        "altitude"  : "487.0",
+        "latitude"  : "32.847099",
+        "longitude" : "-96.851799"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "825.0",
+        "latitude"  : "32.869929944054554",
+        "longitude" : "-96.87144376793684"
+      },
+      "horizontal_distance" : "3129.2422844185494",
+      "vertical_distance"   : "338.0"
+    }
+  },
+  {
+    "icao"      : "a16019",
+    "callsign"  : "DCM2210",
+    "nnumber"   : "N188TM",
+    "departure" :
+    {
+      "airport"             : "KDAL",
+      "time"                : "2019-06-08 14:30:46",
+      "airport_position"    : 
+      {
+        "altitude"  : "487.0",
+        "latitude"  : "32.847099",
+        "longitude" : "-96.851799"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1175.0",
+        "latitude"  : "32.86102294921875",
+        "longitude" : "-96.86112670898441"
+      },
+      "horizontal_distance" : "1773.949347206245",
+      "vertical_distance"   : "688.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "05TX",
+      "time"                : "2019-06-08 14:44:18",
+      "airport_position"    : 
+      {
+        "altitude"  : "608.0",
+        "latitude"  : "32.129199981689446",
+        "longitude" : "-97.4041976928711"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "6450.0",
+        "latitude"  : "32.10479736328125",
+        "longitude" : "-97.46361694335934"
+      },
+      "horizontal_distance" : "6226.328075626687",
+      "vertical_distance"   : "5842.0"
+    }
+  },
+  {
+    "icao"      : "a16019",
+    "callsign"  : "DCM2210",
+    "nnumber"   : "N188TM",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-06-09 13:28:10",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "6574.999999999999",
+        "latitude"  : "32.092666625976555",
+        "longitude" : "-97.70213012695315"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDAL",
+      "time"                : "2019-06-09 13:51:21",
+      "airport_position"    : 
+      {
+        "altitude"  : "487.0",
+        "latitude"  : "32.847099",
+        "longitude" : "-96.851799"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "700.0",
+        "latitude"  : "32.867202758789055",
+        "longitude" : "-96.86832275390623"
+      },
+      "horizontal_distance" : "2713.5026139174865",
+      "vertical_distance"   : "213.0"
+    }
+  },
+  {
+    "icao"      : "a16019",
+    "callsign"  : "DCM2210",
+    "nnumber"   : "N188TM",
+    "departure" :
+    {
+      "airport"             : "KDAL",
+      "time"                : "2019-06-14 22:19:04",
+      "airport_position"    : 
+      {
+        "altitude"  : "487.0",
+        "latitude"  : "32.847099",
+        "longitude" : "-96.851799"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1424.9999999999998",
+        "latitude"  : "32.838088989257805",
+        "longitude" : "-96.83388061523435"
+      },
+      "horizontal_distance" : "1952.5495006262338",
+      "vertical_distance"   : "937.9999999999998"
+    },
+    "arrival"   :
+    {
+      "airport"             : "8TS7",
+      "time"                : "2019-06-14 22:38:39",
+      "airport_position"    : 
+      {
+        "altitude"  : "615.0",
+        "latitude"  : "32.24489974975586",
+        "longitude" : "-97.7260971069336"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5649.999999999999",
+        "latitude"  : "32.21084336103019",
+        "longitude" : "-97.7783203125"
+      },
+      "horizontal_distance" : "6204.286817695618",
+      "vertical_distance"   : "5034.999999999999"
+    }
+  },
+  {
+    "icao"      : "a16019",
+    "callsign"  : "DCM2210",
+    "nnumber"   : "N188TM",
+    "departure" :
+    {
+      "airport"             : "TS03",
+      "time"                : "2019-06-15 19:50:54",
+      "airport_position"    : 
+      {
+        "altitude"  : "914.0",
+        "latitude"  : "32.06150054931641",
+        "longitude" : "-97.73780059814452"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "7575.0",
+        "latitude"  : "32.12965625827595",
+        "longitude" : "-97.67608019770408"
+      },
+      "horizontal_distance" : "9542.639332446464",
+      "vertical_distance"   : "6661.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDAL",
+      "time"                : "2019-06-15 20:14:56",
+      "airport_position"    : 
+      {
+        "altitude"  : "487.0",
+        "latitude"  : "32.847099",
+        "longitude" : "-96.851799"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "874.9999999999999",
+        "latitude"  : "32.86843872070312",
+        "longitude" : "-96.86958618164059"
+      },
+      "horizontal_distance" : "2893.5908928285353",
+      "vertical_distance"   : "387.9999999999999"
+    }
+  },
+  {
+    "icao"      : "a16019",
+    "callsign"  : "DCM2210",
+    "nnumber"   : "N188TM",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-06-23 16:20:45",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "38850.0",
+        "latitude"  : "31.65617344743114",
+        "longitude" : "-84.34528198242185"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDAL",
+      "time"                : "2019-06-23 18:21:34",
+      "airport_position"    : 
+      {
+        "altitude"  : "487.0",
+        "latitude"  : "32.847099",
+        "longitude" : "-96.851799"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "40000.0",
+        "latitude"  : "31.687223790055608",
+        "longitude" : "-84.58258666992185"
+      },
+      "horizontal_distance" : "1162444.839903099",
+      "vertical_distance"   : "39513.0"
+    }
+  },
+  {
+    "icao"      : "a16019",
+    "callsign"  : "DCM2210",
+    "nnumber"   : "N188TM",
+    "departure" :
+    {
+      "airport"             : "KDAL",
+      "time"                : "2019-07-03 23:34:22",
+      "airport_position"    : 
+      {
+        "altitude"  : "487.0",
+        "latitude"  : "32.847099",
+        "longitude" : "-96.851799"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1124.9999999999998",
+        "latitude"  : "32.844314575195305",
+        "longitude" : "-96.84190063476565"
+      },
+      "horizontal_distance" : "976.7389584521875",
+      "vertical_distance"   : "637.9999999999998"
+    },
+    "arrival"   :
+    {
+      "airport"             : "8TS7",
+      "time"                : "2019-07-03 23:52:27",
+      "airport_position"    : 
+      {
+        "altitude"  : "615.0",
+        "latitude"  : "32.24489974975586",
+        "longitude" : "-97.7260971069336"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "4900.0",
+        "latitude"  : "32.25078518107786",
+        "longitude" : "-97.70511549346298"
+      },
+      "horizontal_distance" : "2082.1926786292547",
+      "vertical_distance"   : "4285.0"
+    }
+  }
+]

@@ -115,12 +115,14 @@ def addSheet(wb, filename):
     for f in allFlights.elements:
         ws.cell(row=row_data, column=col_icao).value = f.icao.strip()
         ws.cell(row=row_data, column=col_callsign).value = f.callsign.strip()
-        if 'None' not in f.nnumber:
+        if f.nnumber is not None:
+        #if 'None' not in f.nnumber:
             ws.cell(row=row_data, column=col_nnumber).value = f.nnumber
 
-        if 'None' not in f.departure.airport:
+        if f.departure.airport is not None:
+        #if 'None' not in f.departure.airport:
             ws.cell(row=row_data, column=col_dep_ap).value = f.departure.airport
-        ws.cell(row=row_data, column=col_dep_time).value = f.departure.time[:19]
+        ws.cell(row=row_data, column=col_dep_time).value = str(f.departure.time)
         if f.departure.airport_position is not None:
             ws.cell(row=row_data, column=col_dep_ap_pos_lat).value = f.departure.airport_position.latitude
             ws.cell(row=row_data, column=col_dep_ap_pos_lon).value = f.departure.airport_position.longitude
@@ -131,9 +133,10 @@ def addSheet(wb, filename):
             ws.cell(row=row_data, column=col_dep_ac_pos_alt).value = f.departure.aircraft_position.altitude
 
 
-        if 'None' not in f.arrival.airport:
+        if f.arrival.airport is not None:
+        #if 'None' not in f.arrival.airport:
             ws.cell(row=row_data, column=col_arr_ap).value = f.arrival.airport
-        ws.cell(row=row_data, column=col_arr_time).value = f.arrival.time[:19]
+        ws.cell(row=row_data, column=col_arr_time).value = str(f.arrival.time)
         if f.arrival.airport_position is not None:
             ws.cell(row=row_data, column=col_arr_ap_pos_lat).value = f.arrival.airport_position.latitude
             ws.cell(row=row_data, column=col_arr_ap_pos_lon).value = f.arrival.airport_position.longitude

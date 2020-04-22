@@ -1,0 +1,40 @@
+[
+  {
+    "icao"      : "a9c5cf",
+    "callsign"  : "DCM4172",
+    "nnumber"   : "N729JM",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-06-30 15:54:57",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "32900.0",
+        "latitude"  : "34.45089049258475",
+        "longitude" : "-99.87693786621094"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDAL",
+      "time"                : "2019-06-30 16:19:17",
+      "airport_position"    : 
+      {
+        "altitude"  : "487.0",
+        "latitude"  : "32.847099",
+        "longitude" : "-96.851799"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "650.0",
+        "latitude"  : "32.87283325195312",
+        "longitude" : "-96.8748046875"
+      },
+      "horizontal_distance" : "3575.2053157647124",
+      "vertical_distance"   : "163.0"
+    }
+  }
+]

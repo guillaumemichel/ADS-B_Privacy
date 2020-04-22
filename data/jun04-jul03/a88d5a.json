@@ -1,0 +1,111 @@
+[
+  {
+    "icao"      : "a88d5a",
+    "callsign"  : "DCM3350",
+    "nnumber"   : "N650GK",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-06-07 18:32:23",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "8700.0",
+        "latitude"  : "29.92570495605469",
+        "longitude" : "-95.70545869715073"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-06-07 20:13:12",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "28275.000000000004",
+        "latitude"  : "29.71219854839777",
+        "longitude" : "-94.26221062155331"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a88d5a",
+    "callsign"  : "DCM3350",
+    "nnumber"   : "N650GK",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-06-07 21:17:30",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "16025.0",
+        "latitude"  : "26.005709373344807",
+        "longitude" : "-80.3731771615835"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "94XS",
+      "time"                : "2019-06-07 23:29:50",
+      "airport_position"    : 
+      {
+        "altitude"  : "103.0",
+        "latitude"  : "29.6544",
+        "longitude" : "-95.829399"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "37975.0",
+        "latitude"  : "28.13365173339844",
+        "longitude" : "-85.36509000338042"
+      },
+      "horizontal_distance" : "1034108.3294278687",
+      "vertical_distance"   : "37872.0"
+    }
+  },
+  {
+    "icao"      : "a88d5a",
+    "callsign"  : "DCM3350",
+    "nnumber"   : "N650GK",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-06-28 14:24:18",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "32500.0",
+        "latitude"  : "26.16296283269332",
+        "longitude" : "-80.05003122182991"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHOU",
+      "time"                : "2019-06-28 16:22:13",
+      "airport_position"    : 
+      {
+        "altitude"  : "46.0",
+        "latitude"  : "29.64539909",
+        "longitude" : "-95.27890015"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "40000.0",
+        "latitude"  : "27.58508714578919",
+        "longitude" : "-84.6897477370042"
+      },
+      "horizontal_distance" : "1060034.5276663715",
+      "vertical_distance"   : "39954.0"
+    }
+  }
+]

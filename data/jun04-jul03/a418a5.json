@@ -1,0 +1,78 @@
+[
+  {
+    "icao"      : "a418a5",
+    "callsign"  : "DCM3627",
+    "nnumber"   : "N363NH",
+    "departure" :
+    {
+      "airport"             : "KROC",
+      "time"                : "2019-06-07 12:08:33",
+      "airport_position"    : 
+      {
+        "altitude"  : "559.0",
+        "latitude"  : "43.118900299072266",
+        "longitude" : "-77.67240142822266"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "4024.9999999999995",
+        "latitude"  : "43.10165405273438",
+        "longitude" : "-77.75752577670784"
+      },
+      "horizontal_distance" : "7188.724296645876",
+      "vertical_distance"   : "3465.9999999999995"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2019-06-07 14:27:48",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "38000.0",
+        "latitude"  : "38.11180114746094",
+        "longitude" : "-82.07482520570147"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a418a5",
+    "callsign"  : "DCM3627",
+    "nnumber"   : "N363NH",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-06-07 20:56:39",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "39000.0",
+        "latitude"  : "37.448342533434854",
+        "longitude" : "-86.39726058296537"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "20NY",
+      "time"                : "2019-06-07 22:04:40",
+      "airport_position"    : 
+      {
+        "altitude"  : "891.0",
+        "latitude"  : "43.0088996887207",
+        "longitude" : "-78.04309844970703"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2950.0000000000005",
+        "latitude"  : "43.02937316894531",
+        "longitude" : "-77.88802036019257"
+      },
+      "horizontal_distance" : "12844.275192249968",
+      "vertical_distance"   : "2059.0000000000005"
+    }
+  }
+]

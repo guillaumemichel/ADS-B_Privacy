@@ -2,8 +2,9 @@ from flights import flightsFromFile
 from datetime import datetime
 from geopy.distance import geodesic
 from math import sqrt
+from matplotlib import pyplot as plt
 
-allFlights = flightsFromFile('../data/flight_lists/2019-09_2020-03.json')
+allFlights = flightsFromFile('../data/flight_lists/2019-06_2020-03.json')
 
 time_format = '%Y-%m-%d %H:%M:%S'
 
@@ -23,6 +24,25 @@ def stddev(elements):
 
 def date(string):
     return datetime.strptime(string, time_format)
+
+def plotAirportPopularity(airportsfreq, threshold):
+    # data = [(airport0, frequency0), (airport1, frequency1), ...]
+    #airports = [d for d in data]
+    #freq = [data[d] for d in data]
+    data=dict()
+    for a in airportsfreq:
+        if airportsfreq[a]>=threshold:
+            data[a]=airportsfreq[a]
+
+    fig, ax = plt.subplots()
+    ax.bar(list(data.keys()), list(data.values()), 0.35, label='Airport frequentation')
+
+    ax.set_xlabel('Airports')
+    ax.set_ylabel('Frequentation')
+    ax.set_title('Airport frequentation')
+    ax.legend()
+
+    plt.show()
 
 def getUSAirportsICAOs():
     f=open('../data/usAirportsICAOs.json', 'r')
@@ -88,9 +108,12 @@ def filterAircraft(by_aircraft):
     return new_aircraft
 
 def filterFlights(flights):
+    # filter flights that take off and land to non None US airports
+    # and registered in the US
     return [f for f in flights if f.departure.airport is not None and \
         f.departure.airport in usAirportsICAOs and \
-        f.arrival.airport is not None and f.arrival.airport in usAirportsICAOs]
+        f.arrival.airport is not None and f.arrival.airport in usAirportsICAOs and \
+        f.icao[0]=='a']
 
 def airportsPerAircraft(flights):
     airports=dict()
@@ -108,7 +131,71 @@ def airportsPerAircraft(flights):
             continue
         print(a, airports[a])
 
+def getHomeAirport(flights):
+    airportfreq=dict()
+    for f in flights:
+        if f.icao not in airportfreq:
+            airportfreq[f.icao]=dict()
 
+        if f.departure.airport not in airportfreq[f.icao]:
+            airportfreq[f.icao][f.departure.airport]=0
+        if f.arrival.airport not in airportfreq[f.icao]:
+            airportfreq[f.icao][f.arrival.airport]=0
+
+        airportfreq[f.icao][f.departure.airport]+=1
+        airportfreq[f.icao][f.arrival.airport]+=1
+
+    homes=dict()
+    for icao in airportfreq:
+        most = (None, 0)
+        secd = (None, 0)
+        for a in airportfreq[icao]:
+            if a is None:
+                continue
+            if airportfreq[icao][a]>most[1]:
+                secd=most
+                most=(a, airportfreq[icao][a])
+            elif airportfreq[icao][a]>secd[1]:
+                secd=(a, airportfreq[icao][a])
+        """
+        if most[1]-secd[1] >= 3:
+            homes[icao]=most[0]
+            print(icao)
+            print(airportfreq[icao])
+        else:
+            homes[icao]=None
+            print(icao)
+            print(airportfreq[icao])
+        """
+        if most[1]>=6:
+            homes[icao]=most[0]
+        else:
+            homes[icao]=None
+            #print(icao)
+            #print(airportfreq[icao])
+
+    return homes
+
+def getDestinations(flights, homes):
+    # takes a map from icao to home, and a list of flights as parameter
+    # return a list of airport frequentations, excluding home airports
+    destinations=dict()
+    for f in flights:
+        ok=f.icao not in homes or homes[f.icao] is None
+        # dep
+        if ok or f.departure.airport != homes[f.icao]:
+            if f.departure.airport not in destinations:
+                destinations[f.departure.airport]=0
+            destinations[f.departure.airport]+=1
+
+        #arr
+        if ok or f.arrival.airport != homes[f.icao]:
+            if f.arrival.airport not in destinations:
+                destinations[f.arrival.airport]=0
+            destinations[f.arrival.airport]+=1
+
+    return destinations
+        
 
 # only aircraft which n% of their flight have both departure and arrival airports
 # are taken into account
@@ -116,6 +203,9 @@ accurateFlightPercentagePerAircraft = 85
 
 # minimal number of DCM or FFL callsigns that an aircraft should use to be valid
 minDCMFFLthreshold = 2
+
+# minimal number of flights that an aircraft should make to be taken into consideration
+aircraftFlightsLimit = 8
 
 # valid callsigns
 callsigns = ['DCM', 'FFL']
@@ -132,12 +222,16 @@ if __name__ == "__main__":
 
     our_aircraft=filterAircraft(getAircraftByIcao())
 
+    airportsfreq = dict()
+    aircraftWithNumerousFlights=list()
     for ac in our_aircraft:
-        print(ac)
+        #print(ac)
         flights = filterFlights(our_aircraft[ac])
-        airportsPerAircraft(flights)
+        #airportsPerAircraft(flights)
         if len(flights)==0:
             continue
+        elif len(flights)>aircraftFlightsLimit:
+            aircraftWithNumerousFlights.extend(flights)
         distances = list()
         shortFlights=0
         for f in flights:
@@ -146,11 +240,34 @@ if __name__ == "__main__":
                 distances.append(d)
                 if d<200:
                     shortFlights+=1
-        
+
+            if f.departure.airport not in airportsfreq:
+                airportsfreq[f.departure.airport]=0
+            airportsfreq[f.departure.airport]+=1
+
+            if f.arrival.airport not in airportsfreq:
+                airportsfreq[f.arrival.airport]=0
+            airportsfreq[f.arrival.airport]+=1
+
+        """
         print('Elements:', len(distances))
         print(distances)
         print('Average:', avg(distances))
         print('Standard Deviation:', stddev(distances))
         print('Short Flights:', shortFlights)
-        
         print()
+        """
+    
+    #plotAirportPopularity(airportsfreq,60)
+    homes = getHomeAirport(aircraftWithNumerousFlights)
+    homefreq=dict()
+    for icao in homes:
+        if homes[icao] is None:
+            continue
+        if homes[icao] not in homefreq:
+            homefreq[homes[icao]]=0
+        homefreq[homes[icao]]+=1
+    #plotAirportPopularity(homefreq, 2)
+
+    destinations=getDestinations(aircraftWithNumerousFlights, homes)
+    plotAirportPopularity(destinations, 40)

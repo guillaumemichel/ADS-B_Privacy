@@ -1,0 +1,40 @@
+[
+  {
+    "icao"      : "a05f5a",
+    "callsign"  : "DCM4133",
+    "nnumber"   : "N123FF",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2019-06-10 11:53:14",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "15849.999999999998",
+        "latitude"  : "43.326400498212394",
+        "longitude" : "-70.6512451171875"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "SC45",
+      "time"                : "2019-06-10 14:04:47",
+      "airport_position"    : 
+      {
+        "altitude"  : "551.0",
+        "latitude"  : "33.88399887084961",
+        "longitude" : "-81.38179779052734"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2925.0000000000005",
+        "latitude"  : "33.795295327396715",
+        "longitude" : "-81.46162033081055"
+      },
+      "horizontal_distance" : "12304.092268051685",
+      "vertical_distance"   : "2374.0000000000005"
+    }
+  }
+]
