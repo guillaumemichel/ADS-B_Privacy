@@ -6,7 +6,7 @@ Show flights that include a given N-Number, ICAO or Callsign
 """
 
 if __name__ == "__main__":
-    allFlights = flightsFromFile('../data/flight_lists/2019-11_2020-03.json')
+    allFlights = flightsFromFile('../data/flight_lists/2019-06_2020-04.json')
 
     if len(sys.argv)-1 != 1:
         sys.exit()

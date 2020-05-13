@@ -1,0 +1,45 @@
+[
+  {
+    "icao"      : "a51992",
+    "callsign"  : "DCM4088",
+    "nnumber"   : "N428CJ",
+    "departure" :
+    {
+      "airport"             : "KSDL",
+      "time"                : "2020-04-01 18:22:34",
+      "airport_position"    : 
+      {
+        "altitude"  : "1510.0",
+        "latitude"  : "33.622898101806996",
+        "longitude" : "-111.91100311279"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1600.0",
+        "latitude"  : "33.6241693011785",
+        "longitude" : "-111.90902709960942"
+      },
+      "horizontal_distance" : "231.29820634699934",
+      "vertical_distance"   : "90.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSDL",
+      "time"                : "2020-04-01 18:49:48",
+      "airport_position"    : 
+      {
+        "altitude"  : "1510.0",
+        "latitude"  : "33.622898101806996",
+        "longitude" : "-111.91100311279"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1575.0",
+        "latitude"  : "33.62719519663665",
+        "longitude" : "-111.9055938720703"
+      },
+      "horizontal_distance" : "692.157515935976",
+      "vertical_distance"   : "65.0"
+    }
+  }
+]

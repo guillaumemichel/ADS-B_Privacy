@@ -1,0 +1,68 @@
+[
+  {
+    "icao"      : "3ce12d",
+    "callsign"  : "DCMOR",
+    "nnumber"   : "D-CMOR",
+    "departure" :
+    {
+      "airport"             : "EDDK",
+      "time"                : "2020-04-28 08:02:56",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1550.0",
+        "latitude"  : "50.862835383011124",
+        "longitude" : "7.1550750732421875"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "LSZR",
+      "time"                : "2020-04-28 08:41:57",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "3375.0",
+        "latitude"  : "47.497667215638245",
+        "longitude" : "9.446692833533652"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "3ce12d",
+    "callsign"  : "DCMOR",
+    "nnumber"   : "D-CMOR",
+    "departure" :
+    {
+      "airport"             : "LSZR",
+      "time"                : "2020-04-28 12:09:03",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "4275.0",
+        "latitude"  : "47.500786215572035",
+        "longitude" : "9.521343524639422"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "EDDW",
+      "time"                : "2020-04-28 13:05:38",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "849.9999999999999",
+        "latitude"  : "53.045437053098524",
+        "longitude" : "8.726048060825894"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  }
+]

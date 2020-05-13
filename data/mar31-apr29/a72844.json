@@ -1,0 +1,45 @@
+[
+  {
+    "icao"      : "a72844",
+    "callsign"  : "DCM6737",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KMMK",
+      "time"                : "2020-04-15 20:03:41",
+      "airport_position"    : 
+      {
+        "altitude"  : "103.0",
+        "latitude"  : "41.50870132446289",
+        "longitude" : "-72.82949829101562"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5799.999999999999",
+        "latitude"  : "41.52955627441406",
+        "longitude" : "-72.89222717285156"
+      },
+      "horizontal_distance" : "5725.510065185471",
+      "vertical_distance"   : "5696.999999999999"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KBDR",
+      "time"                : "2020-04-15 20:37:03",
+      "airport_position"    : 
+      {
+        "altitude"  : "9.0",
+        "latitude"  : "41.16350173950195",
+        "longitude" : "-73.1261978149414"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1075.0",
+        "latitude"  : "41.15804381289725",
+        "longitude" : "-73.05852023037997"
+      },
+      "horizontal_distance" : "5712.456851713053",
+      "vertical_distance"   : "1066.0"
+    }
+  }
+]

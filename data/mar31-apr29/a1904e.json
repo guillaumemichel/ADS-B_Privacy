@@ -1,0 +1,45 @@
+[
+  {
+    "icao"      : "a1904e",
+    "callsign"  : "DCM405S",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KFWA",
+      "time"                : "2020-04-28 14:07:57",
+      "airport_position"    : 
+      {
+        "altitude"  : "814.0",
+        "latitude"  : "40.97850037",
+        "longitude" : "-85.19509888"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "3874.9999999999995",
+        "latitude"  : "40.997531696901476",
+        "longitude" : "-85.27581648393112"
+      },
+      "horizontal_distance" : "7113.638179303403",
+      "vertical_distance"   : "3060.9999999999995"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KFWA",
+      "time"                : "2020-04-28 14:30:58",
+      "airport_position"    : 
+      {
+        "altitude"  : "814.0",
+        "latitude"  : "40.97850037",
+        "longitude" : "-85.19509888"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1525.0000000000005",
+        "latitude"  : "41.01347351074219",
+        "longitude" : "-85.15313720703125"
+      },
+      "horizontal_distance" : "5248.837825882793",
+      "vertical_distance"   : "711.0000000000005"
+    }
+  }
+]

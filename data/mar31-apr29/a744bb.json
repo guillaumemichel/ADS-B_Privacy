@@ -1,0 +1,68 @@
+[
+  {
+    "icao"      : "a744bb",
+    "callsign"  : "DCM6247",
+    "nnumber"   : "N568B",
+    "departure" :
+    {
+      "airport"             : "CYHU",
+      "time"                : "2020-04-29 11:13:49",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-125.0",
+        "latitude"  : "45.52036091432733",
+        "longitude" : "-73.41452993997711"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-04-29 11:53:23",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "15249.999999999998",
+        "latitude"  : "49.1986083984375",
+        "longitude" : "-74.42300649789667"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a744bb",
+    "callsign"  : "DCM6247",
+    "nnumber"   : "N568B",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-04-29 22:14:01",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "20875.000000000004",
+        "latitude"  : "49.23321533203125",
+        "longitude" : "-74.51272817758417"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "CYHU",
+      "time"                : "2020-04-29 22:59:23",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-125.0",
+        "latitude"  : "45.52066040039062",
+        "longitude" : "-73.41402871268136"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  }
+]

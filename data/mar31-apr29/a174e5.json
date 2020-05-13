@@ -1,0 +1,40 @@
+[
+  {
+    "icao"      : "a174e5",
+    "callsign"  : "DCM6154",
+    "nnumber"   : "N193SE",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-04-16 17:06:25",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "24025.000000000004",
+        "latitude"  : "30.766373973781782",
+        "longitude" : "-87.66046142578125"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDTS",
+      "time"                : "2020-04-16 17:22:12",
+      "airport_position"    : 
+      {
+        "altitude"  : "23.0",
+        "latitude"  : "30.40010071",
+        "longitude" : "-86.47149658"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-250.0",
+        "latitude"  : "30.397168175648826",
+        "longitude" : "-86.47124633789062"
+      },
+      "horizontal_distance" : "325.98658465951274",
+      "vertical_distance"   : "-273.0"
+    }
+  }
+]

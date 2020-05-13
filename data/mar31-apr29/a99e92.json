@@ -1,0 +1,40 @@
+[
+  {
+    "icao"      : "a99e92",
+    "callsign"  : "DCM4241",
+    "nnumber"   : "N719MC",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-04-18 18:02:23",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "10025.0",
+        "latitude"  : "26.441764184984105",
+        "longitude" : "-80.35337007962741"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "75MI",
+      "time"                : "2020-04-18 20:36:16",
+      "airport_position"    : 
+      {
+        "altitude"  : "795.0",
+        "latitude"  : "42.97140121459961",
+        "longitude" : "-82.8478012084961"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5074.999999999999",
+        "latitude"  : "42.923583984375",
+        "longitude" : "-82.84981661064681"
+      },
+      "horizontal_distance" : "5314.6437682421165",
+      "vertical_distance"   : "4279.999999999999"
+    }
+  }
+]

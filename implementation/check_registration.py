@@ -7,7 +7,7 @@ from openpyxl.workbook import Workbook
 For a list of flights, check the faa registration associated with the icao address
 """
 
-allFlights = flightsFromFile('../data/flight_lists/2019-11_2020-03.json')
+allFlights = flightsFromFile('../data/flight_lists/2019-06_2020-04.json')
 icaos = set()
 for f in allFlights.elements:
     icaos.add(f.icao)
@@ -72,6 +72,8 @@ for e in sorted(callsigns):
         j+=1
     i+=1
 
+if None in airports:
+    del airports[None]
 for e in sorted(airports):
     ws.cell(row=i, column=1).value = e
     j = 2

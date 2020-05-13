@@ -1,0 +1,207 @@
+[
+  {
+    "icao"      : "a37297",
+    "callsign"  : "DCM501",
+    "nnumber"   : "N321FU",
+    "departure" :
+    {
+      "airport"             : "7FL6",
+      "time"                : "2020-04-15 12:03:05",
+      "airport_position"    : 
+      {
+        "altitude"  : "24.0",
+        "latitude"  : "29.0802001953125",
+        "longitude" : "-81.04669952392578"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "600.0",
+        "latitude"  : "29.07009887695312",
+        "longitude" : "-81.0607205904447"
+      },
+      "horizontal_distance" : "1765.5868497589724",
+      "vertical_distance"   : "576.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "MA36",
+      "time"                : "2020-04-15 15:31:36",
+      "airport_position"    : 
+      {
+        "altitude"  : "61.0",
+        "latitude"  : "42.666500091552734",
+        "longitude" : "-70.85299682617188"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "19500.0",
+        "latitude"  : "29.540886313228285",
+        "longitude" : "-81.08464858111216"
+      },
+      "horizontal_distance" : "1720350.4699908497",
+      "vertical_distance"   : "19439.0"
+    }
+  },
+  {
+    "icao"      : "a37297",
+    "callsign"  : "DCM506",
+    "nnumber"   : "N321FU",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-04-15 18:41:05",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "14100.0",
+        "latitude"  : "43.185905844478285",
+        "longitude" : "-71.42872401646206"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KTHV",
+      "time"                : "2020-04-15 20:20:21",
+      "airport_position"    : 
+      {
+        "altitude"  : "495.0",
+        "latitude"  : "39.91699982",
+        "longitude" : "-76.8730011"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "13900.0",
+        "latitude"  : "42.51493835449219",
+        "longitude" : "-73.48311684348369"
+      },
+      "horizontal_distance" : "404971.10063567385",
+      "vertical_distance"   : "13405.0"
+    }
+  },
+  {
+    "icao"      : "a37297",
+    "callsign"  : "DCM503",
+    "nnumber"   : "N321FU",
+    "departure" :
+    {
+      "airport"             : "KTHV",
+      "time"                : "2020-04-17 12:49:41",
+      "airport_position"    : 
+      {
+        "altitude"  : "495.0",
+        "latitude"  : "39.91699982",
+        "longitude" : "-76.8730011"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1000.0",
+        "latitude"  : "39.902110988810904",
+        "longitude" : "-76.86273193359375"
+      },
+      "horizontal_distance" : "1871.8784109742812",
+      "vertical_distance"   : "505.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "NH61",
+      "time"                : "2020-04-17 14:02:44",
+      "airport_position"    : 
+      {
+        "altitude"  : "188.0",
+        "latitude"  : "42.96810150146485",
+        "longitude" : "-71.18119812011719"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "4800.0",
+        "latitude"  : "43.03167828058792",
+        "longitude" : "-71.09141758510044"
+      },
+      "horizontal_distance" : "10172.461423777162",
+      "vertical_distance"   : "4612.0"
+    }
+  },
+  {
+    "icao"      : "a37297",
+    "callsign"  : "DCM504",
+    "nnumber"   : "N321FU",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-04-17 14:57:37",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "13900.0",
+        "latitude"  : "43.19393920898438",
+        "longitude" : "-71.26275350881173"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "20SC",
+      "time"                : "2020-04-17 18:33:54",
+      "airport_position"    : 
+      {
+        "altitude"  : "929.0",
+        "latitude"  : "35.006500244140625",
+        "longitude" : "-82.26429748535156"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "11699.999999999998",
+        "latitude"  : "38.11748439982786",
+        "longitude" : "-78.92124341881794"
+      },
+      "horizontal_distance" : "456808.97729577054",
+      "vertical_distance"   : "10770.999999999998"
+    }
+  },
+  {
+    "icao"      : "a37297",
+    "callsign"  : "DCM518",
+    "nnumber"   : "N321FU",
+    "departure" :
+    {
+      "airport"             : "SC97",
+      "time"                : "2020-04-17 19:59:01",
+      "airport_position"    : 
+      {
+        "altitude"  : "920.0",
+        "latitude"  : "34.726699829101555",
+        "longitude" : "-82.3396987915039"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5300.0",
+        "latitude"  : "34.66635131835938",
+        "longitude" : "-82.35592589086417"
+      },
+      "horizontal_distance" : "6857.87193656933",
+      "vertical_distance"   : "4380.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "7FL6",
+      "time"                : "2020-04-17 21:23:38",
+      "airport_position"    : 
+      {
+        "altitude"  : "24.0",
+        "latitude"  : "29.0802001953125",
+        "longitude" : "-81.04669952392578"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "22000.0",
+        "latitude"  : "32.708672992253696",
+        "longitude" : "-81.87953404017857"
+      },
+      "horizontal_distance" : "410080.3797029622",
+      "vertical_distance"   : "21976.0"
+    }
+  }
+]

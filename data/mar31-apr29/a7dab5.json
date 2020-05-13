@@ -1,0 +1,116 @@
+[
+  {
+    "icao"      : "a7dab5",
+    "callsign"  : "DCM6944",
+    "nnumber"   : "N605KB",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-04-02 15:08:39",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "17599.999999999996",
+        "latitude"  : "44.757788706633995",
+        "longitude" : "-85.44100877715317"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KTYQ",
+      "time"                : "2020-04-02 15:46:06",
+      "airport_position"    : 
+      {
+        "altitude"  : "922.0",
+        "latitude"  : "40.030701",
+        "longitude" : "-86.25140400000001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2600.0",
+        "latitude"  : "39.99847412109375",
+        "longitude" : "-86.31034157492901"
+      },
+      "horizontal_distance" : "6174.436061705494",
+      "vertical_distance"   : "1678.0"
+    }
+  },
+  {
+    "icao"      : "a7dab5",
+    "callsign"  : "DCM6944",
+    "nnumber"   : "N605KB",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-04-19 15:15:53",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "19700.0",
+        "latitude"  : "44.71589169259799",
+        "longitude" : "-85.44985143149772"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "K5I4",
+      "time"                : "2020-04-19 15:55:59",
+      "airport_position"    : 
+      {
+        "altitude"  : "936.0",
+        "latitude"  : "40.17789840698242",
+        "longitude" : "-86.21730041503906"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2675.0",
+        "latitude"  : "40.09336853027344",
+        "longitude" : "-86.248779296875"
+      },
+      "horizontal_distance" : "9761.844760326658",
+      "vertical_distance"   : "1739.0"
+    }
+  },
+  {
+    "icao"      : "a7dab5",
+    "callsign"  : "DCM6944",
+    "nnumber"   : "N605KB",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-04-25 14:19:12",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "20025.0",
+        "latitude"  : "44.73590915485964",
+        "longitude" : "-85.33215034298779"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "02II",
+      "time"                : "2020-04-25 15:00:36",
+      "airport_position"    : 
+      {
+        "altitude"  : "925.0",
+        "latitude"  : "40.06230163574219",
+        "longitude" : "-86.21050262451172"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "3000.0",
+        "latitude"  : "40.088273387844275",
+        "longitude" : "-86.2591552734375"
+      },
+      "horizontal_distance" : "5053.652012622421",
+      "vertical_distance"   : "2075.0"
+    }
+  }
+]

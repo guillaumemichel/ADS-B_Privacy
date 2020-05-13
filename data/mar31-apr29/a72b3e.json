@@ -1,0 +1,154 @@
+[
+  {
+    "icao"      : "a72b3e",
+    "callsign"  : "DCM1610",
+    "nnumber"   : "N561GG",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-04-26 16:10:16",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "15900.000000000004",
+        "latitude"  : "33.266464233398445",
+        "longitude" : "-82.90437011718753"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KPDK",
+      "time"                : "2020-04-26 16:35:56",
+      "airport_position"    : 
+      {
+        "altitude"  : "1003.0",
+        "latitude"  : "33.8755989075",
+        "longitude" : "-84.3020019531"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "899.9999999999999",
+        "latitude"  : "33.87533569335938",
+        "longitude" : "-84.30101044323979"
+      },
+      "horizontal_distance" : "96.26783823422791",
+      "vertical_distance"   : "-103.00000000000011"
+    }
+  },
+  {
+    "icao"      : "a72b3e",
+    "callsign"  : "DCM1610",
+    "nnumber"   : "N561GG",
+    "departure" :
+    {
+      "airport"             : "KPDK",
+      "time"                : "2020-04-26 17:29:38",
+      "airport_position"    : 
+      {
+        "altitude"  : "1003.0",
+        "latitude"  : "33.8755989075",
+        "longitude" : "-84.3020019531"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1200.0",
+        "latitude"  : "33.867963370630285",
+        "longitude" : "-84.3039321899414"
+      },
+      "horizontal_distance" : "865.5592482787856",
+      "vertical_distance"   : "197.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-04-26 17:50:52",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "22900.0",
+        "latitude"  : "33.666183471679695",
+        "longitude" : "-82.63277014907527"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a72b3e",
+    "callsign"  : "DCM1610",
+    "nnumber"   : "N561GG",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-04-27 12:22:01",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "17900.0",
+        "latitude"  : "30.374869653734105",
+        "longitude" : "-81.77349243164062"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KMCF",
+      "time"                : "2020-04-27 13:01:21",
+      "airport_position"    : 
+      {
+        "altitude"  : "14.0",
+        "latitude"  : "27.84930038",
+        "longitude" : "-82.52120209"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "17900.0",
+        "latitude"  : "30.008643198821503",
+        "longitude" : "-81.8834655761719"
+      },
+      "horizontal_distance" : "247274.50120893252",
+      "vertical_distance"   : "17886.0"
+    }
+  },
+  {
+    "icao"      : "a72b3e",
+    "callsign"  : "DCM1610",
+    "nnumber"   : "N561GG",
+    "departure" :
+    {
+      "airport"             : "KTPA",
+      "time"                : "2020-04-29 21:03:54",
+      "airport_position"    : 
+      {
+        "altitude"  : "26.0",
+        "latitude"  : "27.975500106811523",
+        "longitude" : "-82.533203125"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2700.0",
+        "latitude"  : "27.99246577893273",
+        "longitude" : "-82.58891386144302"
+      },
+      "horizontal_distance" : "5794.141632568644",
+      "vertical_distance"   : "2674.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-04-29 21:45:28",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "24900.0",
+        "latitude"  : "30.49900817871094",
+        "longitude" : "-81.49200439453125"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  }
+]

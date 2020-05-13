@@ -1,0 +1,45 @@
+[
+  {
+    "icao"      : "a9a346",
+    "callsign"  : "DCM4496",
+    "nnumber"   : "N72XF",
+    "departure" :
+    {
+      "airport"             : "CT15",
+      "time"                : "2020-04-27 19:17:55",
+      "airport_position"    : 
+      {
+        "altitude"  : "390.0",
+        "latitude"  : "41.94540023803711",
+        "longitude" : "-72.47760009765625"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "7024.999999999999",
+        "latitude"  : "41.88345336914062",
+        "longitude" : "-72.56307428533381"
+      },
+      "horizontal_distance" : "9880.548367724046",
+      "vertical_distance"   : "6634.999999999999"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KPHL",
+      "time"                : "2020-04-27 19:59:03",
+      "airport_position"    : 
+      {
+        "altitude"  : "36.0",
+        "latitude"  : "39.87189865112305",
+        "longitude" : "-75.24109649658203"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "125.0",
+        "latitude"  : "39.876321049059854",
+        "longitude" : "-75.21734619140625"
+      },
+      "horizontal_distance" : "2090.340244919898",
+      "vertical_distance"   : "89.0"
+    }
+  }
+]

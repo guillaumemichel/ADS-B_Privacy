@@ -1,0 +1,45 @@
+[
+  {
+    "icao"      : "a68936",
+    "callsign"  : "DCM6688",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KDAL",
+      "time"                : "2020-04-21 20:57:35",
+      "airport_position"    : 
+      {
+        "altitude"  : "487.0",
+        "latitude"  : "32.847099",
+        "longitude" : "-96.851799"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1250.0",
+        "latitude"  : "32.837539672851555",
+        "longitude" : "-96.84783325195309"
+      },
+      "horizontal_distance" : "1123.276040643172",
+      "vertical_distance"   : "763.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDAL",
+      "time"                : "2020-04-21 21:55:47",
+      "airport_position"    : 
+      {
+        "altitude"  : "487.0",
+        "latitude"  : "32.847099",
+        "longitude" : "-96.851799"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "800.0",
+        "latitude"  : "32.862258911132805",
+        "longitude" : "-96.87612304687497"
+      },
+      "horizontal_distance" : "2830.339933867533",
+      "vertical_distance"   : "313.0"
+    }
+  }
+]

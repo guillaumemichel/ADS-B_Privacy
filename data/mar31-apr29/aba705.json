@@ -1,0 +1,131 @@
+[
+  {
+    "icao"      : "aba705",
+    "callsign"  : "DCM2800",
+    "nnumber"   : "N85WT",
+    "departure" :
+    {
+      "airport"             : "61XS",
+      "time"                : "2020-04-24 13:23:52",
+      "airport_position"    : 
+      {
+        "altitude"  : "100.0",
+        "latitude"  : "29.32439994812012",
+        "longitude" : "-96.0207977294922"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "4499.999999999999",
+        "latitude"  : "29.37281799316406",
+        "longitude" : "-96.13808265099158"
+      },
+      "horizontal_distance" : "12590.624006794747",
+      "vertical_distance"   : "4399.999999999999"
+    },
+    "arrival"   :
+    {
+      "airport"             : "7TA0",
+      "time"                : "2020-04-24 13:36:59",
+      "airport_position"    : 
+      {
+        "altitude"  : "198.0",
+        "latitude"  : "30.092199325561523",
+        "longitude" : "-95.65160369873048"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1799.9999999999998",
+        "latitude"  : "30.1501620017876",
+        "longitude" : "-95.565234375"
+      },
+      "horizontal_distance" : "10514.92056745532",
+      "vertical_distance"   : "1601.9999999999998"
+    }
+  },
+  {
+    "icao"      : "aba705",
+    "callsign"  : "DCM2800",
+    "nnumber"   : "N85WT",
+    "departure" :
+    {
+      "airport"             : "KDWH",
+      "time"                : "2020-04-24 15:16:17",
+      "airport_position"    : 
+      {
+        "altitude"  : "152.0",
+        "latitude"  : "30.0618000031",
+        "longitude" : "-95.5528030396"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2000.0",
+        "latitude"  : "30.04374358613612",
+        "longitude" : "-95.58819580078124"
+      },
+      "horizontal_distance" : "3956.736278911471",
+      "vertical_distance"   : "1848.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KECP",
+      "time"                : "2020-04-24 16:30:50",
+      "airport_position"    : 
+      {
+        "altitude"  : "69.0",
+        "latitude"  : "30.357105999999998",
+        "longitude" : "-85.79541400000001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "16700.0",
+        "latitude"  : "29.880615234375",
+        "longitude" : "-94.38798170823317"
+      },
+      "horizontal_distance" : "829557.9793645685",
+      "vertical_distance"   : "16631.0"
+    }
+  },
+  {
+    "icao"      : "aba705",
+    "callsign"  : "DCM2800",
+    "nnumber"   : "N85WT",
+    "departure" :
+    {
+      "airport"             : "KECP",
+      "time"                : "2020-04-24 17:34:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "69.0",
+        "latitude"  : "30.357105999999998",
+        "longitude" : "-85.79541400000001"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1799.9999999999998",
+        "latitude"  : "30.396004369703395",
+        "longitude" : "-85.80986938476559"
+      },
+      "horizontal_distance" : "4530.5491094347535",
+      "vertical_distance"   : "1730.9999999999998"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDWH",
+      "time"                : "2020-04-24 19:12:18",
+      "airport_position"    : 
+      {
+        "altitude"  : "152.0",
+        "latitude"  : "30.0618000031",
+        "longitude" : "-95.5528030396"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "38000.0",
+        "latitude"  : "30.8485107421875",
+        "longitude" : "-88.88224882238052"
+      },
+      "horizontal_distance" : "646466.4140710211",
+      "vertical_distance"   : "37848.0"
+    }
+  }
+]

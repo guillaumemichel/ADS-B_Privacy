@@ -8,7 +8,7 @@ from os.path import isfile, join
 Create a monthly lists of flights from individual icao recordings
 """
 
-months = ['jun04-jul03', 'jul04-aug02','aug03-sep01','sep02-oct01','oct02-31', 'november_test', 'december01-30_test', 'dec31-jan01_test', 'january02-31_test', 'feb_test', 'march01-30']
+months = ['jun04-jul03', 'jul04-aug02','aug03-sep01','sep02-oct01','oct02-31', 'november_test', 'december01-30_test', 'dec31-jan01_test', 'january02-31_test', 'feb_test', 'march01-30', 'mar31-apr29']
 
 allFlights = Flights()
 

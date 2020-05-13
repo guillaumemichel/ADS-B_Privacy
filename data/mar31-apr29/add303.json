@@ -1,0 +1,45 @@
+[
+  {
+    "icao"      : "add303",
+    "callsign"  : "DCM2217",
+    "nnumber"   : "N990DW",
+    "departure" :
+    {
+      "airport"             : "KMOD",
+      "time"                : "2020-04-16 17:20:34",
+      "airport_position"    : 
+      {
+        "altitude"  : "97.0",
+        "latitude"  : "37.62580109",
+        "longitude" : "-120.9540024"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "424.99999999999994",
+        "latitude"  : "37.62895202636719",
+        "longitude" : "-120.95882983917879"
+      },
+      "horizontal_distance" : "551.2728771140146",
+      "vertical_distance"   : "327.99999999999994"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KMOD",
+      "time"                : "2020-04-16 17:55:48",
+      "airport_position"    : 
+      {
+        "altitude"  : "97.0",
+        "latitude"  : "37.62580109",
+        "longitude" : "-120.9540024"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "350.0",
+        "latitude"  : "37.61448669433594",
+        "longitude" : "-120.9320068359375"
+      },
+      "horizontal_distance" : "2312.519223632824",
+      "vertical_distance"   : "253.0"
+    }
+  }
+]

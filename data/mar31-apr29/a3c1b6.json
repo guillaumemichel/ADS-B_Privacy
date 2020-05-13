@@ -1,0 +1,131 @@
+[
+  {
+    "icao"      : "a3c1b6",
+    "callsign"  : "DCM3411",
+    "nnumber"   : "N341HB",
+    "departure" :
+    {
+      "airport"             : "KEDC",
+      "time"                : "2020-04-05 13:01:52",
+      "airport_position"    : 
+      {
+        "altitude"  : "620.0",
+        "latitude"  : "30.397493100000005",
+        "longitude" : "-97.5663935"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2974.9999999999995",
+        "latitude"  : "30.44041520458157",
+        "longitude" : "-97.56249389648434"
+      },
+      "horizontal_distance" : "4773.052244919616",
+      "vertical_distance"   : "2354.9999999999995"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KAPF",
+      "time"                : "2020-04-05 14:52:49",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.1525993347",
+        "longitude" : "-81.7752990723"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "44749.99999999999",
+        "latitude"  : "29.81611633300781",
+        "longitude" : "-93.5978111853966"
+      },
+      "horizontal_distance" : "1231099.4472221464",
+      "vertical_distance"   : "44741.99999999999"
+    }
+  },
+  {
+    "icao"      : "a3c1b6",
+    "callsign"  : "DCM3411",
+    "nnumber"   : "N341HB",
+    "departure" :
+    {
+      "airport"             : "KAPF",
+      "time"                : "2020-04-05 15:47:38",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.1525993347",
+        "longitude" : "-81.7752990723"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "5400.0",
+        "latitude"  : "26.15803527832031",
+        "longitude" : "-81.8999150114239"
+      },
+      "horizontal_distance" : "12474.357221806647",
+      "vertical_distance"   : "5392.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "56TS",
+      "time"                : "2020-04-05 18:06:24",
+      "airport_position"    : 
+      {
+        "altitude"  : "558.0",
+        "latitude"  : "30.33769989013672",
+        "longitude" : "-97.35030364990234"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "43000.0",
+        "latitude"  : "27.48861694335938",
+        "longitude" : "-85.46383839733194"
+      },
+      "horizontal_distance" : "1200721.2933327733",
+      "vertical_distance"   : "42442.0"
+    }
+  },
+  {
+    "icao"      : "a3c1b6",
+    "callsign"  : "DCM3411",
+    "nnumber"   : "N341HB",
+    "departure" :
+    {
+      "airport"             : "KEDC",
+      "time"                : "2020-04-23 15:08:11",
+      "airport_position"    : 
+      {
+        "altitude"  : "620.0",
+        "latitude"  : "30.397493100000005",
+        "longitude" : "-97.5663935"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "3300.0",
+        "latitude"  : "30.44206237792969",
+        "longitude" : "-97.58029713350186"
+      },
+      "horizontal_distance" : "5118.3224823423425",
+      "vertical_distance"   : "2680.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KGKY",
+      "time"                : "2020-04-23 15:39:45",
+      "airport_position"    : 
+      {
+        "altitude"  : "628.0",
+        "latitude"  : "32.66389846801758",
+        "longitude" : "-97.09429931640624"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1275.0",
+        "latitude"  : "32.62646484375",
+        "longitude" : "-97.08497314453128"
+      },
+      "horizontal_distance" : "4242.539417841142",
+      "vertical_distance"   : "647.0"
+    }
+  }
+]

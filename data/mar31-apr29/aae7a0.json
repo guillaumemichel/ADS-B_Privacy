@@ -1,0 +1,45 @@
+[
+  {
+    "icao"      : "aae7a0",
+    "callsign"  : "DCM4038",
+    "nnumber"   : "N801WZ",
+    "departure" :
+    {
+      "airport"             : "KAPF",
+      "time"                : "2020-04-16 13:38:33",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.1525993347",
+        "longitude" : "-81.7752990723"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "4399.999999999999",
+        "latitude"  : "26.152442026946503",
+        "longitude" : "-81.8783041147085"
+      },
+      "horizontal_distance" : "10299.290678909823",
+      "vertical_distance"   : "4391.999999999999"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDPA",
+      "time"                : "2020-04-16 16:32:28",
+      "airport_position"    : 
+      {
+        "altitude"  : "759.0",
+        "latitude"  : "41.90779877",
+        "longitude" : "-88.24859619"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1175.0",
+        "latitude"  : "41.84637451171875",
+        "longitude" : "-88.26984058726917"
+      },
+      "horizontal_distance" : "7046.680964810767",
+      "vertical_distance"   : "416.0"
+    }
+  }
+]

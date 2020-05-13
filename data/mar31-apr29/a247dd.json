@@ -1,0 +1,207 @@
+[
+  {
+    "icao"      : "a247dd",
+    "callsign"  : "DCM7105",
+    "nnumber"   : "N246SD",
+    "departure" :
+    {
+      "airport"             : "KHQZ",
+      "time"                : "2020-04-15 18:42:03",
+      "airport_position"    : 
+      {
+        "altitude"  : "447.0",
+        "latitude"  : "32.74700164794922",
+        "longitude" : "-96.53040313720705"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "275.00000000000006",
+        "latitude"  : "32.746810913085945",
+        "longitude" : "-96.53049316406248"
+      },
+      "horizontal_distance" : "22.77311535907046",
+      "vertical_distance"   : "-171.99999999999994"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHQZ",
+      "time"                : "2020-04-15 19:04:17",
+      "airport_position"    : 
+      {
+        "altitude"  : "447.0",
+        "latitude"  : "32.74700164794922",
+        "longitude" : "-96.53040313720705"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "200.0",
+        "latitude"  : "32.745495812367594",
+        "longitude" : "-96.53047522720026"
+      },
+      "horizontal_distance" : "167.1337072783924",
+      "vertical_distance"   : "-247.0"
+    }
+  },
+  {
+    "icao"      : "a247dd",
+    "callsign"  : "DCM7105",
+    "nnumber"   : "N246SD",
+    "departure" :
+    {
+      "airport"             : "KHQZ",
+      "time"                : "2020-04-16 01:43:59",
+      "airport_position"    : 
+      {
+        "altitude"  : "447.0",
+        "latitude"  : "32.74700164794922",
+        "longitude" : "-96.53040313720705"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "300.0",
+        "latitude"  : "32.745803833007805",
+        "longitude" : "-96.53043823242187"
+      },
+      "horizontal_distance" : "132.8783357596887",
+      "vertical_distance"   : "-147.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-04-16 02:49:51",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "12800.0",
+        "latitude"  : "28.32920837402344",
+        "longitude" : "-97.42089491624095"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a247dd",
+    "callsign"  : "DCM7105",
+    "nnumber"   : "N246SD",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-04-16 03:36:39",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "22550.000000000004",
+        "latitude"  : "28.48663330078125",
+        "longitude" : "-97.83768873948317"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHQZ",
+      "time"                : "2020-04-16 04:37:31",
+      "airport_position"    : 
+      {
+        "altitude"  : "447.0",
+        "latitude"  : "32.74700164794922",
+        "longitude" : "-96.53040313720705"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "224.99999999999997",
+        "latitude"  : "32.74703979492188",
+        "longitude" : "-96.53043823242187"
+      },
+      "horizontal_distance" : "5.358658002002222",
+      "vertical_distance"   : "-222.00000000000003"
+    }
+  },
+  {
+    "icao"      : "a247dd",
+    "callsign"  : "DCM7105",
+    "nnumber"   : "N246SD",
+    "departure" :
+    {
+      "airport"             : "KHQZ",
+      "time"                : "2020-04-24 12:32:26",
+      "airport_position"    : 
+      {
+        "altitude"  : "447.0",
+        "latitude"  : "32.74700164794922",
+        "longitude" : "-96.53040313720705"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "625.0",
+        "latitude"  : "32.74754411083157",
+        "longitude" : "-96.53041917450571"
+      },
+      "horizontal_distance" : "60.17788942137368",
+      "vertical_distance"   : "178.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "TX05",
+      "time"                : "2020-04-24 13:09:53",
+      "airport_position"    : 
+      {
+        "altitude"  : "500.0",
+        "latitude"  : "30.26049995",
+        "longitude" : "-97.62529755"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1625.0",
+        "latitude"  : "30.25465393066406",
+        "longitude" : "-97.65887092141544"
+      },
+      "horizontal_distance" : "3295.325855830845",
+      "vertical_distance"   : "1125.0"
+    }
+  },
+  {
+    "icao"      : "a247dd",
+    "callsign"  : "DCM7105",
+    "nnumber"   : "N246SD",
+    "departure" :
+    {
+      "airport"             : "KAUS",
+      "time"                : "2020-04-24 20:56:02",
+      "airport_position"    : 
+      {
+        "altitude"  : "542.0",
+        "latitude"  : "30.194499969482425",
+        "longitude" : "-97.6698989868164"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1250.0",
+        "latitude"  : "30.173857090836858",
+        "longitude" : "-97.65659179687498"
+      },
+      "horizontal_distance" : "2622.8094304728907",
+      "vertical_distance"   : "708.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHQZ",
+      "time"                : "2020-04-24 21:39:46",
+      "airport_position"    : 
+      {
+        "altitude"  : "447.0",
+        "latitude"  : "32.74700164794922",
+        "longitude" : "-96.53040313720705"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "700.0",
+        "latitude"  : "32.746719360351555",
+        "longitude" : "-96.53043823242187"
+      },
+      "horizontal_distance" : "31.477992134910085",
+      "vertical_distance"   : "253.0"
+    }
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "icao"      : "a09a87",
+    "callsign"  : "DCM3012",
+    "nnumber"   : "N138SP",
+    "departure" :
+    {
+      "airport"             : "KTIW",
+      "time"                : "2020-04-20 17:33:15",
+      "airport_position"    : 
+      {
+        "altitude"  : "294.0",
+        "latitude"  : "47.26789856",
+        "longitude" : "-122.57800290000002"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "4375.0",
+        "latitude"  : "47.19140625",
+        "longitude" : "-122.59176635742192"
+      },
+      "horizontal_distance" : "8567.6936241544",
+      "vertical_distance"   : "4081.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSMF",
+      "time"                : "2020-04-20 18:43:12",
+      "airport_position"    : 
+      {
+        "altitude"  : "27.0",
+        "latitude"  : "38.69540023803711",
+        "longitude" : "-121.59100341796876"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "40949.99999999999",
+        "latitude"  : "43.43142700195312",
+        "longitude" : "-121.89362991687858"
+      },
+      "horizontal_distance" : "526574.1251738097",
+      "vertical_distance"   : "40922.99999999999"
+    }
+  }
+]

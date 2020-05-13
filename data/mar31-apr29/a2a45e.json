@@ -1,0 +1,45 @@
+[
+  {
+    "icao"      : "a2a45e",
+    "callsign"  : "DCM2915",
+    "nnumber"   : "N27CJ",
+    "departure" :
+    {
+      "airport"             : "KGSO",
+      "time"                : "2020-04-28 21:48:28",
+      "airport_position"    : 
+      {
+        "altitude"  : "925.0",
+        "latitude"  : "36.097801208496094",
+        "longitude" : "-79.93730163574219"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "3900.0",
+        "latitude"  : "36.083942995233045",
+        "longitude" : "-79.97859873670211"
+      },
+      "horizontal_distance" : "4024.5730636795274",
+      "vertical_distance"   : "2975.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "K02G",
+      "time"                : "2020-04-28 22:46:37",
+      "airport_position"    : 
+      {
+        "altitude"  : "1160.0",
+        "latitude"  : "40.673301696777",
+        "longitude" : "-80.641403198242"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "3100.0",
+        "latitude"  : "40.96806335449219",
+        "longitude" : "-80.6695556640625"
+      },
+      "horizontal_distance" : "32819.46073212121",
+      "vertical_distance"   : "1940.0"
+    }
+  }
+]

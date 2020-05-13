@@ -1,0 +1,45 @@
+[
+  {
+    "icao"      : "a4f4ad",
+    "callsign"  : "DCM4120",
+    "nnumber"   : "None",
+    "departure" :
+    {
+      "airport"             : "KTTN",
+      "time"                : "2020-04-20 15:48:59",
+      "airport_position"    : 
+      {
+        "altitude"  : "213.0",
+        "latitude"  : "40.27669906616211",
+        "longitude" : "-74.8134994506836"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "775.0",
+        "latitude"  : "40.28146517478813",
+        "longitude" : "-74.805346402255"
+      },
+      "horizontal_distance" : "872.2703268644914",
+      "vertical_distance"   : "562.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KMDT",
+      "time"                : "2020-04-20 16:13:07",
+      "airport_position"    : 
+      {
+        "altitude"  : "310.0",
+        "latitude"  : "40.1935005188",
+        "longitude" : "-76.7633972168"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "849.9999999999999",
+        "latitude"  : "40.18072613215042",
+        "longitude" : "-76.73057556152344"
+      },
+      "horizontal_distance" : "3134.4194786804633",
+      "vertical_distance"   : "539.9999999999999"
+    }
+  }
+]

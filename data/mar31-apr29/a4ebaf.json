@@ -1,0 +1,73 @@
+[
+  {
+    "icao"      : "a4ebaf",
+    "callsign"  : "DCM6879",
+    "nnumber"   : "N416P",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-04-16 16:03:29",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "14750.0",
+        "latitude"  : "32.976608276367195",
+        "longitude" : "-91.14988403320315"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-04-16 16:21:54",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "14025.000000000004",
+        "latitude"  : "33.24188232421875",
+        "longitude" : "-89.74540866151148"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "a4ebaf",
+    "callsign"  : "DCM6879",
+    "nnumber"   : "N416P",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-04-27 18:37:09",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "9850.0",
+        "latitude"  : "30.251878641419488",
+        "longitude" : "-95.08408813476565"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KAXH",
+      "time"                : "2020-04-27 18:51:24",
+      "airport_position"    : 
+      {
+        "altitude"  : "68.0",
+        "latitude"  : "29.50609970092773",
+        "longitude" : "-95.47689819335938"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "650.0",
+        "latitude"  : "29.51044114969544",
+        "longitude" : "-95.5111514820772"
+      },
+      "horizontal_distance" : "3355.8271840882717",
+      "vertical_distance"   : "582.0"
+    }
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "icao"      : "a72791",
+    "callsign"  : "DCM6004",
+    "nnumber"   : "N560GS",
+    "departure" :
+    {
+      "airport"             : "KDAY",
+      "time"                : "2020-04-10 14:06:54",
+      "airport_position"    : 
+      {
+        "altitude"  : "1009.0",
+        "latitude"  : "39.90240097045898",
+        "longitude" : "-84.21939849853516"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1300.0",
+        "latitude"  : "39.89263916015625",
+        "longitude" : "-84.21934044879413"
+      },
+      "horizontal_distance" : "1083.8911712506435",
+      "vertical_distance"   : "291.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KCPS",
+      "time"                : "2020-04-10 15:02:17",
+      "airport_position"    : 
+      {
+        "altitude"  : "413.0",
+        "latitude"  : "38.570701599100005",
+        "longitude" : "-90.1561965942"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "31399.999999999996",
+        "latitude"  : "38.547254659361755",
+        "longitude" : "-90.1114501953125"
+      },
+      "horizontal_distance" : "4688.896213731985",
+      "vertical_distance"   : "30986.999999999996"
+    }
+  }
+]

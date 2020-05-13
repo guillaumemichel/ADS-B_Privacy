@@ -21,8 +21,8 @@ def save(data, filename):
     data.to_parquet(filename,allow_truncated_timestamps=True)
 
 prefix = '../data/recordings/'
-start = "2019-05-05"
-end = "2019-06-03"
+start = "2020-03-31"
+end = "2020-04-29"
 
 if __name__ == "__main__":
     filename = prefix + start + "_" + end + "_"+callsign+"_recordings.parquet"

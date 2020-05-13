@@ -1,0 +1,78 @@
+[
+  {
+    "icao"      : "a138e0",
+    "callsign"  : "DCM3767",
+    "nnumber"   : "N178WG",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-04-01 14:13:10",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "22725.0",
+        "latitude"  : "33.118331909179695",
+        "longitude" : "-93.28677978515623"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KDTS",
+      "time"                : "2020-04-01 15:09:41",
+      "airport_position"    : 
+      {
+        "altitude"  : "23.0",
+        "latitude"  : "30.40010071",
+        "longitude" : "-86.47149658"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-75.0",
+        "latitude"  : "30.403580746408227",
+        "longitude" : "-86.47642364501951"
+      },
+      "horizontal_distance" : "610.7441047740365",
+      "vertical_distance"   : "-98.0"
+    }
+  },
+  {
+    "icao"      : "a138e0",
+    "callsign"  : "DCM3767",
+    "nnumber"   : "N178WG",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-04-15 15:42:48",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "15700.000000000004",
+        "latitude"  : "33.477951049804695",
+        "longitude" : "-94.30285034179684"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSDL",
+      "time"                : "2020-04-15 18:37:42",
+      "airport_position"    : 
+      {
+        "altitude"  : "1510.0",
+        "latitude"  : "33.622898101806996",
+        "longitude" : "-111.91100311279"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1375.0",
+        "latitude"  : "33.62561242055084",
+        "longitude" : "-111.9074249267578"
+      },
+      "horizontal_distance" : "448.1891317987864",
+      "vertical_distance"   : "-135.0"
+    }
+  }
+]

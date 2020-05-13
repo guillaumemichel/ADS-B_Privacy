@@ -1,0 +1,40 @@
+[
+  {
+    "icao"      : "a48070",
+    "callsign"  : "DCM6065",
+    "nnumber"   : "N39A",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-04-28 16:13:03",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "6500.0",
+        "latitude"  : "33.750698283567274",
+        "longitude" : "-116.2877655029297"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHIO",
+      "time"                : "2020-04-28 19:20:11",
+      "airport_position"    : 
+      {
+        "altitude"  : "208.0",
+        "latitude"  : "45.540401",
+        "longitude" : "-122.949997"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "24000.000000000004",
+        "latitude"  : "41.4577005677304",
+        "longitude" : "-121.4077403933503"
+      },
+      "horizontal_distance" : "470409.5823436475",
+      "vertical_distance"   : "23792.000000000004"
+    }
+  }
+]

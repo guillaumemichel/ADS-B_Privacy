@@ -1,0 +1,40 @@
+[
+  {
+    "icao"      : "a8e086",
+    "callsign"  : "DCM6031",
+    "nnumber"   : "N671MD",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-04-22 16:01:18",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "13075.0",
+        "latitude"  : "30.35165405273438",
+        "longitude" : "-81.50072883157168"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KHEG",
+      "time"                : "2020-04-22 16:26:30",
+      "airport_position"    : 
+      {
+        "altitude"  : "87.0",
+        "latitude"  : "30.27779960632324",
+        "longitude" : "-81.80590057373047"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2850.0000000000005",
+        "latitude"  : "30.3416748046875",
+        "longitude" : "-81.78847369025733"
+      },
+      "horizontal_distance" : "7276.7460739489",
+      "vertical_distance"   : "2763.0000000000005"
+    }
+  }
+]

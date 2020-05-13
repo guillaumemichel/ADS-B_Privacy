@@ -1,0 +1,131 @@
+[
+  {
+    "icao"      : "a0face",
+    "callsign"  : "DCM6996",
+    "nnumber"   : "N162TJ",
+    "departure" :
+    {
+      "airport"             : "KORF",
+      "time"                : "2020-04-14 18:03:17",
+      "airport_position"    : 
+      {
+        "altitude"  : "26.0",
+        "latitude"  : "36.89459991455078",
+        "longitude" : "-76.20120239257812"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "600.0",
+        "latitude"  : "36.90032958984375",
+        "longitude" : "-76.19484279466712"
+      },
+      "horizontal_distance" : "851.8311489361025",
+      "vertical_distance"   : "574.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KORF",
+      "time"                : "2020-04-14 18:16:53",
+      "airport_position"    : 
+      {
+        "altitude"  : "26.0",
+        "latitude"  : "36.89459991455078",
+        "longitude" : "-76.20120239257812"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "-100.0",
+        "latitude"  : "36.88636779785156",
+        "longitude" : "-76.20783379737368"
+      },
+      "horizontal_distance" : "1088.1266419474089",
+      "vertical_distance"   : "-126.0"
+    }
+  },
+  {
+    "icao"      : "a0face",
+    "callsign"  : "DCM6996",
+    "nnumber"   : "N162TJ",
+    "departure" :
+    {
+      "airport"             : "KORF",
+      "time"                : "2020-04-22 10:13:12",
+      "airport_position"    : 
+      {
+        "altitude"  : "26.0",
+        "latitude"  : "36.89459991455078",
+        "longitude" : "-76.20120239257812"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "700.0",
+        "latitude"  : "36.905683097192785",
+        "longitude" : "-76.18821517280912"
+      },
+      "horizontal_distance" : "1688.9864873615134",
+      "vertical_distance"   : "674.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KSRQ",
+      "time"                : "2020-04-22 12:52:23",
+      "airport_position"    : 
+      {
+        "altitude"  : "30.0",
+        "latitude"  : "27.39539909362793",
+        "longitude" : "-82.55439758300781"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "6899.999999999999",
+        "latitude"  : "34.898757934570305",
+        "longitude" : "-77.4539495974171"
+      },
+      "horizontal_distance" : "963269.208884149",
+      "vertical_distance"   : "6869.999999999999"
+    }
+  },
+  {
+    "icao"      : "a0face",
+    "callsign"  : "DCM6996",
+    "nnumber"   : "N162TJ",
+    "departure" :
+    {
+      "airport"             : "KSRQ",
+      "time"                : "2020-04-22 17:23:00",
+      "airport_position"    : 
+      {
+        "altitude"  : "30.0",
+        "latitude"  : "27.39539909362793",
+        "longitude" : "-82.55439758300781"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "2900.0000000000005",
+        "latitude"  : "27.343481031514827",
+        "longitude" : "-82.50272897573616"
+      },
+      "horizontal_distance" : "7695.744641815487",
+      "vertical_distance"   : "2870.0000000000005"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KORF",
+      "time"                : "2020-04-22 20:19:04",
+      "airport_position"    : 
+      {
+        "altitude"  : "26.0",
+        "latitude"  : "36.89459991455078",
+        "longitude" : "-76.20120239257812"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "40999.99999999999",
+        "latitude"  : "29.22743225097656",
+        "longitude" : "-82.71046565129207"
+      },
+      "horizontal_distance" : "1044620.9273112677",
+      "vertical_distance"   : "40973.99999999999"
+    }
+  }
+]

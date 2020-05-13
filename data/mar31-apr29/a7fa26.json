@@ -1,0 +1,169 @@
+[
+  {
+    "icao"      : "a7fa26",
+    "callsign"  : "DCM613",
+    "nnumber"   : "N613CS",
+    "departure" :
+    {
+      "airport"             : "KAPF",
+      "time"                : "2020-04-06 18:53:47",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.1525993347",
+        "longitude" : "-81.7752990723"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "4800.0",
+        "latitude"  : "26.13410044524629",
+        "longitude" : "-81.8880227895883"
+      },
+      "horizontal_distance" : "11456.71631476097",
+      "vertical_distance"   : "4792.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "MI56",
+      "time"                : "2020-04-06 21:19:25",
+      "airport_position"    : 
+      {
+        "altitude"  : "987.0",
+        "latitude"  : "42.076",
+        "longitude" : "-85.2683333"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "4750.0",
+        "latitude"  : "42.101657673463976",
+        "longitude" : "-85.2154541015625"
+      },
+      "horizontal_distance" : "5221.356031383739",
+      "vertical_distance"   : "3763.0"
+    }
+  },
+  {
+    "icao"      : "a7fa26",
+    "callsign"  : "DCM613",
+    "nnumber"   : "N613CS",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-04-10 22:19:24",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "10075.0",
+        "latitude"  : "42.2463420286017",
+        "longitude" : "-85.17291401707851"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KYIP",
+      "time"                : "2020-04-10 22:35:04",
+      "airport_position"    : 
+      {
+        "altitude"  : "716.0",
+        "latitude"  : "42.23789978",
+        "longitude" : "-83.53040314"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1525.0000000000005",
+        "latitude"  : "42.22929382324219",
+        "longitude" : "-83.48248568448156"
+      },
+      "horizontal_distance" : "4069.3177786267825",
+      "vertical_distance"   : "809.0000000000005"
+    }
+  },
+  {
+    "icao"      : "a7fa26",
+    "callsign"  : "DCM613",
+    "nnumber"   : "N613CS",
+    "departure" :
+    {
+      "airport"             : "KYIP",
+      "time"                : "2020-04-14 15:08:43",
+      "airport_position"    : 
+      {
+        "altitude"  : "716.0",
+        "latitude"  : "42.23789978",
+        "longitude" : "-83.53040314"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1925.0",
+        "latitude"  : "42.24343872070312",
+        "longitude" : "-83.58373468572444"
+      },
+      "horizontal_distance" : "4444.659813136103",
+      "vertical_distance"   : "1209.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "1FD4",
+      "time"                : "2020-04-14 17:28:08",
+      "airport_position"    : 
+      {
+        "altitude"  : "29.0",
+        "latitude"  : "26.44540023803711",
+        "longitude" : "-81.6072998046875"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1824.9999999999998",
+        "latitude"  : "26.2808796510858",
+        "longitude" : "-81.63686899038458"
+      },
+      "horizontal_distance" : "18465.19477437692",
+      "vertical_distance"   : "1795.9999999999998"
+    }
+  },
+  {
+    "icao"      : "a7fa26",
+    "callsign"  : "DCM613",
+    "nnumber"   : "N613CS",
+    "departure" :
+    {
+      "airport"             : "KAPF",
+      "time"                : "2020-04-14 18:50:31",
+      "airport_position"    : 
+      {
+        "altitude"  : "8.0",
+        "latitude"  : "26.1525993347",
+        "longitude" : "-81.7752990723"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "6424.999999999999",
+        "latitude"  : "26.20513916015625",
+        "longitude" : "-81.89043153007076"
+      },
+      "horizontal_distance" : "12897.551373418662",
+      "vertical_distance"   : "6416.999999999999"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KYIP",
+      "time"                : "2020-04-14 21:13:37",
+      "airport_position"    : 
+      {
+        "altitude"  : "716.0",
+        "latitude"  : "42.23789978",
+        "longitude" : "-83.53040314"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1575.0",
+        "latitude"  : "42.24774169921875",
+        "longitude" : "-83.46756675026633"
+      },
+      "horizontal_distance" : "5300.173347395068",
+      "vertical_distance"   : "859.0"
+    }
+  }
+]

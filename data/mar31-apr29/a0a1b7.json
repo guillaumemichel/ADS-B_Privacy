@@ -1,0 +1,45 @@
+[
+  {
+    "icao"      : "a0a1b7",
+    "callsign"  : "DCM4041",
+    "nnumber"   : "N14QB",
+    "departure" :
+    {
+      "airport"             : "KTYS",
+      "time"                : "2020-04-18 15:08:39",
+      "airport_position"    : 
+      {
+        "altitude"  : "981.0",
+        "latitude"  : "35.81100082",
+        "longitude" : "-83.99400329999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "1000.0",
+        "latitude"  : "35.80943298339844",
+        "longitude" : "-83.9923095703125"
+      },
+      "horizontal_distance" : "231.72175679637505",
+      "vertical_distance"   : "19.0"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KTYS",
+      "time"                : "2020-04-18 15:52:55",
+      "airport_position"    : 
+      {
+        "altitude"  : "981.0",
+        "latitude"  : "35.81100082",
+        "longitude" : "-83.99400329999999"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "106199.99999999999",
+        "latitude"  : "35.79830932617188",
+        "longitude" : "-84.00609970092773"
+      },
+      "horizontal_distance" : "1782.8037426433193",
+      "vertical_distance"   : "105218.99999999999"
+    }
+  }
+]

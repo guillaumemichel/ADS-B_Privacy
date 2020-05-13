@@ -1,0 +1,73 @@
+[
+  {
+    "icao"      : "abb064",
+    "callsign"  : "DCM3021",
+    "nnumber"   : "N852SP",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-04-23 11:43:50",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "25724.999999999996",
+        "latitude"  : "36.039206294690146",
+        "longitude" : "-84.80463555518618"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "None",
+      "time"                : "2020-04-23 13:29:23",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "11699.999999999998",
+        "latitude"  : "25.19535827636719",
+        "longitude" : "-81.29984537760417"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    }
+  },
+  {
+    "icao"      : "abb064",
+    "callsign"  : "DCM3021",
+    "nnumber"   : "N852SP",
+    "departure" :
+    {
+      "airport"             : "None",
+      "time"                : "2020-04-23 14:24:09",
+      "airport_position"    : "None",
+      "aircraft_position"   : 
+      {
+        "altitude"  : "16750.000000000004",
+        "latitude"  : "25.21343994140625",
+        "longitude" : "-80.98103841145831"
+      },
+      "horizontal_distance" : "None",
+      "vertical_distance"   : "None"
+    },
+    "arrival"   :
+    {
+      "airport"             : "KBWI",
+      "time"                : "2020-04-23 16:43:56",
+      "airport_position"    : 
+      {
+        "altitude"  : "146.0",
+        "latitude"  : "39.1754",
+        "longitude" : "-76.668297"
+      },
+      "aircraft_position"   : 
+      {
+        "altitude"  : "40999.99999999999",
+        "latitude"  : "30.7591552734375",
+        "longitude" : "-81.26780790441177"
+      },
+      "horizontal_distance" : "1023439.1798228412",
+      "vertical_distance"   : "40853.99999999999"
+    }
+  }
+]

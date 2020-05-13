@@ -7,7 +7,7 @@ from openpyxl.workbook import Workbook
 Various scripts to make statistics about the recoreded flights
 """
 
-allFlights = flightsFromFile('../data/flight_lists/2019-11_2020-03.json')
+allFlights = flightsFromFile('../data/flight_lists/2019-06_2020-04.json')
 
 """
 date0 = datetime.strptime('2019-12-30', '%Y-%m-%d')
@@ -175,7 +175,7 @@ for e in d:
 print(len(d))
 """
 
-
+"""
 # For each flight using N-Number, check if it correspond with its ICAO's conversion
 d = dict()
 for f in allFlights.elements:
@@ -209,7 +209,7 @@ for e in sorted(d):
 
 wb.save('../data/sheets/tmp.xlsx')
 
-
+"""
 
 """
 # Write data (map(key0, map(key1, value))) to temporary workbook (to facilitate export)
